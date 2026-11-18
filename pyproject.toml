@@ -1,0 +1,23 @@
+[project]
+name = "soso-tools"
+version = "0.1.0"
+description = "Private original-image storage tools for SOSO"
+requires-python = ">=3.12"
+dependencies = [
+    "boto3>=1.44,<2",
+    "google-cloud-storage>=3,<4",
+    "google-crc32c>=1.7,<2",
+    "azure-identity>=1,<2",
+    "azure-storage-blob>=12,<13",
+    "azure-mgmt-storage>=25,<26",
+    "azure-mgmt-resource-subscriptions>=1,<2",
+    "prompt-toolkit>=3,<4",
+]
+
+[tool.uv]
+package = false
+
+[dependency-groups]
+test = [
+    "pyyaml>=6,<7",
+]

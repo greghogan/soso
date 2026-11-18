@@ -1,0 +1,19 @@
+{
+  "venus": {
+    "source_width_px": 1102,
+    "source_height_px": 1427,
+    "bottom_px": 270
+  },
+  "titan_surface": {
+    "source_width_px": 1102,
+    "source_height_px": 1427,
+    "bottom_px": 140
+  },
+  "bennu": {
+    "source_width_px": 1102,
+    "source_height_px": 1427,
+    "right_px": 550,
+    "top_px": 175,
+    "bottom_px": 175
+  }
+}

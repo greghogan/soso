@@ -1,0 +1,137 @@
+name: Build and publish SOSO
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    permissions:
+      contents: read
+      id-token: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - name: Prepare locked Python environment
+        # setup-uv v7, pinned to the official release commit.
+        uses: astral-sh/setup-uv@94527f2e458b27549849d47d273a16bec83a01e9
+        with:
+          version: "0.13.9"
+          python-version: "3.12"
+          enable-cache: false
+      # Reuse existing public caches where available; never cache private restores.
+      - name: Restore cached public originals
+        uses: actions/cache/restore@v5
+        with:
+          path: assets/cache/sha256
+          key: public-originals-v1-${{ hashFiles('manifests/external-assets.json') }}
+          restore-keys: |
+            public-originals-v1-
+      - name: Require configured asset storage
+        env:
+          BACKUP: ${{ vars.SOSO_ASSET_BACKUP }}
+          REGION: ${{ vars.SOSO_AWS_REGION }}
+          ROLE: ${{ vars.SOSO_AWS_ROLE_ARN }}
+        run: |
+          test -n "$BACKUP" && test -n "$REGION" && test -n "$ROLE" || {
+            echo 'Release asset storage is not configured. Run ./scripts/asset_setup.py.' >&2
+            exit 1
+          }
+      - name: Obtain short-lived read-only credentials
+        id: aws
+        uses: aws-actions/configure-aws-credentials@e1253824e5c10ff9df46874f81ed3ec929e19cfd
+        with:
+          aws-region: ${{ vars.SOSO_AWS_REGION }}
+          role-to-assume: ${{ vars.SOSO_AWS_ROLE_ARN }}
+          role-session-name: soso-pages-asset-read
+          role-duration-seconds: 900
+          output-env-credentials: false
+          output-credentials: true
+          unset-current-credentials: true
+      - name: Read missing originals from configured S3 storage
+        env:
+          AWS_ACCESS_KEY_ID: ${{ steps.aws.outputs.aws-access-key-id }}
+          AWS_SECRET_ACCESS_KEY: ${{ steps.aws.outputs.aws-secret-access-key }}
+          AWS_SESSION_TOKEN: ${{ steps.aws.outputs.aws-session-token }}
+          AWS_DEFAULT_REGION: ${{ vars.SOSO_AWS_REGION }}
+          SOSO_ASSET_BACKUP: ${{ vars.SOSO_ASSET_BACKUP }}
+        run: uv run --locked scripts/asset_fetch.py --ci-backup
+      - name: Build PDFs and interactive guides
+        run: ./build.sh
+      - name: Test image and PDF export
+        run: |
+          docker run --rm --network none --read-only \
+            --user "$(id -u):$(id -g)" --cap-drop ALL --security-opt no-new-privileges \
+            --tmpfs /tmp:rw,nosuid,nodev,size=512m \
+            --mount "type=bind,src=$PWD,dst=/source,readonly" \
+            --entrypoint python soso-builder:development \
+            /source/build-container/check_asset_export.py
+      - name: Test sources, models and generated catalog
+        run: ./test.sh build/candidates
+      - name: Retain build diagnostics
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: build-diagnostics
+          path: |
+            build/candidates/build-logs/
+            build/candidates/build-report.json
+            build/.next/candidates/build-logs/
+            build/.next/candidates/build-report.json
+          include-hidden-files: true
+          if-no-files-found: ignore
+          retention-days: 14
+      - name: Upload public site only
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: build/site
+
+  pull-request:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      # Use the same locked Python environment as the release build.
+      - uses: astral-sh/setup-uv@94527f2e458b27549849d47d273a16bec83a01e9
+        with:
+          version: "0.13.9"
+          python-version: "3.12"
+          enable-cache: false
+      - name: Test sources and interactive models without private assets
+        run: ./test.sh
+
+  deploy:
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Configure Pages
+        uses: actions/configure-pages@v6
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v5

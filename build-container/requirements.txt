@@ -1,0 +1,8 @@
+# Canonical Python dependencies for local tools and the document-build container.
+reportlab==4.4.9
+Pillow==13.0.0
+PyMuPDF==1.26.6
+pypdf==6.21.4
+
+# Transitive dependency recorded by the validated Docker build.
+charset-normalizer==3.5.2

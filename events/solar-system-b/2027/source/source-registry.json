@@ -1,0 +1,737 @@
+[
+  {
+    "id": "S001",
+    "url": "https://www.soinc.org/solar-system-b",
+    "title": "Science Olympiad — Solar System B event resources"
+  },
+  {
+    "id": "S002",
+    "url": "https://assets.science.nasa.gov/content/dam/science/psd/astrobiology/for-researchers/strategy/nasa_astrobiology_strategy_2015_final_041216.pdf",
+    "title": "NASA — Astrobiology Strategy (2015)"
+  },
+  {
+    "id": "S003",
+    "url": "https://astrobiology.nasa.gov/education/alp/what-is-a-biosignature/",
+    "title": "NASA Astrobiology — What is a biosignature?"
+  },
+  {
+    "id": "S004",
+    "url": "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=909228",
+    "title": "Wagner and colleagues — Sublimation and melting pressures of water ice (NIST-hosted paper)"
+  },
+  {
+    "id": "S005",
+    "url": "https://astrobiology.nasa.gov/nai/annual-reports/2008/uh/amorphization-of-crystalline-water-ice-in-the-solar-system/index.html",
+    "title": "NASA Astrobiology — Amorphization of crystalline water ice"
+  },
+  {
+    "id": "S006",
+    "url": "https://astrobiology.nasa.gov/news/water-activity-in-salty-water/",
+    "title": "NASA Astrobiology — Water activity in salty water"
+  },
+  {
+    "id": "S007",
+    "url": "https://www.netl.doe.gov/sites/default/files/netl-file/2017-Methane-Hydrate-Primer%5B1%5D.pdf",
+    "title": "NETL — Methane Hydrate Primer (2017)"
+  },
+  {
+    "id": "S008",
+    "url": "https://www.nasa.gov/wp-content/uploads/2019/09/chapter5_from_new_frontiers_in_astrobiology.pdf",
+    "title": "NASA — New Frontiers in Astrobiology, chapter 5"
+  },
+  {
+    "id": "S009",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0960982208008051",
+    "title": "Current Biology — Tardigrade survival in space"
+  },
+  {
+    "id": "S010",
+    "url": "https://science.nasa.gov/exoplanets/habitable-zone/",
+    "title": "NASA — The habitable zone"
+  },
+  {
+    "id": "S011",
+    "url": "https://science.nasa.gov/earth/earth-observatory/climate-and-earths-energy-budget/",
+    "title": "NASA Earth Observatory — Earth’s energy budget"
+  },
+  {
+    "id": "S012",
+    "url": "https://science.nasa.gov/venus/facts/",
+    "title": "NASA — Venus facts"
+  },
+  {
+    "id": "S013",
+    "url": "https://science.nasa.gov/mission/maven/",
+    "title": "NASA — MAVEN mission"
+  },
+  {
+    "id": "S014",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2017/11/Enceladus_interior",
+    "title": "ESA — Enceladus interior illustration"
+  },
+  {
+    "id": "S015",
+    "url": "https://science.nasa.gov/learn/basics-of-space-flight/chapter3-3/",
+    "title": "NASA Basics of Space Flight — Gravity and mechanics"
+  },
+  {
+    "id": "S016",
+    "url": "https://www.jpl.nasa.gov/news/nasas-perseverance-rover-deciphers-ancient-history-of-martian-lake/",
+    "title": "NASA/JPL — Perseverance reconstructs an ancient Martian lake"
+  },
+  {
+    "id": "S017",
+    "url": "https://science.nasa.gov/eclips/resources/glossary/",
+    "title": "NASA eClips — Science glossary"
+  },
+  {
+    "id": "S018",
+    "url": "https://science.nasa.gov/mission/webb/science-overview/science-explainers/spectroscopy-101-types-of-spectra-and-spectroscopy/",
+    "title": "NASA Webb — Spectroscopy 101: types of spectra"
+  },
+  {
+    "id": "S019",
+    "url": "https://science.nasa.gov/venus/venus-facts/",
+    "title": "NASA — Venus facts"
+  },
+  {
+    "id": "S020",
+    "url": "https://www.nature.com/articles/s41550-021-01391-3",
+    "title": "Nature Astronomy — Water activity in Venus’s clouds"
+  },
+  {
+    "id": "S021",
+    "url": "https://arxiv.org/abs/2110.08801",
+    "title": "Turbet and colleagues — Day–night clouds and early oceans on Venus"
+  },
+  {
+    "id": "S022",
+    "url": "https://arxiv.org/abs/2010.14305",
+    "title": "Research paper — Reanalysis of the Venus phosphine signal (arXiv:2010.14305)"
+  },
+  {
+    "id": "S023",
+    "url": "https://science.nasa.gov/mars/facts/",
+    "title": "NASA — Mars facts"
+  },
+  {
+    "id": "S024",
+    "url": "https://science.nasa.gov/missions/mars-science-laboratory/nasas-curiosity-rover-detects-largest-organic-molecules-found-on-mars/",
+    "title": "NASA — Curiosity detects large organic molecules on Mars"
+  },
+  {
+    "id": "S025",
+    "url": "https://www.nasa.gov/news-release/nasa-says-mars-rover-discovered-potential-biosignature-last-year/",
+    "title": "NASA — Perseverance’s potential biosignature finding"
+  },
+  {
+    "id": "S026",
+    "url": "https://www.nasa.gov/news-release/nasa-mission-reveals-speed-of-solar-wind-stripping-martian-atmosphere/",
+    "title": "NASA — Solar-wind stripping of Mars’s atmosphere"
+  },
+  {
+    "id": "S027",
+    "url": "https://science.nasa.gov/jupiter/jupiter-moons/ganymede/facts/",
+    "title": "NASA — Ganymede facts"
+  },
+  {
+    "id": "S028",
+    "url": "https://www.jpl.nasa.gov/news/ganymede-may-harbor-club-sandwich-of-oceans-and-ice/",
+    "title": "NASA/JPL — Ganymede’s possible layers of oceans and ice"
+  },
+  {
+    "id": "S029",
+    "url": "https://www.nature.com/articles/s41550-023-02107-5",
+    "title": "Nature Astronomy — Salts and organic compounds on Ganymede"
+  },
+  {
+    "id": "S030",
+    "url": "https://science.nasa.gov/mission/europa-clipper/why-europa-ingredients-for-life/",
+    "title": "NASA Europa Clipper — Europa’s ingredients for life"
+  },
+  {
+    "id": "S031",
+    "url": "https://www.nasa.gov/missions/juno/nasas-juno-measures-thickness-of-europas-ice-shell/",
+    "title": "NASA — Juno measures Europa’s ice shell"
+  },
+  {
+    "id": "S032",
+    "url": "https://www.nature.com/articles/s41550-025-02718-0.pdf",
+    "title": "Nature Astronomy — Europa ice-shell constraints from Juno microwave data"
+  },
+  {
+    "id": "S033",
+    "url": "https://science.nasa.gov/missions/webb/nasas-webb-finds-carbon-source-on-surface-of-jupiters-moon-europa/",
+    "title": "NASA — Webb identifies a carbon source on Europa"
+  },
+  {
+    "id": "S034",
+    "url": "https://science.nasa.gov/mission/europa-clipper/mission-faq/",
+    "title": "NASA Europa Clipper — Frequently asked questions"
+  },
+  {
+    "id": "S035",
+    "url": "https://science.nasa.gov/saturn/moons/enceladus/",
+    "title": "NASA — Enceladus overview"
+  },
+  {
+    "id": "S036",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28408597/",
+    "title": "Research paper — Cassini detects molecular hydrogen in Enceladus’s plume"
+  },
+  {
+    "id": "S037",
+    "url": "https://science.nasa.gov/resource/ingredients-for-life-at-enceladus/",
+    "title": "NASA — Ingredients for life at Enceladus"
+  },
+  {
+    "id": "S038",
+    "url": "https://www.nature.com/articles/s41586-023-05987-9",
+    "title": "Nature — Phosphates in Enceladus-derived ice grains"
+  },
+  {
+    "id": "S039",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Cassini-Huygens/Cassini_proves_complex_chemistry_in_Enceladus_ocean",
+    "title": "ESA — Complex chemistry in Enceladus’s ocean"
+  },
+  {
+    "id": "S040",
+    "url": "https://science.nasa.gov/saturn/moons/titan/facts/",
+    "title": "NASA — Titan facts"
+  },
+  {
+    "id": "S041",
+    "url": "https://science.nasa.gov/science-research/planetary-science/astrobiology/path-toward-protocells-on-titan/",
+    "title": "NASA — Possible pathways toward protocells on Titan"
+  },
+  {
+    "id": "S042",
+    "url": "https://science.nasa.gov/solar-system/nasas-dragonfly-mission-sets-sights-on-titans-mysteries/",
+    "title": "NASA — Dragonfly and Titan’s mysteries"
+  },
+  {
+    "id": "S043",
+    "url": "https://www.nature.com/articles/s41586-025-09818-x",
+    "title": "Nature — Titan’s tidal dissipation and a slushy-interior model"
+  },
+  {
+    "id": "S044",
+    "url": "https://www.jpl.nasa.gov/news/nasa-study-suggests-saturns-moon-titan-may-not-have-global-ocean/",
+    "title": "NASA/JPL — Study challenges Titan’s global-ocean interpretation"
+  },
+  {
+    "id": "S045",
+    "url": "https://science.nasa.gov/dwarf-planets/makemake/",
+    "title": "NASA — Makemake overview"
+  },
+  {
+    "id": "S046",
+    "url": "https://arxiv.org/abs/2509.06772",
+    "title": "Research paper — JWST detection of hydrocarbon ices and methane gas on Makemake"
+  },
+  {
+    "id": "S047",
+    "url": "https://arxiv.org/abs/2309.05549",
+    "title": "Research paper — Methane isotope constraints on Eris and Makemake"
+  },
+  {
+    "id": "S048",
+    "url": "https://arxiv.org/abs/2503.15652",
+    "title": "Research paper — Primordial methane on Eris and Makemake"
+  },
+  {
+    "id": "S049",
+    "url": "https://science.nasa.gov/solar-system/asteroids/101955-bennu/",
+    "title": "NASA — Asteroid Bennu overview"
+  },
+  {
+    "id": "S050",
+    "url": "https://science.nasa.gov/mission/osiris-rex/",
+    "title": "NASA — OSIRIS-REx mission"
+  },
+  {
+    "id": "S051",
+    "url": "https://www.nasa.gov/news-release/nasas-asteroid-bennu-sample-reveals-mix-of-lifes-ingredients/",
+    "title": "NASA — Bennu sample reveals life’s chemical ingredients"
+  },
+  {
+    "id": "S052",
+    "url": "https://www.nasa.gov/missions/osiris-rex/sugars-gum-stardust-found-in-nasas-asteroid-bennu-samples/",
+    "title": "NASA — Sugars, gum and stardust in Bennu samples"
+  },
+  {
+    "id": "S053",
+    "url": "https://science.gsfc.nasa.gov/600/public-nuggets/nugget032425.pdf",
+    "title": "NASA Goddard — Bennu’s ancient brines and minerals"
+  },
+  {
+    "id": "S054",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Comet_67P_Churyumov-Gerasimenko",
+    "title": "ESA — Comet 67P/Churyumov–Gerasimenko"
+  },
+  {
+    "id": "S055",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Rosetta_s_comet_contains_ingredients_for_life",
+    "title": "ESA — Rosetta’s comet contains ingredients for life"
+  },
+  {
+    "id": "S056",
+    "url": "https://www.esa.int/About_Us/ESAC/First_detection_of_molecular_oxygen_at_a_comet",
+    "title": "ESA — Molecular oxygen detected at a comet"
+  },
+  {
+    "id": "S057",
+    "url": "https://science.nasa.gov/solar-system/comets/nasa-led-team-links-comet-water-to-earths-oceans/",
+    "title": "NASA — Comet water and Earth’s oceans"
+  },
+  {
+    "id": "S058",
+    "url": "https://doi.org/10.1051/0004-6361/202661244",
+    "title": "Astronomy & Astrophysics — Water isotopes and hydronium in 67P’s coma"
+  },
+  {
+    "id": "S059",
+    "url": "https://science.nasa.gov/mission/webb/science-overview/science-explainers/what-is-webb-revealing-about-the-trappist-1-system/",
+    "title": "NASA Webb — What is Webb revealing about TRAPPIST-1?"
+  },
+  {
+    "id": "S060",
+    "url": "https://doi.org/10.3847/1538-4357/aae36a",
+    "title": "Research paper — TRAPPIST-1 system parameters"
+  },
+  {
+    "id": "S061",
+    "url": "https://www.nature.com/articles/s41550-026-02806-9",
+    "title": "Nature Astronomy — Thermal constraints on TRAPPIST-1 b and c"
+  },
+  {
+    "id": "S062",
+    "url": "https://arxiv.org/abs/2508.08416",
+    "title": "Research paper — JWST constraints on TRAPPIST-1 d"
+  },
+  {
+    "id": "S063",
+    "url": "https://arxiv.org/abs/2509.05407",
+    "title": "Research paper — JWST constraints on TRAPPIST-1 e"
+  },
+  {
+    "id": "S064",
+    "url": "https://arxiv.org/html/2608.17207v2",
+    "title": "Research paper — JWST atmospheric constraints on TRAPPIST-1 f"
+  },
+  {
+    "id": "S065",
+    "url": "https://arxiv.org/abs/2512.07695",
+    "title": "Allen and colleagues — JWST TRAPPIST-1 e/b program: first observations"
+  },
+  {
+    "id": "S066",
+    "url": "https://science.nasa.gov/exoplanet-catalog/kepler-452-b/",
+    "title": "NASA Exoplanet Catalog — Kepler-452 b"
+  },
+  {
+    "id": "S067",
+    "url": "https://arxiv.org/abs/1507.06723",
+    "title": "Research paper — Discovery and validation of Kepler-452 b"
+  },
+  {
+    "id": "S068",
+    "url": "https://www.nasa.gov/news-release/nasas-kepler-mission-discovers-bigger-older-cousin-to-earth/",
+    "title": "NASA — Kepler discovers an older, larger Earth cousin"
+  },
+  {
+    "id": "S069",
+    "url": "https://arxiv.org/html/2406.15136v1",
+    "title": "Research paper — LHS 1140 b transmission spectroscopy and water-world models"
+  },
+  {
+    "id": "S070",
+    "url": "https://science.nasa.gov/exoplanet-catalog/lhs-1140-b/",
+    "title": "NASA Exoplanet Catalog — LHS 1140 b"
+  },
+  {
+    "id": "S071",
+    "url": "https://arxiv.org/html/2608.13473v1",
+    "title": "Bennett and colleagues — LHS 1140 b helium analysis"
+  },
+  {
+    "id": "S072",
+    "url": "https://arxiv.org/html/2607.14326v1",
+    "title": "Research paper — Reported ground-based helium signal at LHS 1140 b"
+  },
+  {
+    "id": "S073",
+    "url": "https://arxiv.org/html/2608.13470v2",
+    "title": "Radica and colleagues — LHS 1140 b helium analysis"
+  },
+  {
+    "id": "S074",
+    "url": "https://science.nasa.gov/exoplanets/how-we-find-and-characterize/",
+    "title": "NASA — Finding and characterizing exoplanets"
+  },
+  {
+    "id": "S075",
+    "url": "https://heasarc.gsfc.nasa.gov/W3Browse/star-catalog/exoplanodb.html",
+    "title": "NASA HEASARC — Exoplanet Orbit Database"
+  },
+  {
+    "id": "S076",
+    "url": "https://exoplanetarchive.ipac.caltech.edu/docs/API_PS_columns.html",
+    "title": "NASA Exoplanet Archive — Planetary-system parameter definitions"
+  },
+  {
+    "id": "S077",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Exoplanets/How_to_find_an_exoplanet",
+    "title": "ESA — How to find an exoplanet"
+  },
+  {
+    "id": "S078",
+    "url": "https://science.nasa.gov/mission/roman-space-telescope/microlensing/",
+    "title": "NASA Roman — Gravitational microlensing"
+  },
+  {
+    "id": "S079",
+    "url": "https://science.nasa.gov/mission/roman-space-telescope/exoplanets/",
+    "title": "NASA Roman — Exoplanet science"
+  },
+  {
+    "id": "S080",
+    "url": "https://www.jpl.nasa.gov/missions/the-roman-coronagraph-instrument/",
+    "title": "NASA/JPL — Roman Coronagraph Instrument"
+  },
+  {
+    "id": "S081",
+    "url": "https://science.nasa.gov/learn/basics-of-space-flight/chapter12-1/",
+    "title": "NASA Basics of Space Flight — Science instruments"
+  },
+  {
+    "id": "S082",
+    "url": "https://science.nasa.gov/mission/davinci/davinci-science/",
+    "title": "NASA DAVINCI — Science objectives and measurements"
+  },
+  {
+    "id": "S083",
+    "url": "https://science.nasa.gov/mission/europa-clipper/spacecraft-instruments/",
+    "title": "NASA Europa Clipper — Spacecraft instruments"
+  },
+  {
+    "id": "S084",
+    "url": "https://www.esa.int/Enabling_Support/Operations/Venus_Express_operations",
+    "title": "ESA — Venus Express operations"
+  },
+  {
+    "id": "S085",
+    "url": "https://science.nasa.gov/mission/veritas/",
+    "title": "NASA — VERITAS mission"
+  },
+  {
+    "id": "S086",
+    "url": "https://science.nasa.gov/mission/veritas/science/",
+    "title": "NASA VERITAS — Science objectives"
+  },
+  {
+    "id": "S087",
+    "url": "https://science.nasa.gov/mission/mars-reconnaissance-orbiter/science-instruments/",
+    "title": "NASA MRO — Science instruments"
+  },
+  {
+    "id": "S088",
+    "url": "https://www.nasa.gov/solar-system/nasa-retires-mineral-mapping-instrument-on-mars-orbiter/",
+    "title": "NASA — Retirement of MRO’s CRISM instrument"
+  },
+  {
+    "id": "S089",
+    "url": "https://science.nasa.gov/mission/mars-2020-perseverance/science-instruments/",
+    "title": "NASA Perseverance — Science instruments"
+  },
+  {
+    "id": "S090",
+    "url": "https://www.nasa.gov/news-release/nasa-says-farewell-to-maven-mars-mission-hosts-media-call-today/",
+    "title": "NASA — MAVEN mission ends (2026)"
+  },
+  {
+    "id": "S091",
+    "url": "https://science.nasa.gov/mission/galileo/",
+    "title": "NASA — Galileo mission"
+  },
+  {
+    "id": "S092",
+    "url": "https://science.nasa.gov/mission/europa-clipper/mission-overview/",
+    "title": "NASA Europa Clipper — Mission overview"
+  },
+  {
+    "id": "S093",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice",
+    "title": "ESA — Juice mission"
+  },
+  {
+    "id": "S094",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2022/12/Juice_s_science_instruments",
+    "title": "ESA — Juice science instruments"
+  },
+  {
+    "id": "S095",
+    "url": "https://science.nasa.gov/mission/cassini/spacecraft/cassini-orbiter/",
+    "title": "NASA Cassini — Orbiter and instruments"
+  },
+  {
+    "id": "S096",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Cassini-Huygens/Huygens_instruments",
+    "title": "ESA — Huygens instruments"
+  },
+  {
+    "id": "S097",
+    "url": "https://science.nasa.gov/mission/cassini/faq/",
+    "title": "NASA Cassini — Frequently asked questions"
+  },
+  {
+    "id": "S098",
+    "url": "https://science.nasa.gov/mission/dragonfly/",
+    "title": "NASA — Dragonfly mission"
+  },
+  {
+    "id": "S099",
+    "url": "https://science.nasa.gov/mission/dragonfly/spacecraft-and-instruments/",
+    "title": "NASA Dragonfly — Spacecraft and instruments"
+  },
+  {
+    "id": "S100",
+    "url": "https://science.nasa.gov/mission/osiris-rex/in-depth/",
+    "title": "NASA OSIRIS-REx — Mission in depth"
+  },
+  {
+    "id": "S101",
+    "url": "https://science.nasa.gov/mission/osiris-rex/osiris-rex-faq/",
+    "title": "NASA OSIRIS-REx — Frequently asked questions"
+  },
+  {
+    "id": "S102",
+    "url": "https://science.nasa.gov/blogs/osiris-rex/2023/09/24/osiris-rex-spacecraft-departs-for-new-mission/",
+    "title": "NASA — OSIRIS-REx departs for its extended mission"
+  },
+  {
+    "id": "S103",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta_overview",
+    "title": "ESA — Rosetta mission overview"
+  },
+  {
+    "id": "S104",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2013/12/Rosetta_s_instruments_white_background",
+    "title": "ESA — Rosetta instrument diagram"
+  },
+  {
+    "id": "S105",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Rosetta_s_lander_faces_eternal_hibernation",
+    "title": "ESA — Philae’s final hibernation"
+  },
+  {
+    "id": "S106",
+    "url": "https://www.nasa.gov/news-release/nasa-retires-kepler-space-telescope-passes-planet-hunting-torch/",
+    "title": "NASA — Kepler space telescope retirement"
+  },
+  {
+    "id": "S107",
+    "url": "https://science.nasa.gov/mission/webb/",
+    "title": "NASA — James Webb Space Telescope"
+  },
+  {
+    "id": "S108",
+    "url": "https://science.nasa.gov/mission/webb/cryocooler/",
+    "title": "NASA Webb — MIRI cryocooler"
+  },
+  {
+    "id": "S109",
+    "url": "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/",
+    "title": "NASA — Roman launch (August 2026)"
+  },
+  {
+    "id": "S110",
+    "url": "https://science.nasa.gov/blogs/roman/2026/11/13/instruments-on-nasas-roman-space-telescope-get-in-sync-for-science/",
+    "title": "NASA — Roman instrument alignment and commissioning update (13 November 2026)"
+  },
+  {
+    "id": "S111",
+    "url": "https://imagine.gsfc.nasa.gov/features/yba/M31_velocity/spectrum/doppler_more.html",
+    "title": "NASA Imagine the Universe — Doppler shifts"
+  },
+  {
+    "id": "S112",
+    "url": "https://lhea.gsfc.nasa.gov/archive/mwmw/mmw_bbody.html",
+    "title": "NASA: Blackbody radiation"
+  },
+  {
+    "id": "S113",
+    "url": "https://science.nasa.gov/solar-system/orbits-and-keplers-laws/",
+    "title": "NASA — Orbits and Kepler’s laws"
+  },
+  {
+    "id": "S114",
+    "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/equation-of-state/",
+    "title": "NASA Glenn — Ideal-gas equation of state"
+  },
+  {
+    "id": "S115",
+    "url": "https://www.nist.gov/pml/owm/si-units-temperature",
+    "title": "NIST — SI units: temperature"
+  },
+  {
+    "id": "S116",
+    "url": "https://goldbook.iupac.org/terms/view/A00446",
+    "title": "IUPAC Gold Book — Arrhenius equation"
+  },
+  {
+    "id": "S117",
+    "url": "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=959631",
+    "title": "Linteris and Griffiths — Chemical Kinetics and Fire (NIST-hosted chapter)"
+  },
+  {
+    "id": "S118",
+    "url": "https://goldbook.iupac.org/terms/view/C01023",
+    "title": "IUPAC Gold Book — Chemical equilibrium"
+  },
+  {
+    "id": "S119",
+    "url": "https://science.nasa.gov/jupiter/jupiter-facts/",
+    "title": "NASA — Jupiter facts"
+  },
+  {
+    "id": "S120",
+    "url": "https://www.jpl.nasa.gov/press-kits/europa-clipper/quick-facts/",
+    "title": "NASA/JPL Europa Clipper — Quick facts"
+  },
+  {
+    "id": "S121",
+    "url": "https://www.jpl.nasa.gov/edu/pdfs/scaless_reference.pdf",
+    "title": "NASA/JPL Education — Solar System scale reference"
+  },
+  {
+    "id": "S122",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Cassini-Huygens/Facts_about_Titan",
+    "title": "ESA — Facts about Titan"
+  },
+  {
+    "id": "S123",
+    "url": "https://science.nasa.gov/solar-system/kuiper-belt/facts/",
+    "title": "NASA — Kuiper Belt facts"
+  },
+  {
+    "id": "S124",
+    "url": "https://science.nasa.gov/solar-system/asteroids/101955-bennu/facts/",
+    "title": "NASA — Bennu facts"
+  },
+  {
+    "id": "S125",
+    "url": "https://science.nasa.gov/solar-system/comets/67p-churyumov-gerasimenko/",
+    "title": "NASA — Comet 67P overview"
+  },
+  {
+    "id": "S126",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Getting_to_know_Rosetta_s_comet",
+    "title": "ESA — Getting to know Rosetta’s comet"
+  },
+  {
+    "id": "S127",
+    "url": "https://www.esa.int/content/view/full/146714",
+    "title": "ESA — Comet 67P discovery and orbit"
+  },
+  {
+    "id": "S128",
+    "url": "https://cneos.jpl.nasa.gov/glossary/",
+    "title": "NASA/JPL CNEOS — Near-Earth-object glossary"
+  },
+  {
+    "id": "S129",
+    "url": "https://science.nasa.gov/universe/glossary/",
+    "title": "NASA — Universe glossary"
+  },
+  {
+    "id": "S130",
+    "url": "https://ssd.jpl.nasa.gov/glossary/eccentricity.html",
+    "title": "NASA/JPL Solar System Dynamics — Orbital eccentricity"
+  },
+  {
+    "id": "S131",
+    "url": "https://ssd.jpl.nasa.gov/planets/def.html",
+    "title": "NASA/JPL — Planet and dwarf-planet definitions"
+  },
+  {
+    "id": "S132",
+    "url": "https://science.nasa.gov/exoplanets/how-do-exoplanets-get-their-names/",
+    "title": "NASA — How exoplanets get their names"
+  },
+  {
+    "id": "S133",
+    "url": "https://esahubble.org/about/faq/",
+    "title": "ESA/Hubble — Frequently asked questions"
+  },
+  {
+    "id": "S134",
+    "url": "https://spsweb.fltops.jpl.nasa.gov/portaldataops/mpg/MPG_Docs/MPG%20Book/Release/Appendix%20A-Glossary.pdf",
+    "title": "NASA/JPL — Mission-planning glossary"
+  },
+  {
+    "id": "S135",
+    "url": "https://science.gsfc.nasa.gov/attic/cosmicopia.gsfc.nasa.gov/compos.html",
+    "title": "NASA Cosmicopia — Chemical elements and isotopes"
+  },
+  {
+    "id": "S136",
+    "url": "https://science.nasa.gov/wp-content/uploads/2023/09/Charm-Candice-Hansen-April-2017-UPDATED.pdf?emrc=65f25a63a23cb",
+    "title": "NASA — Cassini science presentation by Candice Hansen (2017)"
+  },
+  {
+    "id": "S137",
+    "url": "https://ntrs.nasa.gov/api/citations/20120017360/downloads/20120017360.pdf",
+    "title": "Trainer — Atmospheric Prebiotic Chemistry and Organic Hazes"
+  },
+  {
+    "id": "S138",
+    "url": "https://science.nasa.gov/mission/hubble/multimedia/hubble-glossary/",
+    "title": "NASA Hubble — Astronomy glossary"
+  },
+  {
+    "id": "S139",
+    "url": "https://science.nasa.gov/mission/galileo/galileo-science/",
+    "title": "NASA Galileo — Science results"
+  },
+  {
+    "id": "S140",
+    "url": "https://science.nasa.gov/jupiter/jupiter-moons/ganymede/",
+    "title": "NASA — Ganymede overview"
+  },
+  {
+    "id": "S141",
+    "url": "https://ntrs.nasa.gov/api/citations/20210026013/downloads/Quick_%20Chapter5_Cryovolcanism_13Jun2021.docx.pdf",
+    "title": "Fagents and colleagues — Cryovolcanism, chapter 5 (NASA-hosted manuscript)"
+  },
+  {
+    "id": "S142",
+    "url": "https://arxiv.org/abs/2010.01074",
+    "title": "Agol and colleagues — TRAPPIST-1 masses from transit timing"
+  },
+  {
+    "id": "S143",
+    "url": "https://exoplanetarchive.ipac.caltech.edu/docs/kepler452b.html",
+    "title": "NASA Exoplanet Archive — Kepler-452 b reliability and controversy flag"
+  },
+  {
+    "id": "S144",
+    "url": "https://arxiv.org/html/2509.07409v1",
+    "title": "Research paper — Reassessment of Kepler-452 b’s signal"
+  },
+  {
+    "id": "S145",
+    "url": "https://exoplanetarchive.ipac.caltech.edu/docs/imaging.html",
+    "title": "NASA Exoplanet Archive — Direct imaging overview"
+  },
+  {
+    "id": "S146",
+    "url": "https://arxiv.org/html/2509.02128v1",
+    "title": "Research manuscript — Thermal constraints on TRAPPIST-1 b and c"
+  },
+  {
+    "id": "S147",
+    "url": "https://exoplanet.ipac.caltech.edu/docs/API_microlensing.html",
+    "title": "NASA Exoplanet Archive — Microlensing parameter definitions"
+  }
+]

@@ -1,0 +1,747 @@
+[
+  {
+    "id": "thermo-build-mission",
+    "chapter": "Plan the build",
+    "title": "Collect heat, then predict the result",
+    "deck": "An engineering guide for the 2027 hybrid event.",
+    "panels": [
+      [
+        "Two goals, one experiment",
+        "Your device collects energy from a lamp and transfers it to 100 mL of water. Your team also predicts the final water temperature. A useful design is not just powerful: it is repeatable, easy to operate and understood well enough to predict."
+      ],
+      [
+        "What this guide promises",
+        "The three concepts here are original starting points, not tested winners. Their proposed dimensions are design choices, not official requirements. Build a simple baseline, compare one change at a time, and keep only improvements supported by your measurements."
+      ],
+      [
+        "Use both guides",
+        "The study guide explains the science and written-test topics. This build guide focuses on setup, construction, measurement and tournament procedure. The current official rules, corrections and tournament instructions take precedence over this guide."
+      ]
+    ],
+    "question": "Why might a slightly weaker but repeatable build be worth keeping?",
+    "answer": "It can be easier to predict and operate reliably. Compare the actual scoring tradeoff rather than assuming repeatability always outweighs heat gain.",
+    "sources": [
+      "R01"
+    ],
+    "kind": "text",
+    "source_urls": []
+  },
+  {
+    "id": "thermo-build-geometry",
+    "chapter": "Know the apparatus",
+    "title": "Measure from the table—not the device",
+    "deck": "A height label is useful only if its endpoints are clear.",
+    "panels": [
+      [
+        "Official setup",
+        "The lamp points downward. Its height is measured from the testing table to the bottommost point of the bulb, not the metal reflector. The device is centered beneath it. Stand feet or other protrusions must be at least 15 cm from the bulb center."
+      ],
+      [
+        "Official device envelope",
+        "The complete device, including the supplied cup, must fit inside a 30.0 × 30.0 × 30.0 cm cube in its testing configuration. Reflectors, brackets and handles all count. Test the complete assembled device, not only its base."
+      ],
+      [
+        "Assigned height and time",
+        "Regionals use 40, 45 or 50 cm and 10 minutes. States use 40, 45, 50 or 55 cm and 10–15 minutes in whole-minute steps. Nationals use 40–65 cm in 1 cm steps and 10–15 minutes in whole-minute steps. The event supervisor assigns these settings; teams do not choose them."
+      ],
+      [
+        "Clearance is not a safety rating",
+        "At the minimum 40 cm bulb height, a 30 cm tall device leaves a 10 cm geometric gap. That subtraction does not establish a safe lamp-to-material distance. Follow the lamp manufacturer’s instructions and avoid materials that soften, scorch or ignite."
+      ]
+    ],
+    "question": "A reflector rim is 24 cm above the table and the bulb bottom is 45 cm above it. What is their vertical gap?",
+    "answer": "21 cm. This is a geometric clearance, not proof that a material is safe at that distance.",
+    "sources": [
+      "R01"
+    ],
+    "kind": "text",
+    "figure": {
+      "file": "geometry-default.svg",
+      "caption": "Official measurement endpoints; design dimensions remain team choices.",
+      "alt": "Lamp height measured from table to bulb bottom",
+      "full_width": true
+    },
+    "source_urls": []
+  },
+  {
+    "id": "thermo-build-cup",
+    "chapter": "Know the apparatus",
+    "title": "Design around a removable cup",
+    "deck": "The cup must come out cleanly, without dismantling the device.",
+    "panels": [
+      [
+        "The supplied cup",
+        "The supervisor supplies a clear disposable 9 oz plastic party cup, approximately 3.9–4.0 inches tall and 2.9–3.0 inches across the mouth. That is roughly 9.91–10.16 cm tall and 7.37–7.62 cm wide. These approximate ranges are not a precision-fit specification."
+      ],
+      [
+        "A generous removal path",
+        "Make a full-size cup mock-up and test with several comparable cups. Leave an open vertical path and room for fingers or the allowed handling method. A tight sleeve can grip a warm cup or spill it. Our suggested 9 cm or larger square access opening is a prototype choice; verify it with real cups and your team’s handling."
+      ],
+      [
+        "Water stays untouched",
+        "Device parts must stay out of the water. During insertion, something may be placed on or around the cup, but no adhesive, tape or fastener may be attached to it, and its shape or structural integrity must not change (21 October clarification). Nothing may be added to the water."
+      ],
+      [
+        "Removal changes the design",
+        "For final measurement, remove the cup completely, separate it from every device part and place it beside the device. Our open-cradle recommendation simplifies handling; it is not a rule banning lids. Practice permitted cup-handling movements without spilling or mixing the water."
+      ]
+    ],
+    "question": "Why is a snug cup sleeve risky even if it fits the size limit?",
+    "answer": "It may grip a warm cup, slow removal or remain attached during measurement. Fit, handling and complete separation all matter.",
+    "sources": [
+      "R01",
+      "R04"
+    ],
+    "kind": "text",
+    "figure": {
+      "file": "geometry-removal.svg",
+      "caption": "The cup must be fully separated from the device for final measurement.",
+      "alt": "Cup removal sequence",
+      "full_width": true
+    },
+    "source_urls": []
+  },
+  {
+    "id": "thermo-build-constraints",
+    "chapter": "Know the apparatus",
+    "title": "Build a legal starting point",
+    "deck": "Check the rules before investing in a clever mechanism.",
+    "panels": [
+      [
+        "Room-temperature, passive operation",
+        "The device and impounded spare parts begin at room temperature. Do not preheat or prechill them. Electrical components, energy sources, heaters and chemical reactions are prohibited. The lamp supplied by the supervisor is the intended source of energy."
+      ],
+      [
+        "Materials and equipment",
+        "Do not use commercial thermoses, coolers or vacuum-sealed devices. Thermometers and probes are not part of the competition device. Hazardous materials, including asbestos, mineral wool and fiberglass, are prohibited. A hazardous device may not be set up, modified or tested. The 22 October clarification also excludes polystyrene, including Styrofoam and plastics marked PS/6, as hazardous under event heating."
+      ],
+      [
+        "The setup deadline matters",
+        "After the 3-minute setup period, cup-handling actions remain allowed. The 22 October clarifications permit opening/closing a lid or door and changing device orientation or position as inherent parts of inserting the cup; opening a lid also falls within cup insertion/removal. This is not permission for unrelated redesign or adjustments during heating."
+      ],
+      [
+        "Inspection readiness",
+        "Keep construction photographs, a labeled drawing and a material list. Be ready to explain how the device works and to disassemble it for inspection if required. Make important joints visible and repairable."
+      ],
+      [
+        "What to bring and impound",
+        "Each team may use two Class III calculators during any part of the event. Only the device and spare parts must be impounded, at room temperature. Tools (setup aids, not build components) and paper notes, graphs and tables are not impounded. Organize permitted paper resources so they are easy to use. Missing device impound adds one construction violation (28 October clarification)."
+      ]
+    ],
+    "question": "Can a team adjust a reflector halfway through heating to follow a hot spot?",
+    "answer": "No. The device is hands-off during heating. Tracking a hot spot by adjusting the reflector during heating is prohibited.",
+    "sources": [
+      "R01",
+      "R04"
+    ],
+    "kind": "text",
+    "source_urls": []
+  },
+  {
+    "id": "thermo-build-safety",
+    "chapter": "Build safely",
+    "title": "Manage heat, edges and spills",
+    "deck": "Adult supervision is part of a sensible workshop plan.",
+    "panels": [
+      [
+        "Practice lamp",
+        "Use the specified type of lamp for realistic practice: a 100–125 W untinted heat-lamp bulb in a downward-pointing clamp lamp with a metal reflector. LED, halogen and ceramic substitutes do not reproduce the specified setup. Use a fixture rated for the bulb and follow its instructions."
+      ],
+      [
+        "A stable station",
+        "An adult should secure the lamp and stand, route the cord away from water and feet, and check fixture stability before heating. Keep flammable clutter away. Do not look directly into the bright bulb. Switch off and allow cooling before adjusting the lamp or touching heated parts."
+      ],
+      [
+        "Workshop tools",
+        "An adult should cut and hem sheet metal and supervise drilling, coating and hot tools. Deburr holes and cover or fold sharp edges. Use eye protection appropriate to the work. Apply any coating away from the test area according to its instructions and allow full curing before use."
+      ],
+      [
+        "Stop conditions",
+        "Stop a run for smoke, scorching odor, softening plastic, an unstable stand or a spill near electrical equipment. Do not add exposed foam, unknown plastic or cardboard near the bulb just because a solar-oven activity uses it outdoors. Geometric fit does not establish heat safety."
+      ],
+      [
+        "Glass and safe cup handling",
+        "The 17 November clarification permits glass in the device; teams using glass should exercise caution and wear Category C goggles when interacting with it. Additional safety equipment such as tongs, hot pads and heat-resistant gloves may be brought for safe cup removal. Rehearse handling without altering the cup or mixing the water."
+      ]
+    ],
+    "question": "What should happen if a prototype starts to smell scorched?",
+    "answer": "Stop the test, turn off power safely, allow cooling and investigate with an adult. Do not continue to collect a better-looking result.",
+    "sources": [
+      "R01",
+      "R04"
+    ],
+    "kind": "text",
+    "source_urls": []
+  },
+  {
+    "id": "thermo-build-baseline",
+    "chapter": "Develop a prototype",
+    "title": "Build the simplest baseline first",
+    "deck": "A baseline tells you whether an added part actually helps.",
+    "panels": [
+      [
+        "Materials",
+        "Use a stable, heat-appropriate base, a simple open cup locator, mechanical fasteners and a ruler. Use a comparable practice cup and 100 mL of water for testing. Keep the locator outside the water and low enough that it cannot trap the cup."
+      ],
+      [
+        "Construction sequence",
+        "1. Mark the lamp center on the base. 2. Position the cup under that mark. 3. Add three small external stops or an open cradle that prevents sliding without gripping. 4. Smooth every edge. 5. Confirm that the cup can be inserted and removed vertically without shifting the base."
+      ],
+      [
+        "A rehearsal before heating",
+        "Measure the complete envelope. Practice the 3-minute setup and the cup removal with cool water. Then conduct a supervised heating run using the official sequence. Record both gain and any handling problem."
+      ],
+      [
+        "Keep the reference",
+        "Photograph and label this version B0. Use it again between candidate tests so changes in room conditions or bulb output are less likely to masquerade as improvements. A baseline is a measuring tool, not a design you must abandon."
+      ]
+    ],
+    "question": "Why repeat the baseline after testing a new reflector?",
+    "answer": "It helps reveal changes in the test conditions. A hotter second run may reflect the room, lamp or starting conditions rather than the reflector.",
+    "sources": [
+      "R01"
+    ],
+    "kind": "text",
+    "source_urls": []
+  },
+  {
+    "id": "thermo-build-receiver",
+    "chapter": "Three build concepts",
+    "title": "Concept A: a dry external receiver",
+    "deck": "Try to move absorbed energy into the cup without touching the water.",
+    "panels": [
+      [
+        "Materials and intended geometry",
+        "Use thin sheet metal for an open receiver, a stable base, small brackets and mechanical fasteners. A fully cured, heat-appropriate dark coating on the device may improve absorption; it must never be applied to the supplied cup. Leave all cup-access and removal space open."
+      ],
+      [
+        "Construction",
+        "1. Make a paper pattern around a practice cup with clearance, not a tight fit. 2. Have an adult cut and hem the metal. 3. Form a shallow open cradle or several external contact tabs rather than a gripping sleeve. 4. Attach it to the base. 5. Confirm no edge or tab can reach the water. 6. Rehearse full cup separation before heating."
+      ],
+      [
+        "Why it might help—and fail",
+        "A broad receiver can absorb radiation and conduct energy toward the cup wall. But the plastic wall and imperfect contact can resist heat flow. A thick receiver may spend much of the short run warming itself. More metal is not automatically better."
+      ],
+      [
+        "Test one change",
+        "Compare baseline versus receiver using the same lamp setting, cup type, water amount and timing. Then vary only receiver area or thickness. Keep the version that improves measured water gain without harming removal or repeatability."
+      ]
+    ],
+    "question": "Why should a receiver be tested at the actual short event duration?",
+    "answer": "A high-mass receiver might eventually get hot but store energy instead of warming the water quickly enough during the event.",
+    "sources": [
+      "R01"
+    ],
+    "kind": "text",
+    "figure": {
+      "file": "concept-receiver.svg",
+      "caption": "Original untested concept; not to scale.",
+      "alt": "receiver concept around a removable cup",
+      "width_pt": 180
+    },
+    "source_urls": []
+  },
+  {
+    "id": "thermo-build-reflector",
+    "chapter": "Three build concepts",
+    "title": "Concept B: a broad four-panel reflector",
+    "deck": "Redirect light toward the cup without creating a sharp focus.",
+    "panels": [
+      [
+        "A starting geometry—not a rule",
+        "A proposed prototype uses a 28 × 28 cm base, an upper opening around 26 cm wide, a lower clear opening at least 9 cm square and overall height no more than 24 cm. These are starting dimensions chosen to leave margin inside the official cube, not proven optimum dimensions."
+      ],
+      [
+        "Materials",
+        "Use four smooth reflective metal panels, a stable base, brackets, screws and locking nuts. Choose panel stock and supports suitable for the heat exposure. Protect all edges. Avoid wrinkled foil near the cup or a polished point-focusing dish."
+      ],
+      [
+        "A reproducible first pattern",
+        "For one optional four-sided pattern, draw each finished panel as an isosceles trapezoid with a 9 cm lower edge, a 26 cm upper edge and 14.7 cm perpendicular distance between those edges on the flat sheet. Four identical panels form a funnel about 12 cm high because 14.7² − 8.5² ≈ 12². These are finished face dimensions; add edge hems outside the face only after planning the joints. Make the paper model first, since hems, brackets and panel overlap change the finished fit. This cut pattern is our untested starting design, not an official dimension."
+      ],
+      [
+        "Construction",
+        "1. Make a full-size cardboard fit model away from the operating lamp. 2. Check the cup’s straight removal path. 3. Transfer the panel shapes to metal and have an adult cut and hem them. 4. Attach the four panels symmetrically around the open center. 5. Set and lock their angles before the setup deadline. 6. Measure the outermost corners, fasteners and panel tips."
+      ],
+      [
+        "Test the optical idea",
+        "An extended bulb and its reflector do not send perfectly parallel rays. A simple ray drawing shows possible paths, not a measured concentration factor. Compare a few broad panel angles and heights; look for repeatable water gain and safe operation. Reject any geometry that concentrates enough energy to soften or damage the cup."
+      ],
+      [
+        "Assembly check",
+        "Mount the lower square opening over the cup locator with no crossbar blocking removal. Use corner brackets outside the opening; do not leave loose panels resting against the cup. With a cup in place, measure the actual base, panel corners and highest point, then lift the cup straight out. A taller base or different bracket changes the total height. Lock the geometry before heating and verify that the supplied-size cup can be removed without contact or snagging."
+      ]
+    ],
+    "question": "Why does an adjustable reflector still need a fixed setting before a run?",
+    "answer": "Use adjustment during development to find a repeatable setting, then lock the reflector before setup ends. Do not retune it during heating. Handling needed to insert or remove the cup, such as opening and closing a reflector lid, is allowed; that exception is not permission to change the design or tune its performance after setup.",
+    "sources": [
+      "R01",
+      "R04"
+    ],
+    "kind": "text",
+    "source_urls": [],
+    "figures": [
+      {
+        "file": "concept-reflector.svg",
+        "caption": "Original untested concept; not to scale.",
+        "alt": "reflector concept around a removable cup",
+        "width_pt": 180
+      },
+      {
+        "file": "reflector-pattern.svg",
+        "caption": "Finished face dimensions for the optional first pattern. Four panels give an approximately 12 cm vertical funnel height; joints and base change the full device size.",
+        "alt": "Trapezoid panel pattern: 26 cm upper edge,9 cm lower edge,14.7 cm face height",
+        "width_pt": 360,
+        "after_panel": "A reproducible first pattern"
+      }
+    ]
+  },
+  {
+    "id": "thermo-build-shroud",
+    "chapter": "Three build concepts",
+    "title": "Concept C: a shallow fixed shroud",
+    "deck": "Reduce drafts without blocking the energy you want.",
+    "panels": [
+      [
+        "Materials and layout",
+        "Use a low-mass, heat-appropriate fixed wall around—but not gripping—the cup. Keep an open top and a generous permanent removal path. Mechanical fasteners and a stable base make it inspectable. Avoid prohibited fibrous insulation and unknown plastics near the lamp."
+      ],
+      [
+        "Construction",
+        "1. Begin with the baseline cup locator. 2. Make a low wall pattern with an open top and no loose lid. 3. Check that it neither shadows the intended receiver nor obstructs fingers. 4. Build the wall in a heat-appropriate material, smooth its edges and secure it. 5. Rehearse removal, then compare supervised runs with and without the wall."
+      ],
+      [
+        "The tradeoff",
+        "A wall can reduce moving-air heat loss, but can also intercept useful radiation, warm air instead of water, or add thermal mass. Insulation is neither automatically helpful nor automatically pointless in a heating event: compare the energy entering and leaving."
+      ],
+      [
+        "A cover is a separate investigation",
+        "A transparent cover can reduce convection but also intercept lamp energy. Visible transparency does not establish infrared transparency. Official clarifications allow lid/door handling for cup access; this does not permit adjustments during heating. An open, fixed first prototype is a simplicity choice, not a legal requirement."
+      ]
+    ],
+    "question": "Why can a draft shield make the water cooler?",
+    "answer": "It may block incoming radiation or store absorbed energy in the shield and air. Reduced loss helps only if it outweighs those costs.",
+    "sources": [
+      "R01",
+      "R04"
+    ],
+    "kind": "text",
+    "figure": {
+      "file": "concept-shroud.svg",
+      "caption": "Original untested concept; not to scale.",
+      "alt": "shroud concept around a removable cup",
+      "width_pt": 180
+    },
+    "source_urls": []
+  },
+  {
+    "id": "thermo-build-compare",
+    "chapter": "Three build concepts",
+    "title": "Choose by evidence, not appearance",
+    "deck": "Compare the simplest useful versions before combining them.",
+    "panels": [
+      [
+        "Receiver",
+        "Strong point: a direct path from absorbed energy to the cup wall. Weak point: contact resistance and extra thermal mass. First experiment: thin versus thicker receiver, with all other geometry fixed."
+      ],
+      [
+        "Reflector",
+        "Strong point: redirects some radiation without requiring a large hot mass. Weak point: geometry sensitivity, shadowing and possible hot spots. First experiment: three locked broad panel angles at one official height."
+      ],
+      [
+        "Shroud",
+        "Strong point: may reduce draft-driven losses. Weak point: can block radiation and complicate removal. First experiment: identical runs with the same wall present and absent."
+      ],
+      [
+        "Combine cautiously",
+        "If two changes help separately, their combination is still a new design. A reflector may send light onto a shroud instead of the receiver. Retest the combined version and compare it to the best simpler version. Keep a removable, labeled set of parts for development, but complete all competition adjustments within setup."
+      ]
+    ],
+    "question": "If A and B each improve gain by 1 °C, must A+B improve it by 2 °C?",
+    "answer": "No. They may interact by changing shadowing, heat loss, mass or cup access. Test the combination.",
+    "sources": [
+      "R01"
+    ],
+    "kind": "text",
+    "source_urls": []
+  },
+  {
+    "id": "thermo-build-bom",
+    "chapter": "Workshop records",
+    "title": "Make a parts list you can rebuild from",
+    "deck": "Record actual purchases rather than relying on invented prices.",
+    "panels": [
+      [
+        "Bill of materials",
+        "For each part record: part name; material and thickness; dimensions; quantity; supplier or recovered source; actual price paid; revision; and heat-safety notes. Include the base, panels, brackets, fasteners, edge protection and coating. Record tools separately from parts left on the device."
+      ],
+      [
+        "Example quantity plan",
+        "A four-panel reflector starts with 1 base, 4 panels, the brackets needed to secure each panel, matching bolts and locking nuts, and edge treatment for every exposed cut. The exact fastener count depends on the joint design. Make the joint drawing before shopping."
+      ],
+      [
+        "Budget honestly",
+        "Add consumables and replacement panels to the parts cost. Separate reusable practice equipment, such as the lamp and measuring equipment, from the device budget. Prices vary, so this guide does not claim a verified dollar total."
+      ],
+      [
+        "Revision card",
+        "Give each assembled design a revision ID. Photograph it from above and the side beside a ruler. List its mass, outside dimensions, panel settings and any change since the previous revision. A test without an identifiable build version is hard to use later."
+      ]
+    ],
+    "question": "Why record sheet thickness as well as material?",
+    "answer": "Thickness changes stiffness, mass and the energy needed to warm the part. Two aluminum builds can behave differently.",
+    "sources": [
+      "R01"
+    ],
+    "kind": "text",
+    "source_urls": []
+  },
+  {
+    "id": "thermo-build-testing",
+    "chapter": "Measure and improve",
+    "title": "Run a fair comparison",
+    "deck": "Keep a controlled record, including inconvenient results.",
+    "panels": [
+      [
+        "Hold the conditions steady",
+        "Record lamp and bulb identity, wattage, table-to-bulb height, heating duration, room temperature, initial water temperature, water volume, cup type and build revision. Use the same measurement procedure each time. Allow the device and source water to return to the intended starting conditions."
+      ],
+      [
+        "Alternate and repeat",
+        "Where practical, test baseline–candidate–baseline rather than all baseline runs followed by all candidate runs. Aim for at least three repeats of each condition before choosing between close results. Keep failed runs with an explanation instead of silently deleting them."
+      ],
+      [
+        "Measure the event endpoint",
+        "Practice switching the lamp off, removing the cup completely, placing it beside the device and then measuring. Record the delay. The final temperature used at the event is not necessarily the peak temperature while the cup is still in the device."
+      ],
+      [
+        "Use a trial record",
+        "Use the printable trial record to keep shared test conditions separate from per-run measurements. Record every run, including failures, and explain anything that made a comparison unfair."
+      ]
+    ],
+    "question": "Why is a 20-second difference in measurement delay worth recording?",
+    "answer": "Water can lose energy after lamp-off and removal. Inconsistent delay can look like a difference between builds.",
+    "sources": [
+      "R01"
+    ],
+    "kind": "text",
+    "source_urls": [],
+    "worksheet": {
+      "kind": "trial",
+      "id": "trial-record",
+      "title": "Trial record",
+      "purpose": "Use one sheet for matched baseline and candidate runs. Keep shared conditions fixed; record departures and failed runs.",
+      "sections": [
+        {
+          "title": "Shared conditions",
+          "kind": "fields",
+          "fields": [
+            {
+              "label": "Date / team / operator"
+            },
+            {
+              "label": "Lamp and bulb identity / rated power (W)"
+            },
+            {
+              "label": "Bulb height (cm) / heating duration (min) / room temperature (°C)"
+            },
+            {
+              "label": "Water volume (mL) / cup type / measurement procedure"
+            }
+          ]
+        },
+        {
+          "title": "Per-run measurements",
+          "kind": "table",
+          "columns": [
+            "Run ID",
+            "Build revision",
+            "Start (°C)",
+            "Final (°C)",
+            "Gain (°C)",
+            "Prediction (°C)",
+            "Delay (s)"
+          ],
+          "widths": [
+            0.1,
+            0.15,
+            0.15,
+            0.15,
+            0.15,
+            0.15,
+            0.15
+          ],
+          "rows": 6,
+          "row_height_pt": 29
+        },
+        {
+          "title": "Departures, failed runs and observations",
+          "kind": "fields",
+          "fields": [
+            {
+              "label": "Refer to run IDs. Explain changes in conditions, handling or measurement delay.",
+              "lines": 2
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "thermo-build-prediction",
+    "chapter": "Measure and improve",
+    "title": "Turn trials into a prediction",
+    "deck": "Calibrate the actual device and bulb, not an imagined perfect lamp.",
+    "panels": [
+      [
+        "Build a useful grid",
+        "Test the official heights and durations relevant to your tournament level. Include range endpoints and some intermediate settings. Keep room and starting-water temperatures in the record; a gain measured in one environment need not transfer unchanged to another."
+      ],
+      [
+        "Start with a lookup table",
+        "For repeated conditions, summarize mean final temperature or gain and the spread of repeats. Estimate between nearby measured settings only when the trend supports it. Mark extrapolations outside your tested range as lower confidence."
+      ],
+      [
+        "Check a held-out run",
+        "Set aside a few conditions before fitting your prediction method. Predict them without seeing the result, then compare. A method that reproduces its own training table perfectly may still predict new settings poorly."
+      ],
+      [
+        "Do not overpromise a model",
+        "Lamp wattage is electrical input, not water-heating power. A reflector and extended bulb need not obey a simple inverse-square relationship at these distances. Use physics to guide experiments, then use measurements to calibrate the prediction. Record errors in degrees Celsius, not just a fitted curve."
+      ],
+      [
+        "Predict the measured temperature",
+        "Water can have warmer and cooler layers. The official no-mixing procedure means a model of uniform average temperature may not predict the supervisor’s reading. During practice, record the measurement location, probe depth and removal delay; use a consistent protocol and do not stir to force agreement with a model."
+      ]
+    ],
+    "question": "Why is a prediction at an untested taller lamp setting less secure?",
+    "answer": "It requires extrapolation if it lies outside the measured range; the radiation pattern and heat-loss balance may not continue the same trend.",
+    "sources": [
+      "R01",
+      "R04"
+    ],
+    "kind": "text",
+    "source_urls": []
+  },
+  {
+    "id": "thermo-build-energy",
+    "chapter": "Measure and improve",
+    "title": "Estimate where the energy goes",
+    "deck": "An order-of-magnitude calculation can reveal a mistaken assumption.",
+    "panels": [
+      [
+        "Water calculation",
+        "For an illustration, take 100 mL of water as 0.100 kg and its specific heat as 4180 J/(kg·K). Each 1 °C rise stores about 418 J. A 10 °C rise stores about 4180 J; over 10 minutes that is about 7 W of net energy gain in the water."
+      ],
+      [
+        "Why not 100 watts?",
+        "Only some bulb output reaches the device, and only some absorbed energy reaches the water. Energy also warms the device and cup or escapes by radiation, convection, conduction and evaporation. A 100 W bulb does not deliver 100 W to the water."
+      ],
+      [
+        "Use the interactive model carefully",
+        "Changing absorption or loss in an illustrative model helps you reason about trends. Its calculated temperature is not a competition prediction unless you determine the parameters from real tests and validate them. The actual lamp, geometry and materials matter."
+      ],
+      [
+        "Separate uncertainties",
+        "Measure repeatability across identical trials, uncertainty in the thermometer, timing variation, cup differences and sensitivity to room conditions. A small gain advantage within that combined variation is not convincing evidence of improvement."
+      ]
+    ],
+    "question": "What average net power corresponds to a 5 °C water gain in 10 minutes under these assumptions?",
+    "answer": "Energy = 0.100 × 4180 × 5 = 2090 J. Divide by 600 s to get about 3.5 W. This is net storage in the water, not lamp output.",
+    "sources": [
+      "R01",
+      "P01"
+    ],
+    "kind": "text",
+    "source_urls": [
+      "https://openstax.org/books/college-physics-2e/pages/14-introduction-to-heat-and-heat-transfer-methods"
+    ]
+  },
+  {
+    "id": "thermo-build-score",
+    "chapter": "Tournament plan",
+    "title": "Understand the score before optimizing",
+    "deck": "The written test, heating and prediction all matter.",
+    "panels": [
+      [
+        "The three components",
+        "The exam contributes up to 50 points relative to the highest exam score. Temperature gain contributes up to 30 relative to the largest gain. Prediction contributes up to 20 relative to the best prediction estimate. Final score is their sum before the applicable rule penalties. Let E denote your exam score; “best” means the highest value across teams."
+      ],
+      [
+        "Prediction formula",
+        "Use the official Celsius formula below. Its denominator is final temperature in Celsius, not temperature gain and not Kelvin. Follow the official rules rather than replacing it with a physically more familiar ratio."
+      ],
+      [
+        "A conditional comparison",
+        "If the field’s best gain is 20 °C, each extra 1 °C of gain is worth 1.5 temperature-score points. If final temperature is 40 °C and the best PE is 1, a 1 °C prediction error costs 0.5 prediction-score points. These numbers depend on the stated field and temperature assumptions; they are not universal exchange rates."
+      ],
+      [
+        "Avoid preventable penalties",
+        "For each competition violation, TS and PS are multiplied by 0.9; for each construction violation remaining at the end of setup, they are multiplied by 0.7. Explicit zero-score rules take precedence: prohibited energy sources or touching the device/lamp during heating zero both TS and PS; a late prediction zeros PS. Tie-breakers are TS, then ES, then selected test questions. Read the exact scoring section with your coach."
+      ]
+    ],
+    "question": "Why should you not calculate prediction error using the temperature gain as denominator?",
+    "answer": "The official formula explicitly uses final Celsius temperature. Substituting gain changes the score.",
+    "sources": [
+      "R01"
+    ],
+    "kind": "text",
+    "source_urls": [],
+    "display_equations": [
+      {
+        "after_panel": 0,
+        "tex": "\\mathrm{TG}=\\max(0,T_{\\mathrm{final}}-T_{\\mathrm{start}})",
+        "mathml": "<mrow><mi mathvariant=\"normal\">TG</mi><mo>=</mo><mi>max</mi><mo>(</mo><mn>0</mn><mo>,</mo><msub><mi>T</mi><mtext>final</mtext></msub><mo>−</mo><msub><mi>T</mi><mtext>start</mtext></msub><mo>)</mo></mrow>"
+      },
+      {
+        "after_panel": 0,
+        "tex": "\\mathrm{ES}=50\\frac{E}{E_{\\mathrm{best}}},\\qquad\\mathrm{TS}=30\\frac{\\mathrm{TG}}{\\mathrm{TG}_{\\mathrm{best}}}",
+        "mathml": "<mrow><mi mathvariant=\"normal\">ES</mi><mo>=</mo><mn>50</mn><mfrac><mi>E</mi><msub><mi>E</mi><mtext>best</mtext></msub></mfrac><mspace width=\"2em\"/><mi mathvariant=\"normal\">TS</mi><mo>=</mo><mn>30</mn><mfrac><mi mathvariant=\"normal\">TG</mi><msub><mi mathvariant=\"normal\">TG</mi><mtext>best</mtext></msub></mfrac></mrow>"
+      },
+      {
+        "after_panel": 0,
+        "tex": "\\mathrm{FS}=\\mathrm{ES}+\\mathrm{TS}+\\mathrm{PS}",
+        "mathml": "<mrow><mi mathvariant=\"normal\">FS</mi><mo>=</mo><mi mathvariant=\"normal\">ES</mi><mo>+</mo><mi mathvariant=\"normal\">TS</mi><mo>+</mo><mi mathvariant=\"normal\">PS</mi></mrow>"
+      },
+      {
+        "after_panel": 1,
+        "tex": "\\mathrm{PE}=\\max\\!\\left(0,1-\\frac{\\lvert T_{\\mathrm{final}}-T_{\\mathrm{predicted}}\\rvert}{T_{\\mathrm{final}}}\\right)",
+        "mathml": "<mrow><mi mathvariant=\"normal\">PE</mi><mo>=</mo><mi>max</mi><mo>(</mo><mn>0</mn><mo>,</mo><mn>1</mn><mo>−</mo><mfrac><mrow><mo>|</mo><msub><mi>T</mi><mtext>final</mtext></msub><mo>−</mo><msub><mi>T</mi><mtext>predicted</mtext></msub><mo>|</mo></mrow><msub><mi>T</mi><mtext>final</mtext></msub></mfrac><mo>)</mo></mrow>"
+      },
+      {
+        "after_panel": 1,
+        "tex": "\\mathrm{PS}=20\\frac{\\mathrm{PE}}{\\mathrm{PE}_{\\mathrm{best}}}",
+        "mathml": "<mrow><mi mathvariant=\"normal\">PS</mi><mo>=</mo><mn>20</mn><mfrac><mi mathvariant=\"normal\">PE</mi><msub><mi mathvariant=\"normal\">PE</mi><mtext>best</mtext></msub></mfrac></mrow>"
+      }
+    ]
+  },
+  {
+    "id": "thermo-build-rehearsal",
+    "chapter": "Tournament plan",
+    "title": "Rehearse the whole run",
+    "deck": "A strong device still needs a reliable procedure.",
+    "panels": [
+      [
+        "Before tournament day",
+        "Check the current rules, official corrections and tournament announcements. Pack the device at room temperature, allowed spare parts for impound, tools, paper prediction resources and permitted calculators. Photograph the final revision and rehearse its explanation. Bring no prohibited probe as a device component."
+      ],
+      [
+        "Setup and insertion",
+        "Read the announced conditions. Complete modifications within 3 minutes; reinspection does not pause the clock. After the supervisor reports the starting temperature, insert the cup within 1 minute. Cup-handling may include the clarified lid/door and orientation/position actions, but not unrelated changes."
+      ],
+      [
+        "Heating and prediction",
+        "Do not touch the device or lamp during heating. Submit the Celsius prediction before the heating period ends. Decide team roles in advance: one person checks timing and the prediction, the other checks the recorded conditions. Written-test work during heating depends on the supervisor’s procedure."
+      ],
+      [
+        "Finish and review",
+        "After lamp-off, remove the cup entirely from every device part and place it beside the device for the supervisor’s final measurement, aiming to complete this within 1 minute. Record what happened while it is fresh. If appealing Part II, leave the device as required rather than packing it away."
+      ],
+      [
+        "Who measures the temperature",
+        "The supervisor measures and reports the starting and final temperatures. Multiple supervisor thermometers may be used, but each team must have the same thermometer for its own starting and final readings. Competitors may not use the supervisor thermometers. No thermometer is left in a device, and water temperature is not measured while the cup is inside it. Completely remove the cup and separate it from all device components before the final reading. Do not swirl, shake or stir the water before measurement. The supervisor sets one measurement protocol for all teams. Near-center, top-layer measurement is recommended; a probe goes only as deep as needed for an accurate reading, not to a prescribed depth."
+      ]
+    ],
+    "question": "Which action should be practiced cold before every new design is heated?",
+    "answer": "Rehearse safe insertion and complete removal, including any permitted lid/door or device-position movements needed for cup handling. Check time, full separation and no swirling, shaking or stirring before measurement.",
+    "sources": [
+      "R01",
+      "R04"
+    ],
+    "kind": "text",
+    "source_urls": []
+  },
+  {
+    "id": "thermo-build-worksheet",
+    "chapter": "Team notebook",
+    "title": "Keep a decision log",
+    "deck": "A short evidence trail makes each revision more useful.",
+    "panels": [
+      [
+        "Before a test",
+        "Write the question, the physical reason for the change, and the one variable you will change. Identify baseline and candidate revisions. State the conditions held fixed and complete a safety and rules check."
+      ],
+      [
+        "After a test",
+        "Compare repeated baseline and candidate gains, not only the best run. Record the typical difference and repeat spread, handling problems, prediction errors and unexpected observations."
+      ],
+      [
+        "Make the decision explicit",
+        "Choose keep, revise or reject. Record the evidence supporting that decision, the remaining uncertainty and the next test. A rejected idea is useful if you can explain why it did not help under the tested conditions."
+      ],
+      [
+        "A final audit",
+        "Can both teammates explain the energy path, dimensions, materials, prediction method and removal procedure? Can you reproduce your best result without choosing only a favorable trial? Have you checked that a late repair did not change the tested geometry?"
+      ]
+    ],
+    "question": "What is stronger evidence: the single hottest run or a consistent improvement across matched trials?",
+    "answer": "A consistent improvement across matched, repeated trials is generally stronger. A single extreme run may reflect uncontrolled conditions or measurement error.",
+    "sources": [
+      "R01"
+    ],
+    "kind": "text",
+    "source_urls": [],
+    "worksheet": {
+      "kind": "decision",
+      "id": "decision-log",
+      "title": "Team decision log",
+      "purpose": "Use one sheet per proposed change. Link the decision to trial IDs and keep rejected ideas in the record.",
+      "sections": [
+        {
+          "title": "Before the test",
+          "kind": "fields",
+          "fields": [
+            {
+              "label": "Date / team / baseline revision / candidate revision"
+            },
+            {
+              "label": "Question and physical reason for the change",
+              "lines": 2
+            },
+            {
+              "label": "One variable changed / conditions held fixed"
+            },
+            {
+              "label": "Safety and rules check"
+            }
+          ]
+        },
+        {
+          "title": "After the test",
+          "kind": "table",
+          "columns": [
+            "Baseline trial IDs and gains (°C)",
+            "Candidate trial IDs and gains (°C)"
+          ],
+          "rows": 2,
+          "row_height_pt": 27
+        },
+        {
+          "title": "Interpret the evidence",
+          "kind": "fields",
+          "fields": [
+            {
+              "label": "Typical difference and repeat spread / prediction errors"
+            },
+            {
+              "label": "Handling problems and unexpected observations"
+            }
+          ]
+        },
+        {
+          "title": "Decision and next step",
+          "kind": "fields",
+          "fields": [
+            {
+              "label": "Circle one: KEEP / REVISE / REJECT. Evidence supporting that decision:"
+            },
+            {
+              "label": "Remaining uncertainty / next test"
+            }
+          ]
+        }
+      ],
+      "paragraph_gap_pt": 2
+    }
+  }
+]

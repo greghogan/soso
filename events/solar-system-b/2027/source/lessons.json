@@ -1,0 +1,3784 @@
+[
+  {
+    "chapter": "A guide to habitable worlds",
+    "title": "Solar System B study guide",
+    "deck": "2027 • A visual investigation of habitability within and beyond our Solar System",
+    "kind": "flow",
+    "visual": {
+      "nodes": [
+        "Read the clues",
+        "Build an explanation",
+        "Test the explanation"
+      ],
+      "caption": "An illustrated field guide for learning, comparing and reasoning."
+    },
+    "panels": [
+      [
+        "The central question",
+        "Where could life as we know it find usable water, energy, and chemistry for long enough to function? Follow clues in rocks, spectra, atmospheres, and distant worlds to build and test an explanation."
+      ],
+      [
+        "How to use the guide",
+        "Read a page, cover its explanation, then answer the question at the bottom aloud. Sketch the diagram from memory. Compare worlds by the same criteria. Use the worked relationships to explain changes without a calculator."
+      ]
+    ],
+    "question": "What would you need to know before calling a world “habitable”? Name three kinds of evidence, not three objects.",
+    "sources": [
+      "S001"
+    ],
+    "id": "foundation-1",
+    "concept_ids": [
+      "H01",
+      "SK04"
+    ],
+    "answer": "Look for a usable solvent, accessible chemistry and sustained usable energy, together with conditions and duration compatible with known biology. Evidence might include water-related geology, chemical composition and an energy source.",
+    "source_urls": [
+      "https://www.soinc.org/solar-system-b"
+    ]
+  },
+  {
+    "chapter": "Thinking like a scientist",
+    "title": "A clue is not a verdict",
+    "deck": "Separate a measurement from an interpretation and an extraordinary claim.",
+    "kind": "flow",
+    "visual": {
+      "nodes": [
+        "OBSERVATION<br/>A signal or sample",
+        "INFERENCE<br/>A model explains it",
+        "TEST<br/>Seek independent evidence"
+      ],
+      "caption": "Habitability ≠ inhabited. Organic molecules ≠ organisms."
+    },
+    "panels": [
+      [
+        "Build a chain of reasoning",
+        "An absorption feature can indicate a molecule. A molecule may indicate a process. That process could have biological <i>or</i> nonbiological causes. State what was measured, what assumptions connect the steps, and what else could explain the result."
+      ],
+      [
+        "Ask what would change your mind",
+        "A good explanation makes a testable prediction. Combine independent clues: morphology plus minerals, gravity plus magnetic response, or a spectrum plus atmospheric models. A non-detection limits what an instrument could have seen; it does not prove universal absence."
+      ]
+    ],
+    "question": "A spectrum contains methane. Give one reason that this alone cannot demonstrate life.",
+    "sources": [
+      "S002",
+      "S003"
+    ],
+    "id": "foundation-2",
+    "concept_ids": [
+      "H01",
+      "SUP02"
+    ],
+    "answer": "Methane can have nonbiological sources. Its context, source rates, losses and independent measurements must be examined.",
+    "source_urls": [
+      "https://assets.science.nasa.gov/content/dam/science/psd/astrobiology/for-researchers/strategy/nasa_astrobiology_strategy_2015_final_041216.pdf",
+      "https://astrobiology.nasa.gov/education/alp/what-is-a-biosignature/"
+    ]
+  },
+  {
+    "id": "foundation-solar-atlas",
+    "concept_ids": [
+      "FND01",
+      "W01",
+      "W02",
+      "W07",
+      "W08",
+      "W09"
+    ],
+    "classification": "Supporting foundation, not an extra enumerated rule requirement",
+    "chapter": "Get oriented: identities and scales",
+    "title": "Where are the named worlds?",
+    "deck": "Start with what each object is, what it orbits and the scale of the system.",
+    "kind": "comparison",
+    "visual": {
+      "headers": [
+        "Body",
+        "Identity",
+        "Diameter",
+        "Sun-centered scale"
+      ],
+      "rows": [
+        [
+          "Venus",
+          "Rocky planet; second planet from the Sun",
+          "≈12,100 km",
+          "≈0.72 AU"
+        ],
+        [
+          "Mars",
+          "Rocky planet; fourth planet from the Sun",
+          "≈6,780 km",
+          "≈1.5 AU"
+        ],
+        [
+          "Makemake",
+          "Dwarf planet in the Kuiper Belt beyond Neptune",
+          "≈1,430 km",
+          "≈46 AU"
+        ],
+        [
+          "101955 Bennu",
+          "Near-Earth carbon-rich rubble-pile asteroid",
+          "≈0.5 km",
+          "≈1.1 AU"
+        ],
+        [
+          "67P/Churyumov–Gerasimenko",
+          "Jupiter-family comet orbiting the Sun",
+          "Few km; irregular",
+          "Variable; perihelion ≈1.3 AU"
+        ]
+      ],
+      "caption": "Rounded teaching scales, not ephemerides or a list of mandatory memorization values."
+    },
+    "panels": [
+      [
+        "Read the hierarchy",
+        "Venus and Mars are rocky planets. Makemake is a dwarf planet in the Kuiper Belt beyond Neptune, not a moon. Bennu is a near-Earth asteroid: it still orbits the Sun, not Earth. The phrase Jupiter-family comet describes a dynamical family, not a moon of Jupiter. These distinctions locate the evidence before asking about habitability."
+      ],
+      [
+        "Keep size separate from orbit",
+        "One astronomical unit, AU, is about 150 million kilometers, approximately Earth’s mean Sun distance. A body’s diameter is its full width through the center, twice its radius. Orbital separation is a different quantity. The values here are rounded comparative scales; distances change along eccentric orbits. An irregular comet does not have the same simple spherical diameter as a nearly round planet."
+      ]
+    ],
+    "question": "Why does “near-Earth asteroid” not mean that Bennu is Earth’s moon?",
+    "answer": "Bennu orbits the Sun. Near-Earth describes the proximity of its solar orbit to Earth’s orbital neighborhood.",
+    "source_urls": [
+      "https://science.nasa.gov/venus/venus-facts/",
+      "https://science.nasa.gov/mars/facts/",
+      "https://science.nasa.gov/dwarf-planets/makemake/",
+      "https://science.nasa.gov/solar-system/kuiper-belt/facts/",
+      "https://science.nasa.gov/solar-system/asteroids/101955-bennu/facts/",
+      "https://science.nasa.gov/solar-system/comets/67p-churyumov-gerasimenko/",
+      "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Getting_to_know_Rosetta_s_comet",
+      "https://www.esa.int/content/view/full/146714"
+    ],
+    "sources": [
+      "S019",
+      "S023",
+      "S045",
+      "S123",
+      "S124",
+      "S125",
+      "S126",
+      "S127"
+    ]
+  },
+  {
+    "id": "foundation-moon-atlas",
+    "concept_ids": [
+      "FND01",
+      "FND02",
+      "W03",
+      "W04",
+      "W05",
+      "W06"
+    ],
+    "classification": "Supporting foundation, not an extra enumerated rule requirement",
+    "chapter": "Get oriented: identities and scales",
+    "title": "Moons: two orbital scales at once",
+    "deck": "Jupiter hosts Ganymede and Europa; Saturn hosts Enceladus and Titan.",
+    "kind": "comparison",
+    "visual": {
+      "headers": [
+        "Moon",
+        "Parent",
+        "Diameter",
+        "Moon–parent distance"
+      ],
+      "rows": [
+        [
+          "Ganymede",
+          "Jupiter",
+          "≈5,260 km",
+          "≈1,070,000 km"
+        ],
+        [
+          "Europa",
+          "Jupiter",
+          "≈3,120 km",
+          "≈671,000 km"
+        ],
+        [
+          "Enceladus",
+          "Saturn",
+          "≈500 km",
+          "≈238,000 km"
+        ],
+        [
+          "Titan",
+          "Saturn",
+          "≈5,150 km",
+          "≈1,220,000 km"
+        ]
+      ],
+      "caption": "Rounded teaching scales, not ephemerides or a list of mandatory memorization values."
+    },
+    "panels": [
+      [
+        "A moon’s parent matters",
+        "A moon travels around its planet while that whole system travels around the Sun. Jupiter’s solar orbital scale is about 5.2 AU; Saturn’s is about 9.6 AU. Use the planet-centered distance for a simple planetary tide or orbital calculation, and the Sun-centered distance for incoming sunlight. Do not substitute one for the other. Distances listed here are approximate center-to-center orbital scales, not heights above cloud tops."
+      ],
+      [
+        "Name the comparison class",
+        "Ganymede is the largest moon in the Solar System by diameter. Titan is Saturn’s largest moon and the Solar System’s second-largest moon. Enceladus is only about one tenth Titan’s diameter. At roughly 500 km across, Enceladus is about a thousand times wider than the roughly 500 m asteroid Bennu. Convert units before judging whether objects are comparable."
+      ]
+    ],
+    "question": "Which distance controls Europa’s solar illumination: its orbit around Jupiter or the Jupiter system’s orbit around the Sun?",
+    "answer": "The Jupiter system’s distance from the Sun controls solar illumination. Europa’s distance from Jupiter matters for its planetary orbit and tidal forcing.",
+    "source_urls": [
+      "https://science.nasa.gov/jupiter/jupiter-moons/ganymede/facts/",
+      "https://science.nasa.gov/jupiter/jupiter-facts/",
+      "https://www.jpl.nasa.gov/press-kits/europa-clipper/quick-facts/",
+      "https://science.nasa.gov/saturn/moons/enceladus/",
+      "https://www.jpl.nasa.gov/edu/pdfs/scaless_reference.pdf",
+      "https://www.esa.int/Science_Exploration/Space_Science/Cassini-Huygens/Facts_about_Titan"
+    ],
+    "sources": [
+      "S027",
+      "S119",
+      "S120",
+      "S035",
+      "S121",
+      "S122"
+    ]
+  },
+  {
+    "id": "foundation-terms-1",
+    "concept_ids": [
+      "FND03"
+    ],
+    "classification": "Supporting foundation, not an extra enumerated rule requirement",
+    "chapter": "Get oriented: identities and scales",
+    "title": "Orbit size and shape",
+    "deck": "Separate the size of a world from the size and shape of its orbit.",
+    "kind": "comparison",
+    "visual": {
+      "headers": [
+        "Term",
+        "Meaning"
+      ],
+      "rows": [
+        [
+          "AU (astronomical unit)",
+          "A distance unit of about 150 million km, approximately Earth’s mean distance from the Sun. It is a length, not a time."
+        ],
+        [
+          "Radius versus diameter",
+          "Radius runs from center to surface; diameter runs across the whole body through its center and is twice the radius."
+        ],
+        [
+          "Semimajor axis a",
+          "Half the longest diameter of an elliptical orbit. It specifies orbital size; it is not the changing instantaneous distance between the orbiting bodies."
+        ],
+        [
+          "Eccentricity e",
+          "A measure of how much an orbit departs from a circle: e = 0 is circular; 0 < e < 1 is elliptical."
+        ]
+      ],
+      "caption": "Use radius and semimajor axis for different physical lengths."
+    },
+    "panels": [
+      [
+        "Orbit size is not object size",
+        "A planet’s radius describes the planet. Its semimajor axis describes its orbit. Keep the two lengths separate when using an equation."
+      ],
+      [
+        "Sketch it",
+        "Draw a circle and an ellipse. Mark the center, the two foci of the ellipse, and the semimajor axis. Put the star at one focus, not at the center."
+      ]
+    ],
+    "question": "A moon’s diameter is 3,000 km and its orbital semimajor axis is 400,000 km. Which length tells you its radius? What does the other describe?",
+    "answer": "The radius is half the diameter, so 1,500 km. The semimajor axis describes the size of the orbit, not the size of the moon. For a circular orbit it equals the center-to-center orbital distance.",
+    "source_urls": [
+      "https://science.nasa.gov/venus/venus-facts/",
+      "https://science.nasa.gov/dwarf-planets/makemake/",
+      "https://science.nasa.gov/mars/facts/",
+      "https://cneos.jpl.nasa.gov/glossary/",
+      "https://science.nasa.gov/universe/glossary/",
+      "https://science.nasa.gov/solar-system/orbits-and-keplers-laws/",
+      "https://ssd.jpl.nasa.gov/glossary/eccentricity.html"
+    ],
+    "sources": [
+      "S019",
+      "S045",
+      "S023",
+      "S128",
+      "S129",
+      "S113",
+      "S130"
+    ]
+  },
+  {
+    "id": "foundation-terms-2",
+    "concept_ids": [
+      "FND03"
+    ],
+    "classification": "Supporting foundation, not an extra enumerated rule requirement",
+    "chapter": "Get oriented: identities and scales",
+    "title": "Rotation and resonance",
+    "deck": "Rotation describes a body turning; revolution describes its motion around another body.",
+    "kind": "comparison",
+    "visual": {
+      "headers": [
+        "Term",
+        "Meaning"
+      ],
+      "rows": [
+        [
+          "Periapsis and apoapsis",
+          "The nearest and farthest orbital points from the central body. For an orbit around the Sun they are perihelion and aphelion."
+        ],
+        [
+          "Orbital resonance",
+          "A repeating ratio between orbital periods, allowing repeated gravitational interactions. Ganymede:Europa:Io complete 1:2:4 orbits in the same time; those repeated interactions can maintain eccentricity."
+        ],
+        [
+          "Synchronous rotation",
+          "Rotation period equals orbital period, so approximately the same hemisphere faces the body being orbited. This does not mean the moon never rotates."
+        ],
+        [
+          "Kuiper Belt",
+          "A region of many icy bodies beyond Neptune’s orbit; Makemake is a member."
+        ]
+      ],
+      "caption": "Compare time intervals carefully: orbital period and rotation period describe different motions."
+    },
+    "panels": [
+      [
+        "A moon can rotate and keep one face toward its planet",
+        "During one orbit, a synchronously rotating moon also turns once about its axis. From the planet, roughly the same hemisphere stays in view."
+      ],
+      [
+        "Count the orbits",
+        "While Ganymede completes one orbit, Europa completes two and Io completes four. Repeated gravitational interactions can keep the orbits slightly noncircular."
+      ]
+    ],
+    "question": "A synchronously rotating moon keeps one face toward its planet. How many times does it rotate during one complete orbit?",
+    "answer": "It rotates once. Mark a spot facing the planet and follow the moon through four positions around its orbit: that marked direction must turn through one complete rotation to keep pointing inward. A moon that did not rotate would show different faces to its planet.",
+    "source_urls": [
+      "https://science.nasa.gov/universe/glossary/",
+      "https://science.nasa.gov/solar-system/comets/67p-churyumov-gerasimenko/",
+      "https://science.nasa.gov/jupiter/jupiter-moons/ganymede/facts/",
+      "https://www.esa.int/Science_Exploration/Space_Science/Cassini-Huygens/Facts_about_Titan",
+      "https://www.jpl.nasa.gov/press-kits/europa-clipper/quick-facts/",
+      "https://science.nasa.gov/solar-system/kuiper-belt/facts/",
+      "https://science.nasa.gov/dwarf-planets/makemake/"
+    ],
+    "sources": [
+      "S129",
+      "S125",
+      "S027",
+      "S122",
+      "S120",
+      "S123",
+      "S045"
+    ]
+  },
+  {
+    "id": "foundation-terms-3",
+    "concept_ids": [
+      "FND03"
+    ],
+    "classification": "Supporting foundation, not an extra enumerated rule requirement",
+    "chapter": "Get oriented: identities and scales",
+    "title": "Names and scales",
+    "deck": "Names describe relationships. They do not prove a world is Earth-like.",
+    "kind": "comparison",
+    "visual": {
+      "headers": [
+        "Term",
+        "Meaning"
+      ],
+      "rows": [
+        [
+          "Dwarf planet",
+          "A nearly round body orbiting the Sun that has not gravitationally cleared its orbital neighborhood and is not a satellite. It is not simply any small planet or large moon."
+        ],
+        [
+          "Exoplanet and host star",
+          "An exoplanet orbits a star other than the Sun; its host star is the star it orbits. In these system names the lowercase suffix identifies a planet, for example Kepler-452 b rather than the star Kepler-452."
+        ],
+        [
+          "Arcsecond",
+          "An angular unit equal to 1/3,600 degree; an angular separation is not a physical distance."
+        ],
+        [
+          "Parsec",
+          "A distance at which 1 AU subtends an angle of 1 arcsecond; about 3.26 light-years. This definition explains separation(AU)/distance(parsecs) = angle(arcseconds) for small angles."
+        ]
+      ],
+      "caption": "A shared star connects a planetary system, not every planet’s conditions."
+    },
+    "panels": [
+      [
+        "Name the object",
+        "Kepler-452 names the star. Kepler-452 b names its planet. Makemake is a dwarf planet orbiting our Sun; it is not a moon."
+      ],
+      [
+        "Angle is not distance",
+        "Two planets can have the same projected separation from their stars but look closer together when the systems are farther away. At 10 parsecs, a projected separation of 1 AU spans 0.1 arcsecond."
+      ]
+    ],
+    "question": "Does sharing a star mean two planets have the same temperature? Does the name Kepler-452b mean that it orbits a planet called Kepler-452?",
+    "answer": "No. Distance, atmosphere, albedo and internal heat can differ even around the same star. Kepler-452 is the star; the lower-case b designates a planet in that stellar system, not a moon orbiting a planet.",
+    "source_urls": [
+      "https://ssd.jpl.nasa.gov/planets/def.html",
+      "https://science.nasa.gov/universe/glossary/",
+      "https://science.nasa.gov/exoplanets/how-do-exoplanets-get-their-names/",
+      "https://esahubble.org/about/faq/",
+      "https://spsweb.fltops.jpl.nasa.gov/portaldataops/mpg/MPG_Docs/MPG%20Book/Release/Appendix%20A-Glossary.pdf"
+    ],
+    "sources": [
+      "S131",
+      "S129",
+      "S132",
+      "S133",
+      "S134"
+    ]
+  },
+  {
+    "id": "foundation-terms-4",
+    "concept_ids": [
+      "FND03"
+    ],
+    "classification": "Supporting foundation, not an extra enumerated rule requirement",
+    "chapter": "Get oriented: identities and scales",
+    "title": "Chemistry and surfaces",
+    "deck": "Connect composition and physical processes to a specific observation.",
+    "kind": "comparison",
+    "visual": {
+      "headers": [
+        "Term",
+        "Meaning"
+      ],
+      "rows": [
+        [
+          "Isotopes and D/H",
+          "Isotopes are atoms of the same element with different neutron numbers. D/H compares deuterium (heavy hydrogen) with ordinary hydrogen; it is a chemical-history tracer, not a unique label of origin."
+        ],
+        [
+          "Radiogenic heating",
+          "Internal heating from radioactive decay; distinct from tidal heating caused by changing deformation."
+        ],
+        [
+          "Secondary atmosphere",
+          "An atmosphere supplied or replenished by processes such as outgassing, rather than simply retained primordial nebular gas. The term does not mean a confirmed Earth-like atmosphere."
+        ],
+        [
+          "Surface-bound exosphere",
+          "An extremely tenuous gas environment around a surface, unlike a thick collisional atmosphere such as Titan’s. Oxygen in such an environment is not breathable air or proof of life."
+        ]
+      ],
+      "caption": "Ask which material or process could produce the measured signal."
+    },
+    "panels": [
+      [
+        "A chemical fingerprint is a clue",
+        "D/H is a ratio of two hydrogen isotopes. Similar ratios can support a shared history, but processing can change a ratio and different sources may overlap."
+      ],
+      [
+        "Keep origins separate",
+        "Radiogenic heat comes from radioactive decay. Tidal heat comes from changing deformation. Both can heat an interior, but they have different energy sources."
+      ]
+    ],
+    "question": "How could a chemical tracer help identify material escaping from an interior without proving that life is present?",
+    "answer": "A tracer’s composition may connect surface or plume material to a plausible interior source. For example, salts in expelled ice can support contact with salty water. That inference concerns origin and transport; it is not, by itself, evidence of organisms.",
+    "source_urls": [
+      "https://science.gsfc.nasa.gov/attic/cosmicopia.gsfc.nasa.gov/compos.html",
+      "https://science.nasa.gov/solar-system/comets/67p-churyumov-gerasimenko/",
+      "https://science.nasa.gov/wp-content/uploads/2023/09/Charm-Candice-Hansen-April-2017-UPDATED.pdf?emrc=65f25a63a23cb",
+      "https://ntrs.nasa.gov/api/citations/20120017360/downloads/20120017360.pdf",
+      "https://science.nasa.gov/mission/hubble/multimedia/hubble-glossary/",
+      "https://science.nasa.gov/mission/galileo/galileo-science/",
+      "https://science.nasa.gov/jupiter/jupiter-moons/ganymede/"
+    ],
+    "sources": [
+      "S135",
+      "S125",
+      "S136",
+      "S137",
+      "S138",
+      "S139",
+      "S140"
+    ]
+  },
+  {
+    "chapter": "Habitability foundations",
+    "title": "Four requirements that interact",
+    "deck": "A world can satisfy one requirement while failing another.",
+    "kind": "ingredients",
+    "visual": {},
+    "panels": [
+      [
+        "Ingredients must be accessible",
+        "Liquid water is the known solvent for cellular chemistry. Carbon, hydrogen, nitrogen, oxygen, phosphorus and sulfur supply major biological ingredients. Merely having these elements is not enough: their chemical forms and transport determine whether organisms could use them."
+      ],
+      [
+        "Energy must be usable over time",
+        "Light or chemical reactions can drive metabolism. A stable environment need not be gentle, but its conditions must allow molecules, membranes and reactions to work. Look for sustained energy gradients and enough time, not simply a warm temperature at one instant."
+      ]
+    ],
+    "question": "An ocean contains nutrients but no usable energy gradient. Which requirement is missing, and why is “lots of water” not sufficient?",
+    "sources": [
+      "S002"
+    ],
+    "id": "foundation-3",
+    "concept_ids": [
+      "H01",
+      "H05",
+      "H06"
+    ],
+    "answer": "A usable energy source is missing. Water permits reactions but does not guarantee an energy-yielding reaction or a continuing supply of reactants.",
+    "source_urls": [
+      "https://assets.science.nasa.gov/content/dam/science/psd/astrobiology/for-researchers/strategy/nasa_astrobiology_strategy_2015_final_041216.pdf"
+    ]
+  },
+  {
+    "chapter": "Water and life",
+    "title": "Liquid water needs the right conditions",
+    "deck": "Temperature alone does not tell you whether water can remain liquid.",
+    "kind": "phase",
+    "visual": {},
+    "panels": [
+      [
+        "Read a phase diagram",
+        "A phase diagram maps the stable form of a substance against temperature and pressure. Cross a boundary and the stable phase changes. At low pressure, exposed ice may sublime directly to vapor. At sufficiently high pressure, liquid water can exist above its familiar boiling point at Earth’s sea level."
+      ],
+      [
+        "Apply it to a world",
+        "Mars has a thin atmosphere, so persistent exposed pure liquid water is difficult today. Beneath ice or rock, pressure and insulation change the problem. A subsurface ocean can therefore exist on a world whose exposed surface is much too cold for liquid water."
+      ]
+    ],
+    "question": "Why might an icy moon hold liquid water underneath a frozen surface? Explain both pressure and energy.",
+    "sources": [
+      "S004",
+      "S002"
+    ],
+    "id": "foundation-4",
+    "concept_ids": [
+      "H02",
+      "B02"
+    ],
+    "answer": "Overlying material provides pressure and insulation. Internal heating can balance heat loss and maintain liquid below a cold surface. Pressure alone does not provide the required heat.",
+    "source_urls": [
+      "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=909228",
+      "https://assets.science.nasa.gov/content/dam/science/psd/astrobiology/for-researchers/strategy/nasa_astrobiology_strategy_2015_final_041216.pdf"
+    ]
+  },
+  {
+    "chapter": "Water and life",
+    "title": "Ice is not just one material",
+    "deck": "Structure, impurities and trapped gases change what “water present” means.",
+    "kind": "waterforms",
+    "visual": {},
+    "panels": [
+      [
+        "Compare solid structures",
+        "Crystalline ice has an ordered molecular arrangement. Amorphous ice lacks long-range order and can form under very cold conditions or through irradiation. A clathrate is a water-ice framework containing guest molecules such as methane. Trapped gas is not a liquid ocean."
+      ],
+      [
+        "Brines change the limits",
+        "Dissolved salts can lower the freezing point, allowing liquid at lower temperatures than pure water. But very salty solutions reduce water activity, making water less available for biology. “Liquid exists” and “life can use that liquid” are different claims."
+      ]
+    ],
+    "question": "A salt-rich liquid remains unfrozen below 0°C. Why does that not automatically make it a good habitat?",
+    "sources": [
+      "S005",
+      "S006",
+      "S007"
+    ],
+    "id": "foundation-5",
+    "concept_ids": [
+      "B03",
+      "B04"
+    ],
+    "answer": "Salt can lower freezing temperature while lowering water activity. Temperature, acidity and other constraints may still prevent metabolism.",
+    "source_urls": [
+      "https://astrobiology.nasa.gov/nai/annual-reports/2008/uh/amorphization-of-crystalline-water-ice-in-the-solar-system/index.html",
+      "https://astrobiology.nasa.gov/news/water-activity-in-salty-water/",
+      "https://www.netl.doe.gov/sites/default/files/netl-file/2017-Methane-Hydrate-Primer%5B1%5D.pdf",
+      "https://www.netl.doe.gov/sites/default/files/netl-file/2017-Methane-Hydrate-Primer%5B1%5D.pdf"
+    ]
+  },
+  {
+    "chapter": "Water and life",
+    "title": "The molecules that cells build",
+    "deck": "These are models from known Earth life, not requirements proven for all possible life.",
+    "kind": "biomolecules",
+    "visual": {},
+    "panels": [
+      [
+        "Information and machinery",
+        "Proteins are chains of amino acids folded into structures that can catalyze reactions, transport material and support cells. DNA and RNA are nucleic acids built from nucleotides; they store and transmit information, and some RNA molecules also catalyze reactions."
+      ],
+      [
+        "Boundaries and resources",
+        "Many lipids have water-attracting and water-avoiding regions, helping membranes form. Carbohydrates include sugars used in energy transfer and structural materials. Finding amino acids or nucleobases reveals useful chemistry; it does not show that a cell assembled them."
+      ]
+    ],
+    "question": "What is the difference between finding amino acids and finding a functioning protein-based organism?",
+    "sources": [
+      "S003",
+      "S008"
+    ],
+    "id": "foundation-6",
+    "concept_ids": [
+      "B01"
+    ],
+    "answer": "Amino acids are ingredients. A functioning organism requires organized machinery, information, boundaries and energy use; nonbiological chemistry can make amino acids.",
+    "source_urls": [
+      "https://astrobiology.nasa.gov/education/alp/what-is-a-biosignature/",
+      "https://www.nasa.gov/wp-content/uploads/2019/09/chapter5_from_new_frontiers_in_astrobiology.pdf"
+    ]
+  },
+  {
+    "chapter": "Water and life",
+    "title": "Extreme does not mean impossible",
+    "deck": "Earth organisms widen the search, but they do not erase physical limits.",
+    "kind": "comparison",
+    "visual": {
+      "headers": [
+        "Example",
+        "What it teaches",
+        "Do not conclude"
+      ],
+      "rows": [
+        [
+          "Thermophile",
+          "Growth at high T",
+          "Any hot place is habitable"
+        ],
+        [
+          "Halophile",
+          "Adaptation to salt",
+          "All brines support life"
+        ],
+        [
+          "Chemolithoautotroph",
+          "Inorganic energy + CO₂",
+          "Sunlight is always required"
+        ],
+        [
+          "Tardigrade tun",
+          "Dormant stress survival",
+          "Growth in open space"
+        ]
+      ]
+    },
+    "panels": [
+      [
+        "Living on chemical energy",
+        "A chemolithoautotroph obtains energy by oxidizing inorganic substances and uses carbon dioxide as a carbon source. Near a hydrothermal vent, rock-water reactions can supply reduced chemicals; mixing with other water can provide electron acceptors. The useful habitat may be the mixing zone, not the hottest fluid."
+      ],
+      [
+        "Survival is not growth",
+        "Some tardigrades enter a dehydrated, very low-metabolism state that tolerates stresses lethal to many animals. Surviving an exposure, later recovering, and continuously reproducing in that environment are different tests. Conditions that allow a dormant traveler need not allow an ecosystem."
+      ]
+    ],
+    "question": "Would surviving ten days in vacuum prove an organism could live and reproduce on an airless moon? Why not?",
+    "sources": [
+      "S002",
+      "S009"
+    ],
+    "id": "foundation-7",
+    "concept_ids": [
+      "B05",
+      "B06"
+    ],
+    "answer": "No. Dormant survival followed by recovery under favorable conditions does not demonstrate continuous metabolism or reproduction in vacuum.",
+    "source_urls": [
+      "https://assets.science.nasa.gov/content/dam/science/psd/astrobiology/for-researchers/strategy/nasa_astrobiology_strategy_2015_final_041216.pdf",
+      "https://www.sciencedirect.com/science/article/pii/S0960982208008051"
+    ]
+  },
+  {
+    "chapter": "Water and life",
+    "title": "Life can exploit disequilibrium",
+    "deck": "A chemical energy source is a reaction that has somewhere to go.",
+    "kind": "energy",
+    "visual": {},
+    "panels": [
+      [
+        "A gradient can power chemistry",
+        "Chemical disequilibrium means a mixture has not reached its equilibrium composition. Certain reactions can release usable energy as reactants move toward equilibrium. Hydrogen from rock-water reactions can be an electron donor; other chemicals can accept electrons. Organisms couple favorable reactions to cellular work."
+      ],
+      [
+        "A biosignature needs context",
+        "Methane and oxidants together may suggest continual replenishment, but geology, sunlight and atmospheric escape can also maintain disequilibrium. Reaction rates matter: a thermodynamically favored reaction may proceed slowly. Look for supply, transport and compatible conditions, not a single “magic” molecule."
+      ]
+    ],
+    "question": "If a chemical fuel is consumed faster than it is replenished, what happens to the long-term habitat?",
+    "sources": [
+      "S002"
+    ],
+    "id": "foundation-8",
+    "concept_ids": [
+      "H05",
+      "MATH14"
+    ],
+    "answer": "The usable chemical imbalance is depleted. A sustained habitat requires replenishment or another source of usable energy.",
+    "source_urls": [
+      "https://assets.science.nasa.gov/content/dam/science/psd/astrobiology/for-researchers/strategy/nasa_astrobiology_strategy_2015_final_041216.pdf"
+    ]
+  },
+  {
+    "chapter": "Habitability mechanisms",
+    "title": "The habitable zone is a starting point",
+    "deck": "The usual stellar habitable zone concerns surface liquid water on a suitable planet.",
+    "kind": "zone",
+    "visual": {},
+    "panels": [
+      [
+        "Distance sets incoming energy",
+        "Stellar luminosity and orbital distance determine received flux. A brighter star places the comparable-flux region farther out. The zone is not a painted ring with universal edges: atmosphere, clouds, surface reflectivity and greenhouse warming affect the result."
+      ],
+      [
+        "Habitats can exist outside it",
+        "Europa and Enceladus motivate a different question: can internal energy maintain water under ice? Tidal and radiogenic heating can matter where sunlight is weak. Conversely, a planet inside the stellar zone can be dry, airless or otherwise unsuitable. “In the zone” does not mean “Earth-like.”"
+      ]
+    ],
+    "question": "Why is a subsurface ocean on a distant moon not a contradiction of the surface-water habitable-zone idea?",
+    "sources": [
+      "S010",
+      "S030",
+      "S035",
+      "S141"
+    ],
+    "id": "foundation-9",
+    "concept_ids": [
+      "H07",
+      "H06"
+    ],
+    "answer": "The conventional zone addresses surface liquid water under suitable atmospheric conditions. An internally heated, insulated ocean is a different setting.",
+    "source_urls": [
+      "https://science.nasa.gov/exoplanets/habitable-zone/",
+      "https://science.nasa.gov/mission/europa-clipper/why-europa-ingredients-for-life/",
+      "https://science.nasa.gov/saturn/moons/enceladus/",
+      "https://ntrs.nasa.gov/api/citations/20210026013/downloads/Quick_%20Chapter5_Cryovolcanism_13Jun2021.docx.pdf"
+    ],
+    "prerequisite_note": "Radiogenic heating means heat released by radioactive decay. "
+  },
+  {
+    "chapter": "Habitability mechanisms",
+    "title": "An atmosphere changes the heat budget",
+    "deck": "Absorbing infrared radiation alters how a surface loses energy to space.",
+    "kind": "greenhouse",
+    "visual": {},
+    "panels": [
+      [
+        "Follow the energy",
+        "A world absorbs some incoming starlight and reflects the rest. Its surface and atmosphere emit thermal radiation. Greenhouse gases absorb and emit selected infrared wavelengths. The surface temperature adjusts as the whole system balances incoming and outgoing energy."
+      ],
+      [
+        "Keep the quantities separate",
+        "Albedo measures reflected light, not greenhouse strength. Equilibrium temperature is a simple radiative benchmark, not automatically surface temperature. Venus illustrates how a bright, reflective world can still have an extremely hot surface beneath a massive greenhouse atmosphere."
+      ]
+    ],
+    "question": "Can increasing reflectivity cool a planet while increasing greenhouse opacity warms its surface? Explain why these are different processes.",
+    "sources": [
+      "S011",
+      "S012"
+    ],
+    "id": "foundation-10",
+    "concept_ids": [
+      "H08",
+      "H02",
+      "MATH03",
+      "MATH06"
+    ],
+    "answer": "Yes. Higher albedo reduces absorbed starlight, while infrared opacity changes radiative cooling and can warm the surface. They affect different parts of the energy budget.",
+    "source_urls": [
+      "https://science.nasa.gov/earth/earth-observatory/climate-and-earths-energy-budget/",
+      "https://science.nasa.gov/venus/facts/"
+    ]
+  },
+  {
+    "chapter": "Habitability mechanisms",
+    "title": "Can a world keep its atmosphere?",
+    "deck": "Gravity, molecular mass, temperature and stellar activity all matter.",
+    "kind": "retention",
+    "visual": {},
+    "panels": [
+      [
+        "Compare escape and motion",
+        "Escape speed grows with the square root of mass divided by radius. Gas particles have a distribution of speeds; lighter particles move faster at the same temperature. A hot, low-gravity world loses light gases more readily than a cold, high-gravity world, all else equal."
+      ],
+      [
+        "Thermal escape is not the whole story",
+        "Ultraviolet light can heat or dissociate gases. Stellar winds and ion processes can remove particles. Impacts, volcanism and chemistry can add or remove atmosphere. A magnetic field is not a simple yes/no habitability shield: retention is an evolving balance of several processes."
+      ]
+    ],
+    "question": "Why can hydrogen escape more readily than carbon dioxide from the same upper atmosphere?",
+    "sources": [
+      "S002",
+      "S013"
+    ],
+    "id": "foundation-11",
+    "concept_ids": [
+      "H03",
+      "MATH10"
+    ],
+    "answer": "At the same temperature, lighter molecules have higher typical thermal speeds. More hydrogen particles can reach escape-capable speeds, all else equal.",
+    "source_urls": [
+      "https://assets.science.nasa.gov/content/dam/science/psd/astrobiology/for-researchers/strategy/nasa_astrobiology_strategy_2015_final_041216.pdf",
+      "https://science.nasa.gov/mission/maven/"
+    ]
+  },
+  {
+    "chapter": "Habitability mechanisms",
+    "title": "Tides turn changing shape into heat",
+    "deck": "The key is a difference in gravity across a body, not simply strong gravity.",
+    "kind": "tides",
+    "visual": {},
+    "panels": [
+      [
+        "Stretching is differential gravity",
+        "The near side of a moon feels a stronger pull than its far side. Changes in the tidal deformation can dissipate mechanical energy as heat. Orbital eccentricity and interactions with other moons can maintain the changing stress; a static bulge alone does not imply continual heating."
+      ],
+      [
+        "Connect heat to habitability",
+        "Internal heat can help sustain liquid beneath ice and promote rock-water chemistry. Too little heat can freeze a habitat; intense heating can also be destructive. The tidal acceleration scale changes approximately as planet mass × moon radius ÷ separation cubed."
+      ]
+    ],
+    "question": "If separation doubles while the other quantities stay fixed, how does the tidal acceleration scale change?",
+    "sources": [
+      "S014",
+      "S015"
+    ],
+    "id": "foundation-12",
+    "concept_ids": [
+      "H04"
+    ],
+    "answer": "The tidal acceleration scale falls to one eighth. Heating power is not determined by this scaling alone.",
+    "source_urls": [
+      "https://www.esa.int/ESA_Multimedia/Images/2017/11/Enceladus_interior",
+      "https://science.nasa.gov/learn/basics-of-space-flight/chapter3-3/"
+    ],
+    "prerequisite_note": "Orbital eccentricity measures departure from a circle; repeated orbital-period ratios, called resonances, can sustain gravitational interactions. "
+  },
+  {
+    "chapter": "Reading evidence: landscapes and spectra",
+    "title": "Landforms preserve a history",
+    "deck": "A shape is evidence of a process, but one shape can have more than one explanation.",
+    "kind": "geology",
+    "visual": {},
+    "panels": [
+      [
+        "Work from pattern to process",
+        "Branching valleys may record runoff. A delta forms where flowing material enters a body of standing water and deposits sediment. Layering records repeated deposition or other changes. Compare the geometry with mineral composition, surrounding terrain and relative ages."
+      ],
+      [
+        "Distinguish past from present",
+        "An ancient lakebed demonstrates a past environment, not a present lake. Hydrated minerals can preserve water-rock interaction after water is gone. Fractures, youthful surfaces and cryovolcanic deposits may suggest internal activity, but composition and heat-flow evidence strengthen the interpretation."
+      ]
+    ],
+    "question": "What additional observation would strengthen the claim that a fan-shaped feature is a river delta rather than a dry landslide deposit?",
+    "sources": [
+      "S016",
+      "S017"
+    ],
+    "id": "foundation-13",
+    "concept_ids": [
+      "E01",
+      "E04"
+    ],
+    "answer": "Supporting evidence could include channels feeding the feature, sediment layers consistent with deposition in standing water, and water-related minerals in the right geological context.",
+    "source_urls": [
+      "https://www.jpl.nasa.gov/news/nasas-perseverance-rover-deciphers-ancient-history-of-martian-lake/",
+      "https://science.nasa.gov/eclips/resources/glossary/"
+    ]
+  },
+  {
+    "chapter": "Reading evidence: landscapes and spectra",
+    "title": "Spectra turn light into chemistry",
+    "deck": "Molecules interact with particular wavelengths, leaving patterns in light.",
+    "kind": "spectrum",
+    "visual": {},
+    "panels": [
+      [
+        "Identify a pattern, not one dip",
+        "A reflected-light spectrum can contain absorption bands from surface minerals or atmospheric gases. Compare several bands with laboratory or modeled spectra. Band strength depends on abundance, temperature, grain size, path length and mixtures, not abundance alone."
+      ],
+      [
+        "Ask what the instrument sees",
+        "A thermal spectrum probes emitted radiation. A transit spectrum compares a planet’s apparent size at different wavelengths as starlight passes through its limb. Clouds, hazes, instrument noise and stellar activity can imitate or hide features. A flat spectrum does not uniquely identify an airless planet."
+      ]
+    ],
+    "question": "Why is matching several absorption bands stronger evidence than identifying a single low point in a noisy spectrum?",
+    "sources": [
+      "S018"
+    ],
+    "id": "foundation-14",
+    "concept_ids": [
+      "E02"
+    ],
+    "answer": "Several correctly placed bands are harder to reproduce accidentally and constrain a molecular identification better than one feature, especially with noise and mixtures.",
+    "source_urls": [
+      "https://science.nasa.gov/mission/webb/science-overview/science-explainers/spectroscopy-101-types-of-spectra-and-spectroscopy/"
+    ]
+  },
+  {
+    "id": "venus",
+    "chapter": "Habitability field guide",
+    "title": "Venus: temperature is not the whole test",
+    "deck": "A world can have a comfortable-temperature layer and still lack conditions that known life requires.",
+    "kind": "world",
+    "visual": {
+      "name": "Venus",
+      "color": "#C79653",
+      "ice": false,
+      "layers": [
+        "Sulfuric-acid clouds",
+        "Dense CO₂ atmosphere",
+        "Rocky surface"
+      ],
+      "labels": [
+        "Extreme surface heat",
+        "Acid cloud droplets",
+        "Very little available water"
+      ],
+      "caption": "Atmospheric profile, not to scale. Cloud temperature alone does not establish habitability."
+    },
+    "panels": [
+      [
+        "Read the environment",
+        "Venus is a rocky planet, second from the Sun, with an orbital scale of about 0.72 AU. Venus resembles Earth in size, but its thick carbon-dioxide atmosphere produces a very different surface environment. The ground is about 467 °C, beneath pressure roughly 93 times Earth’s sea-level pressure. Strong atmospheric absorption and emission of infrared radiation help explain the heat.\n\nHigher clouds have milder temperatures and pressures. That makes them scientifically interesting, not automatically habitable. Surface and cloud environments must be evaluated separately."
+      ],
+      [
+        "Test the chemistry",
+        "Venus’s cloud droplets contain concentrated sulfuric acid, not ordinary rainwater. Their very low water activity means little water is available for the chemistry of known organisms. Temperature, solvent chemistry, acidity, usable energy, and persistence all matter together.\n\nWhether early Venus ever sustained an ocean remains uncertain. Reported phosphine is disputed, and a molecular signal would still require reliable identification and evaluation of nonbiological sources before supporting a life claim."
+      ]
+    ],
+    "question": "Why would finding an Earth-like cloud temperature be insufficient evidence of a habitable environment?",
+    "answer": "Temperature is only one constraint. Investigators must also establish suitable solvent availability, chemistry, energy, and conditions that persist long enough.",
+    "sources": [
+      "S019",
+      "S020",
+      "S021",
+      "S022"
+    ],
+    "concept_ids": [
+      "W01",
+      "H01",
+      "H02",
+      "H03",
+      "H08",
+      "E02",
+      "SUP03"
+    ],
+    "source_urls": [
+      "https://science.nasa.gov/venus/venus-facts/",
+      "https://www.nature.com/articles/s41550-021-01391-3",
+      "https://arxiv.org/abs/2110.08801",
+      "https://arxiv.org/abs/2010.14305"
+    ],
+    "foundation_context": {
+      "page_id": "venus",
+      "name": "Venus",
+      "identity": "Rocky planet; second planet from the Sun",
+      "direct_orbital_primary": "Sun",
+      "diameter_km_rounded": 12100,
+      "diameter_note": "Approximate diameter, not radius. Rounded for comparisons, not precision memorization.",
+      "solar_distance_au_rounded": 0.72,
+      "solar_distance_reference": "Distance from Sun; for moons this is their parent planet’s solar orbital scale, not their planet-centered orbital radius.",
+      "parent_center_distance_km_rounded": null,
+      "parent_distance_reference": null,
+      "teaching_value": "Approximately Earth-sized; size alone does not imply Earth-like conditions.",
+      "source_urls": [
+        "https://science.nasa.gov/venus/venus-facts/"
+      ]
+    }
+  },
+  {
+    "id": "mars",
+    "chapter": "Habitability field guide",
+    "title": "Mars: distinguish a past habitat from present life",
+    "deck": "Geology preserves clues to ancient water, while today’s surface presents different environmental challenges.",
+    "kind": "world",
+    "visual": {
+      "name": "Mars",
+      "color": "#B45C40",
+      "ice": false,
+      "layers": [
+        "Thin CO₂ atmosphere",
+        "Dry surface and polar ice",
+        "Rocky interior"
+      ],
+      "labels": [
+        "Ancient river deposits",
+        "Present surface ice",
+        "Thin atmosphere"
+      ],
+      "caption": "Past lakes are geological reconstructions. Their existence does not demonstrate that organisms lived there."
+    },
+    "panels": [
+      [
+        "Reconstruct the past",
+        "Mars is a rocky planet, fourth from the Sun, at about 1.5 AU and about half Earth’s diameter. Valleys, deltas, layered sediments, and water-altered minerals support ancient liquid-water environments on Mars. Different clues answer different questions: a delta suggests deposition where a stream entered standing water; altered minerals record chemical interaction with water.\n\nFine lake sediments can preserve organic compounds and environmental context. An ancient habitable lake means conditions could support life as we understand it, not that life actually developed there."
+      ],
+      [
+        "Keep the present separate",
+        "Modern Mars has a thin, mostly carbon-dioxide atmosphere, with typical surface pressure around 0.6% of Earth’s. Stable exposed liquid water is difficult to maintain. Polar and subsurface ice are water reservoirs, but ice alone is not a liquid-water habitat.\n\nPerseverance’s Cheyava Falls findings were described in 2025 as potential biosignatures. Their origin remains unresolved. Atmospheric escape measurements help explain environmental change, but no single mechanism explains every part of Mars’s history."
+      ]
+    ],
+    "question": "Why is an ancient lake-bed sample scientifically stronger than an organic molecule detected without geological context?",
+    "answer": "The lake-bed sample connects chemistry to a reconstructed environment and a plausible preservation setting. An isolated organic molecule can have many nonbiological origins.",
+    "sources": [
+      "S023",
+      "S024",
+      "S025",
+      "S026"
+    ],
+    "concept_ids": [
+      "W02",
+      "H01",
+      "H02",
+      "H03",
+      "E01",
+      "SUP02",
+      "SUP03"
+    ],
+    "source_urls": [
+      "https://science.nasa.gov/mars/facts/",
+      "https://science.nasa.gov/missions/mars-science-laboratory/nasas-curiosity-rover-detects-largest-organic-molecules-found-on-mars/",
+      "https://www.nasa.gov/news-release/nasa-says-mars-rover-discovered-potential-biosignature-last-year/",
+      "https://www.nasa.gov/news-release/nasa-mission-reveals-speed-of-solar-wind-stripping-martian-atmosphere/"
+    ],
+    "foundation_context": {
+      "page_id": "mars",
+      "name": "Mars",
+      "identity": "Rocky planet; fourth planet from the Sun",
+      "direct_orbital_primary": "Sun",
+      "diameter_km_rounded": 6780,
+      "diameter_note": "Approximate diameter, not radius. Rounded for comparisons, not precision memorization.",
+      "solar_distance_au_rounded": 1.5,
+      "solar_distance_reference": "Distance from Sun; for moons this is their parent planet’s solar orbital scale, not their planet-centered orbital radius.",
+      "parent_center_distance_km_rounded": null,
+      "parent_distance_reference": null,
+      "teaching_value": "About half Earth’s diameter; thin atmosphere makes pressure essential to interpreting liquid water.",
+      "source_urls": [
+        "https://science.nasa.gov/mars/facts/"
+      ]
+    }
+  },
+  {
+    "id": "ganymede",
+    "chapter": "Habitability field guide",
+    "title": "Ganymede: an ocean inside a layered world",
+    "deck": "A hidden ocean matters most when we ask how water, rock, and chemical energy could interact.",
+    "kind": "world",
+    "visual": {
+      "name": "Ganymede",
+      "color": "#9C9A91",
+      "ice": true,
+      "layers": [
+        "Surface ice",
+        "Inferred liquid and high-pressure ice layers",
+        "Rock mantle",
+        "Metallic core"
+      ],
+      "labels": [
+        "Conducting salty layer",
+        "High-pressure ice possible",
+        "Intrinsic magnetic field"
+      ],
+      "caption": "Schematic interior model, not to scale. The arrangement and connectivity of liquid layers remain uncertain."
+    },
+    "panels": [
+      [
+        "Follow the magnetic evidence",
+        "Ganymede orbits Jupiter and is the largest moon in the entire Solar System by diameter. Galileo discovered its intrinsic magnetic field, while other magnetic and auroral measurements support an electrically conducting interior layer interpreted as salty water.\n\nDo not merge those observations into one claim: the intrinsic field and the ocean’s induced magnetic response are different phenomena. Electrical conductivity helps infer material properties; it does not identify organisms or measure an ocean’s complete chemistry."
+      ],
+      [
+        "Ask whether liquid reaches rock",
+        "Deep pressure can stabilize ice phases denser than liquid water. Interior models therefore permit complicated arrangements of rock, high-pressure ice, and liquid. Some arrangements allow water-rock contact; others place substantial ice between the principal ocean and rock.\n\nThat distinction affects chemical exchange and possible energy sources. Juno detected surface salts and organic compounds whose distribution may reflect interior brines. The transport route, detailed ocean structure, and biological relevance remain inferred or unknown."
+      ]
+    ],
+    "question": "Why can two models containing the same amount of water imply different prospects for habitability?",
+    "answer": "Water’s state and arrangement matter. A liquid layer isolated by high-pressure ice may exchange chemicals with rock differently from an ocean touching a rocky seafloor.",
+    "sources": [
+      "S027",
+      "S028",
+      "S029",
+      "S119"
+    ],
+    "concept_ids": [
+      "W03",
+      "H01",
+      "H06",
+      "E02",
+      "E04",
+      "SUP03"
+    ],
+    "source_urls": [
+      "https://science.nasa.gov/jupiter/jupiter-moons/ganymede/facts/",
+      "https://www.jpl.nasa.gov/news/ganymede-may-harbor-club-sandwich-of-oceans-and-ice/",
+      "https://www.nature.com/articles/s41550-023-02107-5",
+      "https://science.nasa.gov/jupiter/jupiter-facts/"
+    ],
+    "foundation_context": {
+      "page_id": "ganymede",
+      "name": "Ganymede",
+      "identity": "Icy moon of Jupiter; largest moon in the Solar System by diameter",
+      "direct_orbital_primary": "Jupiter",
+      "diameter_km_rounded": 5260,
+      "diameter_note": "Approximate diameter, not radius. Rounded for comparisons, not precision memorization.",
+      "solar_distance_au_rounded": 5.2,
+      "solar_distance_reference": "Distance from Sun; for moons this is their parent planet’s solar orbital scale, not their planet-centered orbital radius.",
+      "parent_center_distance_km_rounded": 1070000,
+      "parent_distance_reference": "Approximate moon-to-planet center distance (orbital scale), not altitude above cloud tops.",
+      "teaching_value": "A large moon with an intrinsic magnetic field; do not confuse its planet-centered orbit with distance from the Sun.",
+      "source_urls": [
+        "https://science.nasa.gov/jupiter/jupiter-moons/ganymede/facts/",
+        "https://science.nasa.gov/jupiter/jupiter-facts/"
+      ]
+    }
+  },
+  {
+    "id": "europa",
+    "chapter": "Habitability field guide",
+    "title": "Europa: connect the surface to the ocean",
+    "deck": "A promising ocean requires more than liquid water: ingredients and usable energy must reach the same environment.",
+    "kind": "world",
+    "visual": {
+      "name": "Europa",
+      "color": "#C8B9A0",
+      "ice": true,
+      "layers": [
+        "Radiation-exposed surface",
+        "Conductive ice, thickness uncertain",
+        "Strongly supported salty ocean",
+        "Rocky seafloor"
+      ],
+      "labels": [
+        "Surface chemistry",
+        "Uncertain exchange routes",
+        "Possible water-rock reactions"
+      ],
+      "caption": "Schematic, not to scale. Ocean and interior structure are inferred; transport arrows and hydrothermal activity are hypotheses."
+    },
+    "panels": [
+      [
+        "Build the habitability chain",
+        "Europa is one of Jupiter’s moons. Europa’s fractured icy surface and magnetic evidence strongly support an ocean beneath the ice. The ocean is expected to contact rock, making water-rock reactions a possible source of useful chemistry. Tidal deformation supplies heat, but heat and metabolic energy are not interchangeable.\n\nRadiation can damage exposed organic compounds while also producing reactive chemicals at the surface. Whether those materials reach the ocean is a separate, crucial question."
+      ],
+      [
+        "Read thickness estimates carefully",
+        "Juno microwave data support a conductive ice layer tens of kilometers thick in the observed region. A pure-water-ice model gives 29 ± 10 km; salt and a possible deeper convective layer change the interpretation. This is not a global, exact total thickness.\n\nWebb mapped carbon dioxide in young terrain, favoring an internal source. That links carbon to geological activity without detecting life. Europa Clipper investigates habitability, not a guaranteed answer about organisms."
+      ]
+    ],
+    "question": "Why should a cross-section show uncertain surface-to-ocean arrows rather than a confirmed open circulation loop?",
+    "answer": "Surface chemicals and an ocean are supported separately. Their transport rates, pathways, and survival through the ice have not been established as a complete circulation system.",
+    "sources": [
+      "S030",
+      "S031",
+      "S032",
+      "S033",
+      "S034",
+      "S120",
+      "S119"
+    ],
+    "concept_ids": [
+      "W04",
+      "H01",
+      "H04",
+      "H06",
+      "E02",
+      "E04",
+      "SUP03"
+    ],
+    "source_urls": [
+      "https://science.nasa.gov/mission/europa-clipper/why-europa-ingredients-for-life/",
+      "https://www.nasa.gov/missions/juno/nasas-juno-measures-thickness-of-europas-ice-shell/",
+      "https://www.nature.com/articles/s41550-025-02718-0.pdf",
+      "https://science.nasa.gov/missions/webb/nasas-webb-finds-carbon-source-on-surface-of-jupiters-moon-europa/",
+      "https://science.nasa.gov/mission/europa-clipper/mission-faq/",
+      "https://www.jpl.nasa.gov/press-kits/europa-clipper/quick-facts/",
+      "https://science.nasa.gov/jupiter/jupiter-facts/"
+    ],
+    "foundation_context": {
+      "page_id": "europa",
+      "name": "Europa",
+      "identity": "Icy moon of Jupiter",
+      "direct_orbital_primary": "Jupiter",
+      "diameter_km_rounded": 3120,
+      "diameter_note": "Approximate diameter, not radius. Rounded for comparisons, not precision memorization.",
+      "solar_distance_au_rounded": 5.2,
+      "solar_distance_reference": "Distance from Sun; for moons this is their parent planet’s solar orbital scale, not their planet-centered orbital radius.",
+      "parent_center_distance_km_rounded": 671000,
+      "parent_distance_reference": "Approximate moon-to-planet center distance (orbital scale), not altitude above cloud tops.",
+      "teaching_value": "Smaller than Ganymede; fractured ice and ocean inference belong to a Jupiter-moon environment.",
+      "source_urls": [
+        "https://www.jpl.nasa.gov/press-kits/europa-clipper/quick-facts/",
+        "https://science.nasa.gov/jupiter/jupiter-facts/"
+      ]
+    }
+  },
+  {
+    "id": "enceladus",
+    "chapter": "Habitability field guide",
+    "title": "Enceladus: sample the plume, question the source",
+    "deck": "Erupting material gives scientists unusual access to chemistry associated with an ocean beneath an icy shell.",
+    "kind": "world",
+    "visual": {
+      "name": "Enceladus",
+      "color": "#D0E3EB",
+      "ice": true,
+      "layers": [
+        "South-polar jets",
+        "Ice shell",
+        "Subsurface ocean",
+        "Rocky interior"
+      ],
+      "labels": [
+        "Sampled ice and gas",
+        "Hydrogen and organics",
+        "Phosphate detected"
+      ],
+      "caption": "Schematic, not to scale. Plume constituents were measured; deep chemical processes are inferred from them."
+    },
+    "panels": [
+      [
+        "Separate ingredients from life",
+        "Enceladus is a small icy moon of Saturn. Cassini sampled water vapor and ice grains emerging from south-polar fractures. Salts and other measurements strongly support an ocean feeding the plume. Organics reveal carbon chemistry, while phosphate detections add an important biological nutrient to the known inventory.\n\nThese discoveries strengthen the case for investigating habitability. They do not establish living cells, a complete biological food supply, or the origin of every detected compound."
+      ],
+      [
+        "Separate heat from chemical energy",
+        "Tidal dissipation can help maintain liquid water. Molecular hydrogen in the plume supports water-rock interactions that could create chemical disequilibrium. On Earth, some microbes exploit reactions involving hydrogen and carbon dioxide; applying that analogy here remains hypothetical.\n\nPlume sampling also has limitations. Freezing, transport, concentration, and instrument sensitivity can change which materials are detected. A plume measurement is not automatically a complete, unbiased sample of the entire ocean or seafloor."
+      ]
+    ],
+    "question": "What is one advantage and one limitation of sampling a plume instead of drilling into an ocean?",
+    "answer": "A spacecraft can reach erupted material without drilling. However, eruption, freezing, transport, and instrument selection may bias the sampled chemistry.",
+    "sources": [
+      "S035",
+      "S036",
+      "S037",
+      "S038",
+      "S039",
+      "S121"
+    ],
+    "concept_ids": [
+      "W05",
+      "H01",
+      "H04",
+      "H05",
+      "H06",
+      "E04",
+      "B04",
+      "B05",
+      "SUP02"
+    ],
+    "source_urls": [
+      "https://science.nasa.gov/saturn/moons/enceladus/",
+      "https://pubmed.ncbi.nlm.nih.gov/28408597/",
+      "https://science.nasa.gov/resource/ingredients-for-life-at-enceladus/",
+      "https://www.nature.com/articles/s41586-023-05987-9",
+      "https://www.esa.int/Science_Exploration/Space_Science/Cassini-Huygens/Cassini_proves_complex_chemistry_in_Enceladus_ocean",
+      "https://www.jpl.nasa.gov/edu/pdfs/scaless_reference.pdf"
+    ],
+    "foundation_context": {
+      "page_id": "enceladus",
+      "name": "Enceladus",
+      "identity": "Icy moon of Saturn",
+      "direct_orbital_primary": "Saturn",
+      "diameter_km_rounded": 500,
+      "diameter_note": "Approximate diameter, not radius. Rounded for comparisons, not precision memorization.",
+      "solar_distance_au_rounded": 9.6,
+      "solar_distance_reference": "Distance from Sun; for moons this is their parent planet’s solar orbital scale, not their planet-centered orbital radius.",
+      "parent_center_distance_km_rounded": 238000,
+      "parent_distance_reference": "Approximate moon-to-planet center distance (orbital scale), not altitude above cloud tops.",
+      "teaching_value": "About one-tenth Titan’s diameter; small size makes sustained internal heating a meaningful question.",
+      "source_urls": [
+        "https://science.nasa.gov/saturn/moons/enceladus/",
+        "https://www.jpl.nasa.gov/edu/pdfs/scaless_reference.pdf"
+      ]
+    }
+  },
+  {
+    "id": "titan_surface",
+    "chapter": "Habitability field guide",
+    "title": "Titan: familiar weather, unfamiliar liquid",
+    "deck": "Titan’s surface liquid cycle resembles Earth’s in its processes, not in its solvent or biological implications.",
+    "kind": "world",
+    "visual": {
+      "name": "Titan",
+      "color": "#C99A4B",
+      "ice": true,
+      "layers": [
+        "Nitrogen atmosphere and organic haze",
+        "Methane and ethane lakes",
+        "Water-ice bedrock"
+      ],
+      "labels": [
+        "Methane rain",
+        "Hydrocarbon lakes",
+        "Water ice behaves as rock"
+      ],
+      "caption": "Observed surface processes, schematically arranged. Surface lakes contain hydrocarbons, not ordinary liquid water."
+    },
+    "panels": [
+      [
+        "Compare physical cycles",
+        "Titan orbits Saturn and is the Solar System’s second-largest moon, after Ganymede. Its surface pressure is roughly 1.5 times Earth’s sea-level pressure. Its dense nitrogen-rich atmosphere contains methane, which can evaporate, form clouds, fall as rain, and flow into lakes and seas containing methane and ethane. These processes resemble Earth’s water cycle, but use different liquids. Near −179 °C, water ice forms solid ground rather than ordinary surface lakes."
+      ],
+      [
+        "Organic does not mean biological",
+        "Ultraviolet light and energetic particles drive reactions involving atmospheric nitrogen and methane. These reactions build more complex organic compounds and contribute to the haze and surface deposits. Biological activity is not required.\n\nHypothetical life using liquid hydrocarbons remains speculative: no known terrestrial organism uses methane as its cellular solvent. Models of cell-like compartments explore chemical possibilities, not observed cells. Dragonfly will investigate how far Titan’s prebiotic chemistry has progressed without assuming a living biosphere."
+      ]
+    ],
+    "question": "How can Titan have lakes while still being too cold for ordinary liquid-water lakes at its surface?",
+    "answer": "Its lakes use different substances. Methane and ethane can be liquid under Titan’s conditions, while water is predominantly solid ice.",
+    "sources": [
+      "S040",
+      "S041",
+      "S042",
+      "S122",
+      "S121"
+    ],
+    "concept_ids": [
+      "W06",
+      "H01",
+      "H02",
+      "H03",
+      "E04",
+      "SUP03"
+    ],
+    "source_urls": [
+      "https://science.nasa.gov/saturn/moons/titan/facts/",
+      "https://science.nasa.gov/science-research/planetary-science/astrobiology/path-toward-protocells-on-titan/",
+      "https://science.nasa.gov/solar-system/nasas-dragonfly-mission-sets-sights-on-titans-mysteries/",
+      "https://www.esa.int/Science_Exploration/Space_Science/Cassini-Huygens/Facts_about_Titan",
+      "https://www.jpl.nasa.gov/edu/pdfs/scaless_reference.pdf"
+    ],
+    "foundation_context": {
+      "page_id": "titan_surface",
+      "name": "Titan",
+      "identity": "Icy moon of Saturn; Saturn’s largest moon and second-largest moon in the Solar System by diameter",
+      "direct_orbital_primary": "Saturn",
+      "diameter_km_rounded": 5150,
+      "diameter_note": "Approximate diameter, not radius. Rounded for comparisons, not precision memorization.",
+      "solar_distance_au_rounded": 9.6,
+      "solar_distance_reference": "Distance from Sun; for moons this is their parent planet’s solar orbital scale, not their planet-centered orbital radius.",
+      "parent_center_distance_km_rounded": 1220000,
+      "parent_distance_reference": "Approximate moon-to-planet center distance (orbital scale), not altitude above cloud tops.",
+      "teaching_value": "Similar diameter to Ganymede but radically different surface environment; substantial nitrogen atmosphere and hydrocarbon weather.",
+      "source_urls": [
+        "https://www.esa.int/Science_Exploration/Space_Science/Cassini-Huygens/Facts_about_Titan",
+        "https://www.jpl.nasa.gov/edu/pdfs/scaless_reference.pdf"
+      ]
+    }
+  },
+  {
+    "id": "titan_interior",
+    "chapter": "Habitability field guide",
+    "title": "Titan: redraw the hidden-water hypothesis",
+    "deck": "The surface methane cycle is observed; Titan’s deeper water-rich structure must be inferred from geophysical measurements.",
+    "kind": "world",
+    "visual": {
+      "name": "Titan interior",
+      "color": "#AC8553",
+      "ice": true,
+      "layers": [
+        "Frozen exterior",
+        "Possible slushy high-pressure ice",
+        "Possible melt pockets",
+        "Rock-rich interior"
+      ],
+      "labels": [
+        "Tidal response measured",
+        "Global ocean challenged",
+        "Liquid pockets possible"
+      ],
+      "caption": "Two proposed interiors, not measured cross-sections: an ocean-bearing model and a December 2025 slushy-ice model. Their layer boundaries and liquid connections remain uncertain."
+    },
+    "panels": [
+      [
+        "Observation first, model second",
+        "Cassini’s tracking measurements constrain how Titan responds to Saturn’s tides. A large deformation had supported a buried-ocean interpretation. A December 2025 reanalysis also measured strong tidal dissipation and found that its tested global-ocean models could not fit the combined response.\n\nA slushy high-pressure ice model performed better. This is evidence-driven revision of an interior model, not a spacecraft seeing directly beneath the surface. Independent tests and improved material physics remain important."
+      ],
+      [
+        "Keep separate water settings",
+        "Possible melt pockets in the revised interior model are not proof of an ocean, a habitat, or life. Their locations, connections, and chemical conditions are not directly sampled. Nor does the new interpretation establish that Titan contains no liquid water anywhere.\n\nAnother setting is transient liquid water produced by impacts. Such melting could mix water with complex surface organics. Dragonfly’s investigation of surface materials can address prebiotic processes even while the deeper interior remains uncertain."
+      ]
+    ],
+    "question": "Why should a revised interior model not erase the separately observed evidence for Titan’s surface lakes?",
+    "answer": "The two claims concern different places and substances. Surface hydrocarbon lakes are observed; the debated interior concerns subsurface water and ice.",
+    "sources": [
+      "S043",
+      "S044",
+      "S042",
+      "S040"
+    ],
+    "concept_ids": [
+      "W06",
+      "H01",
+      "H04",
+      "H06",
+      "SUP03"
+    ],
+    "source_urls": [
+      "https://www.nature.com/articles/s41586-025-09818-x",
+      "https://www.jpl.nasa.gov/news/nasa-study-suggests-saturns-moon-titan-may-not-have-global-ocean/",
+      "https://science.nasa.gov/solar-system/nasas-dragonfly-mission-sets-sights-on-titans-mysteries/",
+      "https://science.nasa.gov/saturn/moons/titan/facts/"
+    ]
+  },
+  {
+    "id": "makemake",
+    "chapter": "Habitability field guide",
+    "title": "Makemake: reading the chemistry of a distant world",
+    "deck": "Remote chemistry constrains this distant dwarf planet while leaving much of its interior and history unresolved.",
+    "kind": "world",
+    "visual": {
+      "name": "Makemake",
+      "color": "#A77A6D",
+      "ice": true,
+      "layers": [
+        "Methane-rich volatile ices",
+        "Poorly constrained interior"
+      ],
+      "labels": [
+        "Cold Kuiper Belt world",
+        "Methane ice and gas",
+        "Competing origin models"
+      ],
+      "caption": "Do not depict a known subsurface ocean. Interior shading indicates missing information, not measured layers."
+    },
+    "panels": [
+      [
+        "Establish what is observed",
+        "Makemake is a dwarf planet orbiting the Sun beyond Neptune. Makemake lies in the Kuiper Belt, averaging about 46 times Earth’s distance from the Sun. Its surface contains methane and ethane ice. At this distance, sunlight is much weaker than near Earth, and the surface is extremely cold.\n\nJWST work reported gaseous methane fluorescence. The investigators considered a tenuous bound atmosphere and escaping gas, but neither model fully reproduced the observations. A particular atmosphere or plume geometry is therefore not uniquely established."
+      ],
+      [
+        "Compare explanations, not headlines",
+        "Methane isotope ratios can constrain the molecule’s origin. One analysis favored production associated with internal heating and rock chemistry; another showed that inherited primordial methane could explain the ratios under different assumptions.\n\nThe correct lesson is a chain of increasingly model-dependent inference: identify molecules, estimate isotope ratios, then compare origin scenarios. These results do not uniquely demonstrate an active ocean or hydrothermal vents. Cold surface ice and possible internal activity also represent different environments with different habitability questions."
+      ]
+    ],
+    "question": "Why does detecting methane on Makemake not demonstrate either life or a present-day subsurface ocean?",
+    "answer": "Methane has nonbiological and inherited origins. Its detection alone does not uniquely establish its production mechanism, interior structure, or the existence of liquid water.",
+    "sources": [
+      "S045",
+      "S046",
+      "S047",
+      "S048",
+      "S123"
+    ],
+    "concept_ids": [
+      "W07",
+      "H01",
+      "H02",
+      "E02",
+      "SUP03"
+    ],
+    "source_urls": [
+      "https://science.nasa.gov/dwarf-planets/makemake/",
+      "https://arxiv.org/abs/2509.06772",
+      "https://arxiv.org/abs/2309.05549",
+      "https://arxiv.org/abs/2503.15652",
+      "https://science.nasa.gov/solar-system/kuiper-belt/facts/"
+    ],
+    "foundation_context": {
+      "page_id": "makemake",
+      "name": "Makemake",
+      "identity": "Dwarf planet in the Kuiper Belt beyond Neptune",
+      "direct_orbital_primary": "Sun",
+      "diameter_km_rounded": 1430,
+      "diameter_note": "NASA lists radius about 715 km; diameter is twice radius, about 1,430 km.",
+      "solar_distance_au_rounded": 46,
+      "solar_distance_reference": "Distance from Sun; for moons this is their parent planet’s solar orbital scale, not their planet-centered orbital radius.",
+      "parent_center_distance_km_rounded": null,
+      "parent_distance_reference": null,
+      "teaching_value": "Sun-orbiting dwarf planet, not a moon; distant sunlight is weak and an interior ocean is not established.",
+      "source_urls": [
+        "https://science.nasa.gov/dwarf-planets/makemake/",
+        "https://science.nasa.gov/solar-system/kuiper-belt/facts/"
+      ]
+    },
+    "prerequisite_note": "Isotopes are atoms of the same element with different neutron counts. "
+  },
+  {
+    "id": "bennu",
+    "chapter": "Habitability field guide",
+    "title": "Bennu: a sample of ancient chemistry",
+    "deck": "Returned material reveals ancient chemical processing and life’s ingredients without demonstrating organisms or assembled biological machinery.",
+    "kind": "world",
+    "visual": {
+      "name": "Bennu",
+      "color": "#776E66",
+      "ice": false,
+      "layers": [
+        "Loose carbon-rich surface",
+        "Rubble-pile asteroid"
+      ],
+      "labels": [
+        "Curated returned sample",
+        "Ancient brine minerals",
+        "Organic building blocks"
+      ],
+      "caption": "Bennu is a roughly 500-meter-wide, top-shaped rubble pile. Ancient water-related processing occurred in its larger parent body; this is not a present-day ocean."
+    },
+    "panels": [
+      [
+        "Read the returned sample",
+        "Bennu is a near-Earth, carbon-rich asteroid about 500 meters across that orbits the Sun. OSIRIS-REx delivered Bennu material to Earth in September 2023. Laboratory analysis can identify molecules and minerals in detail, while careful curation helps distinguish extraterrestrial chemistry from contamination. Bennu itself is a small rubble-pile asteroid, not a planet with a thick atmosphere.\n\nAnalyses identified many amino acids and all five canonical nucleobases. Later work reported sugars including ribose and glucose. These are chemical ingredients, not detected proteins, DNA, RNA, or cells."
+      ],
+      [
+        "Reconstruct the parent body",
+        "Salt minerals and water-altered material record ancient aqueous processing associated with Bennu’s larger parent body. Heating, water-rock reactions, brine evolution, disruption, and reassembly belong to a reconstructed history; they should not be illustrated as water currently flowing inside Bennu.\n\nAsteroids can help explain how organic compounds and water-bearing material reached early planets. Delivery of ingredients is not the same as delivery of living organisms, and it does not by itself explain every chemical step leading to life."
+      ]
+    ],
+    "question": "What is the difference between finding nucleobases in a sample and finding DNA in that sample?",
+    "answer": "Nucleobases are components. DNA requires organized nucleotides linked into a polymer; finding separate building blocks does not demonstrate that assembled molecule or an organism.",
+    "sources": [
+      "S049",
+      "S050",
+      "S051",
+      "S052",
+      "S053",
+      "S124"
+    ],
+    "concept_ids": [
+      "W08",
+      "H01",
+      "E03",
+      "B01",
+      "B04",
+      "SUP02"
+    ],
+    "source_urls": [
+      "https://science.nasa.gov/solar-system/asteroids/101955-bennu/",
+      "https://science.nasa.gov/mission/osiris-rex/",
+      "https://www.nasa.gov/news-release/nasas-asteroid-bennu-sample-reveals-mix-of-lifes-ingredients/",
+      "https://www.nasa.gov/missions/osiris-rex/sugars-gum-stardust-found-in-nasas-asteroid-bennu-samples/",
+      "https://science.gsfc.nasa.gov/600/public-nuggets/nugget032425.pdf",
+      "https://science.nasa.gov/solar-system/asteroids/101955-bennu/facts/"
+    ],
+    "foundation_context": {
+      "page_id": "bennu",
+      "name": "101955 Bennu",
+      "identity": "Near-Earth carbon-rich rubble-pile asteroid",
+      "direct_orbital_primary": "Sun",
+      "diameter_km_rounded": 0.5,
+      "diameter_note": "Approximate diameter, not radius. Rounded for comparisons, not precision memorization.",
+      "solar_distance_au_rounded": 1.1,
+      "solar_distance_reference": "Distance from Sun; for moons this is their parent planet’s solar orbital scale, not their planet-centered orbital radius.",
+      "parent_center_distance_km_rounded": null,
+      "parent_distance_reference": null,
+      "teaching_value": "500 meters is 0.5 kilometer, not 500 kilometers; ancient parent-body water processing is not a modern Bennu ocean.",
+      "source_urls": [
+        "https://science.nasa.gov/solar-system/asteroids/101955-bennu/facts/"
+      ],
+      "solar_distance_note": "NASA gives ~168 million km mean orbital distance; ~1.1 AU is rounded conversion, not Earth-to-Bennu distance."
+    }
+  },
+  {
+    "id": "comet_67p",
+    "chapter": "Habitability field guide",
+    "title": "67P: frozen ingredients can travel",
+    "deck": "A comet can preserve water and organic chemistry without providing a stable liquid-water habitat.",
+    "kind": "world",
+    "visual": {
+      "name": "67P/Churyumov–Gerasimenko",
+      "color": "#9A9189",
+      "ice": true,
+      "layers": [
+        "Escaping gas and dust coma",
+        "Irregular ice-and-dust nucleus"
+      ],
+      "labels": [
+        "Solar heating",
+        "Sublimation, not melting",
+        "Sampled coma chemistry"
+      ],
+      "caption": "Schematic nucleus and coma. The coma is escaping material, not a dense, stable planetary atmosphere."
+    },
+    "panels": [
+      [
+        "Follow the material",
+        "67P is a Jupiter-family comet that orbits the Sun about every 6.5 years; the family name does not mean it orbits Jupiter. Rosetta studied comet 67P at close range. As solar heating increases, volatile ices release gas and help drive dust activity. Sublimation changes a solid directly into gas; a visible coma does not require a liquid-water ocean inside the nucleus.\n\nROSINA detected glycine, the simplest amino acid, and phosphorus in the coma. Such measurements support comets as reservoirs and potential carriers of prebiotic ingredients, not as demonstrated inhabited worlds."
+      ],
+      [
+        "Interpret chemical fingerprints",
+        "Molecular oxygen was also detected. Its presence shows why chemical context matters: oxygen can have nonbiological explanations, so its detection alone is not proof of photosynthesis.\n\nThe hydrogen-isotope ratio D/H can help compare cometary water with terrestrial water. Different reanalyses of 67P have reached competing conclusions about the ratio and its variability. The useful question is how sampling, release physics, and measurement models affect the comparison, not whether one comet proves or disproves all cometary delivery of Earth’s water."
+      ]
+    ],
+    "question": "Why does detecting water vapor around a comet fail to establish a liquid-water habitat?",
+    "answer": "The vapor can originate through sublimation of ice. A habitat requires suitable liquid conditions, chemistry, energy, and persistence, none of which follows from vapor alone.",
+    "sources": [
+      "S054",
+      "S055",
+      "S056",
+      "S057",
+      "S058",
+      "S125",
+      "S126",
+      "S127"
+    ],
+    "concept_ids": [
+      "W09",
+      "H01",
+      "B02",
+      "E03",
+      "E04",
+      "SUP02",
+      "SUP03"
+    ],
+    "source_urls": [
+      "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Comet_67P_Churyumov-Gerasimenko",
+      "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Rosetta_s_comet_contains_ingredients_for_life",
+      "https://www.esa.int/About_Us/ESAC/First_detection_of_molecular_oxygen_at_a_comet",
+      "https://science.nasa.gov/solar-system/comets/nasa-led-team-links-comet-water-to-earths-oceans/",
+      "https://doi.org/10.1051/0004-6361/202661244",
+      "https://science.nasa.gov/solar-system/comets/67p-churyumov-gerasimenko/",
+      "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Getting_to_know_Rosetta_s_comet",
+      "https://www.esa.int/content/view/full/146714"
+    ],
+    "foundation_context": {
+      "page_id": "comet_67p",
+      "name": "67P/Churyumov–Gerasimenko",
+      "identity": "Jupiter-family comet orbiting the Sun",
+      "direct_orbital_primary": "Sun",
+      "diameter_km_rounded": null,
+      "diameter_note": "No single spherical diameter supplied; do not label a lobe dimension as the complete nucleus diameter.",
+      "solar_distance_au_rounded": null,
+      "solar_distance_reference": "Perihelion is closest distance to Sun, not average distance; distance changes substantially along the orbit.",
+      "parent_center_distance_km_rounded": null,
+      "parent_distance_reference": null,
+      "teaching_value": "Jupiter-family does not mean Jupiter’s moon. Its irregular ice-and-dust nucleus is kilometer-scale, not spherical.",
+      "source_urls": [
+        "https://science.nasa.gov/solar-system/comets/67p-churyumov-gerasimenko/",
+        "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Getting_to_know_Rosetta_s_comet",
+        "https://www.esa.int/content/view/full/146714"
+      ],
+      "size_text": "Irregular two-lobed nucleus, a few kilometers across. Large lobe about 4.1 × 3.3 × 1.8 km; small lobe about 2.6 × 2.3 × 1.8 km.",
+      "orbital_period_earth_years_rounded": 6.5,
+      "perihelion_au_rounded": 1.3
+    },
+    "prerequisite_note": "D/H compares heavy hydrogen (deuterium) with ordinary hydrogen; it is a history tracer, not a unique origin label. "
+  },
+  {
+    "id": "trappist_system",
+    "chapter": "Habitability field guide",
+    "title": "TRAPPIST-1: seven planets, seven experiments",
+    "deck": "A shared star enables comparison, but similar size and habitable-zone location do not establish Earth-like conditions.",
+    "kind": "world",
+    "visual": {
+      "name": "TRAPPIST-1",
+      "color": "#D68657",
+      "ice": false,
+      "layers": [
+        "Ultracool red-dwarf star",
+        "Compact planetary orbits",
+        "Model-dependent habitable zone"
+      ],
+      "labels": [
+        "Seven small planets",
+        "e, f, g in common HZ models",
+        "Atmospheres unresolved"
+      ],
+      "caption": "Use separate scales for orbital distance and planet size. Planet surfaces must be labeled artistic hypotheses."
+    },
+    "panels": [
+      [
+        "Explain the compact system",
+        "Seven approximately Earth-size planets orbit the small, faint star TRAPPIST-1. All have orbits smaller than Mercury’s around the Sun, yet some receive irradiation compatible with commonly modeled surface-water habitable zones because their star is much dimmer.\n\nA habitable zone assumes suitable atmospheric and water conditions. It does not guarantee either. Planets e, f, and g are useful targets, not confirmed oceans or seven interchangeable versions of Earth."
+      ],
+      [
+        "Use the system as a comparison",
+        "A small star gives a relatively large planet-to-star area ratio, making transits easier to measure. Short orbital periods also allow repeated observations. Those advantages are balanced by stellar flares, spots, and bright regions that complicate atmospheric measurements.\n\nClose orbits make synchronous rotation plausible. A permanent day side does not automatically prohibit habitability: an atmosphere or ocean could transport heat, if present. Different irradiation levels, volatile histories, and atmospheric loss prevent an inner planet’s result from answering for the entire system."
+      ]
+    ],
+    "question": "Why can a planet orbiting closer than Mercury still lie in a modeled habitable zone around another star?",
+    "answer": "Received energy depends on stellar luminosity as well as distance. A much fainter star’s habitable zone lies much closer to it.",
+    "sources": [
+      "S059",
+      "S060"
+    ],
+    "concept_ids": [
+      "X01",
+      "H01",
+      "H03",
+      "H07",
+      "DET01"
+    ],
+    "source_urls": [
+      "https://science.nasa.gov/mission/webb/science-overview/science-explainers/what-is-webb-revealing-about-the-trappist-1-system/",
+      "https://doi.org/10.3847/1538-4357/aae36a"
+    ]
+  },
+  {
+    "id": "trappist_evidence",
+    "chapter": "Habitability field guide",
+    "title": "TRAPPIST-1: what do the measurements allow?",
+    "deck": "Atmosphere searches compare models against noisy data; neither a flat spectrum nor a good fit supplies a unique answer.",
+    "kind": "comparison",
+    "visual": {
+      "name": "TRAPPIST-1 atmosphere evidence",
+      "color": "#8A74B8",
+      "headers": [
+        "Planet",
+        "Evidence summary",
+        "Important limit"
+      ],
+      "rows": [
+        [
+          "b, c",
+          "Thermal data disfavor tested thick, heat-redistributing atmospheres.",
+          "Not a result for all seven planets"
+        ],
+        [
+          "d",
+          "Several tested atmosphere models excluded",
+          "Thin or obscured alternatives remain"
+        ],
+        [
+          "e",
+          "Secondary atmosphere unresolved",
+          "No confirmed nitrogen or ocean"
+        ],
+        [
+          "f",
+          "Tested H₂/He atmospheres disfavored",
+          "Limits depend on models and data treatment"
+        ],
+        [
+          "g, h",
+          "Composition not established here",
+          "Do not substitute another planet’s result"
+        ]
+      ],
+      "caption": "Dated evidence summary through 23 October 2026. Excluding a tested model is not excluding every atmosphere."
+    },
+    "panels": [
+      [
+        "Match the technique to the question",
+        "Transmission spectroscopy measures how the apparent transit depth changes with wavelength. Absorption features can constrain gases, while high clouds or a compact heavy atmosphere can weaken those features. Stellar surface variations can also mimic a planetary signal.\n\nThermal observations address another question: how much infrared radiation emerges from different orbital phases? Day-night contrasts help constrain heat redistribution, but the interpretation still depends on atmospheric and surface models."
+      ],
+      [
+        "Keep each result bounded",
+        "The b/c infrared observations favor little heat transfer from day to night. Airless surfaces fit well, although some thin or weak-greenhouse atmosphere models remain possible. For e, a secondary atmosphere remains unresolved. An analysis published in 2026 of five f transits observed in 2022–2023 disfavors tested extended hydrogen/helium atmospheres. Heavier atmospheres are harder to constrain, and results depend on how the data and the star’s changing light are modeled.\n\nFlares occurred during all five f observing visits. Not detecting one kind of stellar contamination does not mean the star was quiet. No established atmospheric composition or ocean follows for g or h from the evidence summarized here. A result for one planet is not a system-wide verdict."
+      ]
+    ],
+    "question": "Give two explanations for a nearly flat transmission spectrum besides a bare, airless planet.",
+    "answer": "A high-mean-molecular-weight atmosphere can produce small spectral features, and high clouds or hazes can obscure deeper atmospheric absorption.",
+    "sources": [
+      "S061",
+      "S062",
+      "S063",
+      "S064",
+      "S065",
+      "S146"
+    ],
+    "concept_ids": [
+      "X01",
+      "H01",
+      "E02",
+      "DET01",
+      "SUP03",
+      "SK04"
+    ],
+    "source_urls": [
+      "https://www.nature.com/articles/s41550-026-02806-9",
+      "https://arxiv.org/abs/2508.08416",
+      "https://arxiv.org/abs/2509.05407",
+      "https://arxiv.org/html/2608.17207v2",
+      "https://arxiv.org/abs/2512.07695",
+      "https://arxiv.org/html/2509.02128v1"
+    ],
+    "prerequisite_note": "A secondary atmosphere is supplied or replenished by processes such as outgassing, rather than simply retained primordial nebular gas. "
+  },
+  {
+    "id": "kepler_452",
+    "chapter": "Habitability field guide",
+    "title": "Kepler-452: how much does an Earth-like orbit tell us?",
+    "deck": "A roughly year-long orbit around a Sun-like star is a starting point for investigation, not a portrait of another Earth.",
+    "kind": "world",
+    "visual": {
+      "name": "Kepler-452 b",
+      "color": "#8D9A8E",
+      "ice": false,
+      "layers": [
+        "Unknown atmosphere",
+        "Unknown surface and interior"
+      ],
+      "labels": [
+        "Transit signal; reliability debated",
+        "About 1.6 Earth radii",
+        "About 385-day orbit"
+      ],
+      "caption": "Its appearance and interior are unknown. The disk is schematic, not a picture of a measured surface."
+    },
+    "panels": [
+      [
+        "Keep measured properties distinct",
+        "Kepler-452 b was identified from repeated transit-like dips around a Sun-like G-type star. NASA’s archive retains it among confirmed planets but flags its detection reliability as controversial. Its radius is about 1.6 Earth radii, its orbital period about 385 days, and its orbital distance about 1.05 AU. These properties motivate comparison with Earth.\n\nA transit primarily constrains a planet’s size relative to its star and its repeating orbital timing. It does not reveal continents, organisms, atmospheric pressure, or a measured ocean. Size alone cannot uniquely determine whether a planet is rocky or volatile-rich."
+      ],
+      [
+        "Consider the star’s history",
+        "Kepler-452 is estimated to be older and somewhat more luminous than the Sun. A similar orbital distance therefore need not mean Earth’s present irradiation. Stellar evolution can also move habitable-zone boundaries over time, changing a planet’s environmental history.\n\nCatalog values require provenance. A listed estimated mass should not be treated as an independently measured dynamical mass or used to claim measured density. Atmosphere, surface temperature, water inventory, and interior structure remain unresolved, regardless of the appealing “Earth cousin” nickname."
+      ]
+    ],
+    "question": "Why would equal orbital distance around two different stars fail to guarantee equal planetary temperature?",
+    "answer": "Stellar luminosity can differ, and planetary albedo, atmospheric greenhouse effects, heat redistribution, and other conditions also influence temperature.",
+    "sources": [
+      "S066",
+      "S067",
+      "S068",
+      "S143",
+      "S144"
+    ],
+    "concept_ids": [
+      "X02",
+      "H01",
+      "H07",
+      "DET01",
+      "SUP01"
+    ],
+    "source_urls": [
+      "https://science.nasa.gov/exoplanet-catalog/kepler-452-b/",
+      "https://arxiv.org/abs/1507.06723",
+      "https://www.nasa.gov/news-release/nasas-kepler-mission-discovers-bigger-older-cousin-to-earth/",
+      "https://exoplanetarchive.ipac.caltech.edu/docs/kepler452b.html",
+      "https://arxiv.org/html/2509.07409v1"
+    ],
+    "prerequisite_note": "Kepler-452 names the host star; the lowercase b identifies the planet. A G-type star belongs to the same broad spectral class as the Sun, not necessarily the same age or luminosity."
+  },
+  {
+    "id": "lhs1140_models",
+    "chapter": "Habitability field guide",
+    "title": "LHS 1140: compare possible worlds",
+    "deck": "Precise mass and radius narrow the possibilities, but they do not uniquely identify an atmosphere or surface ocean.",
+    "kind": "world",
+    "visual": {
+      "name": "LHS 1140 b",
+      "color": "#679C9A",
+      "ice": false,
+      "layers": [
+        "Atmosphere not confirmed",
+        "Water-rich or gas-envelope alternatives",
+        "Rock-rich interior"
+      ],
+      "labels": [
+        "About 1.73 Earth radii",
+        "About 5.6 Earth masses",
+        "Model-dependent composition"
+      ],
+      "caption": "Alternative models, not a measured cross-section. An open substellar ocean is a climate hypothesis only."
+    },
+    "panels": [
+      [
+        "Start with independent constraints",
+        "LHS 1140 b orbits a red dwarf about every 24.7 days. Its mass is about 5.6 Earth masses and its radius about 1.73 Earth radii. Combining them constrains bulk density, which interior models must reproduce.\n\nDensity does not supply a unique composition. Pressure compresses material, and different arrangements of rock, water, and a gaseous envelope can produce similar measurements. Simply comparing the number with Earth’s density can therefore mislead."
+      ],
+      [
+        "Label interpretations honestly",
+        "Water-rich interiors and a small light-gas envelope have been considered. Transmission spectra disfavour several tested hydrogen-rich models, while tentative nitrogen-related features remain vulnerable to stellar-contamination uncertainties. Extremely high clouds could hide atmospheric features, but the tested climate models make that explanation less plausible, not impossible.\n\nAn “eyeball” illustration with an open ocean facing the star represents a climate scenario. It assumes appropriate atmosphere, water supply, and heat transport. A water-world candidate should not be relabeled as a detected ocean, a confirmed nitrogen atmosphere, or a measured Earth-like surface."
+      ]
+    ],
+    "question": "Why can a water-rich interpretation remain plausible even when the planet’s mean density is near Earth’s?",
+    "answer": "Larger rocky planets are more compressed. The expected density must be calculated for the planet’s mass and composition, not inferred solely by comparison with Earth.",
+    "sources": [
+      "S069",
+      "S070",
+      "S071"
+    ],
+    "concept_ids": [
+      "X03",
+      "H01",
+      "H03",
+      "H07",
+      "SUP01",
+      "SUP03"
+    ],
+    "source_urls": [
+      "https://arxiv.org/html/2406.15136v1",
+      "https://science.nasa.gov/exoplanet-catalog/lhs-1140-b/",
+      "https://arxiv.org/html/2608.13473v1"
+    ]
+  },
+  {
+    "id": "lhs1140_helium",
+    "chapter": "Habitability field guide",
+    "title": "LHS 1140: follow a disputed helium signal",
+    "deck": "An evolving atmosphere claim is a chance to practice distinguishing a reported signal from a settled interpretation.",
+    "kind": "comparison",
+    "visual": {
+      "name": "LHS 1140 helium timeline",
+      "color": "#679C9A",
+      "headers": [
+        "Evidence",
+        "Observation",
+        "Interpretation limit"
+      ],
+      "rows": [
+        [
+          "September 2024 ground transit",
+          "Reported helium absorption",
+          "One claimed positive epoch"
+        ],
+        [
+          "September 2025 ground transit",
+          "No matching signal",
+          "Possible variability proposed"
+        ],
+        [
+          "JWST: December 2023 (two visits), August 2025, July 2026",
+          "No helium at reported level",
+          "None simultaneous with positive epoch"
+        ],
+        [
+          "Two 2026 JWST analyses",
+          "Same four visits independently analyzed",
+          "Not eight independent observations"
+        ]
+      ],
+      "caption": "Publication timeline: helium claim July 2026; non-detection analyses August–September 2026. Status as of 23 October 2026."
+    },
+    "panels": [
+      [
+        "What was reported?",
+        "A July 2026 paper reported helium absorption during a 2024 ground-based transit, but not during a 2025 transit. The authors interpreted the difference as variable escape from a helium-rich upper atmosphere.\n\nThat interpretation combines spectral measurements with physical models of atmospheric outflow and stellar irradiation. Even a confirmed upper-atmosphere helium signal would not independently establish the lower atmosphere’s composition, surface pressure, liquid water, or suitability for life."
+      ],
+      [
+        "What did the tests change?",
+        "Two independent analyses examined the same four JWST transits and did not find helium at the reported level. None was simultaneous with the positive ground-based observation. A persistent signal is disfavored; an intermittent signal or a spurious original detection remains possible.\n\nThe non-detections do not prove that the planet has no atmosphere, and they do not decide whether it is a water world or mini-Neptune. More observations must test the signal and atmosphere without assuming the preferred outcome."
+      ]
+    ],
+    "question": "Why don’t observations without helium settle what happened on a different date?",
+    "answer": "The signal could vary with time. The non-detections constrain persistence and strength, but distinguishing variability from a false positive requires further evidence.",
+    "sources": [
+      "S072",
+      "S073",
+      "S071"
+    ],
+    "concept_ids": [
+      "X03",
+      "H01",
+      "E02",
+      "SUP03",
+      "SK04"
+    ],
+    "source_urls": [
+      "https://arxiv.org/html/2607.14326v1",
+      "https://arxiv.org/html/2608.13470v2",
+      "https://arxiv.org/html/2608.13473v1"
+    ]
+  },
+  {
+    "id": "compare_liquids",
+    "chapter": "Compare and reason",
+    "title": "Where is the liquid?",
+    "deck": "Always specify the substance, physical state, location, and time before judging whether a water-related clue describes a habitat.",
+    "kind": "comparison",
+    "visual": {
+      "name": "Liquid and ice settings",
+      "color": "#50899C",
+      "headers": [
+        "Setting",
+        "Examples",
+        "Caution"
+      ],
+      "rows": [
+        [
+          "Ancient aqueous environments",
+          "Mars; Bennu’s parent body",
+          "Past water does not establish present life"
+        ],
+        [
+          "Inferred subsurface water",
+          "Europa; Ganymede; Enceladus",
+          "Connectivity and chemistry still matter"
+        ],
+        [
+          "Observed hydrocarbon lakes",
+          "Titan’s surface",
+          "Different solvent from liquid water"
+        ],
+        [
+          "Surface ice and escaping vapor",
+          "Makemake; comet 67P",
+          "Ice or vapor is not a liquid habitat"
+        ],
+        [
+          "Cloud acid solutions",
+          "Venus",
+          "Water availability is strongly constrained"
+        ]
+      ],
+      "caption": "Compare environments rather than assigning invented numerical habitability rankings."
+    },
+    "panels": [
+      [
+        "Ask four questions",
+        "First ask what substance is present: water, methane, or an acid solution are not interchangeable solvents. Next ask its state: ice, vapor, liquid, and chemically bound water provide different evidence.\n\nThen locate it. Surface lakes and deep isolated reservoirs experience different pressures, temperatures, and chemical supplies. Finally ask when it existed. Ancient minerals and sedimentary landforms can preserve a past wet environment without establishing a modern liquid reservoir."
+      ],
+      [
+        "Connect conditions rather than count ingredients",
+        "Habitability depends on conditions working together. Liquid may be physically present but chemically unsuitable, isolated from nutrients, or too short-lived for the process being considered. Heat that maintains liquid is not automatically an accessible metabolic energy source.\n\nComparisons are strongest when they identify a testable missing connection: Does water touch rock? Can surface chemicals cross the ice? How long did a lake persist? Avoid counting favorable facts as if every ingredient independently added a fixed amount of habitability."
+      ]
+    ],
+    "question": "A sample contains hydrated minerals. Which conclusion is stronger: past water-rock interaction or a present-day underground ocean?",
+    "answer": "Past water-rock interaction is supported. Hydrated minerals alone do not establish a present ocean, its size, or its continued existence.",
+    "sources": [
+      "S023",
+      "S030",
+      "S040",
+      "S051"
+    ],
+    "concept_ids": [
+      "H01",
+      "H02",
+      "H06",
+      "H07",
+      "B02",
+      "B04",
+      "E01",
+      "SK04"
+    ],
+    "source_urls": [
+      "https://science.nasa.gov/mars/facts/",
+      "https://science.nasa.gov/mission/europa-clipper/why-europa-ingredients-for-life/",
+      "https://science.nasa.gov/saturn/moons/titan/facts/",
+      "https://www.nasa.gov/news-release/nasas-asteroid-bennu-sample-reveals-mix-of-lifes-ingredients/"
+    ]
+  },
+  {
+    "id": "compare_chemistry",
+    "chapter": "Compare and reason",
+    "title": "The same molecule can tell different stories",
+    "deck": "A chemical detection becomes meaningful only when its origin, environmental setting, and alternative explanations are considered.",
+    "kind": "comparison",
+    "visual": {
+      "name": "Molecules in context",
+      "color": "#936DA1",
+      "headers": [
+        "Substance",
+        "Different settings",
+        "Reasoning lesson"
+      ],
+      "rows": [
+        [
+          "Methane",
+          "Titan weather; Makemake ice and gas",
+          "Abiotic or inherited sources exist"
+        ],
+        [
+          "Organic compounds",
+          "Bennu samples; 67P coma; moon plumes",
+          "Ingredients are not organisms"
+        ],
+        [
+          "Molecular oxygen",
+          "67P coma; irradiated icy surfaces",
+          "Oxygen need not imply photosynthesis"
+        ],
+        [
+          "Carbon dioxide",
+          "Venus atmosphere; Europa surface",
+          "Same molecule, different geological role"
+        ]
+      ],
+      "caption": "Examples are chemical comparisons, not a list of confirmed biosignatures."
+    },
+    "panels": [
+      [
+        "Separate identification from origin",
+        "A reliable spectrum or laboratory measurement can establish that a molecule occurs in sampled material. That is a different claim from explaining how it formed. Biological, geological, atmospheric, and inherited sources can sometimes produce the same molecule.\n\nEven the word “organic” is a chemical description, not a statement that an organism made the material. Amino acids, sugars, and nucleobases are building blocks; detecting them does not demonstrate assembled cells or genetic systems."
+      ],
+      [
+        "Build a stronger argument",
+        "Context strengthens interpretation. Ask whether the molecule is associated with particular minerals, a geological setting, a temperature range, or an isotopic pattern. Then test whether nonbiological processes could create the same observations.\n\nMultiple independent clues are more useful than repeating one detection in different words. Contamination controls, measurement uncertainty, preservation, and sampling limitations also matter. A potential biosignature deserves investigation precisely because its biological origin has not yet been established."
+      ]
+    ],
+    "question": "Why is “organic molecules detected” a weaker claim than “life detected,” even when the measurement is reliable?",
+    "answer": "Organic compounds can form without biology. Life requires additional evidence of biological origin or organization, evaluated against nonbiological explanations and contamination.",
+    "sources": [
+      "S051",
+      "S055",
+      "S056",
+      "S040"
+    ],
+    "concept_ids": [
+      "H01",
+      "E02",
+      "E03",
+      "B01",
+      "SUP02",
+      "SK04"
+    ],
+    "source_urls": [
+      "https://www.nasa.gov/news-release/nasas-asteroid-bennu-sample-reveals-mix-of-lifes-ingredients/",
+      "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Rosetta_s_comet_contains_ingredients_for_life",
+      "https://www.esa.int/About_Us/ESAC/First_detection_of_molecular_oxygen_at_a_comet",
+      "https://science.nasa.gov/saturn/moons/titan/facts/"
+    ]
+  },
+  {
+    "id": "compare_methods",
+    "chapter": "Compare and reason",
+    "title": "Match the evidence to the claim",
+    "deck": "The best interpretation stays within what the instrument measured and makes each additional assumption visible.",
+    "kind": "comparison",
+    "visual": {
+      "name": "Evidence and inference",
+      "color": "#537F99",
+      "headers": [
+        "Measurement",
+        "Useful constraint",
+        "Does not establish alone"
+      ],
+      "rows": [
+        [
+          "Induced magnetic response to a changing field",
+          "Conducting interior layer",
+          "An inhabited ocean"
+        ],
+        [
+          "Gravity and tidal response",
+          "Interior mechanical properties",
+          "A unique layer arrangement"
+        ],
+        [
+          "Plume mass spectrum",
+          "Accessible gas and grain chemistry",
+          "Unbiased whole-ocean inventory"
+        ],
+        [
+          "Transit spectroscopy",
+          "Gas and cloud models, after accounting for the star",
+          "Surface oceans"
+        ],
+        [
+          "Returned sample",
+          "Detailed minerals and molecules",
+          "Biological origin"
+        ]
+      ],
+      "caption": "Inference is essential to science. The goal is to test assumptions, not to treat all inference as mere guessing."
+    },
+    "panels": [
+      [
+        "Trace the reasoning chain",
+        "Start with the actual measurement: a brightness, frequency shift, particle count, absorption feature, or laboratory result. State what processing converts it into, then identify the physical model used to interpret it.\n\nA cross-section may summarize the best explanation without being a direct image. The distinction matters when several models fit. Ask what new measurement would separate those alternatives rather than choosing the most vivid illustration."
+      ],
+      [
+        "Understand non-detections",
+        "A non-detection constrains a signal at particular sensitivity, wavelengths, locations, and times. It rarely means that the phenomenon is absent everywhere and forever. An atmosphere can have weak features; a plume can vary; an ancient biosignature can fail to survive.\n\nConversely, a model that fits is not necessarily uniquely required. Strong conclusions emerge when independent evidence converges, alternative explanations fail, and uncertainties are retained. Revision after better data is a strength of the method, not a failure of science."
+      ]
+    ],
+    "question": "What additional sentence should accompany a claim that an atmospheric gas was not detected?",
+    "answer": "State the observation’s sensitivity and coverage, plus which concentrations or model scenarios are excluded. Do not silently generalize the result to all atmospheres or times.",
+    "sources": [
+      "S064",
+      "S073",
+      "S027",
+      "S043"
+    ],
+    "concept_ids": [
+      "H01",
+      "E02",
+      "DET01",
+      "ENG02",
+      "SUP01",
+      "SUP02",
+      "SK04"
+    ],
+    "source_urls": [
+      "https://arxiv.org/html/2608.17207v2",
+      "https://arxiv.org/html/2608.13470v2",
+      "https://science.nasa.gov/jupiter/jupiter-moons/ganymede/facts/",
+      "https://www.nature.com/articles/s41586-025-09818-x"
+    ]
+  },
+  {
+    "id": "detection-transit",
+    "concept_ids": [
+      "DET01"
+    ],
+    "chapter": "Finding other worlds",
+    "title": "Transits: measure a missing fraction",
+    "deck": "A planet crosses its star; a telescope records brightness, not a planetary portrait.",
+    "kind": "transit",
+    "visual": {},
+    "panels": [
+      [
+        "From light curve to size",
+        "A transit is a temporary decrease in total stellar brightness when a planet crosses the visible stellar disk. Plot normalized brightness against time. The depth is the missing fraction of light: a fall from 1.000 to 0.990 means a depth of 0.010, or 1%. For a small dark planet making a non-grazing crossing of an approximately uniform, unblended star, depth is approximately the squared planet-to-star radius ratio. Thus a 1% dip implies a radius ratio of 0.10, not 0.01. The interval between consecutive transit centers gives orbital period; the width of one dip gives transit duration."
+      ],
+      [
+        "Geometry filters the discoveries",
+        "A planet must pass across the star from our viewing direction, so many real planets never transit. Large planets, small host stars and short periods generally produce easier detections. Repeated dips strengthen the case, but eclipsing stars, blended light and stellar activity must be excluded. Limb darkening, grazing paths and starspots complicate the simple depth formula. Converting radius ratio to planet radius requires the stellar radius. Transit depth alone does not give mass, surface temperature, liquid water or habitability. When comparing two depths around the same star, take a square root before comparing planet sizes."
+      ]
+    ],
+    "question": "A second planet makes a dip four times deeper around the same star. How do their radii compare?",
+    "answer": "Its radius is twice as large under the simple transit model, because depth scales as radius squared.",
+    "sources": [
+      "S074",
+      "S075",
+      "S142"
+    ],
+    "source_urls": [
+      "https://science.nasa.gov/exoplanets/how-we-find-and-characterize/",
+      "https://heasarc.gsfc.nasa.gov/W3Browse/star-catalog/exoplanodb.html",
+      "https://arxiv.org/abs/2010.01074"
+    ]
+  },
+  {
+    "id": "detection-rv",
+    "concept_ids": [
+      "DET02",
+      "MATH01"
+    ],
+    "chapter": "Finding other worlds",
+    "title": "Radial velocity: weigh the wobble",
+    "deck": "The star moves too; spectral-line shifts reveal the component toward or away from us.",
+    "kind": "rv",
+    "visual": {},
+    "panels": [
+      [
+        "From spectrum to velocity",
+        "A planet and star orbit their shared center of mass. The star's spectral lines shift toward shorter wavelengths as it approaches and longer wavelengths as it recedes. For speeds much smaller than light speed, radial velocity divided by light speed equals wavelength shift divided by rest wavelength. Plot radial velocity against time after removing the system's overall motion. A simple circular orbit produces an approximately sinusoidal curve. The repeating interval gives period. A curve extending from −20 to +20 meters per second has semi-amplitude K = 20 meters per second; 40 is the full peak-to-peak range. Here the wavelength shift means observed wavelength minus rest wavelength; positive radial velocity means moving away."
+      ],
+      [
+        "Minimum mass, not radius",
+        "With stellar mass and an orbital model, the wobble usually constrains planet mass multiplied by sin(i). Here i = 90 degrees is edge-on, while i = 0 is face-on. Unknown inclination therefore leaves a minimum mass: a heavier planet viewed more face-on can produce the same signal. Transits help fix inclination near edge-on, while their depth supplies radius. Massive close-in planets generally create larger signals; long-period planets require long monitoring. Stellar rotation, spots, pulsations and instrumental drift can mimic small Doppler changes. Radial velocity measures line-of-sight motion, not the star's position across the sky."
+      ]
+    ],
+    "question": "A planet has minimum mass 4 Earth masses and sin(i) = 0.5. What is its actual mass?",
+    "answer": "Eight Earth masses: divide the minimum mass by sin(i). RV alone supplies no radius.",
+    "sources": [
+      "S076",
+      "S077"
+    ],
+    "source_urls": [
+      "https://exoplanetarchive.ipac.caltech.edu/docs/API_PS_columns.html",
+      "https://www.esa.int/Science_Exploration/Space_Science/Exoplanets/How_to_find_an_exoplanet"
+    ]
+  },
+  {
+    "id": "detection-microlensing",
+    "concept_ids": [
+      "DET03"
+    ],
+    "chapter": "Finding other worlds",
+    "title": "Microlensing: a rare alignment",
+    "deck": "A foreground system changes the brightness of a background star.",
+    "kind": "lensing",
+    "visual": {},
+    "panels": [
+      [
+        "Keep source and lens separate",
+        "Gravity bends light. When a foreground lens passes close to our line of sight to a more distant source star, the background star appears temporarily brighter. A planet associated with the foreground lens can introduce a brief perturbation into that brightening pattern. The star being magnified is not the planet's host. Compare the measured brightness-versus-time curve with a single-lens model, then ask whether a planetary model explains the extra feature. The diagram is schematic: surveys generally measure changing combined light rather than resolving separate gravitationally lensed images or watching a planet emit a flash."
+      ],
+      [
+        "Powerful census, difficult revisit",
+        "Light-curve modeling can constrain planet-to-host mass ratio and projected separation in lensing units. Absolute planet mass and physical separation require additional information. Event duration alone combines mass, distances and relative transverse motion, so duration is not a unique mass scale. Microlensing can reveal cool, more widely separated planets around faint or distant hosts without detecting planetary light. Dense star fields offer many chances for rare alignments, and rapid observations catch short planetary features. The alignment usually does not repeat, making follow-up difficult. A short isolated event may indicate an unbound planet, but that interpretation requires careful analysis. A planet on a very wide bound orbit can also resemble an isolated lens."
+      ]
+    ],
+    "question": "Two events last equally long. Must their lens masses be equal?",
+    "answer": "No. Different distances and relative motions can compensate for different lens masses.",
+    "sources": [
+      "S078",
+      "S079",
+      "S147"
+    ],
+    "source_urls": [
+      "https://science.nasa.gov/mission/roman-space-telescope/microlensing/",
+      "https://science.nasa.gov/mission/roman-space-telescope/exoplanets/",
+      "https://exoplanet.ipac.caltech.edu/docs/API_microlensing.html"
+    ]
+  },
+  {
+    "id": "detection-imaging",
+    "concept_ids": [
+      "DET04"
+    ],
+    "chapter": "Finding other worlds",
+    "title": "Direct imaging: separate faint light",
+    "deck": "Suppress stellar glare to measure photons from the planet itself.",
+    "kind": "imaging",
+    "visual": {},
+    "panels": [
+      [
+        "What an image really provides",
+        "Direct imaging separates planetary light from the nearby star. The photons may be reflected starlight or the planet's own thermal emission. Directly imaged exoplanets appear as unresolved points of light, not pictures of continents or clouds. Observations give position relative to the star, brightness in selected bands and sometimes a spectrum. Repeat images can test whether a candidate moves with the star and constrain its orbit. Spectra and colors inform temperature, clouds and composition through models. Brightness is not a unique mass measurement: age, radius, temperature and atmospheric properties all affect how much light a planet emits."
+      ],
+      [
+        "Contrast and separation both matter",
+        "A coronagraph suppresses starlight; stable optics, wavefront control and processing reduce remaining glare. Residual speckles can resemble companions, so a faint dot needs verification. A wide orbit around a nearby star is easier to separate angularly than the same orbit farther away. Projected separation in AU divided by distance in parsecs gives angular separation in arcseconds: 10 AU at 20 parsecs is 0.5 arcsecond. Projected separation need not equal orbital semimajor axis. Current infrared imaging favors young, hot giant planets at wide separations. This selection differs strongly from the close-in planets favored by transit surveys."
+      ]
+    ],
+    "question": "An identical planetary system is placed twice as far away. What happens to angular separation?",
+    "answer": "It halves. The physical orbit is unchanged, but separating planet light from stellar glare becomes harder.",
+    "sources": [
+      "S074",
+      "S080",
+      "S145"
+    ],
+    "source_urls": [
+      "https://science.nasa.gov/exoplanets/how-we-find-and-characterize/",
+      "https://www.jpl.nasa.gov/missions/the-roman-coronagraph-instrument/",
+      "https://exoplanetarchive.ipac.caltech.edu/docs/imaging.html"
+    ],
+    "prerequisite_note": "An arcsecond is 1/3,600 degree; a parsec is the distance at which 1 AU spans 1 arcsecond, about 3.26 light-years. "
+  },
+  {
+    "id": "detection-comparison",
+    "concept_ids": [
+      "DET01",
+      "DET02",
+      "DET03",
+      "DET04",
+      "SUP01"
+    ],
+    "chapter": "Finding other worlds",
+    "title": "Four methods, different missing pieces",
+    "deck": "Ask what is measured before asking what can be inferred.",
+    "kind": "comparison",
+    "visual": {
+      "headers": [
+        "Method",
+        "Recorded signal",
+        "Main constraint"
+      ],
+      "rows": [
+        [
+          "Transit",
+          "Stellar brightness",
+          "Radius ratio; period"
+        ],
+        [
+          "Radial velocity",
+          "Stellar line shifts",
+          "Minimum mass; period"
+        ],
+        [
+          "Microlensing",
+          "Source brightening",
+          "Mass ratio; geometry"
+        ],
+        [
+          "Direct imaging",
+          "Planet light",
+          "Position; brightness; sometimes spectrum"
+        ]
+      ]
+    },
+    "panels": [
+      [
+        "Combine complementary constraints",
+        "Transit depth yields a size ratio, while radial velocity supplies a mass constraint. For a transiting planet, inclination is near edge-on, reducing the minimum-mass ambiguity. Once mass and radius are available, mean density follows mass divided by volume, so density scales as mass divided by radius cubed."
+      ],
+      [
+        "Worked example: equal mean density",
+        "A planet with eight Earth masses and twice Earth's radius has Earth's mean density because 8 divided by 2 cubed equals 1. This does not establish Earth-like geology: different combinations of core, mantle, water and gas can share a mean density."
+      ],
+      [
+        "Correct for what each survey misses",
+        "A catalog is not an unbiased inventory of all planets. Transit surveys require alignment and favor repeated, deeper dips. RV favors stronger stellar wobbles and sufficiently quiet stars. Microlensing depends on rare geometry but accesses populations difficult to study through host-star light. Imaging favors favorable contrast and wide angular separation. Population claims require corrections for sensitivity and selection. Agreement between independent methods strengthens interpretation, but no single detection method demonstrates habitability or life. Atmospheres need further observations, and atmospheric interpretation still requires stellar, climate and chemical context. A non-detection must always be tied to an instrument's sensitivity."
+      ]
+    ],
+    "question": "Why does equal mean density not prove two planets have identical interiors?",
+    "answer": "Density is one bulk quantity. Different layer compositions and proportions can produce the same mass-to-volume ratio.",
+    "sources": [
+      "S074",
+      "S076",
+      "S145"
+    ],
+    "source_urls": [
+      "https://science.nasa.gov/exoplanets/how-we-find-and-characterize/",
+      "https://exoplanetarchive.ipac.caltech.edu/docs/API_PS_columns.html",
+      "https://exoplanetarchive.ipac.caltech.edu/docs/imaging.html"
+    ]
+  },
+  {
+    "id": "engineering-platforms",
+    "concept_ids": [
+      "ENG01"
+    ],
+    "chapter": "Missions and engineering",
+    "title": "Design the platform around the question",
+    "deck": "Power, environment and communications determine which measurements are practical.",
+    "kind": "comparison",
+    "visual": {
+      "headers": [
+        "Platform",
+        "Strength",
+        "Compromise"
+      ],
+      "rows": [
+        [
+          "Orbiter",
+          "Repeated broad maps",
+          "Indirect measurements"
+        ],
+        [
+          "Descent probe",
+          "Vertical local samples",
+          "Short lifetime"
+        ],
+        [
+          "Rover / rotorcraft",
+          "Context at several sites",
+          "Limited range; autonomy"
+        ],
+        [
+          "Sample return",
+          "Earth laboratories",
+          "Return and cleanliness"
+        ]
+      ]
+    },
+    "panels": [
+      [
+        "Environment sets the design",
+        "A scientific objective becomes a spacecraft requirement. At five times Earth's distance from the Sun, sunlight provides only one twenty-fifth of the flux, so solar-powered missions need large arrays and careful energy budgets. Radioisotope systems provide power without depending directly on illumination, but power remains finite. Venus descent probes face intense heat and pressure; Jupiter missions face radiation; infrared telescopes need cold optics and detectors. Shielding, thermal control and redundancy add mass. Launch capacity, fuel and gravity assists constrain trajectories. There is no universally best design: each choice purchases scientific capability at a cost."
+      ],
+      [
+        "Time, data and autonomy",
+        "An orbiter can revisit a region, whereas a descent probe obtains a detailed profile along one path. A flyby provides a short close-up window but may avoid prolonged radiation exposure. A rover connects measurements to particular rocks, yet covers little terrain. Communications distance limits data return and makes real-time driving impossible. Missions prioritize observations, compress data and use autonomous fault protection. Higher image resolution usually increases data volume or reduces coverage. Sample return adds collection, reentry and contamination-control demands but enables powerful Earth laboratory work. Explain an engineering choice by linking it to the measurement it preserves."
+      ]
+    ],
+    "question": "Why can a brief probe descent answer a question that a long-lived orbiter cannot answer as directly?",
+    "answer": "The probe samples local atmospheric gases and conditions in place, while the orbiter generally infers them remotely over broader areas.",
+    "sources": [
+      "S081",
+      "S082"
+    ],
+    "source_urls": [
+      "https://science.nasa.gov/learn/basics-of-space-flight/chapter12-1/",
+      "https://science.nasa.gov/mission/davinci/davinci-science/"
+    ]
+  },
+  {
+    "id": "engineering-instruments",
+    "concept_ids": [
+      "ENG02",
+      "SUP02"
+    ],
+    "chapter": "Missions and engineering",
+    "title": "An instrument measures a signal",
+    "deck": "Learn the chain: physical signal → instrument → inference → alternative explanation.",
+    "kind": "comparison",
+    "visual": {
+      "headers": [
+        "Instrument",
+        "Measurement",
+        "Inference"
+      ],
+      "rows": [
+        [
+          "Spectrometer",
+          "Light versus wavelength",
+          "Composition; temperature"
+        ],
+        [
+          "Mass spectrometer",
+          "Mass-to-charge response",
+          "Sample chemistry"
+        ],
+        [
+          "Radar",
+          "Echo delay and strength",
+          "Layers; geometry"
+        ],
+        [
+          "Magnetometer",
+          "Field strength/direction",
+          "Conducting interior"
+        ]
+      ]
+    },
+    "panels": [
+      [
+        "Different kinds of composition",
+        "A camera records spatial brightness, revealing landforms, textures and changes. A light spectrometer measures intensity versus wavelength; comparison with laboratory spectra constrains molecules or minerals, but mixtures, clouds and temperature can complicate identification. A mass spectrometer analyzes particles entering the instrument through their mass-to-charge behavior. It samples a local gas or delivered material, not an entire planet. Instruments must be calibrated, and contamination controls matter when interpreting small chemical signals. Knowing that an instrument measures organics is incomplete: ask where the material came from, what preparation occurred, and which alternative compounds or processes fit the measurement."
+      ],
+      [
+        "Interiors require indirect reasoning",
+        "Radar sends radio waves and measures returning echoes. Delay constrains distance or inferred depth, while echo strength depends on material properties and geometry. A bright reflector does not automatically mean liquid water. Magnetometers measure fields: a changing external field can induce a response in a conducting layer, consistent with a salty ocean. Plasma effects and different interior structures can complicate the interpretation. Radio tracking measures spacecraft motion; gravity models then constrain internal mass distribution and tidal deformation. Combining independent measurements can reject alternatives that fit one instrument alone. None of these instruments is a universal life detector."
+      ]
+    ],
+    "question": "Why pair a magnetometer with plasma measurements when investigating an icy moon?",
+    "answer": "Plasma can alter the measured magnetic field; measuring it helps separate environmental effects from an ocean-induced response.",
+    "sources": [
+      "S081",
+      "S083"
+    ],
+    "source_urls": [
+      "https://science.nasa.gov/learn/basics-of-space-flight/chapter12-1/",
+      "https://science.nasa.gov/mission/europa-clipper/spacecraft-instruments/"
+    ]
+  },
+  {
+    "id": "missions-venus-atmosphere",
+    "concept_ids": [
+      "MIS01",
+      "MIS02"
+    ],
+    "chapter": "Missions and engineering",
+    "title": "Venus: observe, then descend",
+    "deck": "Venus Express is completed; DAVINCI is in development. Status: 23 October 2026.",
+    "kind": "mission",
+    "visual": {
+      "headline": "Two ways to read an atmosphere",
+      "labels": [
+        "Orbiter: broad repeated views",
+        "Descent: local vertical sampling",
+        "Chemistry constrains history"
+      ],
+      "color": "#C59A63"
+    },
+    "panels": [
+      [
+        "Venus Express: a changing atmosphere",
+        "Venus Express studied atmospheric circulation, chemistry and escape from orbit. VIRTIS measured visible/infrared radiance, while SPICAV/SOIR spectra and occultations constrained gases and vertical structure. Cloud images tracked motion; ASPERA-4 sampled particles associated with solar-wind interactions and atmospheric escape. Magnetic and radio measurements supplied additional environmental context. Repeated orbital observations revealed variation over time without exposing a spacecraft to Venus's surface conditions. The limitation is important: remotely inferred composition is not the same as directly sampling every atmospheric layer. Different viewing geometries, wavelengths and instruments were needed to separate overlapping atmospheric effects."
+      ],
+      [
+        "DAVINCI: atmospheric history in place",
+        "DAVINCI will combine a flyby carrier with an atmospheric descent probe. VMS and VTLS will measure gases and isotopic information, including clues to volatile origins and water history. VASI will measure pressure, temperature and winds; VenDI will image Alpha Regio during descent. VfOx targets oxygen chemistry, not breathable air. Carrier instruments add cloud and surface context. A heat shield, pressure vessel and relay protect and recover the brief descent record. Precision along one path comes at the cost of narrow coverage. These are planned measurements, not evidence already returned or a promise of a long-lived surface lander."
+      ]
+    ],
+    "question": "Why do gas isotopes and cloud-motion images answer different questions?",
+    "answer": "Isotopes constrain origin and evolution; cloud motion constrains present circulation. Both inform Venus's history but measure different physical properties.",
+    "sources": [
+      "S084",
+      "S082"
+    ],
+    "source_urls": [
+      "https://www.esa.int/Enabling_Support/Operations/Venus_Express_operations",
+      "https://science.nasa.gov/mission/davinci/davinci-science/"
+    ]
+  },
+  {
+    "id": "missions-venus-geology",
+    "concept_ids": [
+      "MIS03",
+      "MIS01",
+      "MIS02"
+    ],
+    "chapter": "Missions and engineering",
+    "title": "VERITAS: read the surface through clouds",
+    "deck": "Future Venus orbiter in development. Status: 23 October 2026.",
+    "kind": "mission",
+    "visual": {
+      "headline": "Geology, topography and change",
+      "labels": [
+        "VISAR: radar echoes",
+        "VEM: infrared emission",
+        "Tracking: gravity field"
+      ],
+      "color": "#C59A63"
+    },
+    "panels": [
+      [
+        "What the instruments will test",
+        "VERITAS will investigate how Venus's surface and interior evolved and whether volcanism and deformation remain active. VISAR will use synthetic-aperture radar for surface mapping and interferometric measurements for topography and change. Radio waves can reach the ground through clouds that block ordinary visible views. VEM will measure near-infrared emission through atmospheric windows to constrain surface emissivity, rock properties and volcanic activity. Tracking the spacecraft's motion will constrain the gravity field. These observations connect landforms, surface materials and internal structure, rather than assuming one image reveals the entire history of the planet."
+      ],
+      [
+        "Why repeat the measurement?",
+        "A single map describes appearance; comparable maps made at different times can test change. Detecting subtle deformation requires controlled viewing geometry and careful processing, not simply subtracting arbitrary pictures. Radar brightness depends on roughness, material properties and orientation, so it is not an ordinary color photograph or a complete view through rock. Infrared composition and gravity interpretations also depend on models. VERITAS complements Venus Express's atmospheric record and DAVINCI's planned descent profile: global geological coverage, repeated atmospheric observations and direct local chemistry address different parts of the climate–surface–interior system. Large data volumes make processing and communications part of the science design."
+      ]
+    ],
+    "question": "What extra question can repeated radar observations address beyond a single geological map?",
+    "answer": "Whether surface position or appearance changes over time, potentially indicating deformation or activity, after instrumental and viewing differences are controlled.",
+    "sources": [
+      "S085",
+      "S086"
+    ],
+    "source_urls": [
+      "https://science.nasa.gov/mission/veritas/",
+      "https://science.nasa.gov/mission/veritas/science/"
+    ]
+  },
+  {
+    "id": "missions-mars-surface",
+    "concept_ids": [
+      "MIS04",
+      "MIS05"
+    ],
+    "chapter": "Missions and engineering",
+    "title": "Mars: connect orbit to a rock",
+    "deck": "Perseverance and MRO are active; MRO’s CRISM is retired. Status: 23 October 2026.",
+    "kind": "mission",
+    "visual": {
+      "headline": "Regional context plus local tests",
+      "labels": [
+        "MRO: images, minerals and layers",
+        "Rover: textures and chemistry",
+        "Samples require documented context"
+      ],
+      "color": "#B87354"
+    },
+    "panels": [
+      [
+        "MRO: choose and understand a region",
+        "Mars Reconnaissance Orbiter links detailed observations to broad context. HiRISE resolves small landforms and hazards; CTX places them within regional geology. Archived CRISM spectra identify minerals associated with water-related alteration, although CRISM stopped operating in 2023. SHARAD radar echoes constrain subsurface layers and buried ice, with material properties and surface clutter complicating interpretation. MARCI and MCS follow atmospheric weather and structure. MRO also relays communications. Fine resolution does not mean direct chemical sampling, and a radargram is echo delay along a track, not a photograph of an exposed underground wall."
+      ],
+      [
+        "Perseverance: inspect the geological setting",
+        "Perseverance investigates ancient habitability and possible biosignatures while caching documented samples. Mastcam-Z supplies imaging context; SuperCam examines remote chemistry; PIXL maps elemental composition; SHERLOC probes minerals and organic compounds with spectroscopy. RIMFAX investigates shallow layering and MEDA measures weather. MOXIE demonstrated oxygen production from atmospheric carbon dioxide, then concluded its experiment in 2023. It was not a life detector. A rover links chemistry to rock texture but covers little of Mars. Cached tubes have not thereby reached Earth. Organic compounds require contamination checks and tests of nonbiological origins before supporting claims about ancient life."
+      ]
+    ],
+    "question": "Why is a water-related mineral map valuable before a rover studies individual rocks?",
+    "answer": "It identifies promising regions and geological context; the rover can then test specific materials and textures that remote spectra cannot fully resolve.",
+    "sources": [
+      "S087",
+      "S088",
+      "S089"
+    ],
+    "source_urls": [
+      "https://science.nasa.gov/mission/mars-reconnaissance-orbiter/science-instruments/",
+      "https://www.nasa.gov/solar-system/nasa-retires-mineral-mapping-instrument-on-mars-orbiter/",
+      "https://science.nasa.gov/mission/mars-2020-perseverance/science-instruments/"
+    ]
+  },
+  {
+    "id": "missions-mars-escape",
+    "concept_ids": [
+      "MIS06"
+    ],
+    "chapter": "Missions and engineering",
+    "title": "MAVEN: reconstruct atmospheric loss",
+    "deck": "Completed: NASA declared the mission ended 3 June 2026. Status checked 23 October 2026.",
+    "kind": "mission",
+    "visual": {
+      "headline": "From particle escape to climate history",
+      "labels": [
+        "Measure gases and incoming energy",
+        "Track fields and escaping particles",
+        "Model the long-term consequences"
+      ],
+      "color": "#B87354"
+    },
+    "panels": [
+      [
+        "The atmosphere meets space",
+        "MAVEN investigated how Mars loses atmospheric material and how that loss responds to the Sun. NGIMS measured neutral and ion composition and isotopes; IUVS examined ultraviolet signals from the upper atmosphere. SWIA, SWEA and SEP characterized incoming solar-wind and energetic particles. STATIC measured ion populations, while MAG and LPW measured magnetic and plasma conditions. Its elliptical orbit sampled different regions of the upper atmosphere and surrounding space. Correlating solar inputs with atmospheric responses connected a physical mechanism to a measured loss process. These are historical mission results, not measurements from a currently operating orbiter."
+      ],
+      [
+        "From present processes to the past",
+        "Atmospheric escape helps explain how Mars changed from earlier environments capable of sustaining surface water to the present thin atmosphere. However, multiplying one modern loss rate by billions of years is not a reliable reconstruction: the young Sun, atmosphere and planetary conditions differed. Isotopes and physical models help connect measured processes to long-term evolution. MAVEN complements rather than replaces surface evidence. MRO maps minerals and landscapes; Perseverance examines local rock records; MAVEN studied a mechanism of atmospheric transformation. Loss of contact occurred in December 2025, and NASA ended the mission in June 2026 after recovery efforts."
+      ]
+    ],
+    "question": "Why is “today’s escape rate × Mars’s age” an inadequate estimate of total atmospheric loss?",
+    "answer": "Solar forcing, atmospheric composition and escape conditions evolved; the rate was not necessarily constant through time.",
+    "sources": [
+      "S013",
+      "S090"
+    ],
+    "source_urls": [
+      "https://science.nasa.gov/mission/maven/",
+      "https://www.nasa.gov/news-release/nasa-says-farewell-to-maven-mars-mission-hosts-media-call-today/"
+    ]
+  },
+  {
+    "id": "missions-europa",
+    "concept_ids": [
+      "MIS07",
+      "MIS08"
+    ],
+    "chapter": "Missions and engineering",
+    "title": "Europa: build an ocean argument",
+    "deck": "Galileo is completed; Europa Clipper is cruising to Jupiter. Status: 23 October 2026.",
+    "kind": "mission",
+    "visual": {
+      "headline": "Independent clues test hidden water",
+      "labels": [
+        "Images: surface history",
+        "Fields: electrical conductivity",
+        "Radar and gravity: structure"
+      ],
+      "color": "#9CB7BB"
+    },
+    "panels": [
+      [
+        "Galileo: converging lines of evidence",
+        "Galileo's images revealed icy-moon geology, while NIMS measured near-infrared composition. Magnetic measurements supported electrically conducting subsurface layers, plausibly salty liquid water. This was an interior inference, not an ocean photograph or biological detection. Plasma measurements helped interpret the magnetic environment. The mission also carried a separate probe into Jupiter's atmosphere. Radioisotope power supported operations far from the Sun. When its high-gain antenna failed to deploy, compression, low-gain communications and improved ground reception preserved valuable science. Its deliberate final plunge into Jupiter reduced the chance of contaminating Europa in the future."
+      ],
+      [
+        "Clipper: test habitability, not life",
+        "Europa Clipper will orbit Jupiter and repeatedly fly by Europa, limiting time in intense radiation. EIS images and E-THEMIS thermal measurements will map geology and temperatures; MISE will constrain surface composition. REASON radar will probe ice structure, while ECM and PIMS jointly examine magnetic and plasma effects. MASPEX samples gases and SUDA analyzes dust grains; Europa-UVS studies ultraviolet signals. Radio tracking adds gravity constraints. Multiple instruments can reject competing interior explanations. Clipper carries no lander, does not guarantee a plume encounter and will not prove life exists. Its Europa investigations are still ahead during cruise."
+      ]
+    ],
+    "question": "Why is a magnetic response consistent with an ocean stronger when combined with geological and gravity evidence?",
+    "answer": "Independent measurements test different properties and help exclude alternative explanations that could fit the magnetic signal alone.",
+    "sources": [
+      "S091",
+      "S083",
+      "S092"
+    ],
+    "source_urls": [
+      "https://science.nasa.gov/mission/galileo/",
+      "https://science.nasa.gov/mission/europa-clipper/spacecraft-instruments/",
+      "https://science.nasa.gov/mission/europa-clipper/mission-overview/"
+    ]
+  },
+  {
+    "id": "missions-juice",
+    "concept_ids": [
+      "MIS09",
+      "MIS08"
+    ],
+    "chapter": "Missions and engineering",
+    "title": "JUICE: compare the ocean moons",
+    "deck": "ESA’s mission is cruising toward Jupiter. Status: 23 October 2026.",
+    "kind": "mission",
+    "visual": {
+      "headline": "System comparison, then Ganymede",
+      "labels": [
+        "Flybys compare several moons",
+        "Ganymede orbit adds sustained detail",
+        "Fields, radar and tides work together"
+      ],
+      "color": "#9CB7BB"
+    },
+    "panels": [
+      [
+        "Measure more than one property",
+        "JUICE will investigate Jupiter's environment and the icy moons Ganymede, Callisto and Europa, eventually orbiting Ganymede. JANUS images and MAJIS spectra will link geology to surface composition. GALA laser ranging will measure topography and tidal deformation; RIME radar will probe structure within ice. J-MAG measurements, interpreted with particle and plasma observations from PEP and RPWI, will constrain magnetic environments and interiors. The 3GM radio investigation will constrain gravity and related structure. UVS and SWI will study atmospheric and exospheric properties. No single measurement guarantees a complete map of an ocean or its underlying rock."
+      ],
+      [
+        "Why Ganymede orbit changes the science",
+        "Flybys permit comparisons among worlds, but each close encounter has a brief measurement window. Orbiting Ganymede will enable repeated, focused observations that improve spatial coverage and tests of change. Europa Clipper instead concentrates repeated Jupiter-orbit flybys on Europa. Together, their approaches examine whether different icy environments share habitability-relevant processes. Large solar arrays address weak sunlight; shielding, thermal control and fault protection address a harsh environment. Precise tracking and multiple instruments help separate uncertain ocean depth, salinity and layer thickness. JUICE's planned measurements must be described as future tests, not discoveries already returned during cruise."
+      ]
+    ],
+    "question": "What does sustained Ganymede orbit offer that a single flyby cannot?",
+    "answer": "Repeated observations improve coverage and allow measurements of variation, while a flyby provides only a brief local encounter.",
+    "sources": [
+      "S093",
+      "S094"
+    ],
+    "source_urls": [
+      "https://www.esa.int/Science_Exploration/Space_Science/Juice",
+      "https://www.esa.int/ESA_Multimedia/Images/2022/12/Juice_s_science_instruments"
+    ]
+  },
+  {
+    "id": "missions-cassini-huygens",
+    "concept_ids": [
+      "MIS10"
+    ],
+    "chapter": "Missions and engineering",
+    "title": "Cassini–Huygens: two viewpoints",
+    "deck": "Completed mission: Saturn orbiter plus Titan descent probe. Status: 23 October 2026.",
+    "kind": "mission",
+    "visual": {
+      "headline": "Repeated flybys meet one landing",
+      "labels": [
+        "Cassini sampled accessible plume material",
+        "Radar mapped Titan through haze",
+        "Huygens measured one descent and site"
+      ],
+      "color": "#C1AC78"
+    },
+    "panels": [
+      [
+        "Cassini: remote maps and local samples",
+        "Cassini orbited Saturn, repeatedly observing moons, rings and the atmosphere. Its RADAR mapped Titan's surface through haze, revealing landforms such as lakes, channels and dunes. Cameras and ultraviolet, infrared and thermal spectra added shape, composition and temperature. At Enceladus, INMS measured gases while CDA analyzed dust and ice grains, connecting plume chemistry to inferred ocean processes. Field, particle and gravity measurements added independent context. A plume sample does not represent every location or depth of an ocean. Salts, organics and chemical-energy clues support habitability arguments but do not establish organisms."
+      ],
+      [
+        "Huygens: ground truth beneath the haze",
+        "Huygens descended through Titan's atmosphere and landed at one site; Cassini itself did not land there. GCMS analyzed atmospheric chemistry, HASI measured physical and electrical properties, and DISR supplied descent images and spectra. Radio measurements constrained winds, and surface instruments tested local physical properties. Huygens traded broad coverage for direct measurements along one path, relying on stored power and a relay link. Cassini's radioisotope power supported a long orbital investigation in weak sunlight. Its controlled final entry into Saturn protected potentially habitable moons from accidental contamination. Global context and local measurements answered complementary questions."
+      ]
+    ],
+    "question": "Why can Huygens’s direct measurements not substitute for Cassini’s repeated orbital observations?",
+    "answer": "One descent and landing describe a limited place and time; repeated orbital measurements provide regional, global and seasonal context.",
+    "sources": [
+      "S095",
+      "S096",
+      "S097"
+    ],
+    "source_urls": [
+      "https://science.nasa.gov/mission/cassini/spacecraft/cassini-orbiter/",
+      "https://www.esa.int/Science_Exploration/Space_Science/Cassini-Huygens/Huygens_instruments",
+      "https://science.nasa.gov/mission/cassini/faq/"
+    ]
+  },
+  {
+    "id": "missions-dragonfly",
+    "concept_ids": [
+      "MIS11"
+    ],
+    "chapter": "Missions and engineering",
+    "title": "Dragonfly: follow Titan’s chemistry",
+    "deck": "Future rotorcraft lander in development. Status: 23 October 2026.",
+    "kind": "mission",
+    "visual": {
+      "headline": "Move between chemical settings",
+      "labels": [
+        "Drill and transfer a surface sample",
+        "Measure molecular and elemental composition",
+        "Compare chemistry with geological context"
+      ],
+      "color": "#C1AC78"
+    },
+    "panels": [
+      [
+        "From collected material to an explanation",
+        "Dragonfly will investigate Titan's organic chemistry by visiting multiple surface settings. DrACO will drill and transfer samples; DraMS will analyze chemical composition by mass spectrometry. These have different jobs: collection hardware does not itself identify molecules. DraGNS will measure elemental composition, DragonCam will record geological context, and DraGMet will investigate local environmental and geophysical conditions. Comparing chemistry across different landscapes can test how ingredients and processing environments interact. Titan's carbon-rich chemistry is not equivalent to biology, and its surface methane/ethane liquids must not be confused with ordinary liquid-water habitats."
+      ],
+      [
+        "Why fly rather than drive?",
+        "Titan's dense atmosphere and low gravity make rotorcraft flight useful for crossing terrain difficult for wheels. Multiple landings allow sampling of separated sites rather than extrapolating from one location. That mobility requires navigation, hazard assessment and repeated safe landings. Weak sunlight favors an MMRTG that steadily charges a battery for higher-power activities such as flight. Communication delays rule out joystick piloting from Earth, so autonomy is central to the design. Huygens supplied a single descent and landing record; Dragonfly is designed for repeated local investigations. No Titan flight or sample measurements have yet been returned by this future mission."
+      ]
+    ],
+    "question": "Why does Dragonfly need both a steady power source and a rechargeable battery?",
+    "answer": "The source supplies sustained energy; the battery stores it for operations whose peak power demand exceeds that steady output.",
+    "sources": [
+      "S098",
+      "S099"
+    ],
+    "source_urls": [
+      "https://science.nasa.gov/mission/dragonfly/",
+      "https://science.nasa.gov/mission/dragonfly/spacecraft-and-instruments/"
+    ]
+  },
+  {
+    "id": "missions-osiris-rex",
+    "concept_ids": [
+      "MIS12",
+      "SUP02"
+    ],
+    "chapter": "Missions and engineering",
+    "title": "OSIRIS-REx: bring the evidence home",
+    "deck": "Bennu sample return is completed; laboratory research continues. Status: 23 October 2026.",
+    "kind": "mission",
+    "visual": {
+      "headline": "Reconnaissance → collection → laboratory",
+      "labels": [
+        "Images and spectra establish context",
+        "TAGSAM collects; it does not analyze",
+        "Clean handling protects chemical evidence"
+      ],
+      "color": "#8C8A80"
+    },
+    "panels": [
+      [
+        "Know the sample’s original setting",
+        "OSIRIS-REx mapped Bennu before touching its surface. OCAMS images documented terrain and boulders; OLA laser ranging constrained three-dimensional shape. OVIRS and OTES measured reflected and thermal spectra to investigate composition, temperature and mineral properties. TAGSAM then collected material using a nitrogen-gas-assisted touch-and-go operation. It was a sampling device, not a spectrometer. Reconnaissance connected the chosen site to the asteroid's broader geological setting and helped navigate its weak gravity and hazardous surface. The returned material can test water-related alteration and the chemistry of primitive Solar System ingredients without claiming that every part of Bennu was sampled."
+      ],
+      [
+        "Why return instead of analyze only there?",
+        "Earth laboratories can apply sensitive, repeated and future techniques that cannot all fit on a spacecraft. That advantage demands precise collection, return, recovery and curation. Terrestrial moisture, oxygen and organic contamination could confuse interpretations, so sample history and clean controls are essential evidence. Organic molecules or amino acids demonstrate chemistry, not asteroid life. A small surface collection also cannot represent every depth or region. The Bennu sample-return phase is complete, while sample studies continue; the spacecraft moved into a renamed mission. Do not confuse completed delivery with completed scientific interpretation: new laboratory questions can be asked for years."
+      ]
+    ],
+    "question": "Why is contamination control part of the scientific argument rather than merely housekeeping?",
+    "answer": "Without it, a detected compound might come from Earth or handling rather than Bennu, undermining the inference about asteroid chemistry.",
+    "sources": [
+      "S100",
+      "S101",
+      "S102"
+    ],
+    "source_urls": [
+      "https://science.nasa.gov/mission/osiris-rex/in-depth/",
+      "https://science.nasa.gov/mission/osiris-rex/osiris-rex-faq/",
+      "https://science.nasa.gov/blogs/osiris-rex/2023/09/24/osiris-rex-spacecraft-departs-for-new-mission/"
+    ]
+  },
+  {
+    "id": "missions-rosetta",
+    "concept_ids": [
+      "MIS13"
+    ],
+    "chapter": "Missions and engineering",
+    "title": "Rosetta: watch a comet change",
+    "deck": "Completed rendezvous mission at 67P with the Philae lander. Status: 23 October 2026.",
+    "kind": "mission",
+    "visual": {
+      "headline": "A time series, not a snapshot",
+      "labels": [
+        "Images track jets and surface change",
+        "Gas and dust carry chemical information",
+        "Solar heating changes the sampled material"
+      ],
+      "color": "#8C8A80"
+    },
+    "panels": [
+      [
+        "Follow activity through changing sunlight",
+        "Rosetta accompanied comet 67P rather than making only a brief flyby. OSIRIS images tracked nucleus shape, jets and changes. ROSINA measured gas composition and isotopes; COSIMA examined dust composition, while GIADA and MIDAS constrained grain properties and structure. Infrared, ultraviolet and microwave observations added composition, temperature and outgassing information. Observing through changing solar heating connected processes to activity over time. However, the coma is material released from the nucleus, not an unbiased inventory of every buried layer. Different species and grains can be released or transported differently, so sample location and timing matter."
+      ],
+      [
+        "Landing and power are coupled",
+        "Philae was designed to add direct surface measurements and work with Rosetta on radio sounding. Its anchoring system failed, and it bounced into a shaded location that limited solar recharge. Instrument design goals must not be mistaken for a claim that every intended drilling or sample analysis succeeded. Rosetta's large solar arrays and earlier hibernation addressed power constraints during a long journey. Compared with OSIRIS-REx, Rosetta emphasized in-place time evolution rather than returning samples to Earth. Both missions connect primitive materials to Solar System history; neither shows that the presence of life's ingredients necessarily produced life."
+      ]
+    ],
+    "question": "What scientific advantage did rendezvous provide over a fast flyby of 67P?",
+    "answer": "It allowed repeated measurements as solar heating and activity changed, helping link observations to evolving comet processes.",
+    "sources": [
+      "S103",
+      "S104",
+      "S105"
+    ],
+    "source_urls": [
+      "https://www.esa.int/Science_Exploration/Space_Science/Rosetta_overview",
+      "https://www.esa.int/ESA_Multimedia/Images/2013/12/Rosetta_s_instruments_white_background",
+      "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Rosetta_s_lander_faces_eternal_hibernation"
+    ]
+  },
+  {
+    "id": "missions-kepler-webb",
+    "concept_ids": [
+      "MIS14",
+      "MIS15"
+    ],
+    "chapter": "Missions and engineering",
+    "title": "Kepler finds; Webb characterizes",
+    "deck": "Kepler is retired; JWST is active. Status: 23 October 2026.",
+    "kind": "comparison",
+    "visual": {
+      "headers": [
+        "Observatory",
+        "Core measurement",
+        "Scientific use"
+      ],
+      "rows": [
+        [
+          "Kepler",
+          "Stellar light curves",
+          "Planet census"
+        ],
+        [
+          "JWST",
+          "Infrared spectra / images",
+          "Selected-target properties"
+        ],
+        [
+          "Both",
+          "Precision repeated data",
+          "Models and calibration matter"
+        ]
+      ]
+    },
+    "panels": [
+      [
+        "Kepler: count planets with a geometry filter",
+        "Kepler's CCD photometer measured stellar brightness repeatedly, identifying periodic dips that constrain orbital period and planet-to-star radius ratio. Stable pointing and calibration were essential for detecting small changes. The original survey stared at one field; K2 used an adapted pointing strategy after reaction-wheel failures. Operations ended in 2018, but archived data remain scientifically useful. A detected sample is not the full population: occurrence estimates must correct for orbital alignment, sensitivity and observing duration. Longer-period planets produce fewer transits in a fixed survey. Kepler did not resolve planetary continents or establish atmospheric habitability."
+      ],
+      [
+        "JWST: analyze selected planetary light",
+        "JWST's NIRCam, NIRSpec, NIRISS and MIRI provide infrared imaging and spectroscopic capabilities. Wavelength-dependent transits, eclipses and phase changes constrain gases, clouds, temperature and heat transport; some planets can also be imaged directly. A sunshield keeps the observatory cold, and MIRI receives additional cryocooling to reduce the telescope's own infrared interference. Atmospheric retrievals depend on models and calibration. A weak spectral feature might reflect clouds, low abundance or limited sensitivity rather than universal absence. Stellar variability can contaminate a planetary signal. One molecule, even confidently identified, is not automatically evidence of biology."
+      ]
+    ],
+    "question": "Why does Kepler’s discovery of a planet not guarantee that JWST can determine its atmospheric composition?",
+    "answer": "Atmospheric signals may be too faint, obscured by clouds or contaminated by stellar effects; discovery and characterization have different requirements.",
+    "sources": [
+      "S106",
+      "S107",
+      "S108"
+    ],
+    "source_urls": [
+      "https://www.nasa.gov/news-release/nasa-retires-kepler-space-telescope-passes-planet-hunting-torch/",
+      "https://science.nasa.gov/mission/webb/",
+      "https://science.nasa.gov/mission/webb/cryocooler/"
+    ]
+  },
+  {
+    "id": "missions-roman",
+    "concept_ids": [
+      "MIS16",
+      "DET03",
+      "DET04"
+    ],
+    "chapter": "Missions and engineering",
+    "title": "Roman: extend the planetary census",
+    "deck": "Launched 30 August 2026; commissioning update as of 13 November 2026.",
+    "kind": "mission",
+    "visual": {
+      "headline": "Two instruments, different purposes",
+      "labels": [
+        "Wide Field Instrument: survey light curves",
+        "Microlensing: complementary planet populations",
+        "Coronagraph: high-contrast technology test"
+      ],
+      "color": "#8AB4C7"
+    },
+    "panels": [
+      [
+        "A wide field catches rare events",
+        "Roman's Wide Field Instrument is an infrared survey camera with spectroscopic capability. Repeated observations of dense Galactic-bulge fields will monitor changing stellar brightness, including microlensing events and transits. Observing many stars simultaneously increases opportunities to catch rare alignments; rapid revisits help capture brief planetary perturbations. Microlensing complements transit surveys by probing cool, more widely separated planets and potentially unbound objects. Individual systems are often distant and difficult to characterize afterward. Roman therefore expands the statistical census rather than guaranteeing detailed atmospheric analysis of each discovered planet. Survey interpretation still requires selection and sensitivity corrections."
+      ],
+      [
+        "A technology demonstration is not a promise",
+        "Roman's Coronagraph Instrument tests suppression of stellar glare for high-contrast observations of faint planets and disks. Stable optics and wavefront control are essential because residual starlight can overwhelm a companion. This role differs from the Wide Field Instrument's survey work and is not a promise to image Earth twins or detect life. Roman launched on 30 August 2026. In its 13 November 2026 update, NASA reported precise instrument alignment, with further coronagraph tests ahead as commissioning continued toward science operations. Planned survey discoveries are not completed results. Compare the observatories: Kepler supplies a transit census, JWST examines selected targets, and Roman adds complementary survey reach and imaging technology."
+      ]
+    ],
+    "question": "Why should Roman’s coronagraph goals not be described as guaranteed Earth-like planet discoveries?",
+    "answer": "It is a technology demonstration with contrast, stability and target limitations, not a completed or guaranteed Earth-twin census.",
+    "sources": [
+      "S109",
+      "S110",
+      "S079",
+      "S080"
+    ],
+    "source_urls": [
+      "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/",
+      "https://science.nasa.gov/blogs/roman/2026/11/13/instruments-on-nasas-roman-space-telescope-get-in-sync-for-science/",
+      "https://science.nasa.gov/mission/roman-space-telescope/exoplanets/",
+      "https://www.jpl.nasa.gov/missions/the-roman-coronagraph-instrument/"
+    ]
+  },
+  {
+    "id": "math01",
+    "concept_ids": [
+      "MATH01"
+    ],
+    "chapter": "Reason without a calculator",
+    "title": "How shifted light reveals motion",
+    "deck": "Use a line’s displacement relative to its laboratory wavelength.",
+    "kind": "equation",
+    "visual": {
+      "eq": "Δλ / λ₀ ≈ vᵣ / c",
+      "meaning": "Low-speed Doppler shift • radial velocity only",
+      "steps": [
+        "away: vᵣ > 0",
+        "longer λ: redshift",
+        "toward: blueshift"
+      ]
+    },
+    "panels": [
+      [
+        "Define the quantities",
+        "The wavelength change is Δλ = λobserved − λ₀, where λ₀ is the rest wavelength. The approximate relation applies when the radial speed is much smaller than the speed of light c. A positive radial velocity means recession in this convention. Motion across the sky does not produce this first-order radial signal."
+      ],
+      [
+        "Worked proportion",
+        "Suppose the fractional shift is 10⁻⁴. With c ≈ 3 × 10⁸ m/s, the radial speed is 3 × 10⁴ m/s, or 30 km/s. If the shift doubles for the same line, the inferred speed doubles. For a planet search, repeated tiny changes in the star’s line position reveal orbital motion; the star’s constant systemic velocity is not itself evidence of a planet."
+      ]
+    ],
+    "question": "A line at 600 nm shifts by +0.06 nm. Find Δλ/λ₀ and explain the direction of motion.",
+    "answer": "0.06/600 = 10⁻⁴. The positive wavelength shift is a redshift, corresponding to recession; vᵣ ≈ 30 km/s.",
+    "sources": [
+      "S111"
+    ],
+    "source_urls": [
+      "https://imagine.gsfc.nasa.gov/features/yba/M31_velocity/spectrum/doppler_more.html"
+    ]
+  },
+  {
+    "id": "math02",
+    "concept_ids": [
+      "MATH02"
+    ],
+    "chapter": "Reason without a calculator",
+    "title": "Distance spreads the same light",
+    "deck": "Luminosity is total power; flux is power arriving per unit area.",
+    "kind": "flux",
+    "visual": {},
+    "panels": [
+      [
+        "Derive the inverse square",
+        "An isotropic star’s luminosity L spreads over a sphere of area 4πr². Thus flux F = L/(4πr²), in watts per square meter. The light is not being “used up” in empty space: the same power is shared over a larger area. Absorption along the path would be an additional effect, not part of this simple relationship."
+      ],
+      [
+        "Worked comparison",
+        "At twice the distance from the same star, flux falls to one quarter. At three times the distance, it falls to one ninth. For two different stars, F₂/F₁ = (L₂/L₁)(r₁/r₂)². A planet around a star four times as luminous receives the same flux at twice the orbital distance. Use ratios before inserting numbers; most factors cancel."
+      ]
+    ],
+    "question": "A star has 9 times the Sun’s luminosity. At what distance in AU would its planet receive Earth’s incident flux?",
+    "answer": "3 AU: 9/3² = 1. This compares incoming flux, not surface temperatures.",
+    "sources": [
+      "S011"
+    ],
+    "source_urls": [
+      "https://science.nasa.gov/earth/earth-observatory/climate-and-earths-energy-budget/"
+    ]
+  },
+  {
+    "id": "math03",
+    "concept_ids": [
+      "MATH03"
+    ],
+    "chapter": "Reason without a calculator",
+    "title": "Albedo: reflected versus absorbed",
+    "deck": "For an energy budget, use Bond albedo: the total reflected fraction.",
+    "kind": "equation",
+    "visual": {
+      "eq": "Pabs = (1 − A) F πR²",
+      "meaning": "Incident power × absorbed fraction",
+      "steps": [
+        "A = 0: all absorbed",
+        "A = 1: all reflected"
+      ]
+    },
+    "panels": [
+      [
+        "Keep the areas straight",
+        "A sphere intercepts a parallel beam across its projected disk, πR², not its entire surface area. Bond albedo A is dimensionless and lies between zero and one. It integrates reflection over wavelengths and directions. A geometric albedo describes a different brightness comparison and should not be substituted silently into a global energy calculation."
+      ],
+      [
+        "Worked energy accounting",
+        "If A = 0.25, a quarter of incoming power is reflected and three quarters is absorbed. If albedo rises to 0.50 at fixed flux and radius, absorbed power changes by 0.50/0.75 = 2/3. Temperature does not fall by the same fraction, because thermal emission depends on the fourth power of absolute temperature. A bright cloud deck can also participate in greenhouse processes, so reflection alone does not determine surface conditions."
+      ]
+    ],
+    "question": "Two equal-sized planets receive equal flux. Their albedos are 0.2 and 0.6. Which absorbs twice as much power?",
+    "answer": "The A = 0.2 planet absorbs 0.8 of incident power; the A = 0.6 planet absorbs 0.4. The first absorbs twice as much.",
+    "sources": [
+      "S011"
+    ],
+    "source_urls": [
+      "https://science.nasa.gov/earth/earth-observatory/climate-and-earths-energy-budget/"
+    ]
+  },
+  {
+    "id": "math04",
+    "concept_ids": [
+      "MATH04"
+    ],
+    "chapter": "Reason without a calculator",
+    "title": "Hotter surfaces radiate much more",
+    "deck": "Stefan–Boltzmann relates total thermal emission to absolute temperature.",
+    "kind": "graph",
+    "visual": {
+      "x": "Absolute temperature T →",
+      "y": "Emitted flux ∝ T⁴",
+      "type": "power",
+      "caption": "Idealized fixed-emissivity relationship; axes have no numerical scale."
+    },
+    "panels": [
+      [
+        "A fourth-power relationship",
+        "The emitted power per unit area is Femit = εσT⁴. Here σ is the Stefan–Boltzmann constant and ε is emissivity; an ideal blackbody has ε = 1. Total emitted power also includes emitting area. Use kelvin, never Celsius, in a temperature power. An object at 0°C is about 273 K and certainly emits thermal radiation."
+      ],
+      [
+        "Worked scaling",
+        "At fixed area and emissivity, doubling T increases emitted power by 2⁴ = 16. Conversely, increasing the required radiated power by a factor of 16 raises equilibrium T by a factor of two. A factor of four in power raises T only by √2. This weak fourth-root response is why large changes in stellar input produce smaller fractional changes in simple radiative temperature."
+      ]
+    ],
+    "question": "A surface radiates 81 times as much power per square meter at unchanged emissivity. How has its Kelvin temperature changed?",
+    "answer": "It has tripled, because 3⁴ = 81. This is a Kelvin ratio, not a Celsius ratio.",
+    "sources": [
+      "S112",
+      "S011"
+    ],
+    "source_urls": [
+      "https://lhea.gsfc.nasa.gov/archive/mwmw/mmw_bbody.html",
+      "https://science.nasa.gov/earth/earth-observatory/climate-and-earths-energy-budget/"
+    ]
+  },
+  {
+    "id": "math05",
+    "concept_ids": [
+      "MATH05"
+    ],
+    "chapter": "Reason without a calculator",
+    "title": "A hotter spectrum peaks bluer",
+    "deck": "Wien’s law uses the peak of the spectrum expressed per unit wavelength.",
+    "kind": "blackbody",
+    "visual": {},
+    "panels": [
+      [
+        "Read both height and location",
+        "For a blackbody, λmax T = b, where b ≈ 2.9 × 10⁻³ m K. Increasing temperature shifts the wavelength peak toward shorter wavelengths while increasing total emission. A plotted spectrum per unit frequency has a different peak definition: do not switch between frequency and wavelength plots using a simple reciprocal of the peak."
+      ],
+      [
+        "Worked estimate",
+        "A 300 K body peaks near 10 micrometers: 3 × 10⁻³ divided by 3 × 10² gives 10⁻⁵ meters. A 6000 K star peaks near 0.5 micrometers. These order-of-magnitude estimates explain why relatively cool worlds emit strongly in infrared light while a Sun-like star emits strongly in visible light. Real atmospheres and surfaces add absorption features and depart from perfect blackbodies."
+      ]
+    ],
+    "question": "Two approximate blackbodies peak at 5 μm and 10 μm. Which is hotter, and by what factor?",
+    "answer": "The 5 μm source is twice as hot. Peak wavelength and absolute temperature are inversely proportional.",
+    "sources": [
+      "S112"
+    ],
+    "source_urls": [
+      "https://lhea.gsfc.nasa.gov/archive/mwmw/mmw_bbody.html"
+    ]
+  },
+  {
+    "id": "math06",
+    "concept_ids": [
+      "MATH06"
+    ],
+    "chapter": "Reason without a calculator",
+    "title": "Build an equilibrium temperature",
+    "deck": "Balance absorbed starlight against thermal radiation to space.",
+    "kind": "equilibrium",
+    "visual": {},
+    "panels": [
+      [
+        "Derive rather than memorize",
+        "For a uniformly radiating spherical planet, absorbed power is (1 − A)FπR² and emitted power is 4πR²εσT⁴. Set them equal and cancel πR²: T = [(1 − A)F/(4εσ)]¹/⁴. The four comes from emitting-sphere area divided by intercepting-disk area. The model assumes global redistribution, no internal heating, and a simple gray emissivity."
+      ],
+      [
+        "What this temperature is not",
+        "This effective equilibrium benchmark is not necessarily the surface temperature. Atmospheres can redistribute heat and alter the altitude from which radiation escapes. For fixed albedo and emissivity, T ∝ L¹/⁴r⁻¹/². Moving four times farther from the same star halves T. Changing the assumptions about day-night redistribution changes the geometric factor; state your model before comparing answers."
+      ]
+    ],
+    "question": "A planet moves from r to 4r with no changes in albedo or emissivity. What happens to flux and equilibrium temperature?",
+    "answer": "Flux becomes 1/16 as large; equilibrium temperature becomes (1/16)¹/⁴ = 1/2 as large in kelvin.",
+    "sources": [
+      "S011"
+    ],
+    "source_urls": [
+      "https://science.nasa.gov/earth/earth-observatory/climate-and-earths-energy-budget/"
+    ]
+  },
+  {
+    "id": "math07",
+    "concept_ids": [
+      "MATH07"
+    ],
+    "chapter": "Reason without a calculator",
+    "title": "Energy connects motion and gravity",
+    "deck": "Choose and state the zero of potential energy before using its sign.",
+    "kind": "equation",
+    "visual": {
+      "eq": "K = ½mv²     U = −GMm/r",
+      "meaning": "Gravitational potential energy is zero at infinity.",
+      "steps": [
+        "motion: K ≥ 0",
+        "bound orbit: E < 0",
+        "E = K + U"
+      ]
+    },
+    "panels": [
+      [
+        "Interpret the signs",
+        "Kinetic energy K measures motion and is nonnegative. For two isolated gravitating bodies, U = −GMm/r when zero is assigned at infinite separation. Moving outward makes U less negative, so gravitational potential energy increases. The familiar mgh formula is a near-surface approximation for a small height change where g is nearly constant, not a replacement for the general expression across a planetary system."
+      ],
+      [
+        "Work an energy comparison",
+        "At fixed mass, doubling speed quadruples kinetic energy. At twice the center-to-center distance, gravitational potential energy has half its former negative magnitude. In an ideal unpowered orbit, total mechanical energy stays constant while K and U exchange. Drag, thrust and tidal dissipation change this simple accounting and must be included when relevant."
+      ]
+    ],
+    "question": "A spacecraft climbs outward without thrust or drag. As its potential energy increases, what must happen to its kinetic energy?",
+    "answer": "Its kinetic energy decreases by the same amount in the ideal isolated model, conserving K + U.",
+    "sources": [
+      "S015",
+      "S113"
+    ],
+    "source_urls": [
+      "https://science.nasa.gov/learn/basics-of-space-flight/chapter3-3/",
+      "https://science.nasa.gov/solar-system/orbits-and-keplers-laws/"
+    ]
+  },
+  {
+    "id": "math08",
+    "concept_ids": [
+      "MATH08"
+    ],
+    "chapter": "Reason without a calculator",
+    "title": "Gravity: mass and separation",
+    "deck": "The separation in Newton’s law is measured between centers of mass.",
+    "kind": "equation",
+    "visual": {
+      "eq": "Fgrav = GMm/r²     g = GM/r²",
+      "meaning": "Force on a test mass m versus acceleration at distance r",
+      "steps": [
+        "2× M → 2× g",
+        "2× r → ¼ g",
+        "g independent of m"
+      ]
+    },
+    "panels": [
+      [
+        "Separate force from acceleration",
+        "The force between two masses is proportional to both masses and inversely proportional to the square of their separation. Divide by the small body’s mass m to obtain its acceleration. Ideal freely falling objects at the same position therefore have the same gravitational acceleration regardless of their masses. A planet’s surface g uses r equal to its radius, not its orbital distance from the star."
+      ],
+      [
+        "Use units to check reasoning",
+        "G has units m³ kg⁻¹ s⁻². Multiplying by mass and dividing by distance squared leaves m s⁻², the units of acceleration. If a proposed formula produces meters per second instead, it describes a speed or is wrong. For a planet with twice Earth’s mass and twice Earth’s radius, surface gravity is 2/2² = 1/2 of Earth’s, despite the larger mass."
+      ]
+    ],
+    "question": "At three times a planet’s radius from its center, how large is its gravity compared with the surface value?",
+    "answer": "One ninth, assuming the same spherical central body and no other significant forces.",
+    "sources": [
+      "S015"
+    ],
+    "source_urls": [
+      "https://science.nasa.gov/learn/basics-of-space-flight/chapter3-3/"
+    ]
+  },
+  {
+    "id": "math09",
+    "concept_ids": [
+      "MATH09"
+    ],
+    "chapter": "Reason without a calculator",
+    "title": "Orbits obey three connected laws",
+    "deck": "For a small planet orbiting the same central star, P² is proportional to a³.",
+    "kind": "orbit",
+    "visual": {},
+    "panels": [
+      [
+        "Geometry and changing speed",
+        "Kepler’s first law describes an ellipse with the central body at a focus, not generally at the center. The second law says the line joining the orbiting body to the central body sweeps equal areas in equal times. The planet therefore moves faster near periapsis and slower near apoapsis. These laws describe ideal two-body motion; real systems can have perturbations."
+      ],
+      [
+        "Period from orbital size",
+        "The general relation is P² = 4π²a³/[G(M + m)]. For planets much less massive than the same star, the denominator is effectively constant. If semimajor axis a grows by a factor of four, period P grows by √(4³) = 8. Do not use instantaneous star-planet distance in place of semimajor axis for an eccentric orbit. Across different stellar masses, include the mass factor."
+      ]
+    ],
+    "question": "A planet around the same star has a period 27 times longer. What is its semimajor-axis ratio?",
+    "answer": "9: if a grows by 9, P grows by √(9³) = 27.",
+    "sources": [
+      "S113"
+    ],
+    "source_urls": [
+      "https://science.nasa.gov/solar-system/orbits-and-keplers-laws/"
+    ]
+  },
+  {
+    "id": "math10",
+    "concept_ids": [
+      "MATH10"
+    ],
+    "chapter": "Reason without a calculator",
+    "title": "Escape speed comes from energy",
+    "deck": "Minimum escape speed is the threshold for reaching infinity with zero remaining speed in the ideal model.",
+    "kind": "equation",
+    "visual": {
+      "eq": "vₑₛc = √(2GM/r)",
+      "meaning": "Set ½mv² − GMm/r = 0; cancel m and solve.",
+      "steps": [
+        "2× M → √2 × v",
+        "4× r → ½ × v",
+        "vₑₛc = √2 v꜀ᵢᵣ꜀"
+      ]
+    },
+    "panels": [
+      [
+        "Derive the threshold",
+        "At the threshold of escape, total mechanical energy is zero when gravitational potential is zero at infinity. Solving ½mv² = GMm/r gives escape speed. The escaping object’s mass cancels. This ideal expression neglects atmosphere, rotation, thrust after launch and other gravitating bodies. Being in orbit does not mean escaping: a circular orbit at radius r has the smaller speed √(GM/r)."
+      ],
+      [
+        "Connect to atmospheric retention",
+        "Compare the gravitational threshold with a distribution of molecular speeds rather than one speed for every particle. Thermal speed scales roughly as √(T/molecule mass). Heating gas or lowering molecular mass increases typical speed. This explains a tendency for hot, weak-gravity worlds to lose light gases, but ultraviolet heating and nonthermal escape also matter; the simple comparison is not a complete atmospheric model."
+      ]
+    ],
+    "question": "A planet has 4 times the mass and the same radius as another. How do their escape speeds compare?",
+    "answer": "The more massive planet has twice the escape speed: √4 = 2.",
+    "sources": [
+      "S015"
+    ],
+    "source_urls": [
+      "https://science.nasa.gov/learn/basics-of-space-flight/chapter3-3/"
+    ]
+  },
+  {
+    "id": "math11",
+    "concept_ids": [
+      "MATH11"
+    ],
+    "chapter": "Reason without a calculator",
+    "title": "Tides fall off faster than gravity",
+    "deck": "A tide measures the change in gravitational pull across an extended body.",
+    "kind": "tides",
+    "visual": {},
+    "panels": [
+      [
+        "Compare two distance laws",
+        "The gravitational acceleration scale is GM/r². Across a small moon of radius R, the near-far change scales as GMR/r³, up to geometry-dependent factors. Thus doubling separation reduces the tidal acceleration scale by about eight, not four. The approximation assumes R is much smaller than r. Strong gravity and strong differential gravity are related but not identical ideas."
+      ],
+      [
+        "Do not confuse force with heating",
+        "Tidal heating requires changing deformation and dissipation, not merely a static stretch. Eccentricity, orbital frequency, material rigidity and internal friction matter. Resonances can maintain eccentricity, allowing continuing dissipation. The r⁻³ acceleration rule is not a universal formula for tidal heating power. Europa and Enceladus connect this mechanics to subsurface liquid and potentially useful water-rock chemistry."
+      ]
+    ],
+    "question": "At unchanged masses and size, separation triples. What happens to the tidal acceleration scale? Does that alone specify the heat output?",
+    "answer": "The tidal acceleration scale falls to 1/27. No: heating also depends on changing deformation, orbit and material properties.",
+    "sources": [
+      "S015",
+      "S113"
+    ],
+    "source_urls": [
+      "https://science.nasa.gov/learn/basics-of-space-flight/chapter3-3/",
+      "https://science.nasa.gov/solar-system/orbits-and-keplers-laws/"
+    ]
+  },
+  {
+    "id": "math12",
+    "concept_ids": [
+      "MATH12"
+    ],
+    "chapter": "Reason without a calculator",
+    "title": "Gas: pressure, volume, temperature",
+    "deck": "Use absolute temperature and distinguish amount from density.",
+    "kind": "equation",
+    "visual": {
+      "eq": "PV = nRT = N k_B T",
+      "meaning": "n: moles; N: particles; R = N_A k_B",
+      "steps": [
+        "fixed n,V: P ∝ T",
+        "fixed n,T: P ∝ 1/V",
+        "T(K) = T(°C) + 273.15"
+      ]
+    },
+    "panels": [
+      [
+        "What the idealization assumes",
+        "An ideal gas treats particles as having negligible volume and neglects intermolecular interactions except during collisions. It is useful for many dilute gases, but can fail near condensation or at high density. Pressure is force per unit area; temperature describes the energy scale of random motion. The same temperature does not give every molecule the same speed, nor the same speed distribution for different molecular masses."
+      ],
+      [
+        "State what stays fixed",
+        "For a sealed rigid container, n and V are fixed, so doubling Kelvin temperature doubles pressure. At fixed temperature and gas amount, doubling volume halves pressure. For a fixed-composition ideal gas, density is proportional to P/T. Heating from 20°C to 40°C is not a doubling of temperature: compare about 293 K with 313 K instead."
+      ]
+    ],
+    "question": "A sealed rigid gas sample cools from 400 K to 300 K. What is its new pressure relative to its initial pressure?",
+    "answer": "It is 300/400 = 3/4 of its initial pressure, assuming ideal-gas behavior and no loss or condensation.",
+    "sources": [
+      "S114",
+      "S115"
+    ],
+    "source_urls": [
+      "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/equation-of-state/",
+      "https://www.nist.gov/pml/owm/si-units-temperature"
+    ],
+    "math_tex": {
+      "equation": "PV=nRT=Nk_B T",
+      "constants": "R=N_Ak_B"
+    }
+  },
+  {
+    "id": "math13",
+    "concept_ids": [
+      "MATH13"
+    ],
+    "chapter": "Reason without a calculator",
+    "title": "Reaction rates face energy barriers",
+    "deck": "Arrhenius describes how temperature changes a rate constant in a common model.",
+    "kind": "graph",
+    "visual": {
+      "x": "1/T →",
+      "y": "ln k →",
+      "type": "arrhenius",
+      "caption": "ln k = ln A − Eₐ/(RT); slope = −Eₐ/R for a simple Arrhenius model."
+    },
+    "panels": [
+      [
+        "Read the exponential",
+        "The Arrhenius equation is k = A exp[−Eₐ/(RT)], where k is a rate constant, A a prefactor and Eₐ an activation energy per mole. At fixed A and positive Eₐ, higher T makes the exponent less negative and increases k. This is not a fourth-power or inverse-square relationship. The units of k depend on the reaction’s rate law; do not automatically assign seconds⁻¹."
+      ],
+      [
+        "Connect rate to habitability",
+        "Warmth may accelerate useful reactions, but also destabilize molecules or membranes. A catalyst offers a lower-barrier pathway and accelerates approach to equilibrium; it does not change the equilibrium position at a given temperature. On a graph of ln k against 1/T, a more negative slope corresponds to a larger activation energy. Be careful: moving right on that graph means lower, not higher, temperature."
+      ]
+    ],
+    "question": "On a plot of ln k versus 1/T, why does a negative slope still mean the reaction gets faster as temperature increases?",
+    "answer": "Increasing T decreases 1/T, so you move left on the horizontal axis, where ln k is larger.",
+    "sources": [
+      "S116",
+      "S117"
+    ],
+    "source_urls": [
+      "https://goldbook.iupac.org/terms/view/A00446",
+      "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=959631"
+    ]
+  },
+  {
+    "id": "math14",
+    "concept_ids": [
+      "MATH14"
+    ],
+    "chapter": "Reason without a calculator",
+    "title": "Equilibrium is dynamic, not frozen",
+    "deck": "Reaction direction, reaction speed and continued supply are different questions.",
+    "kind": "energy",
+    "visual": {},
+    "panels": [
+      [
+        "Separate composition from rate",
+        "At chemical equilibrium, forward and reverse processes continue at equal rates, so bulk composition no longer changes. Reactant and product concentrations need not be equal. A reaction quotient Q describes the current mixture; comparing Q with the equilibrium constant K indicates the favored direction under the stated conditions. For a written reaction, Q < K favors net forward change; Q > K favors reverse change."
+      ],
+      [
+        "Keep an energy source renewed",
+        "A system away from equilibrium can offer usable chemical energy. If no process resupplies reactants, reactions tend to reduce the available imbalance. Geological flow, sunlight or transport can maintain disequilibrium. Whether a reaction is favorable is distinct from whether it occurs quickly: an activation barrier may make it slow. This distinction is central to interpreting potential biosignatures and the chemistry around hydrothermal environments."
+      ]
+    ],
+    "question": "Does a catalyst make an unfavorable equilibrium mixture favorable, or mainly change how quickly equilibrium is approached?",
+    "answer": "It changes kinetics by providing another pathway; it does not change the equilibrium constant or equilibrium composition at the same temperature.",
+    "sources": [
+      "S116",
+      "S002",
+      "S118"
+    ],
+    "source_urls": [
+      "https://goldbook.iupac.org/terms/view/A00446",
+      "https://assets.science.nasa.gov/content/dam/science/psd/astrobiology/for-researchers/strategy/nasa_astrobiology_strategy_2015_final_041216.pdf",
+      "https://goldbook.iupac.org/terms/view/C01023"
+    ]
+  },
+  {
+    "id": "sk01",
+    "concept_ids": [
+      "SK01",
+      "SK02",
+      "SK03"
+    ],
+    "chapter": "Reason without a calculator",
+    "title": "A toolkit for unfamiliar problems",
+    "deck": "Write the relationship, cancel common factors, and check the units.",
+    "kind": "practice",
+    "visual": {
+      "items": [
+        "Ratio first: compare two states before substituting numbers.",
+        "Rearrange: isolate the quantity the question actually asks for.",
+        "Units: carry meters, seconds, kilograms and kelvin.",
+        "Estimate: powers of ten reveal implausible answers."
+      ]
+    },
+    "panels": [
+      [
+        "A reusable solution sequence",
+        "First list what changes and what is held fixed. Write a symbolic relationship and form a ratio between the two cases. Cancel identical constants. Apply powers to the ratios, not to isolated numbers without units. Then explain the result in words. An answer such as “one quarter” is incomplete unless it names the quantity: flux, temperature, force or some other variable."
+      ],
+      [
+        "Estimate before calculating",
+        "For multiplication, combine leading factors and add powers of ten. For division, divide factors and subtract exponents. A kilometer is 10³ meters; a micrometer is 10⁻⁶ meters. Areas square the conversion and volumes cube it. Check limiting cases: increasing distance should not increase inverse-square flux. If a problem supplies a graph, read axis scale, units, uncertainty and whether it is linear or logarithmic before interpreting a trend."
+      ]
+    ],
+    "question": "Convert 2 km² into m², then explain why multiplying by only 1000 would be wrong.",
+    "answer": "2 km² = 2 × (10³ m)² = 2 × 10⁶ m². Both length dimensions must be converted.",
+    "sources": [
+      "S015",
+      "S011"
+    ],
+    "source_urls": [
+      "https://science.nasa.gov/learn/basics-of-space-flight/chapter3-3/",
+      "https://science.nasa.gov/earth/earth-observatory/climate-and-earths-energy-budget/"
+    ]
+  },
+  {
+    "id": "practice-1",
+    "concept_ids": [
+      "SK02",
+      "SK04",
+      "SUP01"
+    ],
+    "chapter": "Put the clues together: integrated reasoning",
+    "title": "Read the whole evidence chain",
+    "deck": "Separate what was measured from what remains uncertain.",
+    "kind": "practice",
+    "visual": {
+      "items": [
+        "A moon has a variable magnetic signature and a low-density ice shell.",
+        "Its plume contains hydrogen, carbon compounds and salts.",
+        "A model places liquid water above rock.",
+        "What can you claim, and what must still be tested?"
+      ]
+    },
+    "panels": [
+      [
+        "Construct a defensible explanation",
+        "The magnetic response may support an electrically conducting layer, while the plume reveals accessible chemistry. Together these clues strengthen an ocean interpretation, but interior models can depend on assumed geometry and composition. Hydrogen and carbon chemistry may supply ingredients for energy-yielding reactions. The evidence supports investigating habitability; it does not demonstrate organisms."
+      ],
+      [
+        "Design the next observation",
+        "Ask whether the proposed reactants coexist at useful concentrations and temperatures, whether supply is renewed, and whether the sampled plume represents the deep source. Repeated composition measurements, better interior constraints and geological context can distinguish competing models. An unfamiliar world should be reasoned about using the same criteria as the listed ones, without inventing detailed facts about it."
+      ]
+    ],
+    "question": "Which part is a direct measurement: “hydrogen in the sampled plume” or “a functioning ecosystem in the ocean”?",
+    "answer": "Hydrogen in sampled plume material is a measurement-based composition result. The ecosystem is not established. Even the connection between a plume sample and conditions throughout an ocean requires modeling.",
+    "sources": [
+      "S001"
+    ],
+    "source_urls": [
+      "https://www.soinc.org/solar-system-b"
+    ]
+  },
+  {
+    "id": "practice-2",
+    "concept_ids": [
+      "SK02",
+      "SK03",
+      "DET01",
+      "DET02"
+    ],
+    "chapter": "Put the clues together: integrated reasoning",
+    "title": "Combine a transit with a spectrum",
+    "deck": "An apparently favorable orbit is only the beginning of the investigation.",
+    "kind": "practice",
+    "visual": {
+      "items": [
+        "Transit depth is ¼ as large around the same star.",
+        "Both planets transit. RV measurements, with their inclinations accounted for, indicate equal masses.",
+        "The transmission spectrum has no prominent features.",
+        "Infer size and density, then state the atmospheric ambiguity."
+      ]
+    },
+    "panels": [
+      [
+        "Use the quantitative constraints",
+        "Transit depth scales approximately as the square of planet-to-star radius ratio. One quarter of the depth therefore indicates half the planetary radius, assuming comparable stellar surface brightness and negligible contamination. At equal planet mass, halving radius reduces volume by eight and raises mean density by eight. That is a bulk constraint, not a unique interior composition."
+      ],
+      [
+        "Keep the spectrum ambiguous",
+        "A featureless transmission spectrum may reflect no substantial atmosphere, high clouds or haze, a compact high-molecular-weight atmosphere, insufficient sensitivity, or stellar effects. It does not establish a surface ocean. Report what classes of atmosphere were tested and excluded, together with uncertainty. Use the system’s irradiation and stellar activity to frame hypotheses, not to replace measurements."
+      ]
+    ],
+    "question": "Why should a transit-depth comparison specify the same star or account for the stars’ radii?",
+    "answer": "Depth depends on the ratio Rp/Rstar. Equal depth around different-sized stars can correspond to different-sized planets.",
+    "sources": [
+      "S001",
+      "S076",
+      "S069"
+    ],
+    "source_urls": [
+      "https://www.soinc.org/solar-system-b",
+      "https://exoplanetarchive.ipac.caltech.edu/docs/API_PS_columns.html",
+      "https://arxiv.org/html/2406.15136v1"
+    ]
+  },
+  {
+    "id": "practice-3",
+    "concept_ids": [
+      "SK01",
+      "SK03",
+      "MATH06",
+      "MATH12",
+      "MATH13"
+    ],
+    "chapter": "Put the clues together: integrated reasoning",
+    "title": "Connect energy, gas and chemistry",
+    "deck": "A single environmental change can have several different consequences.",
+    "kind": "practice",
+    "visual": {
+      "items": [
+        "Incoming stellar flux increases by 16×.",
+        "Albedo and emissivity stay fixed.",
+        "A sealed rigid gas sample follows the new temperature.",
+        "What can and cannot be predicted about reaction rate?"
+      ]
+    },
+    "panels": [
+      [
+        "Follow the model step by step",
+        "In the uniform equilibrium-temperature model, T scales as the fourth root of flux, so the Kelvin temperature doubles. In a fixed-volume ideal-gas container with the same amount of gas, pressure is proportional to Kelvin temperature, so pressure also doubles. These linked results require the stated assumptions; a real atmosphere is not a sealed rigid container and its surface temperature need not equal the equilibrium benchmark."
+      ],
+      [
+        "Know where a ratio is insufficient",
+        "For a simple Arrhenius reaction with fixed prefactor and positive activation energy, increasing temperature raises the rate constant. But the increase is not necessarily twofold, fourfold or sixteenfold. The activation energy and initial temperature are required to calculate it. Chemical equilibrium can also change with temperature; a faster rate alone does not tell you the final composition or whether molecules remain biologically functional."
+      ]
+    ],
+    "question": "Can the factor-of-two temperature result alone determine the Arrhenius rate increase? Explain.",
+    "answer": "No. The exponential contains activation energy divided by RT, so both the activation energy and the actual temperatures are needed for a numerical rate ratio.",
+    "sources": [
+      "S001"
+    ],
+    "source_urls": [
+      "https://www.soinc.org/solar-system-b"
+    ]
+  },
+  {
+    "id": "cryovolcanism",
+    "concept_ids": [
+      "E04",
+      "E03"
+    ],
+    "chapter": "Reading evidence: eruptions and sublimation",
+    "title": "Eruption is not the same as sublimation",
+    "deck": "Compare transport from an interior with direct loss of surface ice.",
+    "kind": "comparison",
+    "visual": {
+      "headers": [
+        "Process",
+        "Material pathway",
+        "Evidence to seek"
+      ],
+      "rows": [
+        [
+          "Cryovolcanism",
+          "Volatile-rich material erupts from within a cold body",
+          "Vents, deposits, composition, heat and structure"
+        ],
+        [
+          "Sublimation",
+          "Exposed solid changes directly to gas",
+          "Sunlight-linked gas and dust activity"
+        ],
+        [
+          "Rock volcanism",
+          "Molten silicate rock erupts",
+          "Lava and high-temperature geology"
+        ]
+      ]
+    },
+    "panels": [
+      [
+        "Follow the material",
+        "Cryovolcanism is eruption of volatile-rich material, such as water or other low-melting-point substances, rather than ordinary molten silicate rock. The erupted material may freeze, vaporize or deposit particles after release. Surface morphology alone rarely identifies the full pathway. Combine landforms with composition, temperature, temporal change and interior evidence to test whether an internal source is plausible."
+      ],
+      [
+        "Do not give every plume the same origin",
+        "On comet 67P, solar heating drives sublimation and gas-dust activity; a visible jet does not by itself require a liquid reservoir. Enceladus links its south-polar plume to a subsurface ocean through several independent measurements and models. The visual similarity of two jets is therefore weaker evidence than their chemistry, setting and energy source. Avoid calling all gas loss cryovolcanism or treating all erupted water as evidence of a habitable ocean."
+      ]
+    ],
+    "question": "Why does a gas-and-dust jet on a comet not establish a subsurface liquid ocean?",
+    "answer": "Surface or near-surface ice can sublime directly to gas when heated by sunlight. An ocean requires additional evidence excluding or complementing that pathway.",
+    "sources": [
+      "S141",
+      "S035",
+      "S054"
+    ],
+    "source_urls": [
+      "https://ntrs.nasa.gov/api/citations/20210026013/downloads/Quick_%20Chapter5_Cryovolcanism_13Jun2021.docx.pdf",
+      "https://science.nasa.gov/saturn/moons/enceladus/",
+      "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Comet_67P_Churyumov-Gerasimenko"
+    ]
+  },
+  {
+    "id": "data-sketch-practice",
+    "concept_ids": [
+      "SK01",
+      "SK02",
+      "SK03",
+      "MATH02",
+      "MATH04",
+      "SK04"
+    ],
+    "chapter": "Put the clues together: graphing evidence",
+    "title": "Sketch the relationship before solving",
+    "deck": "These are idealized practice values, not observations of a named world.",
+    "kind": "comparison",
+    "visual": {
+      "headers": [
+        "Distance r/r₀",
+        "Measured flux F/F₀",
+        "Quoted uncertainty"
+      ],
+      "rows": [
+        [
+          "1",
+          "1.00",
+          "±0.04"
+        ],
+        [
+          "2",
+          "0.25",
+          "±0.02"
+        ],
+        [
+          "3",
+          "0.11",
+          "±0.02"
+        ],
+        [
+          "4",
+          "0.06",
+          "±0.01"
+        ]
+      ]
+    },
+    "panels": [
+      [
+        "Test a model against data",
+        "Sketch distance on the horizontal axis and flux on the vertical axis, labeling both as ratios. Plot the four points and add vertical uncertainty bars. An inverse-square model predicts 1, 1/4, 1/9 and 1/16. These predictions are consistent with the rounded practice values. Draw a smooth decreasing curve that becomes less steep, not a straight line joining only the first and last points."
+      ],
+      [
+        "Change the plot to expose the law",
+        "Now sketch flux against 1/r². The same ideal model becomes a straight line through the origin. This transformation makes proportionality easier to inspect; systematic departures could reveal measurement bias or missing physics. As a separate exercise, sketch emitted flux against Kelvin temperature for fixed emissivity. Its T⁴ curve rises increasingly steeply. Always identify whether a displayed axis uses r, r², 1/r² or a logarithm before interpreting its slope."
+      ]
+    ],
+    "question": "On the original distance-versus-flux graph, estimate F/F₀ at r/r₀ = 5 using the model, then explain how the transformed plot helps.",
+    "answer": "The model gives 1/25 = 0.04. A plot of F against 1/r² should be linear for a fixed isotropic luminosity, making departures from proportionality easier to see.",
+    "sources": [
+      "S011"
+    ],
+    "source_urls": [
+      "https://science.nasa.gov/earth/earth-observatory/climate-and-earths-energy-budget/"
+    ]
+  }
+]

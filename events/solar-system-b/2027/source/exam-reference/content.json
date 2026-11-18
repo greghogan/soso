@@ -1,0 +1,378 @@
+{
+  "page1": {
+    "subtitle": "<b>Evidence key:</b> observed = a measured signal or sample; inferred = an explanation/model; unknown ≠ absent. Habitable ≠ inhabited. No confirmed extraterrestrial life.",
+    "headers": [
+      "Target",
+      "Environment & evidence",
+      "Habitability interpretation / limits"
+    ],
+    "worlds": [
+      [
+        "<b>Venus</b>",
+        "Rocky planet, second from Sun (≈0.72 AU). CO<sub>2</sub>-rich air, sulfuric-acid clouds; surface ≈467°C, ≈93 Earth atmospheres. High albedo reflects sunlight, yet strong infrared greenhouse warming dominates surface temperature.",
+        "Surface hostile to known life. Milder cloud temperatures do not remove extreme acidity and very low water availability. Ancient ocean history is unresolved; phosphine claims are disputed, not life evidence. Venus Express / DAVINCI / VERITAS."
+      ],
+      [
+        "<b>Mars</b>",
+        "Rocky planet, fourth from Sun (≈1.52 AU). Thin CO<sub>2</sub> air (≈6 mbar), cold dry surface, water ice. Valleys, deltas, lake sediments and hydrated minerals record past liquid water. Solar-driven escape helped alter the atmosphere.",
+        "Past habitable settings ≠ past life. Exposed liquid is difficult to sustain now. Organics and potential biosignatures require abiotic tests and context; radiation/oxidants damage preservation. Perseverance = local rocks; MRO = regional record; MAVEN = escape."
+      ],
+      [
+        "<b>Ganymede</b>",
+        "Diameter ≈5,260 km. Jupiter’s moon; largest moon in the Solar System. Intrinsic magnetic field is distinct from an induced ocean response. Magnetic/auroral behavior supports a conducting salty interior layer; icy, grooved and cratered terrain.",
+        "Likely deep ocean with complex water/ice layers. High-pressure ice may restrict rock contact; exchange, nutrients and energy remain uncertain. Tenuous O<sub>2</sub> is not breathable air or life evidence. Galileo / JUICE."
+      ],
+      [
+        "<b>Europa</b>",
+        "Diameter ≈3,120 km. Jupiter’s moon. Fractured young ice and induced magnetic response strongly support a salty ocean over rock. Surface CO<sub>2</sub> concentrated in young terrain favors an internal carbon source.",
+        "Tidal heat; possible water-rock chemistry and surface oxidant delivery. Radiation damages exposed organics. Exchange and plume activity uncertain. Ice thickness is regional/model-dependent, not one exact global value. Galileo / Europa Clipper."
+      ],
+      [
+        "<b>Enceladus</b>",
+        "Diameter ≈500 km. Saturn’s moon. South-polar fractures eject water-rich gas and icy grains. Cassini sampled salts, organics and H<sub>2</sub>; phosphate found in grains. Evidence strongly supports an internal ocean.",
+        "H<sub>2</sub> supports rock-water reactions and possible usable chemical energy, not microbes. Plumes provide access without drilling but may filter/alter ocean material. Ocean longevity, concentrations and life remain unknown. Cassini."
+      ],
+      [
+        "<b>Titan</b>",
+        "Diameter ≈5,150 km. Saturn’s largest moon; second-largest moon in the Solar System. Surface pressure ≈1.5 Earth sea-level; dense N<sub>2</sub> air, methane haze/weather; methane/ethane lakes and rivers over a water-ice surface (≈94 K). Rich organic chemistry. Water is not the liquid in the surface lakes.",
+        "Known life uses water, not liquid methane. Impact melt could mix water and organics. A 2025 Cassini reanalysis favors slushy high-pressure ice over a global ocean in tested models; melt pockets possible, not observed habitats. Cassini-Huygens / Dragonfly."
+      ],
+      [
+        "<b>Makemake</b>",
+        "Diameter ≈1,430 km; orbits Sun beyond Neptune. Cold Kuiper Belt dwarf planet (≈46 AU). Spectra show methane/ethane ice; reported methane gas has competing bound-atmosphere and escaping-gas interpretations.",
+        "No established ocean or stable surface-water habitat. Isotopes constrain methane origins but permit competing internal/primordial models. Very low solar flux; internal structure poorly known. Methane alone is not biological."
+      ],
+      [
+        "<b>101955<br/>Bennu</b>",
+        "Near-Earth, carbon-rich rubble-pile asteroid ≈500 m across. Returned samples contain hydrated minerals, salts, amino acids, nucleobases and sugars. Ancient parent-body alteration/brines inferred.",
+        "Ingredients and chemical history, not cells, DNA or a present Bennu ocean. Small bodies can deliver water-bearing material/organics; delivery does not explain all steps to life. Contamination-controlled laboratories distinguish native material. OSIRIS-REx."
+      ],
+      [
+        "<b>67P/<br/>Churyumov-<br/>Gerasimenko</b>",
+        "Jupiter-family comet; orbits Sun, not Jupiter, about every 6.5 yr. Comet nucleus releases ice as vapor and dust under solar heating; coma/jets ≠ stable dense atmosphere. Rosetta found water, organics including glycine, phosphorus and molecular oxygen.",
+        "Mostly ice/vapor does not imply a liquid-water habitat. O<sub>2</sub> and organics can be abiotic. Water D/H is an origin tracer, with sampling/model disputes; one comet cannot establish all of Earth’s water sources. Rosetta / Philae."
+      ]
+    ],
+    "systems": [
+      [
+        "<b>TRAPPIST-1</b>",
+        "Seven roughly Earth-size transiting planets b-h around an ultracool M dwarf. e/f/g lie in commonly modeled surface-water habitable zones; short orbits aid repeated observations.",
+        "Stellar flares/heterogeneity affect planets and spectra. b/c thick atmospheres disfavored; do not extrapolate to all planets. Tested extended H<sub>2</sub>/He air on f disfavored; heavier air unresolved. Atmospheres, water and life are not established by HZ position."
+      ],
+      [
+        "<b>Kepler-452</b>",
+        "G-type host; transiting b has radius ≈1.6 Earth radii, period ≈385 d, orbit ≈1.05 AU. An older/more luminous star changes received flux despite an Earth-like orbital distance.",
+        "Detection reliability is controversial in the NASA Exoplanet Archive. Transit constrains radius ratio/period, not surface, ocean or directly measured mass. Atmosphere, water and surface temperature remain unknown."
+      ],
+      [
+        "<b>LHS 1140</b>",
+        "M dwarf; b transits every ≈24.7 d, ≈1.73 Earth radii and ≈5.6 Earth masses in recent analyses. Interior/spectral models allow a water-rich interpretation.",
+        "Water world and nitrogen-rich air are hypotheses, not detections. A 2026 helium claim from one ground-based transit is disputed by analyses of four non-simultaneous JWST transits; variability vs false signal unresolved. Non-detection ≠ no atmosphere."
+      ]
+    ],
+    "end": "One AU ≈150 million km (Earth–Sun orbital scale); moon–planet distance is a different scale. <b>Compare, do not rank by slogans:</b> solvent phase + pressure/temperature + usable energy + accessible chemistry + transport + persistence. Interior drawings are models. A spectrum, rock texture or molecule is a clue whose alternatives must be tested. Secondary atmosphere: replenished (e.g., outgassing), not simply primordial gas; not necessarily Earth-like."
+  },
+  "page2": {
+    "subtitle": "Ask <b>where, when, in what phase, with what energy, and for how long?</b> Distinguish a heat source that maintains liquid from a chemical reaction that could power metabolism.",
+    "columns": [
+      [
+        {
+          "title": "1. Requirements and useful distinctions",
+          "items": [
+            "<b>Known Earth life:</b> liquid water, carbon-based chemistry, accessible elements/nutrients (including C, H, N, O, P, S), usable energy and conditions that allow chemistry and persistence. One favorable ingredient is insufficient.",
+            "<b>Habitable</b> = potentially capable of supporting life under specified conditions; <b>inhabited</b> = life actually present. <b>Organic compounds</b> are carbon-based, often with C-H bonds, not necessarily biological; not all carbon compounds are organic (CO<sub>2</sub> is inorganic). <b>Prebiotic</b> = relevant to processes before life.",
+            "<b>Surface-water habitable zone (HZ):</b> stellar-distance range in which suitable atmospheres could sustain surface liquid water. Depends on star/air/models; excludes neither buried oceans outside it nor hostile planets inside it."
+          ]
+        },
+        {
+          "title": "2. Energy budget, atmosphere and retention",
+          "items": [
+            "<b>Flux</b> decreases as 1/d². <b>Albedo</b> reflects a fraction of incident light. <b>Greenhouse effect:</b> air absorbs/emits infrared; the surface must warm to balance energy loss to space. High reflectivity and a strong greenhouse can coexist (Venus).",
+            "<b>Equilibrium temperature</b> is an idealized radiative balance, not automatically surface temperature. Greenhouse, day/night transport, clouds, internal heat and emissivity matter. Use Kelvin in thermal laws.",
+            "<b>Retention:</b> greater mass/smaller radius raises escape speed; hotter and lighter particles move faster. Thermal escape preferentially removes fast particles. UV heating/ionization, stellar winds and nonthermal processes can increase loss. Volcanism/delivery can replenish air.",
+            "<b>Do not use one cause:</b> atmosphere depends on gravity, temperature, chemistry, star, history and replenishment. No intrinsic magnetic field does not imply no atmosphere; Venus is a counterexample. Loss rates vary with time."
+          ]
+        },
+        {
+          "title": "3. Water forms are not interchangeable",
+          "items": [
+            "<b>Liquid:</b> mobile solvent; stable only within a pressure-temperature-composition range. <b>Crystalline ice:</b> ordered lattice; different high-pressure phases exist. <b>Amorphous ice:</b> disordered solid, able to trap volatiles; not liquid.",
+            "<b>Brine:</b> salts dissolved in water can depress freezing temperature; highly saline water can have too little water activity for known life. <b>Clathrate:</b> water-ice cages enclose guest gas molecules; not a liquid solution.",
+            "<b>Pure-water phase map:</b> triple point ≈273.16 K and 611 Pa; below that pressure ordinary stable liquid cannot persist. Low-pressure warming often gives sublimation (solid→gas), not melting. Pressure/brines change stability.",
+            "<b>Water evidence:</b> vapor, surface frost, bound water in minerals, ancient lake deposits and inferred current ocean mean different things. Hydrated minerals record alteration; they do not alone prove liquid exists now."
+          ]
+        },
+        {
+          "title": "4. Internal energy and transport",
+          "items": [
+            "<b>Heat sources:</b> radioactive decay, retained formation heat and tidal dissipation. Tidal gravity is a differential force; time-varying deformation plus dissipation creates heat. Resonances can maintain orbital eccentricity and flexing.",
+            "<b>Cryovolcanism:</b> eruption/transport of volatile-rich liquids, slurries or gases instead of silicate lava. Fractures or plumes may exchange interior/surface material, but a landform alone does not fix composition or source depth.",
+            "<b>Why rock contact matters:</b> water-rock reactions may supply H<sub>2</sub>, dissolved nutrients and redox gradients. High-pressure ice can impede exchange; circulation and mixing determine access. Heat alone is not food."
+          ]
+        }
+      ],
+      [
+        {
+          "title": "5. Chemistry that can power life",
+          "items": [
+            "<b>Equilibrium:</b> forward/reverse rates balance; concentrations stay constant, not necessarily equal. <b>Disequilibrium:</b> composition differs from equilibrium; a usable chemical gradient can release free energy as it relaxes.",
+            "<b>Redox:</b> electrons transfer from donors to acceptors. Energy-yielding chemistry needs both, adequate concentrations and mixing. Sunlight or geological reactions can replenish disequilibrium.",
+            "<b>Chemolithoautotroph:</b> chemical energy (<i>chemo</i>), inorganic electron donors (<i>litho</i>), inorganic carbon/CO<sub>2</sub> for biomass (<i>auto</i>). Needs a compatible reaction; sunlight is not its immediate energy source.",
+            "<b>Earth metabolic analogy:</b> CO<sub>2</sub> + 4H<sub>2</sub> → CH<sub>4</sub> + 2H<sub>2</sub>O. Some microbes use this chemistry; abiotic reactions can also make methane. H<sub>2</sub> at Enceladus supports energy potential, not methanogen detection."
+          ]
+        },
+        {
+          "title": "6. Building blocks and extremophiles",
+          "items": [
+            "<b>Proteins:</b> amino-acid polymers; enzymes catalyze and structures perform work. <b>Nucleic acids:</b> nucleotide polymers DNA/RNA store/transmit information; a nucleotide includes base, sugar and phosphate.",
+            "<b>Lipids:</b> many membrane lipids are amphiphilic and form compartments; other lipids store energy. <b>Carbohydrates:</b> sugars/polymers used in energy and structure. Amino acids, bases or sugars ≠ functioning cells or their polymers.",
+            "<b>Extremophiles:</b> organisms adapted to extremes; thermophiles (heat), psychrophiles (cold), halophiles (salt), acidophiles (acid). Limits interact; tolerance to one does not imply tolerance to all.",
+            "<b>Tardigrades:</b> some survive dehydration/extreme exposures while dormant. Survival ≠ metabolism/reproduction there. Duration, protective state and species matter; not proof life grows in vacuum."
+          ]
+        },
+        {
+          "title": "7. Read morphology, spectra and samples",
+          "items": [
+            "<b>Valleys/channels:</b> geometry, branching, slope and deposits test flowing-liquid interpretations. <b>Deltas:</b> deposited sediment at a flow entering a standing body. <b>Layers:</b> changing deposition; not every layer is a lake.",
+            "<b>Context test:</b> distinguish water erosion from wind, lava, ice or impacts. Grain rounding/sorting and clay/sulfate minerals constrain processes; a familiar-looking shape is not decisive.",
+            "<b>Spectrum:</b> brightness/reflectance vs wavelength. Repeated absorption/emission bands support material identification; band depths depend on abundance, grain size, temperature, mixing, clouds and geometry. Compare a baseline and uncertainty.",
+            "<b>Small-body delivery:</b> impacts can deliver organics/water-bearing material; later heating/chemistry alters it. Isotope ratios (e.g., D/H) trace sources but mixtures and processing complicate attribution. Ingredients ≠ organisms."
+          ]
+        },
+        {
+          "title": "8. Evidence ladder and answer checklist",
+          "items": [
+            "<b>Observation → inference → alternative → test.</b> Example: a spectral band → candidate molecule → overlapping species/instrument effect → multiple bands and independent calibration. Name what the instrument actually measured.",
+            "<b>Biosignature:</b> a feature potentially produced by life, evaluated against abiotic sources, contamination and preservation. Multiple independent contextual clues are stronger than one gas. O<sub>2</sub>, CH<sub>4</sub> and organics can be abiotic.",
+            "<b>Non-detection:</b> applies to a place, epoch, sample and sensitivity; not universal absence. Cloudy/heavy atmospheres can hide bands. Sampling, detection limits, error bars and model assumptions belong in the conclusion.",
+            "<b>Maps/plots:</b> check scale, units, orientation, axes, legend, baseline and error bars. Correlation ≠ cause; a fitting model need not be unique. Separate direct, historical and model-derived claims."
+          ]
+        }
+      ]
+    ]
+  },
+  "page3": {
+    "subtitle": "Status key: <b>C</b> completed/retired; <b>A</b> active operations; <b>cruise</b> not yet at target science; <b>P</b> planned. Instruments below are key examples, not exhaustive payload lists.",
+    "missions": [
+      [
+        {
+          "name": "Venus Express",
+          "status": "C · Venus orbiter",
+          "text": "Atmosphere/climate/escape: VIRTIS + SPICAV/SOIR spectra; VMC clouds; ASPERA-4 particles; MAG fields; VeRa radio profiles. Repeated global views avoid surface heat/pressure, but do not directly sample the deep atmosphere."
+        },
+        {
+          "name": "DAVINCI",
+          "status": "P · flyby carrier + descent probe",
+          "text": "Atmospheric history: VMS noble/trace gases/isotopes; VTLS chemistry; VASI pressure/T/winds; VenDI descent images; VfOx oxygen chemistry. VISOR/CUVIS on carrier. One protected descent profile depends on a short relay window, not long surface survival."
+        },
+        {
+          "name": "VERITAS",
+          "status": "P · Venus orbiter",
+          "text": "Geologic evolution/activity: VISAR radar images, topography and deformation; VEM near-IR emissivity; radio gravity. Radar sees through clouds; composition/interior remain indirect. Repeat geometry, data volume and thermal control constrain mapping."
+        },
+        {
+          "name": "Perseverance",
+          "status": "A · Mars rover",
+          "text": "Ancient habitability/potential biosignatures: Mastcam-Z context; SuperCam remote chemistry; PIXL elements; SHERLOC minerals/organics; RIMFAX layers; MEDA weather; cores cached. MMRTG + mobility, but local coverage/contamination limits. MOXIE O<sub>2</sub> demo ended."
+        },
+        {
+          "name": "MRO",
+          "status": "A · Mars Reconnaissance Orbiter",
+          "text": "HiRISE detail + CTX context; CRISM mineral spectra (retired instrument, useful archive); SHARAD subsurface radar; MARCI/MCS weather/air profiles. Regional mapping + rover relay. Resolution trades against footprint/data; radar echoes need interpretation."
+        },
+        {
+          "name": "MAVEN",
+          "status": "C · Mars orbiter",
+          "text": "Escape and atmosphere evolution: NGIMS composition/isotopes; IUVS UV structure; SWIA/SWEA/SEP/STATIC particles; MAG/LPW fields/plasma. Elliptical orbit connects air and space. Present loss rates cannot simply be extrapolated over billions of years."
+        },
+        {
+          "name": "Galileo",
+          "status": "C · Jupiter orbiter + probe",
+          "text": "Moon geology/ocean clues: camera, NIMS spectra, magnetic/plasma data; separate probe sampled Jupiter’s air. RTGs and shielding enabled distant science; failed high-gain antenna restricted data. Controlled Jupiter entry reduced moon-contamination risk."
+        },
+        {
+          "name": "Europa Clipper",
+          "status": "cruise · Jupiter orbiter/flybys",
+          "text": "Europa habitability: EIS images, MISE chemistry, E-THEMIS heat, UVS atmosphere, REASON ice radar; ECM+PIMS ocean/plasma; MASPEX gas, SUDA dust; radio gravity. Brief flybys reduce radiation dose; large solar arrays. Not a lander or life detector."
+        }
+      ],
+      [
+        {
+          "name": "JUICE",
+          "status": "cruise · Jupiter system/Ganymede orbit",
+          "text": "Compare icy moons: JANUS images; MAJIS/UVS/SWI spectra; GALA topography; RIME ice radar; J-MAG fields, PEP/RPWI plasma, 3GM gravity/radio. Solar wings/shielding; eventual Ganymede orbit gives sustained coverage versus short flybys elsewhere."
+        },
+        {
+          "name": "Cassini-Huygens",
+          "status": "C · Saturn orbiter/Titan probe",
+          "text": "Cassini RADAR mapped Titan; INMS gas + CDA grains sampled Enceladus; cameras/spectrometers/fields supplied context. Huygens GCMS chemistry, DISR images, HASI atmosphere, DWE winds, SSP surface. RTG orbiter vs short battery/relay descent."
+        },
+        {
+          "name": "Dragonfly",
+          "status": "P · Titan rotorcraft lander",
+          "text": "Prebiotic chemistry: DrACO samples → DraMS compounds; DraGNS elements; DragonCam context; DraGMet weather/geophysics. Dense air/low gravity favor flight between sites. MMRTG charges flight battery; autonomy needed, sunlight weak."
+        },
+        {
+          "name": "OSIRIS-REx",
+          "status": "C · Bennu sample return",
+          "text": "OCAMS images; OLA shape; OVIRS/OTES spectra; TAGSAM collected material for Earth laboratories. Precise low-gravity navigation, safe return and contamination control trade complexity for powerful repeatable analyses. Samples remain under study; spacecraft continued renamed."
+        },
+        {
+          "name": "Rosetta",
+          "status": "C · 67P rendezvous + Philae",
+          "text": "OSIRIS images; ROSINA gases/isotopes; COSIMA dust chemistry; VIRTIS/ALICE/MIRO spectra; CONSERT interior radio. Followed changing comet activity. Dust/low gravity challenge navigation; Philae bounced into shade, limiting solar recharge."
+        },
+        {
+          "name": "Kepler",
+          "status": "C · transit survey telescope",
+          "text": "CCD photometer tracked many stars’ brightness to infer planet periods/radius ratios and occurrence. Stable pointing/long baseline detect tiny repeating dips; only aligned systems transit. Correct census for geometric and detection bias; no planet surface pictures."
+        },
+        {
+          "name": "JWST",
+          "status": "A · infrared telescope near L2",
+          "text": "NIRCam, NIRSpec, NIRISS and MIRI: imaging/spectra; transits, eclipses/phase curves and selected direct imaging constrain gases/heat. Sunshield + MIRI cryocooler reduce thermal noise. Stellar contamination/clouds and retrieval degeneracy limit claims."
+        },
+        {
+          "name": "Roman Space Telescope",
+          "status": "launched · commissioning (13 Nov 2026)",
+          "text": "WFI will survey bulge microlensing/transits; Coronagraph tests starlight suppression. NASA reports instrument alignment complete, further coronagraph tests ahead. Many stars catch rare events; cadence and distant targets limit follow-up."
+        }
+      ]
+    ],
+    "columns": [
+      [
+        {
+          "title": "Transits and radial velocity (RV)",
+          "items": [
+            "<b>Transit:</b> relative stellar flux vs time; δ=(F<sub>out</sub>−F<sub>in</sub>)/F<sub>out</sub>≈(R<sub>p</sub>/R<sub>★</sub>)²; repeated centers → P. Nearly edge-on; favors large, close-in planets/small stars. Blends, binaries, starspots can mislead. Gives radius, not mass; duration ≠ period.",
+            "<b>RV:</b> periodic stellar spectral-line shifts → line-of-sight velocity. K is half peak-to-peak amplitude; orbit + stellar mass → M<sub>p</sub> sin i (minimum mass). i=90° edge-on; face-on gives no RV wobble. Favors massive/short-period planets; stellar activity mimics signals.",
+            "<b>Combine:</b> transit radius + RV mass → mean density; ρ∝M/R³. Density still permits different interiors. Atmospheric spectra can add chemistry, not automatic habitability."
+          ]
+        },
+        {
+          "title": "What an instrument really measures",
+          "items": [
+            "<b>Imager:</b> brightness/position → morphology. <b>Light spectrometer:</b> intensity/wavelength → composition/T. <b>Mass spectrometer:</b> ion mass/charge → sampled chemistry. <b>Radar:</b> echo delay/strength → interfaces. <b>Magnetometer:</b> field → conductivity models. <b>Radio tracking:</b> motion → gravity/interior. No one instrument is a universal “life scanner.”"
+          ]
+        }
+      ],
+      [
+        {
+          "title": "Microlensing and direct imaging",
+          "items": [
+            "<b>Microlensing:</b> foreground gravity magnifies a background star; a planetary perturbation changes flux vs time. Model yields mass ratio/projected separation in lens units; extra constraints needed for absolute mass. Sensitive to cold/wide and unbound planets; rare alignment, usually nonrepeating. Duration mixes mass, distance and relative speed.",
+            "<b>Direct imaging:</b> suppress stellar glare with a coronagraph, separate planet light → brightness/colors/spectra and position. Favors wide, nearby, young/hot giant planets. Contrast, diffraction and inner working angle hide close faint planets. Brightness-to-mass conversion depends on age/atmosphere models; unresolved dot ≠ surface map."
+          ]
+        },
+        {
+          "title": "Choose the platform; pay the tradeoff",
+          "items": [
+            "<b>Orbiter:</b> repeated/global but indirect. <b>Flyby:</b> low close-range exposure, short window. <b>Probe/rover:</b> direct local data, landing risk/limited area. <b>Return:</b> best labs, costly collection/reentry/cleanliness.",
+            "<b>Power:</b> solar ∝1/d²; RTGs convert radioactive heat, not fission. Batteries store energy. <b>Comms:</b> distance lowers signal, increases delay; antennas/relays/autonomy help. Shielding, thermal control and clean handling cost mass/power. Protect samples and potentially habitable worlds."
+          ]
+        }
+      ]
+    ]
+  },
+  "page4": {
+    "subtitle": "Use <b>ratios before arithmetic</b>; name assumptions; cancel units; keep Kelvin and consistent distances. Symbols are defined in each box. Subscripts distinguish star (★), planet (p), and reference values (0).",
+    "columns": [
+      [
+        {
+          "title": "1. Doppler shift and transit size",
+          "formula": "v<sub>r</sub>/c ≈ Δλ/λ<sub>0</sub>; Δλ = λ<sub>obs</sub> − λ<sub>0</sub><br/>δ ≈ (R<sub>p</sub>/R<sub>★</sub>)²; R<sub>p</sub> ≈ R<sub>★</sub>√δ",
+          "items": [
+            "v<sub>r</sub>: signed radial velocity; c: light speed; λ: wavelength (same units). Valid |v|≪c. Positive shift = recession; negative = approach. At 500 nm, +0.00005 nm → +30 m/s.",
+            "δ: fractional flux decrease; 1%=0.01 → radius ratio 0.1. Depth ×4 → radius ×2. Uniform unblended star, dark non-grazing planet; real fits include limb darkening. P=spacing of successive centers."
+          ]
+        },
+        {
+          "title": "2. Flux, albedo and inverse-square law",
+          "formula": "F = L/(4πd²); F<sub>2</sub>/F<sub>1</sub> = (L<sub>2</sub>/L<sub>1</sub>)(d<sub>1</sub>/d<sub>2</sub>)²<br/>P<sub>abs</sub> = (1 − A)FπR<sub>p</sub>²",
+          "items": [
+            "L luminosity [W]; F incident flux [W/m²]; d star-planet distance [m]; R<sub>p</sub> radius. Bond albedo A is the fraction of total incident power reflected (0-1). Absorbed fraction is 1−A, not A.",
+            "d ×2 → F ÷4; L ×4 → F ×4 at fixed d. Spreading area=4πd²; planet intercepts πR<sub>p</sub>². F vs d falls/curves; log F vs log d slope −2 at fixed L."
+          ]
+        },
+        {
+          "title": "3. Thermal emission and wavelength",
+          "formula": "F<sub>emit</sub> = εσT⁴; P<sub>emit</sub> = 4πR²εσT⁴<br/>L<sub>★</sub> = 4πR<sub>★</sub>²σT<sub>★</sub>⁴ (blackbody)<br/>λ<sub>max</sub>T = b",
+          "items": [
+            "T in K; ε emissivity (0-1); σ Stefan-Boltzmann constant; b Wien constant. Emitted flux is power/area, luminosity is total power. ε=1 gives an ideal blackbody.",
+            "T ×2 → flux ×16 and peak wavelength ÷2. At fixed T, R ×2 → luminosity ×4, not surface flux ×4. Wien is a wavelength-spectrum peak; hotter objects peak at shorter wavelengths."
+          ]
+        },
+        {
+          "title": "4. Equilibrium temperature",
+          "formula": "(1 − A)FπR<sub>p</sub>² = 4πR<sub>p</sub>²εσT<sub>eq</sub>⁴<br/>T<sub>eq</sub> = [(1 − A)L/(16πεσd²)]<super>1/4</super>",
+          "items": [
+            "Assumes steady balance, uniform reradiation over full sphere, no internal heat; greenhouse not included. R<sub>p</sub> cancels. With ε=1: T<sub>eq</sub>=T<sub>★</sub>√[R<sub>★</sub>/(2d)](1−A)<super>1/4</super>.",
+            "T<sub>eq</sub>∝L<super>1/4</super>d<super>−1/2</super>(1−A)<super>1/4</super>. L ×16 → T ×2; d ×4 → T ÷2; absorbed fraction ×16 → T ×2. Not linear in flux or necessarily surface T. Redistribution changes the factor 4."
+          ]
+        },
+        {
+          "title": "5. Ideal gas and particle motion",
+          "formula": "PV = nR<sub>g</sub>T = Nk<sub>B</sub>T<br/>v<sub>rms</sub> = √(3k<sub>B</sub>T/m<sub>particle</sub>)",
+          "items": [
+            "P pressure [Pa]; V volume [m³]; n amount [mol]; N molecule count; R<sub>g</sub> molar gas constant; k<sub>B</sub> per-particle constant. Use a dilute ideal-gas approximation, not arbitrary dense fluids.",
+            "Fixed n,V: P∝T; fixed n,T: P∝1/V; fixed n,P: V∝T. 300→600 K doubles P at fixed V, not 30→60°C. T ×4 → thermal speed ×2; particle mass ×4 → speed ÷2."
+          ]
+        },
+        {
+          "title": "6. Chemical equilibrium and kinetics",
+          "formula": "aA + bB ⇌ cC + dD; K<sub>eq</sub> = a<sub>C</sub><super>c</super>a<sub>D</sub><super>d</super>/(a<sub>A</sub><super>a</super>a<sub>B</sub><super>b</super>)<br/>k = A<sub>pre</sub>exp[−E<sub>a</sub>/(R<sub>g</sub>T)]<br/>ln k = ln A<sub>pre</sub> − (E<sub>a</sub>/R<sub>g</sub>)(1/T)",
+          "items": [
+            "a<sub>i</sub>: dimensionless activity; coefficients become powers. Dilute models may use normalized concentrations; pure solids/liquids omitted. Q has the same form at current composition: Q&lt;K forward favored; Q&gt;K reverse.",
+            "Arrhenius: k rate constant, A<sub>pre</sub> prefactor, E<sub>a</sub> activation energy [J/mol]. For positive E<sub>a</sub>, warmer → faster. ln k vs 1/T has slope −E<sub>a</sub>/R<sub>g</sub>. Catalyst lowers barrier/speeds approach, not K or equilibrium composition. Rate ≠ equilibrium; balance atoms first."
+          ]
+        }
+      ],
+      [
+        {
+          "title": "7. Gravity, energy and escape",
+          "formula": "F<sub>g</sub> = GMm/r²; g = GM/r²<br/>E<sub>K</sub> = ½mv²; U = −GMm/r (U<sub>∞</sub>=0)<br/>v<sub>esc</sub> = √(2GM/R); v<sub>circ</sub> = √(GM/r)",
+          "items": [
+            "G gravitational constant; M central mass, m test mass [kg]; r center-to-center separation, R launch radius [m]. Force [N]; acceleration [m/s²]; energy [J]. Use radius, not diameter or height above surface alone.",
+            "Minimum escape speed: ½mv²−GMm/R=0 for arrival at infinity with zero speed (neglect drag/rotation). m cancels; v<sub>esc</sub>=√2 v<sub>circ</sub> at same radius. Escape ≠ orbiting or leaving the atmosphere.",
+            "M ×4 → v<sub>esc</sub> ×2 at fixed R. R ×4 → v<sub>esc</sub> ÷2 at fixed M. r ×2 → force/g ÷4. Potential becomes less negative with increasing r; energy must be added to escape."
+          ]
+        },
+        {
+          "title": "8. Kepler’s three laws and ellipse geometry",
+          "formula": "r<sub>peri</sub> = a(1−e); r<sub>apo</sub> = a(1+e)<br/>a = (r<sub>peri</sub>+r<sub>apo</sub>)/2; e=(r<sub>apo</sub>−r<sub>peri</sub>)/(r<sub>apo</sub>+r<sub>peri</sub>)<br/>P² = 4π²a³/[G(M+m)]",
+          "items": [
+            "<b>1:</b> elliptical orbit, central object at a focus (two-body model). a=semimajor axis; e=eccentricity (circle e=0; bound ellipse 0≤e&lt;1). a need not equal current r.",
+            "<b>2:</b> equal swept areas in equal times → faster near periapsis, slower near apoapsis. <b>3:</b> at same central mass, P²∝a³. a ×4 → P ×8; central mass ×4 → P ÷2 at same a.",
+            "In yr, AU and solar masses: P²≈a³/M<sub>★</sub> when planet mass negligible. P²=a³ alone assumes a solar-mass star. General SI form gives seconds; do not mix units or assume all stars have Sun’s mass."
+          ]
+        },
+        {
+          "title": "9. Tides: gradient, not just attraction",
+          "formula": "Δg ≈ 2GM<sub>host</sub>R<sub>body</sub>/d³ (R<sub>body</sub> ≪ d)",
+          "items": [
+            "Approximate near-side-minus-center radial acceleration. Near-to-far difference is about twice this. d center-to-center separation; R<sub>body</sub> satellite radius. At fixed masses/radius: d ×2 → differential acceleration ÷8, not ÷4.",
+            "Steady distortion alone is not continuous heating. Changing tides (e.g., eccentric orbit) + material friction/dissipation convert orbital/mechanical energy into heat. Resonances can sustain eccentricity. Heating needs rigidity, viscosity, orbit and dissipation: 1/d³ is not a complete heat-power law."
+          ]
+        },
+        {
+          "title": "10. Density, angles and minimum mass",
+          "formula": "ρ = 3M/(4πR³); ρ/ρ<sub>⊕</sub> = (M/M<sub>⊕</sub>)/(R/R<sub>⊕</sub>)³<br/>θ[arcsec] ≈ s<sub>projected</sub>[AU]/D[pc]<br/>M<sub>p</sub> ≈ (M<sub>p</sub> sin i)/sin i",
+          "items": [
+            "M ×8 and R ×2 → same mean density. Density does not uniquely identify composition. 10 AU projected separation at 20 pc → 0.5 arcsec; projected separation need not equal semimajor axis.",
+            "RV: i=90° edge-on (sin i=1), i=0° face-on. Minimum mass 4 Earth masses at i=30° → true mass 8. K semi-amplitude is half peak-to-peak range. Transits constrain near-edge-on inclination.",
+            "Diffraction scale θ≈1.22λ/D<sub>ap</sub> [radians] for circular aperture; aperture D<sub>ap</sub> ×2 → angular scale ÷2. This is not sufficient by itself: contrast/inner working angle also limit imaging."
+          ]
+        },
+        {
+          "title": "Units, constants and calculator-free habits",
+          "items": [
+            "<b>Units:</b> 1 Pa=1 N/m²; 1 N=1 kg·m/s²; 1 J=1 N·m; 1 W=1 J/s. 1 nm=10<super>−9</super> m; 1 km=10³ m; 1 d=86,400 s. T[K]=T[°C]+273.15.",
+            "<b>Useful rounded constants:</b> c≈3×10⁸ m/s; G≈6.67×10<super>−11</super> m³ kg<super>−1</super> s<super>−2</super>; σ≈5.67×10<super>−8</super> W m<super>−2</super> K<super>−4</super>; b≈2.90×10<super>−3</super> m·K; R<sub>g</sub>≈8.31 J mol<super>−1</super> K<super>−1</super>; k<sub>B</sub>≈1.38×10<super>−23</super> J/K; 1 AU≈1.50×10<super>11</super> m; 1 pc≈3.09×10<super>16</super> m.",
+            "<b>Routine:</b> knowns/unknowns → model → rearrange → ratios/powers of ten → units → physical check. √4=2; √9=3; fourth root 16=2; 1%=10<super>−2</super>. x² rises/curves; 1/x² falls/curves; log y vs log x slope equals power.",
+            "<b>Traps:</b> °C in T⁴; % vs fraction; radius vs diameter; center-distance vs altitude; flux vs luminosity; surface vs equilibrium T; K vs 2K; unjustified precision."
+          ]
+        }
+      ]
+    ]
+  }
+}

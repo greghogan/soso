@@ -1,0 +1,59 @@
+name: Verify private asset metadata
+
+# Opt-in validation, never invoked by a pull request or Pages deployment.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    permissions:
+      contents: read
+      id-token: write
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - name: Prepare locked Python tools
+        # setup-uv v7, pinned to the official release commit.
+        uses: astral-sh/setup-uv@94527f2e458b27549849d47d273a16bec83a01e9
+        with:
+          version: "0.13.9"
+          python-version: "3.12"
+          enable-cache: false
+      - name: Require explicit backup configuration
+        env:
+          BACKUP: ${{ vars.SOSO_ASSET_BACKUP }}
+          REGION: ${{ vars.SOSO_AWS_REGION }}
+          ROLE: ${{ vars.SOSO_AWS_ROLE_ARN }}
+        run: |
+          test -n "$BACKUP" && test -n "$REGION" && test -n "$ROLE" || {
+            echo 'Run ./scripts/asset_setup.py and configure GitHub access first.' >&2
+            exit 1
+          }
+      - name: Obtain short-lived read-only credentials
+        id: aws
+        # v6.3.0, pinned to the official immutable release commit.
+        uses: aws-actions/configure-aws-credentials@e1253824e5c10ff9df46874f81ed3ec929e19cfd
+        with:
+          aws-region: ${{ vars.SOSO_AWS_REGION }}
+          role-to-assume: ${{ vars.SOSO_AWS_ROLE_ARN }}
+          role-session-name: soso-backup-verification
+          role-duration-seconds: 900
+          output-env-credentials: false
+          output-credentials: true
+          unset-current-credentials: true
+      - name: Verify service checksums without downloading originals
+        env:
+          AWS_ACCESS_KEY_ID: ${{ steps.aws.outputs.aws-access-key-id }}
+          AWS_SECRET_ACCESS_KEY: ${{ steps.aws.outputs.aws-secret-access-key }}
+          AWS_SESSION_TOKEN: ${{ steps.aws.outputs.aws-session-token }}
+          AWS_DEFAULT_REGION: ${{ vars.SOSO_AWS_REGION }}
+          SOSO_ASSET_BACKUP: ${{ vars.SOSO_ASSET_BACKUP }}
+        run: uv run --locked python -m soso.assets.asset_sync_ci
+      # Metadata checks are not a cold restore; no private originals are downloaded.

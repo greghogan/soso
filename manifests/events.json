@@ -1,0 +1,198 @@
+{
+  "events": [
+    {
+      "slug": "solar-system-b",
+      "year": 2027,
+      "name": "Solar System B",
+      "division": "B",
+      "build": [
+        [
+          "source/build_study.py"
+        ],
+        [
+          "source/build_web.py"
+        ],
+        [
+          "source/exam-reference/build.py"
+        ]
+      ],
+      "web_build": [
+        "source/build_web.py"
+      ],
+      "required_inputs": [
+        "source/reader-metadata/README.txt",
+        "source/reader-metadata/ATTRIBUTION.txt"
+      ],
+      "site_assets": [],
+      "promote": {
+        "build/exam-reference/exam-reference.pdf": "exam-reference.pdf"
+      },
+      "documents": {
+        "study": {
+          "pdf": "study-guide.pdf",
+          "interactive": "web/index.html"
+        },
+        "exam": {
+          "pdf": "exam-reference.pdf"
+        }
+      },
+      "reference_constraints": {
+        "status": "allowed",
+        "medium": "paper",
+        "allocation": "team",
+        "sheet_limit": 2,
+        "sides_per_sheet": 2,
+        "paper_size": "US Letter",
+        "rule_source": "2027 Division B manual, B55, 2.b",
+        "notes": "No annotations or labels affixed. Lamination or sheet protectors sealed with tape are permitted."
+      },
+      "photo_asset_globs": [
+        "assets/illustrations/*.jxl"
+      ]
+    },
+    {
+      "slug": "thermodynamics-b",
+      "year": 2027,
+      "name": "Thermodynamics B",
+      "division": "B",
+      "build": [
+        [
+          "@root/shared/build_thermo.py"
+        ],
+        [
+          "source/exam-reference/build.py"
+        ]
+      ],
+      "web_build": [
+        "@root/shared/build_thermo.py",
+        "--web-only"
+      ],
+      "required_inputs": [
+        "source/interactives/runtime/geometry.html",
+        "source/interactives/runtime/heat-flow.html",
+        "source/interactives/runtime/geometry.js",
+        "source/interactives/runtime/heat-flow.js",
+        "source/interactives/runtime/model.js",
+        "source/interactives/runtime/interactive.css"
+      ],
+      "site_assets": [],
+      "promote": {
+        "build/exam-reference/exam-reference.pdf": "exam-reference.pdf"
+      },
+      "documents": {
+        "study": {
+          "pdf": "study-guide.pdf",
+          "interactive": "web/study-guide.html"
+        },
+        "build": {
+          "pdf": "build-guide.pdf",
+          "interactive": "web/build-guide.html"
+        },
+        "exam": {
+          "pdf": "exam-reference.pdf"
+        }
+      },
+      "web_landing": true,
+      "models": [
+        {
+          "path": "web/interactives/geometry.html",
+          "title": "Apparatus geometry",
+          "description": "Adjust the collector and check fit and cup clearance."
+        },
+        {
+          "path": "web/interactives/heat-flow.html",
+          "title": "Heat flow",
+          "description": "Change energy inputs and compare heating curves."
+        }
+      ],
+      "reference_constraints": {
+        "status": "allowed",
+        "medium": "paper",
+        "allocation": "team",
+        "sheet_limit": null,
+        "sides_per_sheet": 2,
+        "paper_size": "any",
+        "rule_source": "2027 Division B manual, B56, 2.c",
+        "notes": "Paper collection; binders, books, notebooks, folders, protectors, lamination, tabs and labels permitted. Pages may be removed during the event."
+      },
+      "photo_asset_globs": [
+        "assets/illustrations/calorimetry-cover.jxl"
+      ]
+    },
+    {
+      "slug": "water-quality-b",
+      "year": 2027,
+      "name": "Water Quality B",
+      "division": "B",
+      "build": [
+        [
+          "@root/shared/build_thermo.py"
+        ],
+        [
+          "source/exam-reference/build.py"
+        ]
+      ],
+      "web_build": [
+        "@root/shared/build_thermo.py",
+        "--web-only"
+      ],
+      "required_inputs": [
+        "source/guide-config.json",
+        "source/organisms.json",
+        "source/interactives/runtime/practice.html",
+        "source/interactives/runtime/calibration.html",
+        "source/interactives/runtime/monitoring.html"
+      ],
+      "site_assets": [],
+      "promote": {
+        "build/exam-reference/exam-reference.pdf": "exam-reference.pdf"
+      },
+      "documents": {
+        "study": {
+          "pdf": "study-guide.pdf",
+          "interactive": "web/study-guide.html"
+        },
+        "build": {
+          "pdf": "build-guide.pdf",
+          "interactive": "web/build-guide.html"
+        },
+        "exam": {
+          "pdf": "exam-reference.pdf"
+        }
+      },
+      "web_landing": true,
+      "models": [
+        {
+          "path": "web/interactives/practice.html",
+          "title": "Reef identification practice",
+          "description": "Use diagnostic evidence before revealing each organism name."
+        },
+        {
+          "path": "web/interactives/calibration.html",
+          "title": "Calibration and uncertainty",
+          "description": "Interpolate a measured reading and test the result against a calibration curve."
+        },
+        {
+          "path": "web/interactives/monitoring.html",
+          "title": "Read a monitoring dataset",
+          "description": "Distinguish a supported inference from an untested explanation."
+        }
+      ],
+      "reference_constraints": {
+        "status": "allowed",
+        "medium": "paper",
+        "allocation": "team",
+        "sheet_limit": 1,
+        "sides_per_sheet": 2,
+        "paper_size": "US Letter",
+        "rule_source": "2027 Division B Water Quality, section 2.b (B59)",
+        "notes": "One sheet per team; both sides may be used. No affixed labels or annotations; lamination or sealed sheet protector permitted."
+      },
+      "photo_asset_globs": [
+        "assets/illustrations/*.jxl",
+        "assets/organisms/*.jxl",
+        "assets/supplemental/*.jxl"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "R01",
+    "title": "Science Olympiad 2027 Division B Rules, Thermodynamics B56–B58 (user-supplied official PDF)",
+    "url": "",
+    "accessed_date": "2026-10-30"
+  },
+  {
+    "id": "R02",
+    "title": "Official Thermodynamics B event page",
+    "url": "https://www.soinc.org/thermodynamics-b",
+    "accessed_date": "2026-10-30"
+  },
+  {
+    "id": "R03",
+    "title": "Official rules corrections",
+    "url": "https://www.soinc.org/events/rules-corrections",
+    "accessed_date": "2026-10-30"
+  },
+  {
+    "id": "R04",
+    "title": "Official 2027 Thermodynamics B clarifications (30 September–17 November 2026)",
+    "url": "https://www.soinc.org/book/export/html/222",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "R05",
+    "title": "Official scoresheets",
+    "url": "https://www.soinc.org/scoresheets",
+    "accessed_date": "2026-11-15",
+    "verification_note": "Official scoresheet listing checked; linked spreadsheet file not inspected."
+  },
+  {
+    "id": "R06",
+    "title": "2019 example Thermodynamics graphs: historical cooling, not current heating rules",
+    "url": "https://www.soinc.org/sites/default/files/uploaded_files/Example.Thermodynamics.Graphs.2019.pdf",
+    "accessed_date": "2026-10-30"
+  },
+  {
+    "id": "P01",
+    "title": "OpenStax College Physics 2e: Heat and Heat Transfer Methods",
+    "url": "https://openstax.org/books/college-physics-2e/pages/14-introduction-to-heat-and-heat-transfer-methods",
+    "accessed_date": "2026-10-30"
+  },
+  {
+    "id": "P02",
+    "title": "OpenStax College Physics 2e: Temperature, Kinetic Theory, and Gas Laws",
+    "url": "https://openstax.org/books/college-physics-2e/pages/13-introduction-to-temperature-kinetic-theory-and-the-gas-laws",
+    "accessed_date": "2026-10-30"
+  },
+  {
+    "id": "P03",
+    "title": "OpenStax College Physics 2e: Thermodynamics",
+    "url": "https://openstax.org/books/college-physics-2e/pages/15-introduction-to-thermodynamics",
+    "accessed_date": "2026-10-30"
+  },
+  {
+    "id": "H01",
+    "title": "Saslow: A History of Thermodynamics: The Missing Manual",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7516509/",
+    "accessed_date": "2026-10-30",
+    "access_note": "Search excerpt available; full page returned browser challenge. Not used as sole authority."
+  },
+  {
+    "id": "H02",
+    "title": "Max Planck Society: What did Max Planck discover?",
+    "url": "https://www.mpg.de/19252749/what-did-max-planck-discover",
+    "accessed_date": "2026-10-30"
+  },
+  {
+    "id": "D01",
+    "title": "US Department of Energy: Solar Water Heating",
+    "url": "https://www.energy.gov/sites/prod/files/2013/11/f5/41085.pdf",
+    "accessed_date": "2026-10-30"
+  },
+  {
+    "id": "D02",
+    "title": "NASA JPL: Solar Oven activity (sunlight activity, not competition heat-lamp instructions)",
+    "url": "https://www.jpl.nasa.gov/edu/resources/lesson-plan/solar-oven/",
+    "accessed_date": "2026-10-30"
+  },
+  {
+    "id": "V01",
+    "title": "NASA: Solar Oven video (research link; not redistributed)",
+    "url": "https://svs.gsfc.nasa.gov/14643/",
+    "accessed_date": "2026-10-30"
+  },
+  {
+    "id": "H03",
+    "title": "University of Edinburgh: Joseph Black",
+    "url": "https://chem.ed.ac.uk/about-us/history/professors/joseph-black",
+    "accessed_date": "2026-10-30"
+  },
+  {
+    "id": "H04",
+    "title": "NIST: Kelvin history",
+    "url": "https://www.nist.gov/si-redefinition/kelvin/kelvin-history",
+    "accessed_date": "2026-10-30"
+  },
+  {
+    "id": "H05",
+    "title": "David Tong, University of Cambridge: Classical Gases",
+    "url": "https://www.damtp.cam.ac.uk/user/tong/statphys/statmechhtml/S2.html",
+    "accessed_date": "2026-10-30"
+  },
+  {
+    "id": "H06",
+    "title": "Joseph Powers, University of Notre Dame: Thermodynamics lecture notes",
+    "url": "https://www3.nd.edu/~powers/ame.20231/notes.pdf",
+    "accessed_date": "2026-10-30"
+  }
+]

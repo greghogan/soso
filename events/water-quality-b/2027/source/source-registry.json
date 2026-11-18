@@ -1,0 +1,329 @@
+[
+  {
+    "id": "R01",
+    "title": "Science Olympiad 2027 Division B Rules, Water Quality B59–B60 (user-supplied official PDF)",
+    "url": "",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "R02",
+    "title": "Official Water Quality event resources",
+    "url": "https://www.soinc.org/water-quality-b",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "R03",
+    "title": "Official 2027 rules corrections, Water Quality B revision of 6 November",
+    "url": "https://www.soinc.org/events/rules-corrections",
+    "accessed_date": "2026-11-17",
+    "verification_note": "Corrected organism names applied; required common-name scope retained, including spiny lobsters (Palinuridae)."
+  },
+  {
+    "id": "R04",
+    "title": "Official printer-friendly rule clarifications, complete Water Quality B section",
+    "url": "https://www.soinc.org/book/export/html/222",
+    "accessed_date": "2026-11-17",
+    "verification_note": "Complete Water Quality B section inspected in printer-friendly listing on 2026-11-17; no posted Water Quality B Q&A entries appeared between the event heading and next section. Recheck before tournament."
+  },
+  {
+    "id": "E01",
+    "title": "NOAA National Ocean Service: Estuaries tutorial",
+    "url": "https://oceanservice.noaa.gov/education/tutorial_estuaries/",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "E02",
+    "title": "US EPA: Nutrient Pollution",
+    "url": "https://www.epa.gov/nutrientpollution",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "E03",
+    "title": "NOAA: Coral reef ecosystems",
+    "url": "https://www.noaa.gov/education/resource-collections/marine-life/coral-reef-ecosystems",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "E04",
+    "title": "NOAA National Ocean Service: What is coral bleaching?",
+    "url": "https://oceanservice.noaa.gov/facts/coral_bleach.html",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "E05",
+    "title": "NOAA: Ocean acidification",
+    "url": "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-acidification",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "E06",
+    "title": "CDC: How Water Treatment Works",
+    "url": "https://www.cdc.gov/drinking-water/about/how-water-treatment-works.html",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "E07",
+    "title": "US EPA: PFAS Explained",
+    "url": "https://www.epa.gov/pfas/pfas-explained",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "E08",
+    "title": "NOAA National Ocean Service: What is the Great Pacific Garbage Patch?",
+    "url": "https://oceanservice.noaa.gov/facts/garbagepatch.html",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "W01",
+    "title": "USGS Water Science School: Dissolved Oxygen and Water",
+    "url": "https://www.usgs.gov/water-science-school/science/dissolved-oxygen-and-water",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "W02",
+    "title": "USGS Water Science School: Biochemical Oxygen Demand and Water",
+    "url": "https://www.usgs.gov/water-science-school/science/biochemical-oxygen-demand-bod-and-water",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "W03",
+    "title": "USGS Water Science School: pH and Water",
+    "url": "https://www.usgs.gov/water-science-school/science/ph-and-water",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "W04",
+    "title": "USGS Water Science School: Turbidity and Water",
+    "url": "https://www.usgs.gov/water-science-school/science/turbidity-and-water",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "P01",
+    "title": "OpenStax College Physics 2e: Archimedes’ Principle",
+    "url": "https://openstax.org/books/college-physics-2e/pages/11-7-archimedes-principle",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "E09",
+    "title": "USGS Water Science School: Wastewater Treatment Water Use",
+    "url": "https://www.usgs.gov/water-science-school/science/wastewater-treatment-water-use",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "WQ-R01",
+    "title": "Science Olympiad 2027 Division B Rules, Water Quality B59–B60 (user-supplied official PDF)",
+    "url": "",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "WQ-R02",
+    "title": "Official 2027 rules corrections, Water Quality B revision of 6 November",
+    "url": "https://www.soinc.org/events/rules-corrections",
+    "accessed_date": "2026-11-17",
+    "verification_note": "Corrected organism names applied; required common-name scope retained, including spiny lobsters (Palinuridae)."
+  },
+  {
+    "id": "E10",
+    "title": "OpenStax Biology 2e: Biogeochemical cycles",
+    "url": "https://openstax.org/books/biology-2e/pages/46-3-biogeochemical-cycles",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "BIO-URCHIN",
+    "title": "EPA ReefLink: Sea urchins",
+    "url": "https://archive.epa.gov/ged/coralreef/web/html/long_seaurchins.html",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "BIO-DIADEMA",
+    "title": "Animal Diversity Web: Diadema antillarum",
+    "url": "https://animaldiversity.org/accounts/Diadema_antillarum/",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "BIO-CORAL-REPRO",
+    "title": "NOAA: How do corals reproduce?",
+    "url": "https://oceanservice.noaa.gov/education/tutorial_corals/coral06_reproduction.html",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "BIO-CORAL-SYMB",
+    "title": "NOAA: Coral photosynthetic symbionts",
+    "url": "https://oceanservice.noaa.gov/education/tutorial_corals/coral02_zooxanthellae.html",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "BIO-SHRIMP",
+    "title": "Animal Diversity Web: Stenopus hispidus (Kristen Sanderson)",
+    "url": "https://animaldiversity.org/accounts/Stenopus_hispidus/",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "BIO-SPONGE",
+    "title": "Animal Diversity Web: Demospongiae (Kristen Wheeler)",
+    "url": "https://animaldiversity.org/accounts/Demospongiae/",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "BIO-MORAY",
+    "title": "Florida Museum: Green moray (Cathy Bester and Robert Robins)",
+    "url": "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/green-moray/",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "BIO-SEAFAN",
+    "title": "Animal Diversity Web: Gorgonia ventalina (Lee Goetz)",
+    "url": "https://animaldiversity.org/accounts/Gorgonia_ventalina/",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "BIO-CUCUMBER",
+    "title": "Animal Diversity Web: Holothuroidea (Renee Sherman Mulcrone)",
+    "url": "https://animaldiversity.org/accounts/Holothuroidea/",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "M-PH",
+    "title": "EPA Volunteer Stream Monitoring: pH",
+    "url": "https://archive.epa.gov/water/archive/web/html/vms54.html",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "M-SOLIDS",
+    "title": "EPA Volunteer Stream Monitoring: Total solids",
+    "url": "https://archive.epa.gov/water/archive/web/html/vms58.html",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "M-DO",
+    "title": "EPA Volunteer Stream Monitoring: Dissolved oxygen and BOD",
+    "url": "https://archive.epa.gov/water/archive/web/html/vms52.html",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "M-NITRATE",
+    "title": "EPA Volunteer Stream Monitoring: Nitrates",
+    "url": "https://archive.epa.gov/water/archive/web/html/vms57.html",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "M-PHOSPHATE",
+    "title": "EPA Volunteer Stream Monitoring: Phosphorus",
+    "url": "https://archive.epa.gov/water/archive/web/html/vms56.html",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "M-TURBIDITY",
+    "title": "EPA Volunteer Stream Monitoring: Turbidity",
+    "url": "https://archive.epa.gov/water/archive/web/html/vms55.html",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "BIO-BUTTERFLY",
+    "title": "Florida Museum: Banded butterflyfish",
+    "url": "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/banded-butterflyfish/",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "BIO-PARROTFISH",
+    "title": "Florida Museum: Stoplight parrotfish",
+    "url": "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/stoplight-parrotfish/",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "BIO-SNAPPER",
+    "title": "Florida Museum: Gray snapper",
+    "url": "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/gray-snapper/",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "BIO-NASSAU",
+    "title": "NOAA Fisheries: Nassau grouper",
+    "url": "https://www.fisheries.noaa.gov/species/nassau-grouper",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "BIO-PENCIL",
+    "title": "InverteBase: Pencil urchin taxon record",
+    "url": "https://invertebase.org/portal/taxa/index.php?tid=26378",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "BIO-FLAMINGO",
+    "title": "Lamar University: Flamingo tongue",
+    "url": "https://www.lamar.edu/arts-sciences/biology/study-abroad-belize/marine-critters/marine-critters-1/flamingo-tongue.html",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "BIO-TRITON",
+    "title": "Great Barrier Reef Foundation: Giant triton",
+    "url": "https://www.barrierreef.org/the-reef/animals/giant-triton",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "BIO-CLAM",
+    "title": "Great Barrier Reef Foundation: Giant clam",
+    "url": "https://www.barrierreef.org/the-reef/animals/giant-clam",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "BIO-HUMPBACK",
+    "title": "FishBase: Humpback grouper",
+    "url": "https://www.fishbase.se/summary/Chromileptes-altivelis.html",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "BIO-BUMPHEAD",
+    "title": "FishBase: Bumphead parrotfish",
+    "url": "https://www.fishbase.se/summary/Bolbometopon_muricatum",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "BIO-WRASSE",
+    "title": "FishBase: Humphead wrasse",
+    "url": "https://www.fishbase.se/summary/Cheilinus_undulatus.html",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "BIO-SWEETLIPS",
+    "title": "FishBase: Plectorhinchus picus",
+    "url": "https://www.fishbase.se/summary/Plectorhinchus-picus.html",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "BIO-GROUPER",
+    "title": "Florida Museum: Red grouper",
+    "url": "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/red-grouper/",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "BIO-LOBSTER",
+    "title": "Animal Diversity Web: Panulirus argus",
+    "url": "https://animaldiversity.org/accounts/Panulirus_argus/",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "BIO-COTS",
+    "title": "Great Barrier Reef Marine Park Authority: Crown-of-thorns coral predator outbreaks",
+    "url": "https://www.gbrmpa.gov.au/our-work/programs-and-projects/crown-thorns-starfish/coral-predator-outbreaks",
+    "accessed_date": "2026-11-17"
+  },
+  {
+    "id": "BIO-SNAPPER-CUBERA",
+    "title": "Florida Museum: Cubera snapper",
+    "url": "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/cubera-snapper/",
+    "accessed_date": "2026-11-18"
+  },
+  {
+    "id": "BIO-SNAPPER-BLUESTRIPE",
+    "title": "Australian Museum: Bluestripe seaperch",
+    "url": "https://australian.museum/learn/animals/fishes/bluestripe-seaperch-lutjanus-kasmira-forsskal-1775/",
+    "accessed_date": "2026-11-18"
+  },
+  {
+    "id": "BIO-SWEETLIPS-JUVENILE",
+    "title": "Australian Museum: Spotted sweetlips",
+    "url": "https://australian.museum/learn/animals/fishes/spotted-sweetlips-plectorhinchus-chaetodonoides/",
+    "accessed_date": "2026-11-18"
+  }
+]

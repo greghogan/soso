@@ -1,0 +1,7 @@
+Media provenance
+
+The artistic world/interior montages were generated for this guide and revised after scientific review. They are conceptual illustrations, not NASA photographs or observational evidence. Captions state relevant limitations.
+
+The teaching diagrams and interactive models were authored for this guide from the relationships and evidence cited in the lesson bibliography. SVG/PDF diagrams simplify mechanisms; they are not spacecraft observations.
+
+No externally streamed video, third-party webfont, CDN library or external image download is required. The full authoring package preserves prompts, original assets, source notes and diagram generators.

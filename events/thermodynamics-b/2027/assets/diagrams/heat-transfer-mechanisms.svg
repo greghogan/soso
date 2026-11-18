@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="390" viewBox="0 0 600 390" role="img">
+<title>Radiation, conduction and convection in a water-heating device</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10Z" fill="#147d87"/></marker></defs>
+<rect width="600" height="390" fill="white"/>
+<g font-family="sans-serif" fill="#163c4a" font-size="18">
+<ellipse cx="80" cy="65" rx="48" ry="28" fill="#fbe8d8" stroke="#526874" stroke-width="2"/><text x="80" y="71" text-anchor="middle">Lamp</text>
+<path d="M120 90 L260 175 M110 95 L245 192" fill="none" stroke="#147d87" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="150" y="100">Radiation</text>
+<path d="M260 130 V288 Q350 320 440 288 V130" fill="#f7fafb" stroke="#526874" stroke-width="3"/>
+<path d="M265 178 V286 Q350 313 435 286 V178Z" fill="#b6dde9"/>
+<ellipse cx="350" cy="178" rx="85" ry="10" fill="#d9edf3" stroke="#528698"/>
+<path d="M250 180 V295 Q350 333 450 295 V255" fill="none" stroke="#ad7656" stroke-width="10"/>
+<text x="30" y="249">Receiver</text><path d="M125 245 L243 245" stroke="#526874" fill="none"/>
+<path d="M235 215 H290" stroke="#147d87" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="30" y="212">Conduction</text>
+<path d="M310 272 C280 240 294 208 322 200" stroke="#147d87" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+<path d="M390 200 C420 230 410 266 380 278" stroke="#147d87" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+<text x="350" y="243" text-anchor="middle" font-size="17">Convection</text>
+<text x="350" y="115" text-anchor="middle">Water in cup</text>
+<path d="M440 155 Q485 120 480 70" fill="none" stroke="#147d87" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="465" y="180" font-size="16">To room:</text><text x="465" y="202" font-size="16">convection</text><text x="465" y="224" font-size="16">+ radiation</text>
+<text x="30" y="365" font-size="17">Energy can enter, circulate within, and leave the same system.</text>
+</g></svg>

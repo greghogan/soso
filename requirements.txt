@@ -1,0 +1,2 @@
+# Use the same pinned dependencies as the document-build container.
+-r build-container/requirements.txt

@@ -1,0 +1,28 @@
+{
+  "format": "local-classic-html-js-svg",
+  "runtime_dependencies": [],
+  "interactives": [
+    {
+      "title": "Make room for the cup",
+      "entry": "web/interactives/geometry.html",
+      "description": "Explore assigned bulb height, proposed reflector dimensions, the 30 cm envelope, stand clearance and cup removal. Geometry is not a safety or legality certification.",
+      "print_assets": [
+        "assets/diagrams/geometry-default.svg",
+        "assets/diagrams/geometry-removal.svg"
+      ]
+    },
+    {
+      "title": "Where does the energy go?",
+      "entry": "web/interactives/heat-flow.html",
+      "description": "Compare illustrative heat-flow curves by changing absorbed power, heat loss, thermal mass and starting conditions. Not calibrated build performance.",
+      "print_assets": [
+        "assets/diagrams/heat-flow-default.svg"
+      ]
+    }
+  ],
+  "tests": "source/interactives/test-models.cjs",
+  "verification": "source/interactives/README.md",
+  "authoring_directory": "source/interactives/runtime",
+  "output_directory": "web/interactives",
+  "test_report": "build/interactive-qa/thermodynamics-b/2027/model-tests.json"
+}

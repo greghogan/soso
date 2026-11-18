@@ -1,0 +1,477 @@
+{
+  "title": "Reef identification atlas",
+  "checked": "2026-11-17",
+  "scope_note": "The 23 targets follow the corrected 2027 event list. Regional headings are competition groupings, not a claim that every listed species lives in every ocean. Photos are examples, not exhaustive representations; size thresholds require scale. Common-name identification is the event task.",
+  "organisms": [
+    {
+      "id": "banded-coral-shrimp",
+      "name": "Banded coral shrimp",
+      "scientific_name": "Stenopus hispidus",
+      "region": "Global reef group",
+      "diagnostic": "Red-and-white bands, extremely long pale antennae, and an enlarged pair of claws distinguish this shrimp. Look at appendages, not just red coloration.",
+      "ecology": "Often shelters in crevices and consumes small food particles and animals; it may remove parasites or damaged tissue from visiting fish. Cleaning is a species interaction, not proof that every individual is cleaning at the moment observed.",
+      "life_cycle": "Females carry eggs under the abdomen; planktonic larvae disperse before settling.",
+      "question": "Why might a fish tolerate a shrimp near its mouth?",
+      "answer": "The shrimp may obtain food while removing parasites or debris from the fish. This can benefit both partners, unlike predation.",
+      "sources": [
+        "WQ-R01",
+        "WQ-R02",
+        "BIO-SHRIMP"
+      ],
+      "image": "assets/organisms/banded-coral-shrimp.jxl",
+      "caption": "Banded claws and long pale antennae stand out against the reef.",
+      "alt": "Banded claws and long pale antennae stand out against the reef.",
+      "source_id": "wq-photo-banded-coral-shrimp"
+    },
+    {
+      "id": "butterflyfish",
+      "name": "Butterflyfish",
+      "scientific_name": "Chaetodon spp.",
+      "region": "Global reef group",
+      "diagnostic": "A thin, deep body, small projecting mouth and conspicuous bands or eye markings are useful clues. Pattern varies among species; do not require a particular color.",
+      "ecology": "Diets vary: some take coral polyps, some small invertebrates, and others plankton or algae. A decline in a coral-specialist species may track habitat loss, but the whole genus cannot be assigned one diet.",
+      "life_cycle": "Eggs and larvae disperse in the water before juveniles settle on reefs.",
+      "question": "Would fewer butterflyfish always prove coral loss?",
+      "answer": "No. Species identity, sampling effort, fishing and other habitat changes matter. Coral-specialist species are more directly tied to live coral than generalists.",
+      "sources": [
+        "WQ-R01",
+        "WQ-R02",
+        "BIO-BUTTERFLY"
+      ],
+      "image": "assets/organisms/butterflyfish.jxl",
+      "caption": "A deep, flattened body and small projecting mouth; this example has a dark eye band.",
+      "alt": "A deep, flattened body and small projecting mouth; this example has a dark eye band.",
+      "source_id": "wq-photo-butterflyfish"
+    },
+    {
+      "id": "crown-of-thorns",
+      "name": "Crown-of-thorns starfish",
+      "scientific_name": "Acanthaster planci (event name)",
+      "region": "Global-list target; naturally Indo-Pacific",
+      "diagnostic": "Numerous arms radiate from a broad disk covered in conspicuous spines. This is not the usual five-armed sea-star outline.",
+      "ecology": "Adults consume living coral tissue. Natural populations are part of reef ecosystems, but outbreaks can remove large amounts of coral. Modern taxonomy divides the crown-of-thorns complex; an older image species label is not definitive.",
+      "life_cycle": "Broadcast spawning produces planktonic larvae; juveniles settle and their feeding changes as they grow.",
+      "question": "Why distinguish one crown-of-thorns individual from an outbreak?",
+      "answer": "Ecological impact depends on abundance and coral growth or recovery. A natural coral predator is not automatically evidence of an unhealthy reef.",
+      "sources": [
+        "WQ-R01",
+        "WQ-R02",
+        "BIO-COTS"
+      ],
+      "image": "assets/supplemental/crown-of-thorns-variation.jxl",
+      "caption": "Crown-of-thorns sea star, identified by the source as Acanthaster planci. Compare the numerous radiating arms and dense pointed spines with the atlas example. Color alone is not the identifying feature.",
+      "alt": "Top view of a dark blue-purple crown-of-thorns sea star with many arms and sharp spines.",
+      "source_id": "wq-photo-crown-of-thorns"
+    },
+    {
+      "id": "fleshy-algae",
+      "name": "Fleshy algae",
+      "scientific_name": "Rhodophyta, Chlorophyta, Phaeophyta (event scope)",
+      "region": "Global reef group",
+      "diagnostic": "Soft blades, branching fronds or filaments contrast with the hard skeleton of stony corals. Color alone is unreliable underwater and does not identify an algal group.",
+      "ecology": "Photosynthetic producers support food webs. High cover can reflect nutrient supply, reduced grazing or newly available space after coral mortality; it does not identify a single cause by itself.",
+      "life_cycle": "Sexual and asexual reproduction vary widely among algal lineages; fragments can establish new growth in some species.",
+      "question": "Does increased algal cover prove nutrient pollution?",
+      "answer": "No. Reduced herbivory or coral mortality can also free space. Compare nutrient measurements, grazer abundance and a time series.",
+      "sources": [
+        "WQ-R01",
+        "WQ-R02",
+        "E02",
+        "BIO-URCHIN"
+      ],
+      "image": "assets/organisms/fleshy-algae.jxl",
+      "caption": "Forked, soft Dictyota blades photographed in Spain; a brown-algal example, not a tropical reef survey.",
+      "alt": "Forked, soft Dictyota blades photographed in Spain; a brown-algal example, not a tropical reef survey.",
+      "source_id": "wq-photo-fleshy-algae"
+    },
+    {
+      "id": "large-grouper",
+      "name": "Grouper over 30 cm",
+      "scientific_name": "Serranidae, Epinephelinae (event scope)",
+      "region": "Global reef group",
+      "diagnostic": "A robust body, very large mouth and continuous dorsal fin are typical clues. The event size threshold cannot be judged from an unscaled photograph.",
+      "ecology": "Many groupers are ambush predators of fish and crustaceans. Large adults can be vulnerable to fishing, especially at spawning aggregations. A count should use consistent survey area and size estimates.",
+      "life_cycle": "Many species release eggs into the water and have dispersing larvae; sex change occurs in some, not all, groupers.",
+      "question": "Can a close-up photograph establish that a grouper exceeds 30 cm?",
+      "answer": "No. You need a scale or a reliable size observation. Apparent image size depends on camera distance.",
+      "sources": [
+        "WQ-R01",
+        "WQ-R02",
+        "BIO-GROUPER",
+        "BIO-NASSAU"
+      ],
+      "image": "assets/supplemental/large-grouper-variation.jxl",
+      "caption": "Giant grouper (Epinephelus lanceolatus) in an aquarium. Its robust body, broad head and large mouth are useful structural clues. Without a trustworthy scale, a photograph cannot establish a competition size threshold.",
+      "alt": "Side view of a robust gray giant grouper with a broad head, large mouth and rounded tail in an aquarium.",
+      "source_id": "wq-photo-large-grouper"
+    },
+    {
+      "id": "stony-coral",
+      "name": "Hard or stony corals",
+      "scientific_name": "Scleractinia",
+      "region": "Global reef group",
+      "diagnostic": "Look for repeated polyp cups in a rigid calcium-carbonate skeleton. Branching, plate, massive and brain-like growth forms all occur.",
+      "ecology": "Many shallow reef-building species host photosynthetic symbionts and also capture prey. Colonies create habitat. Bleached coral can still be alive; recently dead skeleton lacks living tissue and may later become covered by algae.",
+      "life_cycle": "Sexual larvae settle to become polyps; budding expands colonies. Spawning and brooding differ among species.",
+      "question": "Why can pale coral and recently dead coral look similar?",
+      "answer": "Both may expose the pale skeleton visually. Check whether living tissue and polyps remain; loss of symbionts during bleaching is not the same as tissue death.",
+      "sources": [
+        "WQ-R01",
+        "WQ-R02",
+        "E03",
+        "E04",
+        "BIO-CORAL-REPRO",
+        "BIO-CORAL-SYMB"
+      ],
+      "image": "assets/organisms/stony-coral.jxl",
+      "caption": "A branching colony with repeated small corallites along the hard branches.",
+      "alt": "A branching colony with repeated small corallites along the hard branches.",
+      "source_id": "wq-photo-stony-coral"
+    },
+    {
+      "id": "spiny-lobster",
+      "name": "Spiny lobsters",
+      "scientific_name": "Palinuridae",
+      "region": "Global reef group",
+      "diagnostic": "Very long, strong antennae and a spiny body are key clues. Unlike clawed lobsters, they lack a huge pair of front pincers.",
+      "ecology": "Usually shelter by day and forage on a range of benthic foods, including small invertebrates. Fishing can change their size structure and abundance.",
+      "life_cycle": "Females carry eggs; long-lived planktonic larvae later transform into settling juveniles.",
+      "question": "Which feature helps separate a spiny lobster from a clawed lobster?",
+      "answer": "The prominent long antennae and absence of enormous front claws. The corrected event target is Palinuridae, not Nephropidae.",
+      "sources": [
+        "WQ-R01",
+        "WQ-R02",
+        "BIO-LOBSTER"
+      ],
+      "image": "assets/organisms/spiny-lobster.jxl",
+      "caption": "Ornate spiny lobster (Panulirus ornatus). Look for the segmented abdomen, spiny carapace, stout antenna bases and walking legs without the large front claws of a clawed lobster. The long antenna tips extend outside this photograph.",
+      "alt": "Ornate spiny lobster on a wooden surface, with exposed segmented abdomen, spiny head and carapace, striped legs and thick antenna bases.",
+      "source_id": "wq-photo-spiny-lobster"
+    },
+    {
+      "id": "long-spined-urchin",
+      "name": "Long-spined black sea urchins",
+      "scientific_name": "Diadematidae; Diadema spp.",
+      "region": "Global reef group",
+      "diagnostic": "A small rounded body with many extremely long, thin, dark spines. Compare the spine proportions with the thick blunt spines of pencil urchins.",
+      "ecology": "Grazing removes algae and can open settlement space for corals. Disease-driven population loss or other reductions can release algae from grazing; effects depend on other herbivores too.",
+      "life_cycle": "Broadcast spawning produces planktonic larvae that settle and metamorphose.",
+      "question": "What change might follow a sharp loss of these urchins?",
+      "answer": "Algal cover may rise if other grazers do not compensate. This is a prediction to test, not an inevitable result at every reef.",
+      "sources": [
+        "WQ-R01",
+        "WQ-R02",
+        "BIO-URCHIN",
+        "BIO-DIADEMA"
+      ],
+      "image": "assets/supplemental/long-spined-urchin-variation.jxl",
+      "caption": "An isolated long-spined urchin (Diadema setosum) makes the small central body and long, thin radiating spines easier to distinguish. Compare those spines with the thick, blunt spines of the pencil urchin in the atlas.",
+      "alt": "Single black long-spined sea urchin on rock, its compact central body surrounded by fine radiating spines.",
+      "source_id": "wq-photo-long-spined-urchin"
+    },
+    {
+      "id": "moray",
+      "name": "Moray eels",
+      "scientific_name": "Muraenidae",
+      "region": "Global reef group",
+      "diagnostic": "An elongated snake-like fish, no obvious paired pectoral fins, and a dorsal fin continuing along much of the body. The head often projects from a crevice.",
+      "ecology": "Predators of fish or invertebrates, with prey varying by species. Opening and closing the mouth can move water over the gills; it need not be an aggressive display.",
+      "life_cycle": "Eggs develop into transparent, ribbon-like leptocephalus larvae before metamorphosis.",
+      "question": "Does an open-mouthed moray necessarily threaten a diver?",
+      "answer": "No. Mouth movements commonly ventilate its gills. Behavior must be interpreted in context, while maintaining a safe distance.",
+      "sources": [
+        "WQ-R01",
+        "WQ-R02",
+        "BIO-MORAY"
+      ],
+      "image": "assets/organisms/moray.jxl",
+      "caption": "Geometric moray (Gymnothorax griseus) coiled on sand. Trace the long body and raised continuous dorsal fin; the small gill opening lies behind the head. Color alone does not identify a moray.",
+      "alt": "Pale spotted moray coiled on open sand, showing its complete body, tapered tail and raised ribbon-like dorsal fin.",
+      "source_id": "wq-photo-moray"
+    },
+    {
+      "id": "parrotfish",
+      "name": "Parrotfish over 20 cm",
+      "scientific_name": "Scarinae",
+      "region": "Global reef group",
+      "diagnostic": "Many have fused, beak-like teeth used on reef surfaces. Body colors can change with age and sex; use mouth shape and body form as well as color.",
+      "ecology": "Species scrape or excavate reef surfaces or browse algae, obtaining different mixtures of algae, microbes and detritus. Grazing and bioerosion can influence coral recruitment and sediment production.",
+      "life_cycle": "Many species have pelagic eggs and larvae; sex and color-phase changes occur in many species.",
+      "question": "Why is one color photograph a weak identification rule?",
+      "answer": "Color varies by species, age and sex. Combine it with the beak-like mouth and shape, and do not infer the >20 cm threshold without scale.",
+      "sources": [
+        "WQ-R01",
+        "WQ-R02",
+        "BIO-PARROTFISH"
+      ],
+      "image": "assets/organisms/parrotfish.jxl",
+      "caption": "The beak-like teeth are visible at the front of this blue-barred parrotfish.",
+      "alt": "The beak-like teeth are visible at the front of this blue-barred parrotfish.",
+      "source_id": "wq-photo-parrotfish"
+    },
+    {
+      "id": "pencil-urchin",
+      "name": "Pencil urchins",
+      "scientific_name": "Eucidaris spp.",
+      "region": "Global reef group",
+      "diagnostic": "Short, thick, blunt primary spines resemble pencils. Smaller spines may occur between them; contrast this with Diadema’s very slender long spines.",
+      "ecology": "Benthic omnivores may graze encrusting organisms and algae. Do not assume that all urchins have identical diets or ecological effects.",
+      "life_cycle": "Typically release gametes into the water; larvae develop before settling to the bottom.",
+      "question": "What separates this target from long-spined black urchins?",
+      "answer": "Spine thickness and shape: stout blunt rods versus long fine needles. Color alone is less reliable.",
+      "sources": [
+        "WQ-R01",
+        "WQ-R02",
+        "BIO-PENCIL"
+      ],
+      "image": "assets/organisms/pencil-urchin.jxl",
+      "caption": "Stout, blunt primary spines surround the smaller central body.",
+      "alt": "Stout, blunt primary spines surround the smaller central body.",
+      "source_id": "wq-photo-pencil-urchin"
+    },
+    {
+      "id": "sea-cucumber",
+      "name": "Sea cucumbers",
+      "scientific_name": "Holothuroidea",
+      "region": "Global reef group",
+      "diagnostic": "An elongated, soft-looking body on the seafloor, often with bumps or tube feet. Some species have feeding tentacles visible around the mouth.",
+      "ecology": "Many swallow sediment and digest organic material, recycling nutrients; others suspension-feed. Their feeding can affect sediment condition, but not every species has the same strategy.",
+      "life_cycle": "Many broadcast-spawn with planktonic larvae; brooding and asexual division occur in some species.",
+      "question": "Why should a sea cucumber not simply be called a plant-eater?",
+      "answer": "Many feed on organic material and microorganisms in sediment; others filter particles. The broad group includes more than one feeding mode.",
+      "sources": [
+        "WQ-R01",
+        "WQ-R02",
+        "BIO-CUCUMBER"
+      ],
+      "image": "assets/organisms/sea-cucumber.jxl",
+      "caption": "An oval, soft-bodied sea cucumber rests on sediment and rubble.",
+      "alt": "An oval, soft-bodied sea cucumber rests on sediment and rubble.",
+      "source_id": "wq-photo-sea-cucumber"
+    },
+    {
+      "id": "snapper",
+      "name": "Snappers",
+      "scientific_name": "Lutjanidae",
+      "region": "Global reef group",
+      "diagnostic": "Compare a combination of body outline, head and relatively large mouth, and a continuous dorsal fin. Many snappers have strong canine teeth, but teeth may not show in a photograph. Species differ in color, stripes, body depth and tail shape; a forked tail or yellow stripe alone is not a snapper key.",
+      "ecology": "Many feed on fish and crustaceans; some juveniles use mangroves or seagrass habitats before moving to reefs. Habitat connections can therefore affect reef populations.",
+      "life_cycle": "Spawning releases eggs; larvae disperse before juveniles settle in suitable nursery habitat.",
+      "question": "Two snappers have different colors and tails. What evidence should you compare before rejecting one as a snapper?",
+      "answer": "Compare several structural clues together: head and mouth, body outline and continuous dorsal fin. Color and tail shape vary across species; teeth may be hidden. A poor view may not contain enough evidence for a confident identification.",
+      "sources": [
+        "WQ-R01",
+        "WQ-R02",
+        "BIO-SNAPPER",
+        "BIO-SNAPPER-CUBERA",
+        "BIO-SNAPPER-BLUESTRIPE"
+      ],
+      "image": "assets/supplemental/snapper-bluestripe.jxl",
+      "caption": "Bluestripe snapper (Lutjanus kasmira): compare the head, mouth, continuous dorsal fin and body outline, not just the blue stripes. This is one species, not a universal snapper color pattern.",
+      "alt": "Side view of a yellow bluestripe snapper with four blue horizontal stripes, showing its whole body and fins.",
+      "source_id": "wq-photo-snapper"
+    },
+    {
+      "id": "demosponge",
+      "name": "Demosponges",
+      "scientific_name": "Demospongiae",
+      "region": "Global reef group",
+      "diagnostic": "Look for a porous attached body with openings, often tubes, barrels, encrusting sheets or irregular masses. They lack the repeated tentacled polyp pattern of corals.",
+      "ecology": "Pump water through internal canals and capture small particles; microbial partners can be important. Sponges recycle material and compete for space. A tube shape alone does not prove the class.",
+      "life_cycle": "Sexual larvae settle to form adults; budding or fragmentation can also reproduce some species.",
+      "question": "Why is a sponge an animal even though it stays attached?",
+      "answer": "Its cells capture and digest organic food. Microbial symbionts do not make the sponge a plant; remaining attached does not make an animal a plant either.",
+      "sources": [
+        "WQ-R01",
+        "WQ-R02",
+        "BIO-SPONGE"
+      ],
+      "image": "assets/organisms/demosponge.jxl",
+      "caption": "A tubular sponge has a conspicuous opening at its upper end.",
+      "alt": "A tubular sponge has a conspicuous opening at its upper end.",
+      "source_id": "wq-photo-demosponge"
+    },
+    {
+      "id": "sweetlips",
+      "name": "Sweetlips",
+      "scientific_name": "Haemulidae (event scope)",
+      "region": "Global reef group",
+      "diagnostic": "Thick fleshy lips are useful clues. Juveniles may have very different patterns and swimming behavior from adults; spot patterns alone are insufficient.",
+      "ecology": "Many shelter near reefs in daylight and feed on bottom-dwelling invertebrates at night. The event’s family label is broad; not every haemulid is called a sweetlips.",
+      "life_cycle": "Egg-laying reef fish; juveniles may occupy shallow lagoons while adults shelter around reef structure.",
+      "question": "Why should an atlas include juvenile and adult examples?",
+      "answer": "The same species may change its markings and proportions as it grows, so one adult pattern is not a universal key.",
+      "sources": [
+        "WQ-R01",
+        "WQ-R02",
+        "BIO-SWEETLIPS",
+        "BIO-SWEETLIPS-JUVENILE"
+      ],
+      "image": "assets/organisms/sweetlips.jxl",
+      "caption": "Adult sweetlips: look for thick, fleshy lips and a deep body. Color patterns vary among species. This is not necessarily the same species as the juvenile example.",
+      "alt": "An adult spotted sweetlips in side profile with thick fleshy lips, deep body and complete fins.",
+      "source_id": "wq-photo-sweetlips"
+    },
+    {
+      "id": "triton",
+      "name": "Tritons",
+      "scientific_name": "Charoniidae; Charonia spp.",
+      "region": "Global reef group",
+      "diagnostic": "A large spiral shell with an elongated spire, broad opening and often a patterned surface. The living snail may extend its muscular foot and tentacles.",
+      "ecology": "Predatory snails consume echinoderms; giant tritons can eat crown-of-thorns starfish. Predator presence alone does not demonstrate control of an outbreak.",
+      "life_cycle": "Egg capsules produce larvae; larval duration and development vary among species.",
+      "question": "Why does protecting a predator not guarantee immediate removal of an outbreak?",
+      "answer": "Predator numbers, prey density, reproduction and other conditions affect the rate of control.",
+      "sources": [
+        "WQ-R01",
+        "WQ-R02",
+        "BIO-TRITON"
+      ],
+      "image": "assets/organisms/triton.jxl",
+      "caption": "The living triton shows a patterned spiral shell, broad opening and spotted muscular foot.",
+      "alt": "The living triton shows a patterned spiral shell, broad opening and spotted muscular foot.",
+      "practice": true,
+      "source_id": "wq-photo-triton"
+    },
+    {
+      "id": "humpback-grouper",
+      "name": "Barramundi cod / humpback grouper",
+      "scientific_name": "Cromileptes altivelis",
+      "region": "Indo-Pacific target",
+      "diagnostic": "A high arched back and numerous dark spots on a pale body. Do not confuse its common name with the unrelated barramundi fish.",
+      "ecology": "A reef-associated predator of small fish and invertebrates; fishing and aquarium collection can affect populations.",
+      "life_cycle": "Buoyant eggs hatch into larvae; juveniles and adults occupy reef habitats.",
+      "question": "What two traits support this identification better than spots alone?",
+      "answer": "The combination of a strongly arched back and many dark spots on a pale body. Other reef fish are spotted too.",
+      "sources": [
+        "WQ-R01",
+        "WQ-R02",
+        "BIO-HUMPBACK"
+      ],
+      "image": "assets/organisms/humpback-grouper.jxl",
+      "caption": "Dark spots cover a pale body with a distinctly high, arched back.",
+      "alt": "Dark spots cover a pale body with a distinctly high, arched back.",
+      "source_id": "wq-photo-humpback-grouper"
+    },
+    {
+      "id": "bumphead-parrotfish",
+      "name": "Bumphead parrotfish",
+      "scientific_name": "Bolbometopon muricatum",
+      "region": "Indo-Pacific target",
+      "diagnostic": "A large parrotfish with a prominent forehead bulge in adults and strong exposed beak-like teeth. Young individuals may lack the striking adult hump.",
+      "ecology": "Feeds on reef surfaces including live and dead coral, producing sediment and strongly influencing reef structure. Large schooling adults are vulnerable to fishing.",
+      "life_cycle": "Reproduces by laying eggs. Juveniles use lagoons; adults occupy outer lagoon and seaward reefs.",
+      "question": "Why can this fish both damage coral locally and be part of a functioning reef?",
+      "answer": "Its feeding removes material but also drives natural bioerosion and nutrient/sediment processes. Ecological roles cannot be reduced to simply good or bad.",
+      "sources": [
+        "WQ-R01",
+        "WQ-R02",
+        "BIO-BUMPHEAD"
+      ],
+      "image": "assets/organisms/bumphead-parrotfish.jxl",
+      "caption": "The blunt forehead and exposed beak distinguish this adult.",
+      "alt": "The blunt forehead and exposed beak distinguish this adult.",
+      "source_id": "wq-photo-bumphead-parrotfish"
+    },
+    {
+      "id": "giant-clam",
+      "name": "Giant clams",
+      "scientific_name": "Tridacna spp.",
+      "region": "Indo-Pacific target",
+      "diagnostic": "Two heavy, ridged shell valves surround a broad fleshy mantle; vivid mantle patterns vary. Distinguish the mantle from surrounding coral tissue.",
+      "ecology": "Filter-feeding bivalves also receive energy from photosynthetic symbionts in mantle tissue. Clear, illuminated water supports that partnership.",
+      "life_cycle": "Broadcast spawning produces free-swimming larvae that settle; adult clams are relatively sedentary.",
+      "question": "Why could persistent turbidity reduce growth even when food particles are present?",
+      "answer": "Suspended material reduces light for the mantle’s photosynthetic symbionts, so filtering more particles may not compensate.",
+      "sources": [
+        "WQ-R01",
+        "WQ-R02",
+        "BIO-CLAM"
+      ],
+      "image": "assets/organisms/giant-clam.jxl",
+      "caption": "A patterned mantle spreads between the two shell valves.",
+      "alt": "A patterned mantle spreads between the two shell valves.",
+      "source_id": "wq-photo-giant-clam"
+    },
+    {
+      "id": "humphead-wrasse",
+      "name": "Humphead wrasse",
+      "scientific_name": "Cheilinus undulatus",
+      "region": "Indo-Pacific target",
+      "diagnostic": "Large adults have a forehead hump and thick lips, but no parrotfish-like fused beak. Fine facial markings and body shape help distinguish them.",
+      "ecology": "Predator of diverse reef invertebrates and fish; can consume some heavily defended prey. Large adults are sensitive to overfishing.",
+      "life_cycle": "An egg-laying fish. Juveniles use coral-rich lagoon habitats, algae reefs or seagrass before occupying adult reef habitats.",
+      "question": "How would you distinguish it from a bumphead parrotfish?",
+      "answer": "Inspect the mouth: thick wrasse lips versus a strong exposed parrotfish beak. A forehead hump alone is not diagnostic.",
+      "sources": [
+        "WQ-R01",
+        "WQ-R02",
+        "BIO-WRASSE"
+      ],
+      "image": "assets/organisms/humphead-wrasse.jxl",
+      "caption": "A large forehead hump, fleshy lips and fine facial markings are visible.",
+      "alt": "A large forehead hump, fleshy lips and fine facial markings are visible.",
+      "source_id": "wq-photo-humphead-wrasse"
+    },
+    {
+      "id": "flamingo-tongue",
+      "name": "Flamingo tongue snail",
+      "scientific_name": "Cyphoma gibbosum",
+      "region": "Atlantic target",
+      "diagnostic": "A small snail often on a sea fan; the orange-spotted pattern is living mantle tissue covering the shell, not a pattern painted on the shell itself.",
+      "ecology": "Feeds on soft-coral tissue, especially gorgonians. Its presence is a feeding relationship, not by itself proof of disease or pollution.",
+      "life_cycle": "Egg capsules are laid on a host; larvae disperse before settling.",
+      "question": "Why might the same snail look plain when disturbed?",
+      "answer": "It can retract the patterned mantle and expose a comparatively plain shell. Appearance changes without a species change.",
+      "sources": [
+        "WQ-R01",
+        "WQ-R02",
+        "BIO-FLAMINGO"
+      ],
+      "image": "assets/organisms/flamingo-tongue.jxl",
+      "caption": "The orange-spotted mantle covers the shell as the snail rests on coral.",
+      "alt": "The orange-spotted mantle covers the shell as the snail rests on coral.",
+      "source_id": "wq-photo-flamingo-tongue"
+    },
+    {
+      "id": "sea-fan",
+      "name": "Gorgonia / sea fans",
+      "scientific_name": "Octocorallia (event scope)",
+      "region": "Atlantic target in event list",
+      "diagnostic": "Branching flexible colonies often form a flattened fan or net. Tiny polyps belong to the colony; a fan-shaped silhouette is not a stony skeleton.",
+      "ecology": "Many capture suspended plankton and organic particles; some also host photosynthetic symbionts. Flow helps deliver food, while sediment can interfere with feeding.",
+      "life_cycle": "Sexual larvae settle and budding grows the colony; reproductive details vary among octocorals.",
+      "question": "Why might the orientation of a fan matter?",
+      "answer": "It changes exposure to water flow and therefore delivery of suspended food; currents and local habitat provide context.",
+      "sources": [
+        "WQ-R01",
+        "WQ-R02",
+        "BIO-SEAFAN"
+      ],
+      "image": "assets/organisms/sea-fan.jxl",
+      "caption": "Fine branches connect into a broad, flattened fan.",
+      "alt": "Fine branches connect into a broad, flattened fan.",
+      "source_id": "wq-photo-sea-fan"
+    },
+    {
+      "id": "nassau-grouper",
+      "name": "Nassau grouper",
+      "scientific_name": "Epinephelus striatus",
+      "region": "Atlantic target",
+      "diagnostic": "A robust grouper with dark body bars, a diagonal dark band through the eye and a dark saddle near the tail base. Color can change quickly.",
+      "ecology": "Predatory reef fish; spawning aggregations are particularly vulnerable to fishing. A decline can reflect exploitation even where water chemistry is relatively good.",
+      "life_cycle": "Adults gather to spawn; pelagic eggs and larvae precede settlement and juvenile growth.",
+      "question": "Can good dissolved-oxygen readings rule out a threat to this fish?",
+      "answer": "No. Fishing and loss of habitat or spawning adults can reduce populations even when measured water chemistry is suitable.",
+      "sources": [
+        "WQ-R01",
+        "WQ-R02",
+        "BIO-NASSAU"
+      ],
+      "image": "assets/organisms/nassau-grouper.jxl",
+      "caption": "Dark body bars and the black saddle near the tail base are visible.",
+      "alt": "Dark body bars and the black saddle near the tail base are visible.",
+      "source_id": "wq-photo-nassau-grouper"
+    }
+  ]
+}

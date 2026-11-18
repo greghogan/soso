@@ -1,0 +1,705 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "wq-photo-banded-coral-shrimp",
+      "sha256": "d8b9d08ea4b9920fafbf6436d7633a82c640afc6f695e4ac426c4a22ef3f7852",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Stenopus_hispidus_%2846585256025%29.jpg/960px-Stenopus_hispidus_%2846585256025%29.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Stenopus_hispidus_(46585256025).jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/organisms/banded-coral-shrimp.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 211472,
+        "md5": "aa4a5cfea2696446edaf03f2d3f252f8",
+        "sha1": "c271ac12e7b644ba370a774acc599ef4e75a3ae7",
+        "crc32c": "62d72807"
+      }
+    },
+    {
+      "id": "wq-photo-bumphead-parrotfish",
+      "sha256": "6a79465402973381e3b0d85f7dacf66e94a8916b96dc73c1fc1b5d759fdf6920",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bumphead_parrotfish_%28Bolbometopon_muricatum%29_%2849509140173%29.jpg/960px-Bumphead_parrotfish_%28Bolbometopon_muricatum%29_%2849509140173%29.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bumphead_parrotfish_(Bolbometopon_muricatum)_(49509140173).jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/organisms/bumphead-parrotfish.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 59070,
+        "md5": "283599e9619dafe73fec7122d2690c41",
+        "sha1": "3688b3f29739c8d84b70cf4e81da1891ccd2ad12",
+        "crc32c": "9fdc8923"
+      }
+    },
+    {
+      "id": "wq-photo-butterflyfish",
+      "sha256": "2798bd63d86a35a78094eb851dc5f8bddd8cf226592abcc9892f9ffae55e11e7",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Chaetodon_melannotus_edit4.jpg/960px-Chaetodon_melannotus_edit4.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Chaetodon_melannotus_edit4.jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/organisms/butterflyfish.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 177690,
+        "md5": "c03c8c7636d5063e539e443f82fecd67",
+        "sha1": "2ea02391e35cdde2e3fe15c8a4094004b9befee0",
+        "crc32c": "617afa1b"
+      }
+    },
+    {
+      "id": "wq-photo-crown-of-thorns-variation",
+      "sha256": "8e6132dd923d07d219f6194a3d3b77681940b53223120e38282b10b9b288e1da",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Acanthaster_planci_GBR.JPG/960px-Acanthaster_planci_GBR.JPG",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Acanthaster_planci_GBR.JPG",
+      "legacy_path": "events/water-quality-b/2027/assets/organisms/crown-of-thorns.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 284358,
+        "md5": "052683ca8d20e659cfa0272e6e7a6300",
+        "sha1": "cd15cc3fc38167bb812a437cf172f4f8359e0302",
+        "crc32c": "2d68b953"
+      }
+    },
+    {
+      "id": "wq-photo-demosponge",
+      "sha256": "19794415305330d13532056bbe77c545d529949ab5d5dd58783c0c3b73641fb4",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Aplysina_archeri_%28Stove-pipe_Sponge-pink_variation%29.jpg/960px-Aplysina_archeri_%28Stove-pipe_Sponge-pink_variation%29.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Aplysina_archeri_(Stove-pipe_Sponge-pink_variation).jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/organisms/demosponge.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 214235,
+        "md5": "918fd298c5fb289920c19c3f03177acb",
+        "sha1": "f998a06af3ab47710e6e4c80d6d6c036c0167036",
+        "crc32c": "26e7e914"
+      }
+    },
+    {
+      "id": "wq-photo-flamingo-tongue",
+      "sha256": "c6a82ea29435d323251ba2d9d2836e09e5ca2f8ae681e83a606eee64a48cc893",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Cyphoma_gibbosum_%28living%29.jpg/960px-Cyphoma_gibbosum_%28living%29.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cyphoma_gibbosum_(living).jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/organisms/flamingo-tongue.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 151465,
+        "md5": "ee3c6962a8b5b5efcc3d856fef6ff888",
+        "sha1": "56acfd16c23669982f3735f88e9db14efbdf3d53",
+        "crc32c": "205a91df"
+      }
+    },
+    {
+      "id": "wq-photo-fleshy-algae",
+      "sha256": "fd7c0543c8bc1e271b7bbf46d4deee356d7bdb3e846e7fe2c54c22b4214a397e",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Algas_%28Dictyota_dichotoma%29%2C_isla_de_Mouro%2C_Santander%2C_Espa%C3%B1a%2C_2019-08-14%2C_DD_26.jpg/960px-Algas_%28Dictyota_dichotoma%29%2C_isla_de_Mouro%2C_Santander%2C_Espa%C3%B1a%2C_2019-08-14%2C_DD_26.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Algas_(Dictyota_dichotoma),_isla_de_Mouro,_Santander,_Espa%C3%B1a,_2019-08-14,_DD_26.jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/organisms/fleshy-algae.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 498538,
+        "md5": "d40b09a4b457adc02b9fde42e68acb56",
+        "sha1": "67b8618a038eecf07597ec1ed2e758ccfc2d464c",
+        "crc32c": "692e5a77"
+      }
+    },
+    {
+      "id": "wq-photo-giant-clam",
+      "sha256": "ab89fa914c5a8d673736723d8e0ee1b6015d23230f12dcd3b2d13f893fc2074e",
+      "url": "https://live.staticflickr.com/2784/4072994605_28ecbc1df8_o.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Diving_Maldives,_2009_Tridacna.jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/organisms/giant-clam.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 3149932,
+        "md5": "81387ddda80fcb2822a7fd811d14a31c",
+        "sha1": "c9375390cc500f9f6d259d6728a1bffb83a47f0d",
+        "crc32c": "828cdaf7"
+      }
+    },
+    {
+      "id": "wq-photo-humpback-grouper",
+      "sha256": "0f921043a35d312a9f527f0c4b623f7b55816fea90daf649b01451b7378fa76a",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Cromileptes_altivelis.jpg/960px-Cromileptes_altivelis.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cromileptes_altivelis.jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/organisms/humpback-grouper.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 183430,
+        "md5": "c5765380ff4d0f1436202d0c57d1e503",
+        "sha1": "d6eba5ff1f259e6d3389eb9ac9e8ca1fd9dcd04f",
+        "crc32c": "bc000e43"
+      }
+    },
+    {
+      "id": "wq-photo-humphead-wrasse",
+      "sha256": "ae92b6436b5cd58f80010844d597741af2d3df52355bcd13e212701331910d06",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Napoleon_wrasse_%28Cheilinus_undulatus%29_%2846196859645%29.jpg/960px-Napoleon_wrasse_%28Cheilinus_undulatus%29_%2846196859645%29.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Napoleon_wrasse_(Cheilinus_undulatus)_(46196859645).jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/organisms/humphead-wrasse.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 145861,
+        "md5": "4f60397ab579db2b73a23dfab25c9f44",
+        "sha1": "900c1c98776c25403825faf0b1d9f9df32719dca",
+        "crc32c": "282e8525"
+      }
+    },
+    {
+      "id": "wq-photo-dusky-grouper-habitat",
+      "sha256": "f064a148daeb9111bc287e4a8c46933185cdd4a11a13ed6d0d4138635762f24d",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Mero_%28Epinephelus_marginatus%29%2C_Cabo_de_Palos%2C_Espa%C3%B1a%2C_2022-07-14%2C_DD_65.jpg/960px-Mero_%28Epinephelus_marginatus%29%2C_Cabo_de_Palos%2C_Espa%C3%B1a%2C_2022-07-14%2C_DD_65.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Mero_(Epinephelus_marginatus),_Cabo_de_Palos,_Espa%C3%B1a,_2022-07-14,_DD_65.jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/organisms/large-grouper.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 196691,
+        "md5": "e092160ef483e5d37cd3b29254139977",
+        "sha1": "d5e8f92dc43f92b441abb7406a19c3df906f8650",
+        "crc32c": "51ffb038"
+      }
+    },
+    {
+      "id": "wq-photo-long-spined-urchin-variation",
+      "sha256": "f1f4c80cc32196d4d1e26daf89dcd6a4269d24e0fec5d472b09f2ce8162eecb7",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Diadem_urchins.jpg/960px-Diadem_urchins.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Diadem_urchins.jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/organisms/long-spined-urchin.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 326089,
+        "md5": "addcc4a22f6daddc912c6f2bbf9f47b3",
+        "sha1": "d145ad8d52d1c8aec47741fdef5dd60250f64507",
+        "crc32c": "5b2052bf"
+      }
+    },
+    {
+      "id": "wq-photo-nassau-grouper",
+      "sha256": "121e3c847d669fed115fd476787b1e136f17e29cbb9f7d57c70c6f3ac57dd007",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Nassau_grouper_in_Blijdorp_Zoo.jpg/960px-Nassau_grouper_in_Blijdorp_Zoo.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Nassau_grouper_in_Blijdorp_Zoo.jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/organisms/nassau-grouper.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 166608,
+        "md5": "e7f4650e38559b8d9682680303e93d7e",
+        "sha1": "1ba17102fd563b66cf1fc9dba55045632811cdd9",
+        "crc32c": "4a9a4fa6"
+      }
+    },
+    {
+      "id": "wq-photo-parrotfish",
+      "sha256": "fcf1d140665f35f3cbcbd60bacc74a043756fa1bcec71f57b66595addd6f98bc",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Loro_barbazul_%28Scarus_ghobban%29%2C_La_Paz%2C_Baja_California%2C_M%C3%A9xico%2C_2024-12-20%2C_DD_55.jpg/960px-Loro_barbazul_%28Scarus_ghobban%29%2C_La_Paz%2C_Baja_California%2C_M%C3%A9xico%2C_2024-12-20%2C_DD_55.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Loro_barbazul_(Scarus_ghobban),_La_Paz,_Baja_California,_M%C3%A9xico,_2024-12-20,_DD_55.jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/organisms/parrotfish.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 121118,
+        "md5": "1dec35df878ec9e68b6df1b7d1107da7",
+        "sha1": "c36f90e36511f4855a51eb43cc46a3d513298e2d",
+        "crc32c": "2bb289ac"
+      }
+    },
+    {
+      "id": "wq-photo-pencil-urchin",
+      "sha256": "45c910bb6d065b11800a41590690485237053a36f7e2ae207f26e442bd811480",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eucidaris_tribuloides_256321233.jpg/960px-Eucidaris_tribuloides_256321233.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Eucidaris_tribuloides_256321233.jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/organisms/pencil-urchin.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 210031,
+        "md5": "4902866acc38eb23c94966b129481431",
+        "sha1": "8a7224ba907d4146af90cae74d472a12646d5929",
+        "crc32c": "bb1dc8c4"
+      }
+    },
+    {
+      "id": "wq-photo-sea-cucumber",
+      "sha256": "b1d8395886f126b8059fc50677c8bb888c696356bcab7ae41d8ea7078440db98",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Pepino_de_mar_%28Holothuria_fuscogilva%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-28%2C_DD_119.jpg/960px-Pepino_de_mar_%28Holothuria_fuscogilva%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-28%2C_DD_119.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pepino_de_mar_(Holothuria_fuscogilva),_parque_nacional_Ras_Muhammad,_Egipto,_2022-03-28,_DD_119.jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/organisms/sea-cucumber.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 304235,
+        "md5": "c1cb1f52975f7a8717995c08f314c6da",
+        "sha1": "9a030d1547be0345bad71242e437059371e8d881",
+        "crc32c": "e9424138"
+      }
+    },
+    {
+      "id": "wq-photo-sea-fan",
+      "sha256": "c3835caa547662b3151ec15c30db6bf165f06cdb5cae0eb21996d1aee23d8582",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Gorgonia_ventalina%2C_Bahamas.jpg/960px-Gorgonia_ventalina%2C_Bahamas.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Gorgonia_ventalina,_Bahamas.jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/organisms/sea-fan.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 312208,
+        "md5": "4c51286ed8b5b3b46e8a5879ac93d805",
+        "sha1": "32055df97363c49831da2ddedc074dedf35b0632",
+        "crc32c": "75a2441b"
+      }
+    },
+    {
+      "id": "wq-photo-snapper-school",
+      "sha256": "61f01f019bab03227590a300545a31194ee25a574a601325bbc1197c49c1ad4a",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Banco_de_pargos_%28Lutjanus_lutjanus%29%2C_Nosy_Sakatia%2C_Madagascar%2C_2025-09-18%2C_DD_55.jpg/960px-Banco_de_pargos_%28Lutjanus_lutjanus%29%2C_Nosy_Sakatia%2C_Madagascar%2C_2025-09-18%2C_DD_55.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Banco_de_pargos_(Lutjanus_lutjanus),_Nosy_Sakatia,_Madagascar,_2025-09-18,_DD_55.jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/organisms/snapper.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 182850,
+        "md5": "c8fb456d98c92420e1ae5ed0df3fe2d9",
+        "sha1": "50d4533dbf0775eb3c10d0e3125f51195de337a6",
+        "crc32c": "57cd90e1"
+      }
+    },
+    {
+      "id": "wq-photo-stony-coral",
+      "sha256": "581b3ea8e15409a3b4a7897d019241bcbbf9c4b4f993c976b4d34b3a9f3da918",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Coral_%28Acropora_hemprichii%29%2C_Ras_Katy%2C_Sharm_el-Sheij%2C_Egipto%2C_2022-03-26%2C_DD_108.jpg/960px-Coral_%28Acropora_hemprichii%29%2C_Ras_Katy%2C_Sharm_el-Sheij%2C_Egipto%2C_2022-03-26%2C_DD_108.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Coral_(Acropora_hemprichii),_Ras_Katy,_Sharm_el-Sheij,_Egipto,_2022-03-26,_DD_108.jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/organisms/stony-coral.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 429634,
+        "md5": "fc6f245fd1db9282f3c7f1880a8e1f9f",
+        "sha1": "9917c7a9ea619558d30217e1a277bf5bf9ca4a70",
+        "crc32c": "6c05fd4a"
+      }
+    },
+    {
+      "id": "wq-photo-triton",
+      "sha256": "ac8b19a43966f7c8ae20de912d645afdff53ebb1903a42da06b613c6416ac31e",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Charonia_tritonis_in_Guam.jpg/960px-Charonia_tritonis_in_Guam.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Charonia_tritonis_in_Guam.jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/organisms/triton.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 253611,
+        "md5": "91d43097a74f6b341568df2202b3e894",
+        "sha1": "fdef5ba8439952d6562118ec10373cc02a9ef927",
+        "crc32c": "0d720c40"
+      }
+    },
+    {
+      "id": "wq-photo-banded-coral-shrimp-variation",
+      "sha256": "8ed64885f9f8643e006332145531e857fd05e7489887f2b4f69107bc2572dc95",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Camar%C3%B3n_boxeador_%28Stenopus_hispidus%29%2C_Anilao%2C_Filipinas%2C_2023-08-22%2C_DD_222.jpg/960px-Camar%C3%B3n_boxeador_%28Stenopus_hispidus%29%2C_Anilao%2C_Filipinas%2C_2023-08-22%2C_DD_222.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Camar%C3%B3n_boxeador_(Stenopus_hispidus),_Anilao,_Filipinas,_2023-08-22,_DD_222.jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/supplemental/banded-coral-shrimp-variation.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 142427,
+        "md5": "151a87e015c5fadc2070a577a05fe37b",
+        "sha1": "53a07ce2764e97b0a12ec74b50292e7cef714199",
+        "crc32c": "1af9547d"
+      }
+    },
+    {
+      "id": "wq-photo-bumphead-parrotfish-variation",
+      "sha256": "d32263fba13bf7c364bb0a0161f931cccf5847b8bd77fe740c930c7b940d7807",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Bolbometopon_muricatum_290186802.jpg/960px-Bolbometopon_muricatum_290186802.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bolbometopon_muricatum_290186802.jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/supplemental/bumphead-parrotfish-variation.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 153591,
+        "md5": "98f1a030d554d1beac5f4dbe7613fec7",
+        "sha1": "efbf2bc3d7710e05f0da22f4312462eabc0c2e8b",
+        "crc32c": "154b75e6"
+      }
+    },
+    {
+      "id": "wq-photo-butterflyfish-variation",
+      "sha256": "539bb57f139ef4fea7029d4bc9310047e0f72e690f2794160ae2159bd8f61986",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Pez_mariposa_auriga_%28Chaetodon_auriga%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-30%2C_DD_03.jpg/960px-Pez_mariposa_auriga_%28Chaetodon_auriga%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-30%2C_DD_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pez_mariposa_auriga_(Chaetodon_auriga),_parque_nacional_Ras_Muhammad,_Egipto,_2022-03-30,_DD_03.jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/supplemental/butterflyfish-variation.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 109760,
+        "md5": "f48d082d1e0216698ad66399ea9e2b0a",
+        "sha1": "915041a179be123f8cdaa6e7c32e9ccc3d595e50",
+        "crc32c": "e83968be"
+      }
+    },
+    {
+      "id": "wq-photo-crown-of-thorns",
+      "sha256": "4759ded12382f8cf395e1388431c91206d167ecf77eb6eafe7c2d0f3c1b1662a",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Acanthaster_planci_-_Sirinat.jpg/960px-Acanthaster_planci_-_Sirinat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Acanthaster_planci_-_Sirinat.jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/supplemental/crown-of-thorns-variation.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 306067,
+        "md5": "035f713f80a9d00e84c28b6dba0aed79",
+        "sha1": "b9ebea298522aedebeaf66f57ed99abefc7f87f6",
+        "crc32c": "08b84367"
+      }
+    },
+    {
+      "id": "wq-photo-demosponge-variation",
+      "sha256": "0d19eb6f66c1673ccf322c4db143c2752440bbcfc6b6a96b2770e3e238aa76da",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Xestospongia_muta_285605630.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Xestospongia_muta_285605630.jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/supplemental/demosponge-variation.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 875108,
+        "md5": "0c570863ccac3bc0c76686c79751f3ac",
+        "sha1": "f911a20578e8bdc3f62575003de35ca347bc4ec2",
+        "crc32c": "56fd511f"
+      }
+    },
+    {
+      "id": "wq-photo-flamingo-tongue-shell",
+      "sha256": "c9fdbc5c8d5c2846b41d4f6538f045b959cf5e88aac015fddb8a2f4b7085ea77",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Cyphoma_gibbosum_%28flamingo_tongue_snail_shell%29_%28St._Thomas%2C_Virgin_Islands%29_9.jpg/960px-Cyphoma_gibbosum_%28flamingo_tongue_snail_shell%29_%28St._Thomas%2C_Virgin_Islands%29_9.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cyphoma_gibbosum_(flamingo_tongue_snail_shell)_(St._Thomas,_Virgin_Islands)_9.jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/supplemental/flamingo-tongue-shell.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 121898,
+        "md5": "84221fcbc43d5c4b4593842856e19f59",
+        "sha1": "35258c8fbb5142d21d9c97bd0ff41863da652614",
+        "crc32c": "f8675bf1"
+      }
+    },
+    {
+      "id": "wq-photo-fleshy-algae-variation",
+      "sha256": "1ad828eee7e0811499bbca0f971bcc6614cc5c2b773774676142f9ca325ee1c1",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Caulerpa_racemosa_algae.jpg/960px-Caulerpa_racemosa_algae.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Caulerpa_racemosa_algae.jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/supplemental/fleshy-algae-variation.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 129865,
+        "md5": "89449175af67acfc15a7be8a7782e24e",
+        "sha1": "d0a243812d1d2b82eeda2baa664525f23056e412",
+        "crc32c": "d67dce6c"
+      }
+    },
+    {
+      "id": "wq-photo-giant-clam-variation",
+      "sha256": "aa5afd30818de58c04ea32cb9152e54dbb9db4cd5d490eebf3c53783db1b5a6f",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Tridacna_squamosa_%28Giant_clam%29_brown_and_blue.jpg/960px-Tridacna_squamosa_%28Giant_clam%29_brown_and_blue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Tridacna_squamosa_(Giant_clam)_brown_and_blue.jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/supplemental/giant-clam-variation.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 373585,
+        "md5": "fd295caadfa24123c914ce3b3c61c8c5",
+        "sha1": "e32eaa8c87a49f7fdc946dbc63aa95a065b316a1",
+        "crc32c": "2d84f581"
+      }
+    },
+    {
+      "id": "wq-photo-humpback-grouper-variation",
+      "sha256": "8d5727ae23c5c9facff580cf7a46e601dd55656c941b8ef57b9ec1ff52d0ca11",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Humpback_grouper_juvenile_%28Cromileptes_altivelis%29_%2840701425092%29.jpg/960px-Humpback_grouper_juvenile_%28Cromileptes_altivelis%29_%2840701425092%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Humpback_grouper_juvenile_(Cromileptes_altivelis)_(40701425092).jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/supplemental/humpback-grouper-variation.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 119289,
+        "md5": "13e56f38e4a48ec0ad5fe89d5e59b2dc",
+        "sha1": "c9c27ecbf8a6cca2627f87000b85bee9acccd55a",
+        "crc32c": "f907c3fa"
+      }
+    },
+    {
+      "id": "wq-photo-humphead-wrasse-variation",
+      "sha256": "7972a77f0a99018661b0efaa976e6289e778ffcf0d403b24a768eebf573e8b39",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Cheilinus_undulatus_juv%C3%A9nile.jpg/960px-Cheilinus_undulatus_juv%C3%A9nile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cheilinus_undulatus_juv%C3%A9nile.jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/supplemental/humphead-wrasse-variation.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 276929,
+        "md5": "fc8dd5ef324a91a5956e50370e5b1957",
+        "sha1": "571643020faa3826df177eac14c3fe369ca02b7b",
+        "crc32c": "a06f4d7b"
+      }
+    },
+    {
+      "id": "wq-photo-large-grouper",
+      "sha256": "f0479462b572e727093a9d13639abc54bff7f5d79e18ce5d69704a93782ebbe9",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Epinephelus_lanceolatus.jpeg/960px-Epinephelus_lanceolatus.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Epinephelus_lanceolatus.jpeg",
+      "legacy_path": "events/water-quality-b/2027/assets/supplemental/large-grouper-variation.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 167589,
+        "md5": "b71cc25dd32f4df9e307d9ab3c884b94",
+        "sha1": "9cc1233c6da15a88052b9d82c8e3011d96e886b1",
+        "crc32c": "f8f0a3ef"
+      }
+    },
+    {
+      "id": "wq-photo-long-spined-urchin",
+      "sha256": "49ba06fdf3c8d467fc53e37139094d43dd9fc883e10237718ff9f67b425fb79d",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Diadema_setosum_295940049.jpg/960px-Diadema_setosum_295940049.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Diadema_setosum_295940049.jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/supplemental/long-spined-urchin-variation.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 347823,
+        "md5": "acb0b38c8404394f1afb9daf05809ab2",
+        "sha1": "d9fa170305dfb4135eace6454ce366f53fff3cb3",
+        "crc32c": "8b0fcd24"
+      }
+    },
+    {
+      "id": "wq-photo-moray-variation",
+      "sha256": "905e47333e8ab7e95c524fe0f82ce5685ecb0fb0aa9223c6b8ef51ca32da3487",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Morena_boca_blanca_%28Gymnothorax_meleagris%29%2C_Zanz%C3%ADbar%2C_Tanzania%2C_2024-05-29%2C_DD_92.jpg/960px-Morena_boca_blanca_%28Gymnothorax_meleagris%29%2C_Zanz%C3%ADbar%2C_Tanzania%2C_2024-05-29%2C_DD_92.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Morena_boca_blanca_(Gymnothorax_meleagris),_Zanz%C3%ADbar,_Tanzania,_2024-05-29,_DD_92.jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/supplemental/moray-variation.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 192161,
+        "md5": "0aac7e93d2f9a6cc5adb2a732f036a53",
+        "sha1": "c326b952a80a85a3bf89e84788bdd45df0b1a8ef",
+        "crc32c": "29de7ef8"
+      }
+    },
+    {
+      "id": "wq-photo-nassau-grouper-variation",
+      "sha256": "766879e992d6a065ae8f84deeac3848f1d4a12eb3c2f754847870dfad9e3b52d",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Nassau_Grouper_%28Epinephelus_striatus%29_%2836644405756%29.jpg/960px-Nassau_Grouper_%28Epinephelus_striatus%29_%2836644405756%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Nassau_Grouper_(Epinephelus_striatus)_(36644405756).jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/supplemental/nassau-grouper-variation.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 243433,
+        "md5": "58e1fa53581ea10cb53408bc54cecf16",
+        "sha1": "4b96375fb950adaf78e558c60cb3e555358de33a",
+        "crc32c": "7e7e5041"
+      }
+    },
+    {
+      "id": "wq-photo-parrotfish-variation",
+      "sha256": "35635c5d7f0b84c4affe8e2411e732bcda1cb78762a98beb178df53d6fb92ce1",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Stoplight_parrotfish_Sparisoma_viride_initial_phase_%283474433111%29.jpg/960px-Stoplight_parrotfish_Sparisoma_viride_initial_phase_%283474433111%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Stoplight_parrotfish_Sparisoma_viride_initial_phase_(3474433111).jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/supplemental/parrotfish-variation.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 238045,
+        "md5": "0d857efdbf8f8d04795f0a2ecd2a6bea",
+        "sha1": "f3887118a046d92f8c3b9b3fd25c79aad5777bb3",
+        "crc32c": "a49c7939"
+      }
+    },
+    {
+      "id": "wq-photo-sea-cucumber-variation",
+      "sha256": "ae54d66154b14664eab3c7ffe4d35d5006120839e92ab88bb732a109567aacfd",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Pepino_de_mar_%28Thelenota_ananas%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-17%2C_DD_59.jpg/960px-Pepino_de_mar_%28Thelenota_ananas%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-17%2C_DD_59.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pepino_de_mar_(Thelenota_ananas),_mar_Rojo,_Egipto,_2023-04-17,_DD_59.jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/supplemental/sea-cucumber-variation.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 251471,
+        "md5": "3ad1007d7ac8c0a3913425f08b71a53f",
+        "sha1": "6109f265e0bbe0bcfb9c756e2b1932feeaebac49",
+        "crc32c": "9285a961"
+      }
+    },
+    {
+      "id": "wq-photo-snapper",
+      "sha256": "f14f2f7b92ddafbcc3663ca0d524af782a83f496d91cfa90d9eb37922de91d37",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Bluestripe_snapper_%28Lutjanus_kasmira%29.jpg/960px-Bluestripe_snapper_%28Lutjanus_kasmira%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bluestripe_snapper_(Lutjanus_kasmira).jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/supplemental/snapper-bluestripe.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 108459,
+        "md5": "1245d3f770e31e05d4b8f0e877b08f9e",
+        "sha1": "65985ed874f66225ef53433fca07b759931ab32f",
+        "crc32c": "9435a893"
+      }
+    },
+    {
+      "id": "wq-photo-snapper-night",
+      "sha256": "960368297358800fd374d8469c6458faf6880bf2fcccb6d531d639d22480c7a1",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Bluestripe_snapper_night_coloration_%28Lutjanus_kasmira%29_%2843709448502%29.jpg/960px-Bluestripe_snapper_night_coloration_%28Lutjanus_kasmira%29_%2843709448502%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bluestripe_snapper_night_coloration_(Lutjanus_kasmira)_(43709448502).jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/supplemental/snapper-night.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 220448,
+        "md5": "c111a60ce73d9dfad4fe82147b31ae9b",
+        "sha1": "ba4e3ace95c3d3bc523b7b5a7ece9ab9ab624a6e",
+        "crc32c": "775b8625"
+      }
+    },
+    {
+      "id": "wq-photo-snapper-schoolmaster",
+      "sha256": "964c2302351f7b496946b27c2877f2f819101fc961db6919649b7ec0ee0ec54f",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Lutjanus_apodus_1.jpg/960px-Lutjanus_apodus_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lutjanus_apodus_1.jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/supplemental/snapper-schoolmaster.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 99935,
+        "md5": "f49ee31ddcd152a587c8beca3b4b0849",
+        "sha1": "df7e5e77f81186ab6995fff7aa779ad2e1521811",
+        "crc32c": "c6d3e92f"
+      }
+    },
+    {
+      "id": "wq-photo-staghorn-coral",
+      "sha256": "b05c8e53cc0f506c69caa2d0d901ae93466b7257ca7bdf7d3dac6814b06fd2a0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/FKNMS_staghorn_coral_%2848770939486%29.jpg/960px-FKNMS_staghorn_coral_%2848770939486%29.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:FKNMS_staghorn_coral_(48770939486).jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/supplemental/staghorn-coral.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 201597,
+        "md5": "bb6589b81e7d8ade3c2dda41c527c160",
+        "sha1": "b88b10c3f1dc54b54def67ada7b149ad6c0cfde3",
+        "crc32c": "3c8f9117"
+      }
+    },
+    {
+      "id": "wq-photo-sweetlips-juvenile",
+      "sha256": "f94674371b9162660d740cf3f8959098ecd9386d8798831eecabdc4f820640e1",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Harlequin_sweetlips_juvenile_%28Plectorhinchus_chaetodonoides%29_%2835635869076%29.jpg/960px-Harlequin_sweetlips_juvenile_%28Plectorhinchus_chaetodonoides%29_%2835635869076%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Harlequin_sweetlips_juvenile_(Plectorhinchus_chaetodonoides)_(35635869076).jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/supplemental/sweetlips-juvenile.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 142187,
+        "md5": "5bbcc48e055e80ff38ca61c5143c6659",
+        "sha1": "79f881accce449f50bce1478b6bef65cac99337c",
+        "crc32c": "5f95ef01"
+      }
+    },
+    {
+      "id": "wq-photo-sea-fan-mesh",
+      "sha256": "43d96826d562d18680412995b31bea1a9f38f1e4ed9eeecc2e5a6dfbba8660e7",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Sea_fan_Gorgonia_ventalina.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Sea_fan_Gorgonia_ventalina.jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/supplemental/sea-fan-mesh.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 777014,
+        "md5": "d2d447befd4bef8f7be4be8f7bea8516",
+        "sha1": "f2dcd572c6433f1ac0be9a4eecab1a3fa5f5745b",
+        "crc32c": "f7b5bd17"
+      }
+    },
+    {
+      "id": "wq-photo-brain-coral-detail",
+      "sha256": "81d11eec41834398891b400a2df51cd5d64bfcd7e502a81b6c0a076725b3df0b",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/FGBNMS_-_symmetrical_brain_coral_closeup_%2827369203594%29.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:FGBNMS_-_symmetrical_brain_coral_closeup_(27369203594).jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/supplemental/brain-coral-detail.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 5906961,
+        "md5": "29f695c46809ade1e72ff7df3624dfa0",
+        "sha1": "87f915a047338934101ded32398f947de8230117",
+        "crc32c": "47456fbf"
+      }
+    },
+    {
+      "id": "wq-photo-red-fleshy-algae",
+      "sha256": "b3fa54934b35a7af4b07bc5d59255d7c0f17b1c24175cc43c9495ad3d6e71598",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Red_algae_%28Gracilaria_sp.%29_%2848737220543%29.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Red_algae_(Gracilaria_sp.)_(48737220543).jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/supplemental/red-fleshy-algae.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 13078060,
+        "md5": "9090877ae67f3e57f2b5167eb701270e",
+        "sha1": "d42881e887a733b392292305601939365f741f60",
+        "crc32c": "07ba8c30"
+      }
+    },
+    {
+      "id": "wq-photo-sweetlips",
+      "sha256": "38b5f488524832bca932e4014a01aaf21222ad2e7d272108323b2d3058df6c82",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Plectorhynchus.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Plectorhynchus.jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/organisms/sweetlips.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 636811,
+        "md5": "56dbad755dc98f38e737d9678a2ba780",
+        "sha1": "98baed79ecd8c9937282ab23280dc7e784a2ee5f",
+        "crc32c": "0ecaa9dc"
+      }
+    },
+    {
+      "id": "wq-photo-pencil-urchin-variation",
+      "sha256": "7aca50304f93ad4282197a68378ac3d6970824ba21be59cccbda54480b12a1e8",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Eucidaris_tribuloides_%28Slate-pencil_Urchin%29.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Eucidaris_tribuloides_(Slate-pencil_Urchin).jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/supplemental/pencil-urchin-variation.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 5307904,
+        "md5": "32bc0f0753224363a79e82d977e7e2e7",
+        "sha1": "b7da2c324a959f948ccceb9fc309a3b80aa2266b",
+        "crc32c": "51239cae"
+      }
+    },
+    {
+      "id": "wq-photo-triton-variation",
+      "sha256": "2fd58464df68e3e30b1ac924c2813d77f02156f3527e57d13396c59efcda2c6c",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Charonia_tritonis_a1.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Charonia_tritonis_a1.jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/supplemental/triton-variation.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 2884459,
+        "md5": "41239c6698569730c43e8668d470700d",
+        "sha1": "7a9500c34f2ab39e8325278132c8e61124f4f54e",
+        "crc32c": "cdeaa624"
+      }
+    },
+    {
+      "id": "wq-photo-moray",
+      "sha256": "5d2eb136b6f0136a9358c08e71940ea9ccc9efa8cdefdbd6fa257a5cee74999a",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Morena_pimienta_%28Gymnothorax_griseus%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-27%2C_DD_185.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Morena_pimienta_(Gymnothorax_griseus),_parque_nacional_Ras_Muhammad,_Egipto,_2022-03-27,_DD_185.jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/organisms/moray.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 3027347,
+        "md5": "abccfc050b35a724023c98cc63d732cf",
+        "sha1": "28098ca367a4429cbdd9acc2e6304b765f47887f",
+        "crc32c": "e9d11f89"
+      }
+    },
+    {
+      "id": "wq-photo-spiny-lobster",
+      "sha256": "9185ed19d57d19bdfc90df2e95a5b74a6ab31d51b42fd0ea900ed9bb5f4852ba",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/CSIRO_ScienceImage_2518_Ornate_Lobster.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_2518_Ornate_Lobster.jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/organisms/spiny-lobster.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 5207181,
+        "md5": "eed0194d3bce3f8c97ca8a2a597b27d5",
+        "sha1": "687f26af54109fe4941d529a767dc48329911369",
+        "crc32c": "2cafe445"
+      }
+    },
+    {
+      "id": "wq-photo-spiny-lobster-variation",
+      "sha256": "7f653cfd1ea2ba12c365d97a17681b63e7a7967142a01716be7393de9ef02f7c",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Langosta_com%C3%BAn_%28Palinurus_elephas%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2021-09-10%2C_DD_03.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Langosta_com\u00fan_(Palinurus_elephas),_Parque_natural_de_la_Arr\u00e1bida,_Portugal,_2021-09-10,_DD_03.jpg",
+      "legacy_path": "events/water-quality-b/2027/assets/supplemental/spiny-lobster-variation.jxl",
+      "note": "Exact originally acquired JPEG bytes; source rendition retained, not necessarily full-resolution upstream original.",
+      "checksums": {
+        "size": 9449201,
+        "md5": "14bd5a59fe6a540800d35b5b6cafaae1",
+        "sha1": "61a6b655c50974ae8dec5f6dd86693ba2b7538d2",
+        "crc32c": "6c152342"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Water Quality B",
+  "year": 2027,
+  "guides": [
+    [
+      "study",
+      "water-quality-study.json",
+      "Study guide",
+      "Explain marine ecosystems, identify reef organisms, and interpret water evidence."
+    ],
+    [
+      "build",
+      "water-quality-build.json",
+      "Build guide",
+      "Build a floating instrument, calibrate it, and evaluate uncertainty."
+    ]
+  ],
+  "covers": {
+    "study": "assets/illustrations/watershed-to-reef-cover.jxl",
+    "build": "assets/diagrams/hydrometer.svg"
+  },
+  "cover_questions": {
+    "study": "What does the evidence reveal?",
+    "build": "How reliable is your measurement?"
+  },
+  "introduction": "Water Quality connects ecosystems, organisms, measurements, and a calibrated instrument.",
+  "atlas": "organisms.json",
+  "models": [
+    {
+      "path": "interactives/practice.html",
+      "title": "Reef identification practice",
+      "description": "Use diagnostic evidence before revealing each organism name."
+    },
+    {
+      "path": "interactives/calibration.html",
+      "title": "Calibration and uncertainty",
+      "description": "Interpolate a measured reading and test the result against a calibration curve."
+    },
+    {
+      "path": "interactives/monitoring.html",
+      "title": "Read a monitoring dataset",
+      "description": "Distinguish a supported inference from an untested explanation."
+    }
+  ],
+  "interactive_descriptions": {
+    "study": "The offline guide includes organism retrieval practice, a calibration exercise, and monitoring-data questions.",
+    "build": "The companion offline build guide includes an interactive calibration exercise with interpolation, bounds checks and feedback."
+  },
+  "image_led_covers": [
+    "study"
+  ],
+  "supplemental_images": "supplemental-images.json"
+}

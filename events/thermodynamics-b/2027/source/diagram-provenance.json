@@ -1,0 +1,158 @@
+[
+  {
+    "file": "assets/diagrams/blackbody.svg",
+    "sha256": "d69082dcfd88a51fcf62f8de29bccd60082985cf8df69aa1af19da9122d7f73f",
+    "origin": "Original deterministic SVG; editable source retained",
+    "performance_claim": "None; conceptual or illustrative only"
+  },
+  {
+    "file": "build/generated-diagrams/build-concepts.svg",
+    "sha256": "ee98eb43a36232d0261ddefe89476cb192cb884ac6dc97344098acb318aaae33",
+    "origin": "Original deterministic SVG; editable source retained",
+    "performance_claim": "None; conceptual or illustrative only",
+    "generator": "source/diagrams/generate.py"
+  },
+  {
+    "file": "build/generated-diagrams/capacity.svg",
+    "sha256": "c3d346ba24f50764c308776a664b1e8fb156f8f9f8d0a7de92568f684b901af2",
+    "origin": "Original deterministic SVG; editable source retained",
+    "performance_claim": "None; conceptual or illustrative only",
+    "prior_recorded_sha256": "6d1d78564a278ad8b8063f240a843129879749fa045ee53812bb90b52fc64ea5",
+    "hash_reconciled": "2026-11-15; current retained asset, not a regeneration claim",
+    "generator": "source/diagrams/generate.py"
+  },
+  {
+    "file": "build/generated-diagrams/concept-receiver.svg",
+    "sha256": "5a1baca29a8ed9082e86b1ecf3a454723613421a5bbc31bfbdbf8ccdb93a5a0d",
+    "origin": "Original deterministic SVG; editable source retained",
+    "performance_claim": "None; conceptual or illustrative only",
+    "prior_recorded_sha256": "33eb75587374d8c8b2ad97ccd1b0d681d60ba2b13e22bb271c4997ec3f98a5b2",
+    "hash_reconciled": "2026-11-15; current retained asset, not a regeneration claim",
+    "generator": "source/diagrams/generate.py"
+  },
+  {
+    "file": "build/generated-diagrams/concept-reflector.svg",
+    "sha256": "38b54f9938df0ddc43becb1caffd977de6d7b769529c0041755443632f5ced96",
+    "origin": "Original deterministic SVG; editable source retained",
+    "performance_claim": "None; conceptual or illustrative only",
+    "prior_recorded_sha256": "b58ebd377736530f82fa034aa0a54b1a61cff076a9d96a5b75bf6ea38ccba0cb",
+    "hash_reconciled": "2026-11-15; current retained asset, not a regeneration claim",
+    "generator": "source/diagrams/generate.py"
+  },
+  {
+    "file": "build/generated-diagrams/concept-shroud.svg",
+    "sha256": "18e98587c945e347e260f374d49bd21cdfe1f2030d87bd01c65a8cafba679671",
+    "origin": "Original deterministic SVG; editable source retained",
+    "performance_claim": "None; conceptual or illustrative only",
+    "prior_recorded_sha256": "f603fcbb6175b6ce08698faba52b3c2569fc1f31386d705d21dc91257b62ff8d",
+    "hash_reconciled": "2026-11-15; current retained asset, not a regeneration claim",
+    "generator": "source/diagrams/generate.py"
+  },
+  {
+    "file": "build/generated-diagrams/energy-account.svg",
+    "sha256": "849e4792c897b53ccd2218a2c48c495a9677063485204bd06c7a77a96430bca1",
+    "origin": "Original deterministic SVG; editable source retained",
+    "performance_claim": "None; conceptual or illustrative only",
+    "prior_recorded_sha256": "8b5989150ba5564bd346fa39bb4ca26a571bec8a2ae44895e495fe3d04e3f573",
+    "hash_reconciled": "2026-11-15; current retained asset, not a regeneration claim",
+    "generator": "source/diagrams/generate.py"
+  },
+  {
+    "file": "build/generated-diagrams/energy-flow.svg",
+    "sha256": "ee887dffc875aa65feb90bb00c3280b2cdb1d9c623391ed91388865ba9d09669",
+    "origin": "Original deterministic SVG; editable source retained",
+    "performance_claim": "None; conceptual or illustrative only",
+    "prior_recorded_sha256": "d23500b7deb7e50415d8160a60e567433083bf09d90d255d0ad775be2b8381f7",
+    "hash_reconciled": "2026-11-15; current retained asset, not a regeneration claim",
+    "generator": "source/diagrams/generate.py"
+  },
+  {
+    "file": "build/generated-diagrams/engine.svg",
+    "sha256": "55b30659f447b5340193b45d98b5c2e89f9447e1de7070860327babe2eba9822",
+    "origin": "Original deterministic SVG; editable source retained",
+    "performance_claim": "None; conceptual or illustrative only",
+    "prior_recorded_sha256": "12fad26eb755bc9ad273db90e8faadb9d485c170324bdb555614c44426e37062",
+    "hash_reconciled": "2026-11-15; current retained asset, not a regeneration claim",
+    "generator": "source/diagrams/generate.py"
+  },
+  {
+    "file": "build/generated-diagrams/gas-processes.svg",
+    "sha256": "5d8845fc90b3ed21e3bf8a5b35a95781569a0a290ceca4447c63eb008c33186a",
+    "origin": "Original deterministic SVG; editable source retained",
+    "performance_claim": "None; conceptual or illustrative only",
+    "prior_recorded_sha256": "d2a6789c43fde73726999a8716d5a6d56803c47eb882c6395880455a46bf1339",
+    "hash_reconciled": "2026-11-15; current retained asset, not a regeneration claim",
+    "generator": "source/diagrams/generate.py"
+  },
+  {
+    "file": "assets/diagrams/geometry-default.svg",
+    "sha256": "07a4b6b3118926fa9ea9e6c456e752756a0139075015e145318ba9e0340efcef",
+    "origin": "Original deterministic SVG; editable source retained",
+    "performance_claim": "None; conceptual or illustrative only"
+  },
+  {
+    "file": "assets/diagrams/geometry-removal.svg",
+    "sha256": "910c119a4582a053177b9046b931f588ac86fe861b381cf529233a3a2b8bd12f",
+    "origin": "Original deterministic SVG; editable source retained",
+    "performance_claim": "None; conceptual or illustrative only"
+  },
+  {
+    "file": "assets/diagrams/heat-flow-default.svg",
+    "sha256": "b480440f9ff202d540e1ae31d9ec5a8ffca7f1ffea4c3d1358aca6218a42309e",
+    "origin": "Original deterministic SVG; editable source retained",
+    "performance_claim": "None; conceptual or illustrative only"
+  },
+  {
+    "file": "build/generated-diagrams/heating-curve.svg",
+    "sha256": "7175d548204175959f364f3000a2ad3e339b644396558166f9024956108c0e6b",
+    "origin": "Original deterministic SVG; editable source retained",
+    "performance_claim": "None; conceptual or illustrative only",
+    "prior_recorded_sha256": "efca9430dcd68b4b9b1ca9185b0996c33a17a64dd7b64f4520721a7e0dc2b176",
+    "hash_reconciled": "2026-11-15; current retained asset, not a regeneration claim",
+    "generator": "source/diagrams/generate.py"
+  },
+  {
+    "file": "build/generated-diagrams/phase-diagram.svg",
+    "sha256": "84545abbd8f8e00607ed265b5637b88c8fb8052658268c69b9e65c04457d21a2",
+    "origin": "Original deterministic SVG; editable source retained",
+    "performance_claim": "None; conceptual or illustrative only",
+    "generator": "source/diagrams/generate.py"
+  },
+  {
+    "file": "assets/diagrams/reflector-pattern.svg",
+    "sha256": "991a0269a1a23c14ac8a665af084a027efe240cdba75be57a50ecef5f631bbc6",
+    "origin": "Original deterministic SVG; editable source retained",
+    "performance_claim": "None; conceptual or illustrative only"
+  },
+  {
+    "file": "build/generated-diagrams/reflector-rays.svg",
+    "sha256": "d1ebc9cd86e5be7c25986cc19664f6aae58d5a1bcb2009f0dc8a7d76e682fc31",
+    "origin": "Original deterministic SVG; editable source retained",
+    "performance_claim": "None; conceptual or illustrative only",
+    "prior_recorded_sha256": "e97a7f7e9db3cd3b0d2d48a9aae654af5968a630fa87f1f080b21118aebf9327",
+    "hash_reconciled": "2026-11-15; current retained asset, not a regeneration claim",
+    "generator": "source/diagrams/generate.py"
+  },
+  {
+    "file": "build/generated-diagrams/systems.svg",
+    "sha256": "4ef812db90b40a8804e38ad48320af96a2fd5fb2cd171d8b5e8cf229b3501818",
+    "origin": "Original deterministic SVG; editable source retained",
+    "performance_claim": "None; conceptual or illustrative only",
+    "prior_recorded_sha256": "c9708c170bd8bb5c6110ef8acfb86ed9c39580bcac0776bfc505ba537d9a74d7",
+    "hash_reconciled": "2026-11-15; current retained asset, not a regeneration claim",
+    "generator": "source/diagrams/generate.py"
+  },
+  {
+    "file": "build/generated-diagrams/temperature-scales.svg",
+    "sha256": "8c595a877bdd5c61977eee9bdc4579e048737217f05c57de996d43252d58a3f9",
+    "origin": "Original deterministic SVG; editable source retained",
+    "performance_claim": "None; conceptual or illustrative only",
+    "generator": "source/diagrams/generate.py"
+  },
+  {
+    "file": "assets/diagrams/heat-transfer-mechanisms.svg",
+    "sha256": "ad46ecdfd66c776309c669fef68a6fef958c49c95c7422e3ad3cec3e241a9e63",
+    "origin": "Original hand-authored SVG created for this project; editable SVG source retained",
+    "performance_claim": "None; arrows identify transfer mechanisms, not measured energy shares"
+  }
+]

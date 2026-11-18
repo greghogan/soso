@@ -1,0 +1,43 @@
+{
+  "generated_illustrations": [
+    {
+      "path": "assets/illustrations/watershed-to-reef-cover.jxl",
+      "sha256": "fffe96552ea9197b459e8b37e9933d4794750ac2a1ddd019d257629cf09d39c5",
+      "created": "2026-11-18",
+      "generator": "OpenAI image generation",
+      "reference_inputs": [],
+      "prompt_summary": "Portrait natural-history coastal cutaway from watershed and mangrove estuary to coral reef, navy title space, no text.",
+      "modifications": "Lossless storage conversion from PNG through WebP to JPEG XL; decoded pixels unchanged.",
+      "use": "Conceptual environmental illustration, not an organism-identification source.",
+      "visual_review": "2026-11-18: inspected composition and instructional relevance.",
+      "generation_notes": "Text-only prompt; no source or reference images supplied. Original generated PNG retained outside repository; canonical repository asset is lossless JPEG XL (converted from the prior lossless WebP).",
+      "previous_file_sha256": "ef18a5453f7f5f019540f0c7762d1f71dcf25b9ac0561ee41ac9333883a47487"
+    },
+    {
+      "path": "assets/illustrations/coral-health-comparison.jxl",
+      "sha256": "9c17dfc01acd2d49b00238b23c270afacb76cd7e9ea622c9c4e986b3a1c97654",
+      "created": "2026-11-18",
+      "generator": "OpenAI image generation",
+      "reference_inputs": [],
+      "prompt_summary": "Three-panel conceptual comparison of healthy golden coral, living bleached white coral, and dead coral with algal colonization; same colony form, no labels.",
+      "modifications": "Lossless storage conversion from PNG through WebP to JPEG XL; decoded pixels unchanged.",
+      "use": "Conceptual environmental illustration, not an organism-identification source.",
+      "visual_review": "2026-11-18: inspected composition and instructional relevance.",
+      "generation_notes": "Text-only prompt; no source or reference images supplied. Original generated PNG retained outside repository; canonical repository asset is lossless JPEG XL (converted from the prior lossless WebP).",
+      "previous_file_sha256": "13088b04a0f403ad19af07f4e3e7da8f8d1a8bab4878e9cf9f445bd01dc551c6"
+    },
+    {
+      "path": "assets/illustrations/watershed-pathways.jxl",
+      "sha256": "66b19ffcbac5c4a15a6b3bbce003f9f760358bdb9a9345f5ee739973ecd8c7c5",
+      "created": "2026-11-18",
+      "generator": "OpenAI image generation",
+      "reference_inputs": [],
+      "prompt_summary": "Realistic oblique watershed view: forest, farms, town, river, wetland, outfall, and estuarine sediment plume; coherent downhill drainage; no labels.",
+      "modifications": "Lossless storage conversion from PNG through WebP to JPEG XL; decoded pixels unchanged.",
+      "use": "Conceptual environmental illustration, not an organism-identification source.",
+      "visual_review": "2026-11-18: inspected composition and instructional relevance.",
+      "generation_notes": "Text-only prompt; no source or reference images supplied. Original generated PNG retained outside repository; canonical repository asset is lossless JPEG XL (converted from the prior lossless WebP).",
+      "previous_file_sha256": "d6f6e0009f2fd50f99e8367f6362290062aa575b468c25c838d6f9fc2d556396"
+    }
+  ]
+}

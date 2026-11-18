@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-18",
+  "tool": "OpenAI image generation",
+  "reference_images": [],
+  "asset": "events/thermodynamics-b/2027/assets/illustrations/calorimetry-cover.jxl",
+  "purpose": "Thermodynamics study cover: heat retention, material layers and measurement. Distinct from the competition build apparatus.",
+  "prompt_summary": "Realistic editorial 3D illustration: cork/foil insulated water beaker cutaway, stainless probe, plain comparison beaker and copper cylinder, dark teal negative space for white cover typography. No arrows or labels.",
+  "limitations": "Conceptual laboratory scene, not experimental data, a rated safe construction plan, or the permitted competition device. Probe shown schematically without a display.",
+  "review": "Source image visually inspected. Glass/water/cork/foil distinguishable. Exact thermal circuits remain vector diagrams in lessons."
+}

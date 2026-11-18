@@ -1,0 +1,106 @@
+% Shared print typography. Content and artwork live in their original sources.
+\usepackage[letterpaper,left=0.65in,right=0.65in,top=0.70in,bottom=0.65in,headheight=22pt,headsep=13pt]{geometry}
+\usepackage{fontspec,unicode-math}
+% A reading face for prose; a contrasting sans face for navigation and diagrams.
+\setmainfont{Noto Serif}[Scale=0.96,Ligatures=TeX]
+\setsansfont{DejaVu Sans}[Scale=0.92,Ligatures=TeX]
+\setmathfont{DejaVu Math TeX Gyre}
+\usepackage{graphicx,xcolor,tikz,contour,ragged2e,enumitem,booktabs,longtable,array,tabularx,multicol,needspace,titlesec,fancyhdr,hyperref}
+\contourlength{0.45pt}
+\definecolor{Ink}{HTML}{17313C}
+\definecolor{Teal}{HTML}{087D89}
+\definecolor{Gold}{HTML}{A96D16}
+\definecolor{Pale}{HTML}{EDF5F5}
+\definecolor{Navy}{HTML}{071522}
+\definecolor{Muted}{HTML}{536773}
+\color{Ink}
+\hypersetup{colorlinks=true,linkcolor=Teal,urlcolor=Teal,pdfauthor={Science Olympiad study guides},bookmarksopen=true}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{5pt plus1pt minus1pt}
+\linespread{1.04}
+\setlength{\emergencystretch}{2em}
+\raggedbottom
+% Ragged-right prose and cells avoid rivers and stretched short descriptions.
+\AtBeginDocument{\RaggedRight\lefthyphenmin=3\righthyphenmin=3}
+\hyphenpenalty=700
+\newcolumntype{Y}{>{\RaggedRight\arraybackslash}X}
+% Small labeled, monochrome-safe semantic cues. Never encode meaning by color alone.
+% BEGIN GENERATED LEARNING ICONS: shared/learning-icons/generate.py
+\newcommand{\cuecanvas}[1]{\tikz[baseline=-1.15em,x=.06em,y=-.06em]{\path[use as bounding box] (0,0) rectangle (24,24);\begin{scope}[line width=.65pt,line cap=round,line join=round]#1\end{scope}}}
+\expandafter\def\csname cue@think\endcsname{\cuecanvas{\draw (8,16) .. controls (8,13) and (5,12) .. (5,8) .. controls (5,4) and (8,2) .. (12,2) .. controls (16,2) and (19,4) .. (19,8) .. controls (19,12) and (16,13) .. (16,16) -- cycle;\draw (9,19) -- (15,19) (10,22) -- (14,22) (10,12) -- (12,14) -- (14,12) (12,14) -- (12,16);}}
+\expandafter\def\csname cue@worked\endcsname{\cuecanvas{\draw (3,3) -- (10,3) -- (10,8) -- (3,8) -- cycle (14,10) -- (21,10) -- (21,15) -- (14,15) -- cycle (3,17) -- (10,17) -- (10,22) -- (3,22) -- cycle;\draw (10,5) -- (17,5) -- (17,10) (16,15) -- (16,19) -- (10,19);}}
+\expandafter\def\csname cue@try\endcsname{\cuecanvas{\draw (4,15) -- (15,4) -- (20,9) -- (9,20) -- (3,21) -- cycle (13,6) -- (18,11) (4,15) -- (9,20);\draw (15,4) -- (17,2) .. controls (18,1) and (19,1) .. (20,2) -- (22,4) .. controls (23,5) and (23,6) .. (22,7) -- (20,9);}}
+\expandafter\def\csname cue@review\endcsname{\cuecanvas{\draw (12,12) .. controls (8,10) and (5,10) .. (2,11) -- (2,21) .. controls (5,20) and (8,20) .. (12,22) .. controls (16,20) and (19,20) .. (22,21) -- (22,11) .. controls (19,10) and (16,10) .. (12,12) -- (12,22);\draw (5,7) .. controls (6,3) and (10,1) .. (14,2) .. controls (17,2) and (19,4) .. (20,7) (16,6) -- (20,7) -- (21,3);}}
+\expandafter\def\csname cue@?\endcsname{\csname cue@think\endcsname}
+\expandafter\def\csname cue@=\endcsname{\csname cue@worked\endcsname}
+\expandafter\def\csname cue@>\endcsname{\csname cue@try\endcsname}
+\expandafter\def\csname cue@R\endcsname{\csname cue@review\endcsname}
+\newcommand{\cueicon}[1]{\csname cue@#1\endcsname}
+% END GENERATED LEARNING ICONS
+\newcommand{\learningcue}[2]{{\sffamily\small\bfseries\color{Teal}\cueicon{#1}\hspace{.45em}#2}}
+\newcommand{\readerguide}{
+\subsection*{How to learn with this guide}
+Read a short section and connect its explanation to the diagram. Close or cover the text, explain the idea in your own words, then try the question before opening its explanation.
+\par\smallskip
+\learningcue{think}{Think it through}\quad Explain a cause, make a prediction, or weigh evidence.
+\par
+\learningcue{worked}{Worked example}\quad Follow the reasoning, then try to reproduce it without looking.
+\par
+\learningcue{try}{Try it}\quad Apply an idea or method independently.
+\par
+\learningcue{review}{Review}\quad Recall and connect ideas from earlier sections.
+\par\smallskip
+Compare your reasoning with the answer, not just your final words or number. Revisit difficult questions on a later day and mix topics instead of only rereading one chapter. Not every lesson needs every kind of cue.
+\par
+}
+\widowpenalty=10000\clubpenalty=10000
+\displaywidowpenalty=10000
+\setlist[itemize]{leftmargin=1.3em,itemsep=2pt,topsep=3pt}
+\setlist[enumerate]{leftmargin=1.5em,itemsep=3pt,topsep=3pt}
+\titleformat{\section}{\sffamily\fontsize{20}{24}\selectfont\bfseries\color{Ink}}{}{0pt}{}[\vspace{3pt}{\color{Teal!55}\titlerule[.6pt]}]
+\titleformat{\subsection}{\sffamily\fontsize{14}{17}\selectfont\bfseries\color{Ink}}{}{0pt}{}
+\titleformat{\subsubsection}{\sffamily\normalsize\bfseries\color{Ink}}{}{0pt}{}
+\titlespacing*{\section}{0pt}{19pt plus2pt minus2pt}{10pt}
+\titlespacing*{\subsection}{0pt}{16pt plus2pt minus2pt}{6pt}
+\titlespacing*{\subsubsection}{0pt}{10pt}{4pt}
+\pagestyle{fancy}\fancyhf{}
+\newcommand{\GuideChapterMark}{}
+\renewcommand{\sectionmark}[1]{\gdef\GuideChapterMark{#1}\markboth{#1}{}}
+\fancyhead[L]{\sffamily\fontsize{8}{10}\selectfont\color{Muted}\addfontfeature{LetterSpace=5}SCIENCE OLYMPIAD}
+\fancyhead[R]{\sffamily\fontsize{7.2}{9}\selectfont\color{Muted}\parbox[b]{.66\textwidth}{\raggedleft\nouppercase{\leftmark}}}
+\fancyfoot[L]{\sffamily\fontsize{8}{10}\selectfont\color{Muted}Solar System B · 2027\\{\fontsize{6.3}{8}\selectfont\sosocredit}}
+\fancyfoot[R]{\sffamily\fontsize{8}{10}\selectfont\color{Muted}\thepage}
+\renewcommand{\headrulewidth}{0pt}\renewcommand{\footrulewidth}{0pt}
+\newcommand{\lesson}[3]{\Needspace{105pt}\subsection{#2}\hypertarget{lesson:#1}{}\label{lesson:#1}{\sffamily\small\color{Teal}#3}\par\nobreak\smallskip}
+\newcommand{\subhead}[1]{\par\Needspace{48pt}{\sffamily\fontsize{10.5}{13}\selectfont\bfseries #1}\par\nobreak}
+\newcommand{\captiontext}[1]{\par\nobreak\vspace{3pt}{\sffamily\fontsize{9}{11.5}\selectfont\color{Muted}\RaggedRight #1\par}\smallskip}
+\newcommand{\checkquestion}[1]{\par\Needspace{50pt}\smallskip\learningcue{think}{Think it through}\quad #1\par\nobreak\smallskip}
+\newcommand{\chapterlabel}[1]{\Needspace{180pt}\section{#1}}
+\setcounter{secnumdepth}{0}
+
+\newcommand{\workedhead}[1]{\par\Needspace{55pt}\learningcue{worked}{#1}\par\nobreak}
+
+% Measure unbreakable diagram/text rows rather than guessing their height.
+% Argument 1 reserves heading space; argument 2 is the heading; argument 3 the row.
+\newsavebox{\GuideRowBox}
+\newcommand{\measuredrow}[3]{\par\sbox{\GuideRowBox}{\begin{minipage}{\linewidth}#3\end{minipage}}\Needspace{\dimexpr\ht\GuideRowBox+\dp\GuideRowBox+#1pt\relax}\markboth{\GuideChapterMark}{}#2\noindent\usebox{\GuideRowBox}\par\medskip}
+
+% Shared uncluttered cover hierarchy; image-led Solar uses the same type scale.
+\newcommand{\manualcover}[6]{\thispagestyle{empty}\vspace*{17pt}
+{\sffamily\fontsize{29}{34}\selectfont\bfseries #1}\par\vspace{7pt}
+{\sffamily\fontsize{14}{18}\selectfont #2 · 2027}\par\vspace{9pt}
+{\sffamily\color{Teal}\large #3}\par\vfill
+\begin{center}\includegraphics[width=.85\linewidth,height=330pt,keepaspectratio]{#4}\end{center}
+\vfill{\sffamily\large\bfseries #5}\par\smallskip #6\par\vspace*{25pt}\clearpage}
+
+% Full-bleed art option. White type is placed directly on dark artwork, not boxes.
+\newcommand{\imageledcover}[6]{\thispagestyle{empty}
+\begin{tikzpicture}[remember picture,overlay]
+\fill[Navy] (current page.south west) rectangle (current page.north east);
+\begin{scope}
+\clip (current page.south west) rectangle (current page.north east);
+\node[inner sep=0pt] at (current page.center){\includegraphics[width=\paperwidth]{#4}};
+\end{scope}
+\node[anchor=north west,text width=7.15in,align=left,text=white,inner sep=0pt] at ([xshift=.65in,yshift=-.65in]current page.north west){\sffamily\fontsize{32}{37}\selectfont\bfseries #1\\[7pt]{\fontsize{15}{19}\selectfont #2 · 2027}};
+\node[anchor=south west,text width=7.15in,align=left,text=white,inner sep=0pt] at ([xshift=.65in,yshift=.55in]current page.south west){\sffamily\fontsize{17}{21}\selectfont\bfseries #5\\[6pt]{\fontsize{11}{15}\selectfont\mdseries #6}};
+\end{tikzpicture}\null\clearpage}

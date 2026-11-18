@@ -1,0 +1,556 @@
+Third-party notices
+
+Publication image processing: published photographic copies may be downsampled for screen or 300-ppi print placement and encoded with high-quality lossy WebP or JPEG. Text and technical diagrams retain lossless/vector encoding. These delivery transformations can discard fine pixel detail; canonical source assets retain their original resolution and decoded pixels, with existing JPEG originals reversibly archived in JPEG XL. Individual creator, source, and license credits below and alongside each image remain applicable.
+
+Retained DejaVu font files and corresponding embedded portions use the following upstream terms, not the project CC BY license. Extracted from the actual supplied fonts; existing font LICENSE.txt is also retained. Other asset/source credits remain applicable.
+
+Fonts are (c) Bitstream (see below). DejaVu changes are in public domain. Glyphs imported from Arev fonts are (c) Tavmjung Bah (see below)
+
+Bitstream Vera Fonts Copyright
+------------------------------
+
+Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is
+a trademark of Bitstream, Inc.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of the fonts accompanying this license ("Fonts") and associated
+documentation files (the "Font Software"), to reproduce and distribute the
+Font Software, including without limitation the rights to use, copy, merge,
+publish, distribute, and/or sell copies of the Font Software, and to permit
+persons to whom the Font Software is furnished to do so, subject to the
+following conditions:
+
+The above copyright and trademark notices and this permission notice shall
+be included in all copies of one or more of the Font Software typefaces.
+
+The Font Software may be modified, altered, or added to, and in particular
+the designs of glyphs or characters in the Fonts may be modified and
+additional glyphs or characters may be added to the Fonts, only if the fonts
+are renamed to names not containing either the words "Bitstream" or the word
+"Vera".
+
+This License becomes null and void to the extent applicable to Fonts or Font
+Software that has been modified and is distributed under the "Bitstream
+Vera" names.
+
+The Font Software may be sold as part of a larger software package but no
+copy of one or more of the Font Software typefaces may be sold by itself.
+
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,
+TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME
+FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING
+ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF
+THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE
+FONT SOFTWARE.
+
+Except as contained in this notice, the names of Gnome, the Gnome
+Foundation, and Bitstream Inc., shall not be used in advertising or
+otherwise to promote the sale, use or other dealings in this Font Software
+without prior written authorization from the Gnome Foundation or Bitstream
+Inc., respectively. For further information, contact: fonts at gnome dot
+org.
+
+Arev Fonts Copyright
+------------------------------
+
+Copyright (c) 2006 by Tavmjong Bah. All Rights Reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the fonts accompanying this license ("Fonts") and
+associated documentation files (the "Font Software"), to reproduce
+and distribute the modifications to the Bitstream Vera Font Software,
+including without limitation the rights to use, copy, merge, publish,
+distribute, and/or sell copies of the Font Software, and to permit
+persons to whom the Font Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright and trademark notices and this permission notice
+shall be included in all copies of one or more of the Font Software
+typefaces.
+
+The Font Software may be modified, altered, or added to, and in
+particular the designs of glyphs or characters in the Fonts may be
+modified and additional glyphs or characters may be added to the
+Fonts, only if the fonts are renamed to names not containing either
+the words "Tavmjong Bah" or the word "Arev".
+
+This License becomes null and void to the extent applicable to Fonts
+or Font Software that has been modified and is distributed under the
+"Tavmjong Bah Arev" names.
+
+The Font Software may be sold as part of a larger software package but
+no copy of one or more of the Font Software typefaces may be sold by
+itself.
+
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL
+TAVMJONG BAH BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+
+Except as contained in this notice, the name of Tavmjong Bah shall not
+be used in advertising or otherwise to promote the sale, use or other
+dealings in this Font Software without prior written authorization
+from Tavmjong Bah. For further information, contact: tavmjong @ free
+. fr.
+
+Image credits (generated from manifests/rights-inventory.json)
+These works retain their individual licenses, not the project prose license.
+CC BY-SA terms continue to apply to adaptations of the respective photographs.
+
+File: events/water-quality-b/2027/assets/organisms/banded-coral-shrimp.jxl
+Title: File:Stenopus hispidus (46585256025).jpg
+Creator: LASZLO ILYES from Cleveland, Ohio, USA
+License: CC BY 2.0
+License URL: https://creativecommons.org/licenses/by/2.0
+Source: https://commons.wikimedia.org/wiki/File:Stenopus_hispidus_(46585256025).jpg
+Original source: Barber Pole
+Changes: Wikimedia-generated 960px thumbnail; no crop or other changes.
+
+File: events/water-quality-b/2027/assets/organisms/bumphead-parrotfish.jxl
+Title: File:Bumphead parrotfish (Bolbometopon muricatum) (49509140173).jpg
+Creator: Rickard Zerpe
+License: CC BY 2.0
+License URL: https://creativecommons.org/licenses/by/2.0
+Source: https://commons.wikimedia.org/wiki/File:Bumphead_parrotfish_(Bolbometopon_muricatum)_(49509140173).jpg
+Original source: Bumphead parrotfish (Bolbometopon muricatum)
+Changes: Wikimedia-generated 960px thumbnail; no crop or other changes.
+
+File: events/water-quality-b/2027/assets/organisms/butterflyfish.jxl
+Title: File:Chaetodon melannotus edit4.jpg
+Creator: Leonard Low from Australia
+License: CC BY 2.0
+License URL: https://creativecommons.org/licenses/by/2.0
+Source: https://commons.wikimedia.org/wiki/File:Chaetodon_melannotus_edit4.jpg
+Original source: [cropped version of File:Chaetodon_melannotus.jpg, original at https://www.flickr.com/photos/leonardlow/340746347/ Flickr]
+Changes: Wikimedia-generated 960px thumbnail; no crop or other changes.
+
+File: events/water-quality-b/2027/assets/organisms/crown-of-thorns.jxl
+Title: Recognize an animal on the reef
+Creator: AIMS - LTMP
+License: CC BY 4.0
+License URL: https://creativecommons.org/licenses/by/4.0
+Source: https://commons.wikimedia.org/wiki/File:Acanthaster_planci_GBR.JPG
+Original source: http://eatlas.org.au/media/566
+Changes: Wikimedia-generated 960px thumbnail; no crop or other changes.
+
+File: events/water-quality-b/2027/assets/organisms/demosponge.jxl
+Title: File:Aplysina archeri (Stove-pipe Sponge-pink variation).jpg
+Creator: Nhobgood (talk) Nick Hobgood
+License: CC BY-SA 3.0
+License URL: https://creativecommons.org/licenses/by-sa/3.0
+Source: https://commons.wikimedia.org/wiki/File:Aplysina_archeri_(Stove-pipe_Sponge-pink_variation).jpg
+Original source: Own work
+Changes: Wikimedia-generated 960px thumbnail; no crop or other changes.
+
+File: events/water-quality-b/2027/assets/organisms/flamingo-tongue.jxl
+Title: File:Cyphoma gibbosum (living).jpg
+Creator: LASZLO ILYES (laszlo-photo) from Cleveland, Ohio, USA
+License: CC BY 2.0
+License URL: https://creativecommons.org/licenses/by/2.0
+Source: https://commons.wikimedia.org/wiki/File:Cyphoma_gibbosum_(living).jpg
+Original source: Flickr
+Changes: Wikimedia-generated 960px thumbnail; no crop or other changes.
+
+File: events/water-quality-b/2027/assets/organisms/fleshy-algae.jxl
+Title: File:Algas (Dictyota dichotoma), isla de Mouro, Santander, España, 2019-08-14, DD 26.jpg
+Creator: Diego Delso
+License: CC BY-SA 4.0
+License URL: https://creativecommons.org/licenses/by-sa/4.0
+Source: https://commons.wikimedia.org/wiki/File:Algas_(Dictyota_dichotoma),_isla_de_Mouro,_Santander,_Espa%C3%B1a,_2019-08-14,_DD_26.jpg
+Original source: Own work
+Changes: Wikimedia-generated 960px thumbnail; no crop or other changes.
+
+File: events/water-quality-b/2027/assets/organisms/giant-clam.jxl
+Title: Diving Maldives, 2009 Tridacna
+Creator: Christian Jensen (Christian Steen on Flickr)
+License: CC BY 2.0
+License URL: https://creativecommons.org/licenses/by/2.0/
+Source: https://commons.wikimedia.org/wiki/File:Diving_Maldives,_2009_Tridacna.jpg
+Original source: https://www.flickr.com/photos/cs-jay/4072994605/
+Changes: None; original Flickr image.
+
+File: events/water-quality-b/2027/assets/organisms/humpback-grouper.jxl
+Title: File:Cromileptes altivelis.jpg
+Creator: Steve Childs
+License: CC BY 2.0
+License URL: https://creativecommons.org/licenses/by/2.0
+Source: https://commons.wikimedia.org/wiki/File:Cromileptes_altivelis.jpg
+Original source: originally posted to Flickr as Barramundi Cod - Cromileptes altivelis
+Changes: Wikimedia-generated 960px thumbnail; no crop or other changes.
+
+File: events/water-quality-b/2027/assets/organisms/humphead-wrasse.jxl
+Title: File:Napoleon wrasse (Cheilinus undulatus) (46196859645).jpg
+Creator: Rickard Zerpe
+License: CC BY 2.0
+License URL: https://creativecommons.org/licenses/by/2.0
+Source: https://commons.wikimedia.org/wiki/File:Napoleon_wrasse_(Cheilinus_undulatus)_(46196859645).jpg
+Original source: Napoleon wrasse (Cheilinus undulatus)
+Changes: Wikimedia-generated 960px thumbnail; no crop or other changes.
+
+File: events/water-quality-b/2027/assets/organisms/large-grouper.jxl
+Title: Recognize a fish beside cover
+Creator: Diego Delso
+License: CC BY-SA 4.0
+License URL: https://creativecommons.org/licenses/by-sa/4.0
+Source: https://commons.wikimedia.org/wiki/File:Mero_(Epinephelus_marginatus),_Cabo_de_Palos,_Espa%C3%B1a,_2022-07-14,_DD_65.jpg
+Original source: Own work
+Changes: Wikimedia-generated 960px thumbnail; no crop or other changes.
+
+File: events/water-quality-b/2027/assets/organisms/long-spined-urchin.jxl
+Title: Recognize a group of urchins
+Creator: Q. Phia
+License: CC BY 2.0
+License URL: https://creativecommons.org/licenses/by/2.0
+Source: https://commons.wikimedia.org/wiki/File:Diadem_urchins.jpg
+Original source: https://www.flickr.com/photos/q-phia/13570579603
+Changes: Wikimedia-generated 960px thumbnail; no crop or other changes.
+
+File: events/water-quality-b/2027/assets/organisms/moray.jxl
+Title: Coiled moray and continuous fin
+Creator: Diego Delso, delso.photo
+License: CC BY-SA 4.0
+License URL: https://creativecommons.org/licenses/by-sa/4.0/
+Source: https://commons.wikimedia.org/wiki/File:Morena_pimienta_(Gymnothorax_griseus),_parque_nacional_Ras_Muhammad,_Egipto,_2022-03-27,_DD_185.jpg
+Original source: https://commons.wikimedia.org/wiki/File:Morena_pimienta_(Gymnothorax_griseus),_parque_nacional_Ras_Muhammad,_Egipto,_2022-03-27,_DD_185.jpg
+Changes: Full original JPEG reversibly archived as JPEG XL; no project crop or retouching. Published derivatives resized and re-encoded under the stated image license.
+
+File: events/water-quality-b/2027/assets/organisms/nassau-grouper.jxl
+Title: File:Nassau grouper in Blijdorp Zoo.jpg
+Creator: Rick Smit
+License: CC BY 2.0
+License URL: https://creativecommons.org/licenses/by/2.0
+Source: https://commons.wikimedia.org/wiki/File:Nassau_grouper_in_Blijdorp_Zoo.jpg
+Original source: Flickr: Fish
+Changes: Wikimedia-generated 960px thumbnail; no crop or other changes.
+
+File: events/water-quality-b/2027/assets/organisms/parrotfish.jxl
+Title: File:Loro barbazul (Scarus ghobban), La Paz, Baja California, México, 2024-12-20, DD 55.jpg
+Creator: Diego Delso
+License: CC BY-SA 4.0
+License URL: https://creativecommons.org/licenses/by-sa/4.0
+Source: https://commons.wikimedia.org/wiki/File:Loro_barbazul_(Scarus_ghobban),_La_Paz,_Baja_California,_M%C3%A9xico,_2024-12-20,_DD_55.jpg
+Original source: Own work
+Changes: Wikimedia-generated 960px thumbnail; no crop or other changes.
+
+File: events/water-quality-b/2027/assets/organisms/pencil-urchin.jxl
+Title: File:Eucidaris tribuloides 256321233.jpg
+Creator: Dan Schofield
+License: CC BY 4.0
+License URL: https://creativecommons.org/licenses/by/4.0
+Source: https://commons.wikimedia.org/wiki/File:Eucidaris_tribuloides_256321233.jpg
+Original source: https://www.inaturalist.org/photos/256321233
+Changes: Wikimedia-generated 960px thumbnail; no crop or other changes.
+
+File: events/water-quality-b/2027/assets/organisms/sea-cucumber.jxl
+Title: File:Pepino de mar (Holothuria fuscogilva), parque nacional Ras Muhammad, Egipto, 2022-03-28, DD 119.jpg
+Creator: Diego Delso
+License: CC BY-SA 4.0
+License URL: https://creativecommons.org/licenses/by-sa/4.0
+Source: https://commons.wikimedia.org/wiki/File:Pepino_de_mar_(Holothuria_fuscogilva),_parque_nacional_Ras_Muhammad,_Egipto,_2022-03-28,_DD_119.jpg
+Original source: Own work
+Changes: Wikimedia-generated 960px thumbnail; no crop or other changes.
+
+File: events/water-quality-b/2027/assets/organisms/sea-fan.jxl
+Title: File:Gorgonia ventalina, Bahamas.jpg
+Creator: James St. John
+License: CC BY 2.0
+License URL: https://creativecommons.org/licenses/by/2.0
+Source: https://commons.wikimedia.org/wiki/File:Gorgonia_ventalina,_Bahamas.jpg
+Original source: https://www.flickr.com/photos/jsjgeology/15905230729/in/photolist-qev1fF-qvYrqB-qtGdij-qvNy7i-pzdvav-qvNGBz-qvSSWL-qvSSvf-pzbeYT-qeooFY-qvLpEn-qeusY2-qtGinN-qtGhqN-qtGhbE-qev1Ur-qeoSj3-qCXjGM-qvrNs8
+Changes: Wikimedia-generated 960px thumbnail; no crop or other changes.
+
+File: events/water-quality-b/2027/assets/organisms/snapper.jxl
+Title: Find evidence in a school
+Creator: Diego Delso
+License: CC BY-SA 4.0
+License URL: https://creativecommons.org/licenses/by-sa/4.0
+Source: https://commons.wikimedia.org/wiki/File:Banco_de_pargos_(Lutjanus_lutjanus),_Nosy_Sakatia,_Madagascar,_2025-09-18,_DD_55.jpg
+Original source: Own work
+Changes: Wikimedia-generated 960px thumbnail; no crop or other changes.
+
+File: events/water-quality-b/2027/assets/organisms/spiny-lobster.jxl
+Title: Spiny lobster body and antenna bases
+Creator: Robert Kerton, CSIRO
+License: CC BY 3.0
+License URL: https://creativecommons.org/licenses/by/3.0/
+Source: https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_2518_Ornate_Lobster.jpg
+Original source: http://www.scienceimage.csiro.au/image/2518
+Changes: Full original JPEG reversibly archived as JPEG XL; no project crop or retouching. Published derivatives resized and re-encoded under the stated image license.
+
+File: events/water-quality-b/2027/assets/organisms/stony-coral.jxl
+Title: File:Coral (Acropora hemprichii), Ras Katy, Sharm el-Sheij, Egipto, 2022-03-26, DD 108.jpg
+Creator: Diego Delso
+License: CC BY-SA 4.0
+License URL: https://creativecommons.org/licenses/by-sa/4.0
+Source: https://commons.wikimedia.org/wiki/File:Coral_(Acropora_hemprichii),_Ras_Katy,_Sharm_el-Sheij,_Egipto,_2022-03-26,_DD_108.jpg
+Original source: Own work
+Changes: Wikimedia-generated 960px thumbnail; no crop or other changes.
+
+File: events/water-quality-b/2027/assets/organisms/sweetlips.jxl
+Title: Adult sweetlips
+Creator: Albert Kok
+License: CC BY-SA 3.0
+License URL: https://creativecommons.org/licenses/by-sa/3.0/
+Source: https://commons.wikimedia.org/wiki/File:Plectorhynchus.jpg
+Original source: https://commons.wikimedia.org/wiki/File:Plectorhynchus.jpg
+Changes: Full-resolution original JPEG reversibly archived as JPEG XL; no crop or retouching.
+
+File: events/water-quality-b/2027/assets/organisms/triton.jxl
+Title: File:Charonia tritonis in Guam.jpg
+Creator: David Burdick, NOAA
+License: Public domain
+License URL: https://commons.wikimedia.org/wiki/File:Charonia_tritonis_in_Guam.jpg#Licensing
+Source: https://commons.wikimedia.org/wiki/File:Charonia_tritonis_in_Guam.jpg
+Original source: EOL page -> BioLib.cz page -> NOAA Photo Library page
+Changes: Wikimedia 2014 color-corrected version by Amada44; Wikimedia-generated 960px thumbnail; no further changes.
+
+File: events/water-quality-b/2027/assets/supplemental/banded-coral-shrimp-variation.jxl
+Title: Find the animal against reef texture
+Creator: Diego Delso
+License: CC BY-SA 4.0
+License URL: https://creativecommons.org/licenses/by-sa/4.0
+Source: https://commons.wikimedia.org/wiki/File:Camar%C3%B3n_boxeador_(Stenopus_hispidus),_Anilao,_Filipinas,_2023-08-22,_DD_222.jpg
+Original source: https://commons.wikimedia.org/wiki/File:Camar%C3%B3n_boxeador_(Stenopus_hispidus),_Anilao,_Filipinas,_2023-08-22,_DD_222.jpg
+Changes: Wikimedia-generated thumbnail; no cropping, retouching or content changes.
+
+File: events/water-quality-b/2027/assets/supplemental/brain-coral-detail.jxl
+Title: Hard corals need not branch
+Creator: Emma Hickerson / NOAA
+License: Public domain (U.S. government work)
+License URL: https://creativecommons.org/publicdomain/mark/1.0/
+Source: https://commons.wikimedia.org/wiki/File:FGBNMS_-_symmetrical_brain_coral_closeup_(27369203594).jpg
+Original source: https://www.flickr.com/photos/44124469278@N01/27369203594
+Changes: Full-resolution original JPEG reversibly archived as JPEG XL; no crop, retouching or content changes.
+
+File: events/water-quality-b/2027/assets/supplemental/bumphead-parrotfish-variation.jxl
+Title: Compare the forehead and mouth together
+Creator: Dirk Froebel
+License: CC BY 4.0
+License URL: https://creativecommons.org/licenses/by/4.0
+Source: https://commons.wikimedia.org/wiki/File:Bolbometopon_muricatum_290186802.jpg
+Original source: https://www.inaturalist.org/photos/290186802
+Changes: Wikimedia-generated thumbnail; no cropping, retouching or content changes.
+
+File: events/water-quality-b/2027/assets/supplemental/butterflyfish-variation.jxl
+Title: A different butterflyfish pattern
+Creator: Diego Delso
+License: CC BY-SA 4.0
+License URL: https://creativecommons.org/licenses/by-sa/4.0
+Source: https://commons.wikimedia.org/wiki/File:Pez_mariposa_auriga_(Chaetodon_auriga),_parque_nacional_Ras_Muhammad,_Egipto,_2022-03-30,_DD_03.jpg
+Original source: https://commons.wikimedia.org/wiki/File:Pez_mariposa_auriga_(Chaetodon_auriga),_parque_nacional_Ras_Muhammad,_Egipto,_2022-03-30,_DD_03.jpg
+Changes: Wikimedia-generated thumbnail; no cropping, retouching or content changes.
+
+File: events/water-quality-b/2027/assets/supplemental/crown-of-thorns-variation.jxl
+Title: Find the many arms beneath the spines
+Creator: The Cosmonaut
+License: CC BY-SA 2.5 ca
+License URL: https://creativecommons.org/licenses/by-sa/2.5/ca/deed.en
+Source: https://commons.wikimedia.org/wiki/File:Acanthaster_planci_-_Sirinat.jpg
+Original source: https://commons.wikimedia.org/wiki/File:Acanthaster_planci_-_Sirinat.jpg
+Changes: Wikimedia-generated thumbnail; no cropping, retouching or content changes.
+
+File: events/water-quality-b/2027/assets/supplemental/demosponge-variation.jxl
+Title: A barrel instead of tubes
+Creator: Pauline Walsh Jacobson
+License: CC BY 4.0
+License URL: https://creativecommons.org/licenses/by/4.0
+Source: https://commons.wikimedia.org/wiki/File:Xestospongia_muta_285605630.jpg
+Original source: https://www.inaturalist.org/photos/285605630
+Changes: Wikimedia-generated thumbnail; no cropping, retouching or content changes.
+
+File: events/water-quality-b/2027/assets/supplemental/flamingo-tongue-shell.jxl
+Title: The pattern is on the mantle
+Creator: James St. John
+License: CC BY 2.0
+License URL: https://creativecommons.org/licenses/by/2.0/
+Source: https://commons.wikimedia.org/wiki/File:Cyphoma_gibbosum_(flamingo_tongue_snail_shell)_(St._Thomas,_Virgin_Islands)_9.jpg
+Original source: https://www.flickr.com/photos/47445767@N05/52167898941/
+Changes: Wikimedia-generated 960px thumbnail; no crop or other changes.
+
+File: events/water-quality-b/2027/assets/supplemental/fleshy-algae-variation.jxl
+Title: Fleshy algae are not all brown blades
+Creator: Nhobgood Nick Hobgood
+License: CC BY-SA 3.0
+License URL: https://creativecommons.org/licenses/by-sa/3.0
+Source: https://commons.wikimedia.org/wiki/File:Caulerpa_racemosa_algae.jpg
+Original source: https://commons.wikimedia.org/wiki/File:Caulerpa_racemosa_algae.jpg
+Changes: Wikimedia-generated thumbnail; no cropping, retouching or content changes.
+
+File: events/water-quality-b/2027/assets/supplemental/giant-clam-variation.jxl
+Title: Look past the mantle colors
+Creator: Nhobgood Nick Hobgood
+License: CC BY-SA 3.0
+License URL: https://creativecommons.org/licenses/by-sa/3.0
+Source: https://commons.wikimedia.org/wiki/File:Tridacna_squamosa_(Giant_clam)_brown_and_blue.jpg
+Original source: https://commons.wikimedia.org/wiki/File:Tridacna_squamosa_(Giant_clam)_brown_and_blue.jpg
+Changes: Wikimedia-generated thumbnail; no cropping, retouching or content changes.
+
+File: events/water-quality-b/2027/assets/supplemental/humpback-grouper-variation.jxl
+Title: Recognize a juvenile outline
+Creator: Rickard Zerpe
+License: CC BY 2.0
+License URL: https://creativecommons.org/licenses/by/2.0
+Source: https://commons.wikimedia.org/wiki/File:Humpback_grouper_juvenile_(Cromileptes_altivelis)_(40701425092).jpg
+Original source: https://www.flickr.com/photos/krokodiver/40701425092/
+Changes: Wikimedia-generated thumbnail; no cropping, retouching or content changes.
+
+File: events/water-quality-b/2027/assets/supplemental/humphead-wrasse-variation.jxl
+Title: A juvenile without the adult hump
+Creator: Philippe Bourjon
+License: CC BY-SA 4.0
+License URL: https://creativecommons.org/licenses/by-sa/4.0
+Source: https://commons.wikimedia.org/wiki/File:Cheilinus_undulatus_juv%C3%A9nile.jpg
+Original source: https://commons.wikimedia.org/wiki/File:Cheilinus_undulatus_juv%C3%A9nile.jpg
+Changes: Wikimedia-generated thumbnail; no cropping, retouching or content changes.
+
+File: events/water-quality-b/2027/assets/supplemental/large-grouper-variation.jxl
+Title: Compare another grouper species
+Creator: The Cosmonaut
+License: CC BY-SA 2.5 ca
+License URL: https://creativecommons.org/licenses/by-sa/2.5/ca/deed.en
+Source: https://commons.wikimedia.org/wiki/File:Epinephelus_lanceolatus.jpeg
+Original source: https://commons.wikimedia.org/wiki/File:Epinephelus_lanceolatus.jpeg
+Changes: Wikimedia-generated thumbnail; no cropping, retouching or content changes.
+
+File: events/water-quality-b/2027/assets/supplemental/long-spined-urchin-variation.jxl
+Title: See the body beneath the spines
+Creator: Beah Vega
+License: CC BY 4.0
+License URL: https://creativecommons.org/licenses/by/4.0/
+Source: https://commons.wikimedia.org/wiki/File:Diadema_setosum_295940049.jpg
+Original source: https://www.inaturalist.org/photos/295940049
+Changes: Wikimedia-generated 960px thumbnail; no crop or other changes.
+
+File: events/water-quality-b/2027/assets/supplemental/moray-variation.jxl
+Title: Recognize the head in a crevice
+Creator: Diego Delso
+License: CC BY-SA 4.0
+License URL: https://creativecommons.org/licenses/by-sa/4.0
+Source: https://commons.wikimedia.org/wiki/File:Morena_boca_blanca_(Gymnothorax_meleagris),_Zanz%C3%ADbar,_Tanzania,_2024-05-29,_DD_92.jpg
+Original source: https://commons.wikimedia.org/wiki/File:Morena_boca_blanca_(Gymnothorax_meleagris),_Zanz%C3%ADbar,_Tanzania,_2024-05-29,_DD_92.jpg
+Changes: Wikimedia-generated thumbnail; no cropping, retouching or content changes.
+
+File: events/water-quality-b/2027/assets/supplemental/nassau-grouper-variation.jxl
+Title: Use several markings together
+Creator: Bernard DUPONT from FRANCE
+License: CC BY-SA 2.0
+License URL: https://creativecommons.org/licenses/by-sa/2.0
+Source: https://commons.wikimedia.org/wiki/File:Nassau_Grouper_(Epinephelus_striatus)_(36644405756).jpg
+Original source: https://www.flickr.com/photos/berniedup/36644405756/
+Changes: Wikimedia-generated thumbnail; no cropping, retouching or content changes.
+
+File: events/water-quality-b/2027/assets/supplemental/parrotfish-variation.jxl
+Title: Do not memorize one color phase
+Creator: Paul Asman and Jill Lenoble
+License: CC BY 2.0
+License URL: https://creativecommons.org/licenses/by/2.0
+Source: https://commons.wikimedia.org/wiki/File:Stoplight_parrotfish_Sparisoma_viride_initial_phase_(3474433111).jpg
+Original source: https://www.flickr.com/photos/pauljill/3474433111/
+Changes: Wikimedia-generated thumbnail; no cropping, retouching or content changes.
+
+File: events/water-quality-b/2027/assets/supplemental/pencil-urchin-variation.jxl
+Title: Compare stout spines from above
+Creator: Nick Hobgood
+License: CC BY-SA 3.0
+License URL: https://creativecommons.org/licenses/by-sa/3.0/
+Source: https://commons.wikimedia.org/wiki/File:Eucidaris_tribuloides_(Slate-pencil_Urchin).jpg
+Original source: https://commons.wikimedia.org/wiki/File:Eucidaris_tribuloides_(Slate-pencil_Urchin).jpg
+Changes: Full-resolution original JPEG reversibly archived as JPEG XL; no crop or retouching.
+
+File: events/water-quality-b/2027/assets/supplemental/red-fleshy-algae.jxl
+Title: Compare red fleshy branches
+Creator: Rickard Zerpe
+License: CC BY 2.0
+License URL: https://creativecommons.org/licenses/by/2.0/
+Source: https://commons.wikimedia.org/wiki/File:Red_algae_(Gracilaria_sp.)_(48737220543).jpg
+Original source: https://www.flickr.com/photos/125265709@N08/48737220543
+Changes: Full-resolution original JPEG reversibly archived as JPEG XL; no crop, retouching or content changes.
+
+File: events/water-quality-b/2027/assets/supplemental/sea-cucumber-variation.jxl
+Title: Body surface can vary greatly
+Creator: Diego Delso
+License: CC BY-SA 4.0
+License URL: https://creativecommons.org/licenses/by-sa/4.0
+Source: https://commons.wikimedia.org/wiki/File:Pepino_de_mar_(Thelenota_ananas),_mar_Rojo,_Egipto,_2023-04-17,_DD_59.jpg
+Original source: https://commons.wikimedia.org/wiki/File:Pepino_de_mar_(Thelenota_ananas),_mar_Rojo,_Egipto,_2023-04-17,_DD_59.jpg
+Changes: Wikimedia-generated thumbnail; no cropping, retouching or content changes.
+
+File: events/water-quality-b/2027/assets/supplemental/sea-fan-mesh.jxl
+Title: Look for a branching mesh
+Creator: Maya Walton / NOAA ONMS
+License: Public domain (U.S. government work)
+License URL: https://creativecommons.org/publicdomain/mark/1.0/
+Source: https://commons.wikimedia.org/wiki/File:Sea_fan_Gorgonia_ventalina.jpg
+Original source: https://sanctuaries.noaa.gov/news/aug14/gallery.html
+Changes: Full-resolution original JPEG reversibly archived as JPEG XL; no crop, retouching or content changes.
+
+File: events/water-quality-b/2027/assets/supplemental/snapper-bluestripe.jxl
+Title: Start with the whole fish
+Creator: Rickard Zerpe
+License: CC BY 2.0
+License URL: https://creativecommons.org/licenses/by/2.0
+Source: https://commons.wikimedia.org/wiki/File:Bluestripe_snapper_(Lutjanus_kasmira).jpg
+Original source: https://www.flickr.com/photos/krokodiver/49109216871/
+Changes: Wikimedia-generated 960px thumbnail; no crop or other changes.
+
+File: events/water-quality-b/2027/assets/supplemental/snapper-night.jxl
+Title: Same species, different appearance
+Creator: Rickard Zerpe
+License: CC BY 2.0
+License URL: https://creativecommons.org/licenses/by/2.0
+Source: https://commons.wikimedia.org/wiki/File:Bluestripe_snapper_night_coloration_(Lutjanus_kasmira)_(43709448502).jpg
+Original source: https://www.flickr.com/photos/krokodiver/43709448502/
+Changes: Wikimedia-generated 960px thumbnail; no crop or other changes.
+
+File: events/water-quality-b/2027/assets/supplemental/snapper-schoolmaster.jxl
+Title: Compare another snapper species
+Creator: LASZLO ILYES (laszlo-photo) from Cleveland, Ohio, USA
+License: CC BY 2.0
+License URL: https://creativecommons.org/licenses/by/2.0
+Source: https://commons.wikimedia.org/wiki/File:Lutjanus_apodus_1.jpg
+Original source: https://www.flickr.com/photos/laszlo-photo/258126636
+Changes: Wikimedia-generated 960px thumbnail; no crop or other changes.
+
+File: events/water-quality-b/2027/assets/supplemental/spiny-lobster-variation.jxl
+Title: Trace the long antennae
+Creator: Diego Delso, delso.photo
+License: CC BY-SA 4.0
+License URL: https://creativecommons.org/licenses/by-sa/4.0/
+Source: https://commons.wikimedia.org/wiki/File:Langosta_común_(Palinurus_elephas),_Parque_natural_de_la_Arrábida,_Portugal,_2021-09-10,_DD_03.jpg
+Original source: https://commons.wikimedia.org/wiki/File:Langosta_común_(Palinurus_elephas),_Parque_natural_de_la_Arrábida,_Portugal,_2021-09-10,_DD_03.jpg
+Changes: Full original JPEG reversibly archived as JPEG XL; no project crop or retouching. Published derivatives resized and re-encoded under the stated image license.
+
+File: events/water-quality-b/2027/assets/supplemental/staghorn-coral.jxl
+Title: One category, different branching forms
+Creator: Greg McFall / NOAA
+License: Public domain (U.S. government work)
+License URL: https://creativecommons.org/publicdomain/mark/1.0/
+Source: https://commons.wikimedia.org/wiki/File:FKNMS_staghorn_coral_(48770939486).jpg
+Original source: https://www.flickr.com/photos/onms/48770939486
+Changes: Wikimedia-generated 960px thumbnail; no crop or other changes.
+
+File: events/water-quality-b/2027/assets/supplemental/sweetlips-juvenile.jxl
+Title: Young fish can look very different
+Creator: Rickard Zerpe
+License: CC BY 2.0
+License URL: https://creativecommons.org/licenses/by/2.0
+Source: https://commons.wikimedia.org/wiki/File:Harlequin_sweetlips_juvenile_(Plectorhinchus_chaetodonoides)_(35635869076).jpg
+Original source: https://www.flickr.com/photos/krokodiver/35635869076/
+Changes: Wikimedia-generated 960px thumbnail; no crop or other changes.
+
+File: events/water-quality-b/2027/assets/supplemental/triton-variation.jxl
+Title: Compare both sides of a shell
+Creator: MerlinCharon
+License: Public domain (creator dedication)
+License URL: https://commons.wikimedia.org/wiki/File:Charonia_tritonis_a1.jpg#Licensing
+Source: https://commons.wikimedia.org/wiki/File:Charonia_tritonis_a1.jpg
+Original source: https://commons.wikimedia.org/wiki/File:Charonia_tritonis_a1.jpg
+Changes: Full original JPEG reversibly archived as JPEG XL; no project crop or retouching. Source uploader made colors warmer in the 2011 original; colors are not calibrated.

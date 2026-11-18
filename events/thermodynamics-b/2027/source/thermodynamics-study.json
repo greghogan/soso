@@ -1,0 +1,816 @@
+[
+  {
+    "id": "thermo-overview",
+    "chapter": "Energy and measurement",
+    "title": "Thermodynamics B",
+    "deck": "Study guide 2027",
+    "panels": [
+      [
+        "What you will learn",
+        "Thermodynamics explains how energy moves, how materials respond, and what limits a machine’s useful work. In this event you apply it twice: on a written test and in a device that collects radiation from a lamp to warm water."
+      ],
+      [
+        "Connect the two parts",
+        "A thin metal collector can transfer energy quickly but also lose energy quickly. Water is slow to warm because it has a large heat capacity. These are not isolated definitions: they explain real choices in your build. The companion build guide develops the apparatus, construction and testing."
+      ],
+      [
+        "Use the explanations",
+        "Read a diagram together with its nearby explanation. Solve a worked example before looking at the last line, then check your units. The question at the end of each lesson tests whether you can use the idea in a slightly different situation."
+      ],
+      [
+        "The 2027 written test",
+        "The five core areas are systems and temperature; phases and gases; heat transfer and material properties; processes, laws and engines; and the contributions of eight scientists. State and National tournaments add blackbody radiation, radiant exitance, the Stefan–Boltzmann law and the third law. Required mathematics stops at arithmetic, simple algebra and familiar areas and volumes, with no trigonometry or calculus. The test includes at least three questions from each applicable area, including the additional area at State and National tournaments. Unless otherwise requested, give answers in metric units with appropriate significant figures."
+      ]
+    ],
+    "question": "Why is a heat-collecting device a useful way to learn thermodynamics?",
+    "answer": "It forces you to follow energy through several materials and mechanisms, measure temperature changes, and distinguish useful heating from energy lost or stored elsewhere.",
+    "sources": [
+      "R01",
+      "P01"
+    ],
+    "figure": {
+      "file": "energy-flow.svg",
+      "caption": "Radiation brings energy from the lamp. Only part of that energy reaches and remains in the water.",
+      "alt": "Radiation brings energy from the lamp. Only part of that energy reaches and remains in the water.",
+      "width_pt": 360
+    },
+    "kind": "text",
+    "source_urls": [
+      "https://openstax.org/books/college-physics-2e/pages/14-introduction-to-heat-and-heat-transfer-methods"
+    ]
+  },
+  {
+    "id": "thermo-system",
+    "chapter": "Energy and measurement",
+    "title": "Choose the system boundary",
+    "deck": "The boundary determines what crosses into or out of the system.",
+    "panels": [
+      [
+        "Open, closed and isolated",
+        "An open system exchanges matter and energy with its surroundings. A closed system exchanges energy but not matter. An isolated system exchanges neither. These are models: a sealed bottle is a useful closed-system example, but an ordinary bottle is not perfectly insulated."
+      ],
+      [
+        "A cup under a lamp",
+        "If the system is just the water, radiation and energy through the cup wall can cross its boundary. Evaporation lets matter escape, so the open cup is not strictly a closed system. For a short calculation, neglecting a small evaporated mass may be a reasonable approximation, but state that assumption."
+      ],
+      [
+        "Intensive and extensive",
+        "An extensive property grows with the amount of material: mass, volume and total internal energy are examples. An intensive property does not simply double when you double the sample: temperature, pressure and density are examples. Two identical cups of water at 25 °C combine into twice the mass at about 25 °C, not 50 °C."
+      ]
+    ],
+    "question": "Two equal samples at the same temperature are combined without heat loss. Which doubles: mass, temperature or total internal energy?",
+    "answer": "Mass and total internal energy double relative to one sample. Temperature stays the same.",
+    "sources": [
+      "R01",
+      "P02"
+    ],
+    "figure": {
+      "file": "systems.svg",
+      "caption": "Open systems exchange matter and energy; closed systems exchange energy but not matter. Perfect isolation is an ideal model.",
+      "alt": "Different boundaries allow matter, energy, both or neither to cross.",
+      "width_pt": 360
+    },
+    "kind": "text",
+    "source_urls": [
+      "https://openstax.org/books/college-physics-2e/pages/13-introduction-to-temperature-kinetic-theory-and-the-gas-laws"
+    ]
+  },
+  {
+    "id": "thermo-temperature",
+    "chapter": "Energy and measurement",
+    "title": "Temperature is not heat",
+    "deck": "Temperature describes a state; heat describes energy in transit.",
+    "panels": [
+      [
+        "What temperature tells you",
+        "When two objects can exchange energy thermally, net heat transfer goes from the hotter one to the colder one. At thermal equilibrium, their temperatures are equal and there is no net heat transfer between them. Equal temperature does not mean equal mass or equal total internal energy."
+      ],
+      [
+        "The zeroth law",
+        "If A is in thermal equilibrium with C, and B is also in equilibrium with C, then A and B are in thermal equilibrium with each other. This makes a thermometer useful: it can compare temperatures through a repeatable relationship between temperature and a measurable property."
+      ],
+      [
+        "Heat and internal energy",
+        "Heat is energy transferred because of a temperature difference. Internal energy is energy associated with the microscopic motion and interactions within a system. Saying that a cup contains “heat” blurs this distinction; it has internal energy and can gain or lose energy by heat transfer."
+      ],
+      [
+        "A useful comparison",
+        "A swimming pool and a mug can have the same temperature. Heating the pool by one degree requires far more energy because it contains much more water. A tiny very hot object need not transfer more energy than a large moderately warm object."
+      ]
+    ],
+    "question": "Why does equal temperature not imply equal internal energy?",
+    "answer": "Internal energy also depends on how much material there is and what it is. Temperature alone does not specify the total energy.",
+    "sources": [
+      "R01",
+      "P02"
+    ],
+    "kind": "text",
+    "source_urls": [
+      "https://openstax.org/books/college-physics-2e/pages/13-introduction-to-temperature-kinetic-theory-and-the-gas-laws"
+    ]
+  },
+  {
+    "id": "thermo-scales",
+    "chapter": "Energy and measurement",
+    "title": "Convert temperatures and changes",
+    "deck": "Offsets matter for temperatures, but not for differences.",
+    "panels": [
+      [
+        "Three common scales",
+        "Use T(K)=T(°C)+273.15 and T(°F)=1.8T(°C)+32. To convert Fahrenheit to Celsius, subtract 32 and divide by 1.8. Kelvin is written without a degree sign. Absolute zero is 0 K, or −273.15 °C."
+      ],
+      [
+        "Temperature differences",
+        "A rise of 1 °C is a rise of 1 K. A rise of 1 °C is 1.8 °F. When converting a change, do not add 273.15 or 32: both endpoints have the same offset, so it cancels."
+      ],
+      [
+        "Worked example",
+        "Water warms from 20 °C to 35 °C. The gain is 15 °C or 15 K. The endpoints are 68 °F and 95 °F, so the Fahrenheit gain is 27 °F. In Kelvin the endpoints are 293.15 K and 308.15 K, still a 15 K gain."
+      ],
+      [
+        "When Kelvin is essential",
+        "Use absolute temperatures in the ideal-gas law, Carnot efficiency and the Stefan–Boltzmann law. Their ratios and powers are not valid if Celsius values are substituted. The event’s prediction-score formula is a special exception: the rules explicitly require Celsius."
+      ]
+    ],
+    "question": "A temperature rises by 18 °F. What is the rise in Celsius and Kelvin?",
+    "answer": "18÷1.8=10 °C, which is also 10 K. No offset is added.",
+    "sources": [
+      "R01",
+      "P02"
+    ],
+    "figure": {
+      "file": "temperature-scales.svg",
+      "caption": "The zero points differ, but Celsius and Kelvin have equal-sized intervals.",
+      "alt": "The zero points differ, but Celsius and Kelvin have equal-sized intervals.",
+      "width_pt": 360
+    },
+    "kind": "text",
+    "source_urls": [
+      "https://openstax.org/books/college-physics-2e/pages/13-introduction-to-temperature-kinetic-theory-and-the-gas-laws"
+    ]
+  },
+  {
+    "id": "thermo-units",
+    "chapter": "Energy and measurement",
+    "title": "Keep the units visible",
+    "deck": "A number without a unit can hide an error.",
+    "panels": [
+      [
+        "Energy, power and heat",
+        "A joule is an energy unit. A watt is one joule per second, so energy transferred at constant power is Q=Pt. A small calorie is about 4.184 J; a food Calorie is a kilocalorie, about 4184 J. Check which meaning a question uses."
+      ],
+      [
+        "Convert before calculating",
+        "With specific heat in J/(kg·K), use mass in kilograms. 100 mL of room-temperature water is approximately 0.100 kg for our illustrative calculations. If pressure is in pascals, ideal-gas volume must be in cubic metres when using R=8.314 J/(mol·K)."
+      ],
+      [
+        "Worked example",
+        "An average net power of 5 W reaches the water for 10 minutes. Time is 600 s, so Q=5×600=3000 J. Do not multiply by 10 and call the answer joules: that would still have minutes hidden in the units."
+      ],
+      [
+        "Precision and uncertainty",
+        "Keep a few extra digits during calculation and round at the end. A thermometer display to 0.1 °C does not prove that its absolute accuracy is 0.1 °C. Repeatability, calibration, timing and measurement technique can all limit a result."
+      ]
+    ],
+    "question": "How much energy is transferred by 8 W in 5 minutes?",
+    "answer": "8 J/s×300 s=2400 J.",
+    "sources": [
+      "R01",
+      "P01"
+    ],
+    "kind": "text",
+    "source_urls": [
+      "https://openstax.org/books/college-physics-2e/pages/14-introduction-to-heat-and-heat-transfer-methods"
+    ]
+  },
+  {
+    "id": "thermo-capacity",
+    "chapter": "Heat and materials",
+    "title": "How much energy warms a sample",
+    "deck": "Mass and material both matter.",
+    "panels": [
+      [
+        "Specific heat and heat capacity",
+        "Specific heat c is energy per unit mass per degree of temperature change; heat capacity C applies to the whole sample. For one phase with nearly constant c, C=mc. Here Q=mcΔT models sensible heating with negligible work and no phase change. For gases, the appropriate heat capacity depends on whether volume or pressure is held constant."
+      ],
+      [
+        "Worked example",
+        "Take water’s specific heat as 4180 J/(kg·K). To warm 0.100 kg by 10 K requires Q=0.100×4180×10=4180 J. Over 600 s, that corresponds to about 7 W of average net energy input to the water."
+      ],
+      [
+        "Where the other energy goes",
+        "The lamp’s electrical wattage is not the power entering the water. Some radiation misses the device, some is reflected, and some warms the cup, collector and air. Heat also escapes. A water-only calculation gives the energy stored in the water, not a full efficiency measurement."
+      ],
+      [
+        "Why thick metal can disappoint",
+        "A metal may conduct heat well yet absorb substantial energy while warming itself. Increasing collector thickness changes both strength and heat capacity. Compare water heating over the actual event duration rather than assuming that more metal is always better."
+      ]
+    ],
+    "question": "How much energy raises 200g of water by 5 °C, using c=4180 J/(kg·K)?",
+    "answer": "Q=0.200×4180×5=4180 J. Twice the mass and half the temperature rise require the same energy as 100g warming 10 °C.",
+    "sources": [
+      "R01",
+      "P01"
+    ],
+    "figure": {
+      "file": "capacity.svg",
+      "caption": "Equal energy added to water with c ≈ 4180 J/(kg·K), neglecting vessel heating and losses: half the mass gives twice the temperature rise.",
+      "alt": "The same energy raises the temperature of a smaller water sample more, assuming no losses.",
+      "width_pt": 360
+    },
+    "kind": "text",
+    "source_urls": [
+      "https://openstax.org/books/college-physics-2e/pages/14-introduction-to-heat-and-heat-transfer-methods"
+    ]
+  },
+  {
+    "id": "thermo-calorimetry",
+    "chapter": "Heat and materials",
+    "title": "Track energy when samples mix",
+    "deck": "An energy balance can predict a final temperature.",
+    "panels": [
+      [
+        "The model",
+        "If an insulated system contains only two samples exchanging energy and no phase change, energy lost by the warmer sample equals energy gained by the cooler sample. Include the cup or surroundings if the question says their energy changes matter."
+      ],
+      [
+        "Worked example",
+        "Mix 100 g of water at 60 °C with 200 g at 20 °C. Neglect the cup and heat loss. Since both are water, c cancels: 100(60−T)=200(T−20). Thus 6000−100T=200T−4000, so T=33.3 °C."
+      ],
+      [
+        "Check the result",
+        "The final temperature lies between 20 °C and 60 °C, and is closer to 20 °C because there was twice as much cool water. An answer above 60 °C would violate this model’s energy balance."
+      ],
+      [
+        "A limit of weighted averages",
+        "With no heat loss, phase change or other energy transfer, constant heat capacities give a heat-capacity-weighted final temperature: each sample is weighted by mc. This becomes a mass-weighted average only when the samples have equal specific heats. If melting or boiling occurs, include the latent-heat terms instead of using that average."
+      ]
+    ],
+    "question": "Equal masses of the same liquid at 10 °C and 30 °C mix with no loss or phase change. What is the final temperature?",
+    "answer": "20 °C. Equal heat capacities make the midpoint correct.",
+    "sources": [
+      "R01",
+      "P01"
+    ],
+    "kind": "text",
+    "source_urls": [
+      "https://openstax.org/books/college-physics-2e/pages/14-introduction-to-heat-and-heat-transfer-methods"
+    ]
+  },
+  {
+    "id": "thermo-phases",
+    "chapter": "Phases and gases",
+    "title": "A heating curve has different jobs",
+    "deck": "Energy can change temperature or change phase.",
+    "panels": [
+      [
+        "Sensible heating",
+        "On a sloped segment of a heating curve, energy raises temperature while the material stays in one phase. Use Q=mcΔT, with the specific heat appropriate to that phase."
+      ],
+      [
+        "Latent heating",
+        "During a phase change at a fixed transition temperature and pressure, added energy can change molecular arrangement rather than temperature. Use Q=mL, where L is the appropriate latent heat. The flat segment does not mean that energy transfer stopped."
+      ],
+      [
+        "Worked example",
+        "To melt 20 g of ice already at 0 °C, take Lf=334000 J/kg: Q=0.020×334000=6680 J. To then warm the resulting water to 10 °C needs another 0.020×4180×10=836 J. Total=7516 J, about 7.52 kJ."
+      ],
+      [
+        "Check whether the change finishes",
+        "If a warm sample cannot supply enough energy to melt all the ice, do not assume all the ice becomes warm water. At equilibrium the system can contain ice and liquid water at the melting temperature. Pressure and dissolved substances can shift transition conditions."
+      ]
+    ],
+    "question": "Why can ice at 0 °C absorb energy without immediately becoming warmer?",
+    "answer": "Energy can melt it. During melting under the stated conditions, energy changes phase rather than temperature.",
+    "sources": [
+      "R01",
+      "P01"
+    ],
+    "figure": {
+      "file": "heating-curve.svg",
+      "caption": "An idealized heating curve separates temperature changes from phase changes; it is not measured event data.",
+      "alt": "An idealized heating curve separates temperature changes from phase changes; it is not measured event data.",
+      "width_pt": 360
+    },
+    "kind": "text",
+    "source_urls": [
+      "https://openstax.org/books/college-physics-2e/pages/14-introduction-to-heat-and-heat-transfer-methods"
+    ]
+  },
+  {
+    "id": "thermo-phase-diagram",
+    "chapter": "Phases and gases",
+    "title": "Read a phase diagram",
+    "deck": "Pressure and temperature together determine the stable phase.",
+    "panels": [
+      [
+        "Find the axes first",
+        "A phase diagram commonly plots pressure vertically and temperature horizontally. Each region identifies a stable phase. A boundary marks conditions where two phases coexist. A heating curve instead plots temperature against time or added energy; do not confuse these graphs."
+      ],
+      [
+        "Special points",
+        "At the triple point, three phases can coexist. The liquid–gas boundary ends at the critical point; beyond it the distinction between liquid and gas disappears. A schematic diagram shows relationships, not exact numerical conditions unless labeled."
+      ],
+      [
+        "Follow a path",
+        "At a fixed pressure, move horizontally as temperature changes. Crossing a solid–liquid boundary corresponds to melting or freezing. Crossing a liquid–gas boundary corresponds to boiling or condensation. At sufficiently low pressure a solid may pass directly to gas: sublimation."
+      ],
+      [
+        "Water is an important exception",
+        "Water’s solid–liquid boundary slopes differently from many familiar substances because ordinary ice is less dense than liquid water. Do not assume every material’s diagram has water’s shape."
+      ]
+    ],
+    "question": "How is a phase diagram different from a heating curve?",
+    "answer": "A phase diagram maps stable phases against temperature and pressure. A heating curve follows a sample’s temperature as energy is supplied under specified conditions.",
+    "sources": [
+      "R01",
+      "P02"
+    ],
+    "figure": {
+      "file": "phase-diagram.svg",
+      "caption": "Schematic phase regions; boundary shapes vary by substance.",
+      "alt": "Schematic phase regions; boundary shapes vary by substance.",
+      "width_pt": 360
+    },
+    "kind": "text",
+    "source_urls": [
+      "https://openstax.org/books/college-physics-2e/pages/13-introduction-to-temperature-kinetic-theory-and-the-gas-laws"
+    ]
+  },
+  {
+    "id": "thermo-gas-law",
+    "chapter": "Phases and gases",
+    "title": "Use the ideal gas model",
+    "deck": "Pressure, volume, amount and absolute temperature are connected.",
+    "panels": [
+      [
+        "The relationship",
+        "PV=nRT, where P is absolute pressure, V is volume, n is amount in moles, and T is in Kelvin. With P in Pa and V in m³, use R≈8.314 J/(mol·K). The model works best for dilute gases away from condensation."
+      ],
+      [
+        "Change one condition",
+        "For a fixed amount at constant temperature, PV stays constant. Halving volume doubles pressure. At constant pressure, volume is proportional to Kelvin temperature. At constant volume, pressure is proportional to Kelvin temperature."
+      ],
+      [
+        "Worked example",
+        "A gas occupies 2.0 L at 300 K. It warms to 450 K at constant pressure with no gas lost. V2=V1×T2/T1=2.0×450/300=3.0 L. A Celsius ratio would give the wrong answer."
+      ],
+      [
+        "Microscopic picture",
+        "Gas particles move and collide with container walls. Pressure describes the average force per area from these collisions. Temperature is related to their microscopic energy; it is not the speed of one chosen particle."
+      ]
+    ],
+    "question": "A sealed rigid container goes from 300 K to 330 K. How does pressure change in the ideal-gas model?",
+    "answer": "It increases by a factor 330/300=1.10, or 10%.",
+    "sources": [
+      "R01",
+      "P02"
+    ],
+    "figure": {
+      "file": "gas-processes.svg",
+      "caption": "Ideal-gas processes follow different paths on a pressure–volume graph. Curves are qualitative.",
+      "alt": "Ideal-gas processes follow different paths on a pressure–volume graph. Curves are qualitative.",
+      "width_pt": 360
+    },
+    "kind": "text",
+    "source_urls": [
+      "https://openstax.org/books/college-physics-2e/pages/13-introduction-to-temperature-kinetic-theory-and-the-gas-laws"
+    ]
+  },
+  {
+    "id": "thermo-transfer",
+    "chapter": "Heat transfer",
+    "title": "Three routes for heat transfer",
+    "deck": "One device can use all three at once.",
+    "panels": [
+      [
+        "Conduction",
+        "Energy transfers through matter without bulk transport of the material. A metal spoon warms along its length. In the build, energy can conduct through a receiver, the plastic cup wall and the water near it."
+      ],
+      [
+        "Convection",
+        "Moving fluid carries energy. Warm and cool regions can circulate because of buoyancy, or a pump/fan can drive flow. The event device cannot use an electrical fan; natural circulation can still occur in air and water."
+      ],
+      [
+        "Radiation",
+        "Electromagnetic radiation transfers energy without requiring matter between source and receiver. The lamp can warm a surface across an air gap. Radiation includes more than visible light; much thermal radiation is infrared."
+      ],
+      [
+        "Follow the whole path",
+        "Lamp radiation can warm a metal receiver; conduction can then move energy through the cup; convection can redistribute it within the water. At the same time convection and radiation can carry energy away to the room. A single label rarely describes the whole experiment."
+      ]
+    ],
+    "question": "Name two mechanisms between the lamp and the water, explaining where each acts.",
+    "answer": "For example, radiation travels from lamp to receiver, and conduction carries energy through the receiver and cup wall. Convection may then redistribute energy in the water.",
+    "sources": [
+      "R01",
+      "P01"
+    ],
+    "figure": {
+      "file": "heat-transfer-mechanisms.svg",
+      "caption": "Follow radiation from lamp to receiver, conduction through solid contact, and convection within the water. Arrows show mechanisms, not measured energy shares.",
+      "alt": "Lamp radiation heats a receiver. Conduction passes energy through the receiver and cup wall. Arrows circulate within water to show convection; convection and radiation also carry heat to the room.",
+      "width_pt": 360
+    },
+    "kind": "text",
+    "source_urls": [
+      "https://openstax.org/books/college-physics-2e/pages/14-introduction-to-heat-and-heat-transfer-methods"
+    ]
+  },
+  {
+    "id": "thermo-conduction",
+    "chapter": "Heat transfer",
+    "title": "Conductivity is not heat capacity",
+    "deck": "Moving energy quickly is different from storing much energy.",
+    "panels": [
+      [
+        "The conduction model",
+        "For steady heat flow through a flat uniform layer, power≈kAΔT/L. Larger conductivity k, area A or temperature difference increases the rate; larger thickness L reduces it. This simple model assumes an approximately steady temperature profile."
+      ],
+      [
+        "Worked example",
+        "A layer has k=0.04 W/(m·K), area 0.01 m², thickness 0.02 m and temperature difference 10 K.\n\nPower≈0.04×0.01×10/0.02=0.20 W. Doubling thickness would halve this model’s heat-loss rate."
+      ],
+      [
+        "Contacts matter",
+        "Two metal surfaces separated by an air gap do not behave like one solid piece. Loose contact, roughness and tiny gaps can limit heat transfer. In our device, plastic and contact resistance can limit how effectively a metal collector warms the water."
+      ],
+      [
+        "Choose the job first",
+        "Use good conductors where energy needs to move toward the cup. Use insulation where you want to reduce unwanted loss. A material’s specific heat answers a different question: how much energy it stores per mass per degree."
+      ]
+    ],
+    "question": "Would making an insulating layer twice as thick double or halve steady heat flow, all else equal?",
+    "answer": "It would halve it in the flat-layer model.",
+    "sources": [
+      "R01",
+      "P01"
+    ],
+    "kind": "text",
+    "source_urls": [
+      "https://openstax.org/books/college-physics-2e/pages/14-introduction-to-heat-and-heat-transfer-methods"
+    ]
+  },
+  {
+    "id": "thermo-convection",
+    "chapter": "Heat transfer",
+    "title": "Moving fluid can help or hurt",
+    "deck": "Circulation can mix water while drafts carry warmth away.",
+    "panels": [
+      [
+        "Natural convection",
+        "Heating can change fluid density. In many everyday situations warmer fluid rises and cooler fluid sinks, creating circulation. The geometry and direction of heating matter: a layer heated mainly from above can remain stratified rather than mixing quickly."
+      ],
+      [
+        "Inside and outside the cup",
+        "Circulation inside water can distribute energy. Air moving past the cup can remove energy once the cup is warmer than the room. If the water starts cooler than the room, ambient air can instead help warm it."
+      ],
+      [
+        "A cover is a trade",
+        "A cover or enclosure may reduce airflow, but it may also block incoming radiation or obstruct cup removal. A hot pocket of air is not proof of hot water. Measure the final water temperature with the event sequence."
+      ],
+      [
+        "Evaporation",
+        "Molecules escaping the liquid carry energy, which can cool the remaining water. Reducing evaporation can help retain energy, but any device must keep its parts out of the water and follow the setup/removal rules."
+      ]
+    ],
+    "question": "Why might water heated from above have a warmer surface than bottom?",
+    "answer": "Warm, less-dense water already sits above cooler water, so buoyancy may not overturn the layers effectively. The actual mixing depends on the geometry and heating paths.",
+    "sources": [
+      "R01",
+      "P01"
+    ],
+    "kind": "text",
+    "source_urls": [
+      "https://openstax.org/books/college-physics-2e/pages/14-introduction-to-heat-and-heat-transfer-methods"
+    ]
+  },
+  {
+    "id": "thermo-radiation",
+    "chapter": "Heat transfer",
+    "title": "Absorb, reflect or transmit",
+    "deck": "The same incoming radiation can meet very different surfaces.",
+    "panels": [
+      [
+        "Three possible outcomes",
+        "A surface can absorb radiation, reflect it or transmit it. Absorbed radiation adds energy to the material. Reflection redirects radiation; transmission lets it pass through. The fractions depend on wavelength, material, thickness and surface condition."
+      ],
+      [
+        "Dark and shiny have different roles",
+        "A dark receiver is a useful candidate absorber. A smooth shiny panel is a useful candidate reflector. But visible appearance alone is not a complete specification for infrared behavior. A transparent-looking cover can still absorb some wavelengths emitted by a heat lamp."
+      ],
+      [
+        "Why lamp wattage is not water power",
+        "A 100 W bulb draws electrical energy at 100 J/s under its rated conditions. Only some emerges toward the device and only some of that reaches and stays in the water. The reflector, distance, bulb shape and receiver geometry all matter."
+      ],
+      [
+        "Test the geometry",
+        "The nearby bulb and reflector are extended sources, not an ideal point source. A simple inverse-square estimate can suggest a trend, but the prediction table should come from measurements with the actual kind of lamp."
+      ]
+    ],
+    "question": "Why can a clear cover reduce water heating even if it reduces drafts?",
+    "answer": "It can reflect or absorb some incoming radiation and warm itself. The reduction in input may exceed the reduction in heat loss.",
+    "sources": [
+      "R01",
+      "P01"
+    ],
+    "figure": {
+      "file": "reflector-rays.svg",
+      "caption": "Broad reflection is a design hypothesis to test; the sketch is not a precision optical calculation.",
+      "alt": "Broad reflection is a design hypothesis to test; the sketch is not a precision optical calculation.",
+      "width_pt": 360
+    },
+    "kind": "text",
+    "source_urls": [
+      "https://openstax.org/books/college-physics-2e/pages/14-introduction-to-heat-and-heat-transfer-methods"
+    ]
+  },
+  {
+    "id": "thermo-first-law",
+    "chapter": "Laws and processes",
+    "title": "Keep an energy account",
+    "deck": "Energy transferred as heat and work changes internal energy.",
+    "panels": [
+      [
+        "Choose a sign convention",
+        "For a closed system with negligible changes in its bulk kinetic and potential energy, use ΔU=Q−W. Q is positive for heat entering; W is positive for work done BY the system. An open system also carries energy with matter crossing its boundary. Some books count work done ON the system as positive and use a plus sign; check the convention."
+      ],
+      [
+        "Worked example",
+        "A gas absorbs 500 J as heat and does 200 J of work pushing a piston. ΔU=500−200=300 J. Its internal energy increases by 300 J."
+      ],
+      [
+        "Compression",
+        "If surroundings do 100 J of work on a gas and no heat enters or leaves, W=−100 J in our convention. Thus ΔU=0−(−100)=100 J. Work can change internal energy even without heat transfer."
+      ],
+      [
+        "An event connection",
+        "Your cup is not a heat engine. During a run, energy arrives and leaves through several paths, while water, cup and device store some energy. Drawing a boundary around the water prevents you from accidentally counting energy stored in the collector as water heating."
+      ]
+    ],
+    "question": "A system loses 80 J as heat and does 20 J of work. What is ΔU in this convention?",
+    "answer": "Q=−80 J and W=20 J, so ΔU=−100 J.",
+    "sources": [
+      "R01",
+      "P03"
+    ],
+    "figure": {
+      "file": "energy-account.svg",
+      "caption": "Define the arrows and signs before calculating.",
+      "alt": "Define the arrows and signs before calculating.",
+      "width_pt": 360
+    },
+    "kind": "text",
+    "source_urls": [
+      "https://openstax.org/books/college-physics-2e/pages/15-introduction-to-thermodynamics"
+    ]
+  },
+  {
+    "id": "thermo-processes",
+    "chapter": "Laws and processes",
+    "title": "Four useful process models",
+    "deck": "Identify what stays constant before choosing an equation.",
+    "panels": [
+      [
+        "Isothermal and isochoric",
+        "Isothermal means constant temperature. For an ideal gas its internal energy then stays constant, so Q=W in our convention. Isochoric means constant volume: a rigid container does no boundary expansion work, so heat changes internal energy if other work is absent."
+      ],
+      [
+        "Isobaric and adiabatic",
+        "Isobaric means constant pressure. For simple expansion against a constant matching external pressure, W=PΔV. Adiabatic means no heat transfer, Q=0; it does not mean constant temperature. A rapid compression can warm a gas even when little heat crosses its boundary."
+      ],
+      [
+        "Worked example",
+        "A gas expands at constant pressure 100000 Pa from 0.002 m³ to 0.005 m³. W=PΔV=100000×0.003=300 J. This is work done by the gas."
+      ],
+      [
+        "Read a P–V diagram",
+        "The axes are pressure and volume. A horizontal line is isobaric and a vertical line is isochoric. Work corresponds to the signed area under a quasistatic process path; the event’s permitted math supports simple geometric areas, not a requirement to integrate a curve."
+      ]
+    ],
+    "question": "Which process means no heat transfer, and can its temperature change?",
+    "answer": "Adiabatic. Yes: doing work or receiving work can change internal energy and temperature.",
+    "sources": [
+      "R01",
+      "P03"
+    ],
+    "figure": {
+      "file": "gas-processes.svg",
+      "caption": "Constant pressure and constant volume look different on a P–V graph.",
+      "alt": "Constant pressure and constant volume look different on a P–V graph.",
+      "width_pt": 360
+    },
+    "kind": "text",
+    "source_urls": [
+      "https://openstax.org/books/college-physics-2e/pages/15-introduction-to-thermodynamics"
+    ]
+  },
+  {
+    "id": "thermo-engines",
+    "chapter": "Laws and processes",
+    "title": "An engine needs an energy outlet",
+    "deck": "Not all incoming heat becomes useful work.",
+    "panels": [
+      [
+        "The cycle",
+        "A heat engine takes energy Qh from a hot reservoir, does useful work W and rejects energy Qc to a colder reservoir. Over a full cycle it returns to its starting state, so the net internal-energy change is zero. Thus W=Qh−Qc."
+      ],
+      [
+        "Efficiency",
+        "Efficiency η=W/Qh. For an engine receiving 1000 J and rejecting 650 J, W=350 J and η=0.35, or 35%. Do not divide useful work by rejected heat."
+      ],
+      [
+        "The second law",
+        "A cyclic engine cannot convert all heat taken from a single reservoir into work with no other effect. Natural processes have a direction: heat does not spontaneously flow from colder to hotter objects without some compensating change."
+      ],
+      [
+        "Carnot limit",
+        "For a reversible engine operating between two reservoirs, ηmax=1−Tc/Th, using Kelvin. Between 600 K and 300 K the limit is 50%. Real engines have losses and operate below the appropriate reversible limit; clever construction does not evade it."
+      ]
+    ],
+    "question": "An engine receives 800 J and rejects 500 J each cycle. Find work and efficiency.",
+    "answer": "W=300 J. Efficiency=300/800=0.375=37.5%.",
+    "sources": [
+      "R01",
+      "P03"
+    ],
+    "figure": {
+      "file": "engine.svg",
+      "caption": "Over a complete cycle, energy entering as Qh leaves as useful work W and rejected heat Qc: Qh = W + Qc.",
+      "alt": "A cycle sends part of its input to work and part to a colder reservoir.",
+      "width_pt": 360
+    },
+    "kind": "text",
+    "source_urls": [
+      "https://openstax.org/books/college-physics-2e/pages/15-introduction-to-thermodynamics"
+    ]
+  },
+  {
+    "id": "thermo-history",
+    "chapter": "People and ideas",
+    "title": "Ideas that made heat measurable",
+    "deck": "Connect each name with a physical idea.",
+    "panels": [
+      [
+        "Black and Joule",
+        "Joseph Black developed the ideas of latent heat and specific heat through investigations of heating and phase changes. James Prescott Joule connected mechanical work with thermal effects, helping establish energy conservation."
+      ],
+      [
+        "Carnot, Kelvin and Clausius",
+        "Sadi Carnot studied ideal heat-engine performance and its dependence on hot and cold temperatures. William Thomson, Lord Kelvin, developed an absolute temperature scale and contributed to thermodynamics. Rudolf Clausius formulated the second law and introduced entropy."
+      ],
+      [
+        "Maxwell and Boltzmann",
+        "James Clerk Maxwell and Ludwig Boltzmann helped connect large-scale gas behavior with the statistical behavior of particles. A gas contains particles with a distribution of speeds, not identical motion. Boltzmann linked entropy with the number of microscopic arrangements compatible with a macroscopic state."
+      ],
+      [
+        "Planck",
+        "Max Planck’s work on blackbody radiation introduced the quantization of energy exchange, a crucial step toward quantum theory. Connect his name to the radiation spectrum rather than treating the history list as unrelated memorization."
+      ]
+    ],
+    "question": "Which two listed scientists connect naturally with melting ice without warming and mechanical work warming a substance?",
+    "answer": "Joseph Black with latent heat, and Joule with the connection between mechanical work and thermal energy.",
+    "sources": [
+      "R01",
+      "H02",
+      "H03",
+      "H04",
+      "H05",
+      "H06"
+    ],
+    "kind": "text",
+    "source_urls": [
+      "https://www.mpg.de/19252749/what-did-max-planck-discover",
+      "https://chem.ed.ac.uk/about-us/history/professors/joseph-black",
+      "https://www.nist.gov/si-redefinition/kelvin/kelvin-history",
+      "https://www.damtp.cam.ac.uk/user/tong/statphys/statmechhtml/S2.html",
+      "https://www3.nd.edu/~powers/ame.20231/notes.pdf"
+    ]
+  },
+  {
+    "id": "thermo-blackbody",
+    "chapter": "State and National extension",
+    "title": "A blackbody is an ideal model",
+    "deck": "It absorbs all incident radiation and has a temperature-dependent spectrum.",
+    "panels": [
+      [
+        "The model",
+        "An ideal blackbody absorbs all radiation that reaches it. It also emits thermal radiation with a spectrum determined by its temperature. Real surfaces have wavelength-dependent properties, so a visibly black object is not automatically a perfect blackbody."
+      ],
+      [
+        "Radiant exitance",
+        "Radiant exitance M is emitted radiant power per surface area, measured in W/m². A blackbody has emissivity 1; for a simplified gray surface, emissivity ε lies between 0 and 1. The Stefan–Boltzmann constant is σ≈5.67×10^-8 W/(m²·K^4)."
+      ],
+      [
+        "Use absolute temperature",
+        "Doubling Kelvin temperature multiplies ideal blackbody emission per area by 16. Doubling Celsius temperature does not. Raising a surface from 300 K to 330 K multiplies emission by (330/300)^4≈1.46."
+      ],
+      [
+        "Emission is not net loss",
+        "A warm object emits radiation but also absorbs radiation from its surroundings. For a gray object exchanging with large, uniform surroundings, the simplified net outward power is given below. State the assumptions; more complicated geometry requires more information."
+      ]
+    ],
+    "question": "What happens to emission per area if blackbody temperature rises from 300 K to 600 K?",
+    "answer": "It increases sixteenfold because (600/300)^4=16.",
+    "sources": [
+      "R01",
+      "P01"
+    ],
+    "figure": {
+      "file": "blackbody.svg",
+      "caption": "Schematic spectra: hotter blackbodies emit more energy and peak at shorter wavelengths.",
+      "alt": "Schematic spectra: hotter blackbodies emit more energy and peak at shorter wavelengths.",
+      "width_pt": 360
+    },
+    "kind": "text",
+    "source_urls": [
+      "https://openstax.org/books/college-physics-2e/pages/14-introduction-to-heat-and-heat-transfer-methods"
+    ],
+    "display_equations": [
+      {
+        "after_panel": 1,
+        "tex": "M_{\\mathrm{blackbody}}=\\sigma T^4,\\qquad M_{\\mathrm{gray}}=\\varepsilon\\sigma T^4",
+        "mathml": "<msub><mi>M</mi><mtext>blackbody</mtext></msub><mo>=</mo><mi>σ</mi><msup><mi>T</mi><mn>4</mn></msup><mo>,</mo><mspace width=\"2em\"/><msub><mi>M</mi><mtext>gray</mtext></msub><mo>=</mo><mi>ε</mi><mi>σ</mi><msup><mi>T</mi><mn>4</mn></msup>"
+      },
+      {
+        "after_panel": 3,
+        "tex": "P_{\\mathrm{net,out}}\\approx\\varepsilon\\sigma A\\left(T_{\\mathrm{object}}^4-T_{\\mathrm{surroundings}}^4\\right)",
+        "mathml": "<msub><mi>P</mi><mtext>net,out</mtext></msub><mo>≈</mo><mi>ε</mi><mi>σ</mi><mi>A</mi><mo>(</mo><msubsup><mi>T</mi><mtext>object</mtext><mn>4</mn></msubsup><mo>−</mo><msubsup><mi>T</mi><mtext>surroundings</mtext><mn>4</mn></msubsup><mo>)</mo>"
+      }
+    ]
+  },
+  {
+    "id": "thermo-third-law",
+    "chapter": "State and National extension",
+    "title": "Approaching absolute zero",
+    "deck": "The lowest-temperature limit has a precise thermodynamic meaning.",
+    "panels": [
+      [
+        "A limiting statement",
+        "A common form of the third law says that the entropy of a perfect crystal approaches zero as its temperature approaches absolute zero. The qualifications matter: perfect crystal and the limiting temperature are part of the statement."
+      ],
+      [
+        "Unattainability",
+        "A related formulation is that absolute zero cannot be reached by a finite sequence of physical cooling processes. Experiments can approach it extremely closely, but 0 K is not just another target on an ordinary refrigerator dial."
+      ],
+      [
+        "Do not infer motionlessness too broadly",
+        "Simple particle pictures are useful, but quantum behavior prevents a universal claim that every form of microscopic motion disappears at 0 K. For this event, focus on the thermodynamic limit and how it differs from the first and second laws."
+      ],
+      [
+        "Keep the laws distinct",
+        "Zeroth: thermal equilibrium defines temperature. First: energy accounting. Second: direction and limits of energy conversion. Third: the low-temperature limit. Each answers a different question."
+      ]
+    ],
+    "question": "Why is “the third law means energy is conserved” incorrect?",
+    "answer": "Energy conservation is the first law. The third law concerns the absolute-zero limit.",
+    "sources": [
+      "R01",
+      "P03"
+    ],
+    "kind": "text",
+    "source_urls": [
+      "https://openstax.org/books/college-physics-2e/pages/15-introduction-to-thermodynamics"
+    ]
+  },
+  {
+    "id": "thermo-practice",
+    "chapter": "Practice and reference",
+    "title": "A short mixed practice set",
+    "deck": "Write the relationship before substituting numbers.",
+    "panels": [
+      [
+        "Questions",
+        [
+          "How much energy warms 50 g of water from 20 °C to 30 °C? Use c=4180 J/(kg·K).",
+          "A fixed amount of ideal gas at constant pressure has volume 1.5 L at 300 K. What volume does it have at 400 K?",
+          "A system absorbs 250 J and has 80 J of work done on it. Find ΔU using our convention.",
+          "An engine receives 1200 J and does 300 J of work. Find efficiency and rejected energy.",
+          "Explain why a thick black metal block might produce less water heating than a thin black receiver over 10 minutes.",
+          "State/National: compare blackbody emitted power per area at 400 K and 300 K."
+        ]
+      ],
+      [
+        "Answers",
+        [
+          "2090 J.",
+          "2.0 L.",
+          "W=−80 J, so ΔU=250−(−80)=330 J.",
+          "25% efficiency; 900 J rejected.",
+          "The block stores more energy while warming and may transfer it too slowly to the water; actual performance also depends on absorption and contact.",
+          "(400/300)^4 ≈ 3.16 times as much."
+        ]
+      ]
+    ],
+    "question": "Which answer deserves a units check most urgently if it was written as “2090 W”?",
+    "answer": "Question 1 asks for energy, so the unit is joules. Watts measure power.",
+    "sources": [
+      "R01",
+      "P01"
+    ],
+    "kind": "text",
+    "source_urls": [
+      "https://openstax.org/books/college-physics-2e/pages/14-introduction-to-heat-and-heat-transfer-methods"
+    ]
+  }
+]

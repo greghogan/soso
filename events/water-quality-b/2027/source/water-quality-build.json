@@ -1,0 +1,332 @@
+[
+  {
+    "id": "wq-build-mission",
+    "chapter": "Plan a measuring instrument",
+    "title": "Measure salinity, not just float",
+    "deck": "A good device is repeatable, calibrated and easy to read.",
+    "kind": "text",
+    "panels": [
+      [
+        "The competition task",
+        "Build and bring a student-made salinometer or hydrometer for the event’s 1–10% mass/volume salt-solution range. It must operate in a standard 400–600 mL beaker containing at least 400 mL of solution. Report the reading to the nearest 0.1%. Practice the whole range, not only seawater-like concentrations."
+      ],
+      [
+        "What earns the device points",
+        "The device portion is 10% of the total score: 5% for bringing the device for testing and 5% for an accurate measurement under the event rule. The stated full-credit tolerance is ±1% at Regionals and ±0.5% at States/Nationals. Do not confuse these tolerances with the required reporting precision. Calibration solutions may or may not be supplied."
+      ],
+      [
+        "Our starting design",
+        "This guide develops a sealed weighted float with a narrow readable stem. It is an original prototype approach, not a tested winning design or the only legal option. The rules also permit a simple electronic instrument, but prohibit programmable or Wi-Fi-capable devices and competition computers/tablets."
+      ]
+    ],
+    "question": "Why is a scale marked only at 3% and 4% inadequate preparation?",
+    "answer": "The unknown may be anywhere in the 1–10% range. Extrapolation far beyond two marks may be inaccurate or physically unreadable.",
+    "sources": [
+      "R01"
+    ],
+    "source_urls": []
+  },
+  {
+    "id": "wq-build-buoyancy",
+    "chapter": "Understand the instrument",
+    "title": "Why the float rises in denser liquid",
+    "deck": "The final upward force still equals the float’s weight.",
+    "kind": "text",
+    "panels": [
+      [
+        "Balance forces",
+        "An object at rest while freely floating displaces liquid whose weight equals its own weight. In symbols, m = density × displaced volume. The mass of a sealed hydrometer stays nearly constant between trials. Denser liquid therefore requires less displaced volume, so the float sits higher."
+      ],
+      [
+        "Design sensitivity",
+        "A narrow stem gives a larger height change for a small change in displaced volume. A wider body provides buoyant volume; ballast low in the body helps it remain upright. These features trade off sensitivity, stability, readability and clearance in the beaker."
+      ],
+      [
+        "Worked example",
+        "An illustrative 12 g float needs 12 mL displacement in a liquid of density 1.00 g/mL. At 1.05 g/mL it needs about 11.43 mL. It rises until that smaller volume is submerged. These density values illustrate the force balance; they are not an event salinity calibration table."
+      ]
+    ],
+    "question": "When the float settles higher in a denser sample, is its equilibrium buoyant force permanently larger?",
+    "answer": "No. At equilibrium it still equals the same weight. The displaced volume decreased. A temporary imbalance during motion is different from the final balance.",
+    "sources": [
+      "P01"
+    ],
+    "source_urls": [
+      "https://openstax.org/books/college-physics-2e/pages/11-7-archimedes-principle"
+    ],
+    "figure": {
+      "file": "hydrometer.svg",
+      "caption": "A freely floating instrument rises in denser liquid because it needs less displaced volume to balance its unchanged weight.",
+      "alt": "Hydrometer displacement in liquids with different densities",
+      "width_pt": 440
+    }
+  },
+  {
+    "id": "wq-build-prototype",
+    "chapter": "Construct and check",
+    "title": "Build a sealed, stable float",
+    "deck": "Keep every choice reversible until the baseline works.",
+    "kind": "text",
+    "panels": [
+      [
+        "Materials and safety",
+        "A sturdy narrow plastic stem and sealed body, a small amount of securely enclosed nonhazardous ballast, waterproof marks and a protective transport tube are possible materials. Avoid sharp edges, loose metal that can spill, lead ballast and fragile glass. Ask an adult to supervise cutting and adhesives. Follow product instructions and let adhesives cure fully."
+      ],
+      [
+        "Construction sequence",
+        "1. Make a sealed body-and-stem assembly with enough buoyant volume. 2. Secure ballast low in the body. 3. Test upright floating in a practice beaker. 4. Adjust mass and geometry so the readable stem remains above water at the low end and the float stays free of the bottom. 5. Seal permanently only after fit and stability work. 6. Mark a version number and reweigh or recalibrate after changes."
+      ],
+      [
+        "Fit is a functional test",
+        "Check the 400–600 mL beaker range and at least 400 mL fill condition with actual equipment. The device must float freely without touching the wall or bottom at either calibration endpoint. A design that balances only while leaning against the glass is not measuring freely floating displacement."
+      ]
+    ],
+    "question": "Why must you recalibrate after adding a protective coating or replacing ballast?",
+    "answer": "The mass, displaced volume or wetting behavior may change. The old relationship between stem position and concentration may no longer apply.",
+    "sources": [
+      "R01",
+      "P01"
+    ],
+    "source_urls": [
+      "https://openstax.org/books/college-physics-2e/pages/11-7-archimedes-principle"
+    ]
+  },
+  {
+    "id": "wq-build-standards",
+    "chapter": "Calibrate with known solutions",
+    "title": "Prepare a final volume, not a starting volume",
+    "deck": "A mislabeled standard makes every later measurement wrong.",
+    "kind": "text",
+    "panels": [
+      [
+        "Define the concentration",
+        "For percent mass/volume, grams of solute = desired percentage × final volume in mL ÷ 100. Use the specified salt when known, clean water, a balance and suitable volume-measuring equipment. Keep the same material and preparation procedure throughout calibration. Label every container with concentration, date and salt identity."
+      ],
+      [
+        "Worked example",
+        "To prepare 500 mL of 6% mass/volume sodium-chloride solution, weigh 30 g of salt, dissolve it in less than 500 mL of water, and bring the completed solution to 500 mL. Mix fully. Adding 30 g to 500 mL of water does not define the same final volume."
+      ],
+      [
+        "Control preparation error",
+        "Use clean equipment and sensible measurement precision. Let solutions reach a common temperature before final volume adjustment and measurement. Prevent evaporation and contamination. Do not taste solutions, and never use environmental water as a supposedly known standard. Wear eye protection and clean spills."
+      ]
+    ],
+    "question": "How many grams are needed for 400 mL of 2.5% mass/volume solution?",
+    "answer": "10 g, brought to a final solution volume of 400 mL. The calculation is 2.5 × 400 ÷ 100.",
+    "sources": [
+      "R01"
+    ],
+    "source_urls": []
+  },
+  {
+    "id": "wq-build-calibration",
+    "chapter": "Calibrate with known solutions",
+    "title": "Use several points and repeated trials",
+    "deck": "A smooth-looking line is not proof of accuracy.",
+    "kind": "text",
+    "panels": [
+      [
+        "Collect a calibration series",
+        "Prepare standards spanning 1–10%, including both endpoints and several interior points. Measure at a recorded, similar temperature. Rinse between samples, remove droplets consistently, release the float gently and wait for settling. Record a defined stem reading three or more times after independent placements."
+      ],
+      [
+        "Choose a reading convention",
+        "Read at eye level to reduce parallax and use the same meniscus convention every time. Record concentration and stem position with units, not just an unlabelled mark. For a float that rises with concentration, an immersion-length coordinate may decrease while a height-above-surface coordinate increases; define which you use."
+      ],
+      [
+        "Plot and inspect",
+        "Plot known concentration against the observed reading and inspect scatter and curvature. Use interpolation between nearby calibration points when justified. Do not assume a single straight line is accurate across the full range; test it against additional standards that were not used to set the scale."
+      ]
+    ],
+    "question": "Why are three readings without removing or disturbing the float a weak repeatability test?",
+    "answer": "They mostly repeat the same setup. Independent placements expose release, wetting, wall-contact and reading variation that a fixed float may hide.",
+    "sources": [
+      "R01",
+      "P01"
+    ],
+    "source_urls": [
+      "https://openstax.org/books/college-physics-2e/pages/11-7-archimedes-principle"
+    ],
+    "figure": {
+      "file": "calibration.svg",
+      "caption": "Use measured standards across the working range, examine scatter and validate with an independent unknown.",
+      "alt": "Multipoint salinity calibration graph",
+      "width_pt": 440
+    }
+  },
+  {
+    "id": "wq-build-interpolation",
+    "chapter": "Read an unknown",
+    "title": "Interpolate only within the tested range",
+    "deck": "Keep the scale direction explicit.",
+    "kind": "text",
+    "panels": [
+      [
+        "Define the scale direction",
+        "Here the reading is submerged length from a fixed lower mark on the instrument to the waterline. It decreases as concentration rises and the float sits higher. Another scale may measure exposed stem height, which increases instead. Either convention works when you calibrate and read the same coordinate consistently; never transfer numbers between the two scales."
+      ],
+      [
+        "A local calibration",
+        "Suppose a chosen immersion-length reading is 48 mm at 4% and 44 mm at 6%. An unknown gives 47 mm. Over this local interval, 1 mm out of the 4 mm change corresponds to one quarter of the 2 percentage-point concentration change. The estimated concentration is 4.5%."
+      ],
+      [
+        "State the assumption",
+        "That calculation assumes the relationship is sufficiently straight between those two nearby points. It is not a universal density law. If the unknown falls outside your endpoint readings, check preparation and measurement before extrapolating; the device may be out of range."
+      ],
+      [
+        "Round last",
+        "Carry enough digits through the calculation and round the final answer to the nearest tenth of a percent, as the rules request. A display with many decimal places does not overcome uncertain standards or a broad meniscus. Write the unit and concentration convention with the answer."
+      ]
+    ],
+    "question": "Using the same local calibration, what concentration corresponds to 45 mm?",
+    "answer": "5.5% mass/volume: the reading is three quarters of the way from 48 to 44 mm, so add three quarters of 2 percentage points to 4%.",
+    "sources": [
+      "R01"
+    ],
+    "source_urls": []
+  },
+  {
+    "id": "wq-build-validation",
+    "chapter": "Improve reliability",
+    "title": "Test an unknown before tournament day",
+    "deck": "Accuracy and precision need separate checks.",
+    "kind": "text",
+    "panels": [
+      [
+        "Blind testing",
+        "Ask a partner to prepare or select a known standard without revealing its concentration. Predict the result from the device, record it, then uncover the value. Repeat at different concentrations and on another day. This tests the whole process rather than your ability to read a label."
+      ],
+      [
+        "Error patterns",
+        "Readings tightly clustered but consistently high suggest bias. Widely scattered readings suggest poor repeatability. A concentration-dependent error suggests an inadequate calibration curve or range. Temperature changes, leaks, retained droplets, bubbles, wall contact and inconsistent meniscus reading are possible causes. Change one factor at a time."
+      ],
+      [
+        "Worked comparison",
+        "For a 5.0% standard, readings 5.6, 5.7 and 5.6% are precise but biased high. Readings 4.4, 5.0 and 5.6% have a mean of 5.0% but poor individual precision. Neither pattern is reassuring just because one summary number looks good."
+      ]
+    ],
+    "question": "Why should the final validation include solutions not used to draw calibration marks?",
+    "answer": "It checks prediction between calibration points and reveals overfitting or a mistaken assumed curve. Re-reading the same marked standards is not an independent test.",
+    "sources": [
+      "R01",
+      "P01"
+    ],
+    "source_urls": [
+      "https://openstax.org/books/college-physics-2e/pages/11-7-archimedes-principle"
+    ]
+  },
+  {
+    "id": "wq-build-log",
+    "chapter": "Improve reliability",
+    "title": "Keep a short experimental record",
+    "deck": "Record enough to reproduce a result and explain a decision.",
+    "kind": "text",
+    "panels": [
+      [
+        "Before a trial",
+        "Record device version, standard preparation, salt identity, final volume, concentration, temperature, beaker and reading convention. State the proposed change and a prediction. Keep the previous scale or photographs so you can compare versions."
+      ],
+      [
+        "During and after a trial",
+        "For each concentration record repeated raw stem readings, calculated concentration, known concentration and error. Note contact, bubbles, leaks or other anomalies rather than silently deleting them. Summarize the pattern before choosing a change."
+      ],
+      [
+        "A useful decision",
+        "Write “moved ballast lower; reduced tipping but sensitivity unchanged” rather than “better.” Keep the simplest reliable design that meets the range and accuracy needs. A more elaborate instrument can add failure modes without improving the competition result."
+      ]
+    ],
+    "question": "What information is lost if a notebook records only the average predicted concentration?",
+    "answer": "The raw scatter, setup anomalies, calibration reading and individual errors disappear. You cannot distinguish bias from poor repeatability or reproduce the calculation.",
+    "sources": [
+      "R01"
+    ],
+    "source_urls": [],
+    "worksheet": {
+      "kind": "trial",
+      "id": "wq-calibration-record",
+      "title": "Calibration and blind-check record",
+      "purpose": "Use one record for a device version and set of matched-temperature solutions. Practice record, not an additional competition reference sheet.",
+      "sections": [
+        {
+          "title": "Fixed conditions",
+          "kind": "fields",
+          "fields": [
+            {
+              "label": "Date / device version / operator"
+            },
+            {
+              "label": "Salt / preparation method / solution temperature (°C)"
+            },
+            {
+              "label": "Beaker / stem reading convention / proposed change"
+            }
+          ]
+        },
+        {
+          "title": "Repeated independent placements",
+          "kind": "table",
+          "columns": [
+            "Standard (% m/v)",
+            "Reading 1 (mm)",
+            "Reading 2 (mm)",
+            "Reading 3 (mm)",
+            "Estimated (% m/v)"
+          ],
+          "widths": [
+            0.2,
+            0.2,
+            0.2,
+            0.2,
+            0.2
+          ],
+          "rows": 6,
+          "row_height_pt": 26
+        },
+        {
+          "title": "Decision after testing",
+          "kind": "fields",
+          "fields": [
+            {
+              "label": "Bias, scatter, contacts/leaks or other anomalies",
+              "lines": 2
+            },
+            {
+              "label": "Keep or change? Evidence and next blind test",
+              "lines": 2
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "wq-build-tournament",
+    "chapter": "Use the instrument",
+    "title": "Make the procedure easy to repeat",
+    "deck": "Practice teamwork as well as construction.",
+    "kind": "text",
+    "panels": [
+      [
+        "Pack and inspect",
+        "Bring the student-built instrument, required Category C eye protection, writing tools, the permitted team reference sheet and up to two Class II calculators. The team sheet is one US Letter sheet with both sides usable; lamination or a protector is allowed, but added labels and extra sheets are not. Keep practice records at home unless their contents fit the allowed reference."
+      ],
+      [
+        "At the measurement station",
+        "Follow the supervisor’s directions. Wear Category C protection during salinometer testing. Inspect the instrument for damage, let it float freely, read consistently and report to the nearest 0.1%. Do not assume calibration solutions will be available or plan to use a laptop, tablet, programmable or Wi-Fi-capable device."
+      ],
+      [
+        "Divide roles",
+        "One teammate can position/read while the other checks units, scale direction, calculation and reporting. Swap roles in practice so either can recover from a problem. Current official rules and updates control the event; our material choices and suggested testing procedures are recommendations, not extra rules."
+      ]
+    ],
+    "question": "What should you do if a familiar calibration check suddenly shifts after transport?",
+    "answer": "Look for damage, leaks, changed ballast, temperature or reading problems and follow allowed supervisor procedures. Do not trust the old scale merely because it worked earlier.",
+    "sources": [
+      "R01",
+      "R04"
+    ],
+    "source_urls": [
+      "https://www.soinc.org/book/export/html/222"
+    ]
+  }
+]

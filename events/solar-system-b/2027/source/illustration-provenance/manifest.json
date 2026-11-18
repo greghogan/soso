@@ -1,0 +1,151 @@
+[
+  {
+    "file": "overview.jxl",
+    "title": "Habitability cutaway",
+    "generation": "built-in imagegen",
+    "prompt_specification": "Rich midnight/cyan/gold conceptual icy-moon cutaway with Jupiter, ice shell, water layer, rocky seafloor and hydrothermal mixing zone; no generated text. Quiet title and lower overlay areas.",
+    "scientific_overlay_requirements": "Ocean fills the interior. Ice exchange, Europa plumes and hydrothermal activity are hypotheses. Distinguish usable chemical energy from heat.",
+    "native_pixels": [
+      1102,
+      1427
+    ],
+    "format": "JPEG XL (lossless)",
+    "bytes": 1915968,
+    "sha256": "1aa52a3779f77b021ae3a269bbd55ba1f0e6a266f56860eef11750805d90ebe9",
+    "resampled": false,
+    "lossy_recompressed": false,
+    "style_reference": "User-provided three PNGs, viewed 24 October 2026; art direction only, not scientific authority.",
+    "original_png_sha256": "073d6cce238419673f56789752bdd42e2c44df31bfe8213e8789faeaff02aead",
+    "previous_file_sha256": "f9515bba91e5fdab3eb320845b4a5fdcbecffe46749f3768f9f1e459d46e849a",
+    "status": "superseded",
+    "former_path": "assets/original/overview.jxl",
+    "replaced_by": "assets/illustrations/overview.jxl"
+  },
+  {
+    "file": "worlds.jxl",
+    "title": "Ocean-moon comparison",
+    "generation": "built-in imagegen",
+    "prompt_specification": "Four realistic artistic moon portraits: Ganymede upper-left, Europa upper-right, Enceladus lower-left, Titan lower-right; cosmic atlas style, no generated labels.",
+    "scientific_overlay_requirements": "Portrait sizes are normalized. Artistic renderings are not maps. Enceladus south pole oriented upward. Titan atmospheric texture is illustrative.",
+    "native_pixels": [
+      1102,
+      1427
+    ],
+    "format": "JPEG XL (lossless)",
+    "bytes": 1734775,
+    "sha256": "ee37e9eecf3f2953721fd87163184f9f918adbe141657f9895dbf55940b8ff04",
+    "resampled": false,
+    "lossy_recompressed": false,
+    "style_reference": "User-provided three PNGs, viewed 24 October 2026; art direction only, not scientific authority.",
+    "original_png_sha256": "1dab65a0fcb922ac939f7ff71a41041e5fa2f0ba391d7ff7a87cd881dfb59595",
+    "previous_file_sha256": "9504576e42665783dcf9e09b5ba94ac615f04905ec0f998165b9c1772d7e2a7a",
+    "status": "active",
+    "former_path": "assets/original/worlds.jxl",
+    "master": "assets/illustrations/worlds.jxl"
+  },
+  {
+    "file": "detection.jxl",
+    "title": "Four detection methods",
+    "generation": "built-in imagegen",
+    "prompt_specification": "Four rich scenes: transit silhouette, star/planet RV concept, lensing concept, coronagraph/faint companion. No generated graphs or labels; precise vector signals added later.",
+    "scientific_overlay_requirements": "Microlensing generally measures unresolved brightening, not a resolved arc. Planet portraits do not imply resolved surfaces. Graphs are schematic.",
+    "native_pixels": [
+      1102,
+      1427
+    ],
+    "format": "JPEG XL (lossless)",
+    "bytes": 1568347,
+    "sha256": "47d02c67db934c6ed9861fc632bc99d7b7c6f2c4218ad18cb880042aa83859b7",
+    "resampled": false,
+    "lossy_recompressed": false,
+    "style_reference": "User-provided three PNGs, viewed 24 October 2026; art direction only, not scientific authority.",
+    "original_png_sha256": "2313d9062f115d9277309a88822884547aa987f4a75b941619d8dca366fc1aa9",
+    "previous_file_sha256": "19439bf01aaec1a95853ae3c5e6f07d45f82b8471f1c85759b0a4053ea5281c8",
+    "status": "retired-unused",
+    "former_path": "assets/original/detection.jxl"
+  },
+  {
+    "file": "energy.jxl",
+    "title": "Radiative energy",
+    "generation": "built-in imagegen",
+    "prompt_specification": "Sun-like star at left and illuminated rocky planet at right; quiet lower area for exact vector rays, geometry, graphs and equations. Cosmic atlas palette; no generated labels.",
+    "scientific_overlay_requirements": "Illustrative geometry, not to scale. Decorative spectral ribbon is not measured data. Vector equations carry quantitative claims.",
+    "native_pixels": [
+      1102,
+      1427
+    ],
+    "format": "JPEG XL (lossless)",
+    "bytes": 1835067,
+    "sha256": "2599269b8a50a3b8b4b67a4327fda789f0dc473c442ee83e58303daef869d8d8",
+    "resampled": false,
+    "lossy_recompressed": false,
+    "style_reference": "User-provided three PNGs, viewed 24 October 2026; art direction only, not scientific authority.",
+    "original_png_sha256": "a403baaa5511e50bf34401df2b1c7556f244958cd871ad438b5f0c6d5ad2e9de",
+    "previous_file_sha256": "efd229743d45e4dbebf7319ac97a7cf2122987c51ed1bc802c595e91a00e7b31",
+    "status": "retired-unused",
+    "former_path": "assets/original/energy.jxl"
+  },
+  {
+    "file": "rocky-worlds.jxl",
+    "title": "rocky-worlds",
+    "generation": "built-in imagegen",
+    "prompt_file": "prompts/rocky-worlds-prompt.txt",
+    "native_pixels": [
+      1102,
+      1427
+    ],
+    "format": "JPEG XL (lossless)",
+    "bytes": 1582585,
+    "sha256": "e757b8309aaa80ac63b7abf1c2eac95394988fd01b00b269cddb4fbe3e47bd10",
+    "resampled": false,
+    "lossy_recompressed": false,
+    "scientific_overlay_requirements": "See ../../research/design/art-generation-worlds.md; all artist illustrations, not maps, not to scale. Titan has two competing inferred interior models and a globe inset.",
+    "original_png_sha256": "569b706f63573e0ef09eb27d43e6bb854aaf84c981cef7167221fd2eb0ce69fc",
+    "previous_file_sha256": "ca7f3b13a859c206c7bf363966529693145eb265f2ae5c66b553fd06fca4d10a",
+    "status": "active",
+    "former_path": "assets/original/rocky-worlds.jxl",
+    "master": "assets/illustrations/rocky-worlds.jxl"
+  },
+  {
+    "file": "small-bodies.jxl",
+    "title": "small-bodies",
+    "generation": "built-in imagegen",
+    "prompt_file": "prompts/small-bodies-prompt.txt",
+    "native_pixels": [
+      1103,
+      1426
+    ],
+    "format": "JPEG XL (lossless)",
+    "bytes": 1436872,
+    "sha256": "7af7359d3f286efdd09ae229123e3ee7ea27ed5e0e192e076ca78a2045131258",
+    "resampled": false,
+    "lossy_recompressed": false,
+    "scientific_overlay_requirements": "See ../../research/design/art-generation-worlds.md; all artist illustrations, not maps, not to scale. Titan has two competing inferred interior models and a globe inset.",
+    "original_png_sha256": "98b3a328a7f9a64c5c4b7c9539ecee3b0f301097c51ac222eec16b7c2f8d6120",
+    "previous_file_sha256": "95095bfcd320a0410678dbec2f40f5655039c6125281a73ca310134f671c5348",
+    "status": "superseded",
+    "former_path": "assets/original/small-bodies.jxl",
+    "replaced_by": "assets/illustrations/small-bodies.jxl"
+  },
+  {
+    "file": "titan.jxl",
+    "title": "titan",
+    "generation": "built-in imagegen",
+    "prompt_file": "prompts/titan-prompt.txt",
+    "native_pixels": [
+      1102,
+      1427
+    ],
+    "format": "JPEG XL (lossless)",
+    "bytes": 1517379,
+    "sha256": "8ec39acf3c47a44e7895e128003c2cabc50aa96c5cc35fba289f97fb96a5c9d0",
+    "resampled": false,
+    "lossy_recompressed": false,
+    "scientific_overlay_requirements": "See ../../research/design/art-generation-worlds.md; all artist illustrations, not maps, not to scale. Titan has two competing inferred interior models and a globe inset.",
+    "original_png_sha256": "b43ce5862f0674e7cff3778abb2a03a2bc3799f554f68b619afd3bc42df7aaf7",
+    "previous_file_sha256": "e9b9eadd69c77d4d900a4963381b819eee40f2bc7818a33a3a81ec2bb98a192b",
+    "status": "superseded",
+    "former_path": "assets/original/titan.jxl",
+    "replaced_by": "assets/illustrations/titan.jxl"
+  }
+]

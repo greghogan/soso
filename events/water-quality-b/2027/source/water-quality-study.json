@@ -1,0 +1,704 @@
+[
+  {
+    "id": "wq-overview",
+    "chapter": "Read a changing environment",
+    "title": "From measurements to explanations",
+    "deck": "Water quality is a question about a place, an organism and a time.",
+    "kind": "text",
+    "panels": [
+      [
+        "Four connected challenges",
+        "The 2027 event combines ecology, reef-organism identification and interpretation of monitoring data, each contributing 30% of the score. A student-built salinity instrument supplies the remaining 10%. Treat the written portions as connected evidence: an organism observation becomes more useful when you know the habitat, water conditions and sampling method."
+      ],
+      [
+        "Learn to make a defensible claim",
+        "Begin with an observation, propose a mechanism, and identify another measurement that could challenge it. A cloudy sample might contain mineral sediment or algae; its appearance alone does not establish toxicity. A missing fish might reflect fishing, habitat change, migration or imperfect detection."
+      ],
+      [
+        "Practice before consulting the reference",
+        "Attempt each question without looking at its answer. Explain a mechanism in your own words, then revisit it in a mixed problem later. The separate exam reference retrieves familiar ideas; it cannot replace learning how to interpret a new graph or recognize a variable specimen. Part III uses supplied data rather than physical water-analysis tests performed by students."
+      ]
+    ],
+    "question": "One reef has fewer large groupers than another. What must you know before blaming water pollution?",
+    "answer": "Compare habitat, fishing pressure, sampling effort, visibility, season and fish movement, as well as water measurements. An abundance difference is evidence to investigate, not a unique diagnosis.",
+    "sources": [
+      "R01",
+      "R02"
+    ],
+    "source_urls": [
+      "https://www.soinc.org/water-quality-b"
+    ]
+  },
+  {
+    "id": "wq-estuaries",
+    "chapter": "Read a changing environment",
+    "title": "An estuary is a mixing zone",
+    "deck": "Freshwater input and tides continually reshape the habitat.",
+    "kind": "text",
+    "panels": [
+      [
+        "A gradient, not one salinity",
+        "In a coastal estuary, river water mixes with seawater. Salinity usually increases toward the sea, but tide, drought, rainfall and channel shape shift the pattern. Organisms must regulate water and ions across their body surfaces; tolerances differ between species and life stages."
+      ],
+      [
+        "Nursery and filter",
+        "Marshes, mangroves and seagrass habitats can provide feeding and shelter for young animals. Vegetation slows flow and traps some particles. These functions have limits: a wetland cannot safely absorb unlimited nutrients, sewage or toxic substances. Habitat loss can remove protection even if one water reading looks acceptable."
+      ],
+      [
+        "Predict before sampling",
+        "After heavy rain, a station near a river mouth may become fresher and more turbid. Compare samples at the same tide and depth before treating a difference as a long-term trend. A bay may contain several distinct water masses on the same day."
+      ]
+    ],
+    "question": "Why could salinity at one dock change substantially over six hours without a new pollution source?",
+    "answer": "Tidal exchange can move a different mixture of river water and seawater past the dock. Compare tide, river flow and depth before attributing the change to pollution.",
+    "sources": [
+      "E01",
+      "R01"
+    ],
+    "source_urls": [
+      "https://oceanservice.noaa.gov/education/tutorial_estuaries/"
+    ]
+  },
+  {
+    "id": "wq-watershed",
+    "chapter": "Read a changing environment",
+    "title": "Trace the watershed connection",
+    "deck": "A reef or estuary receives more than water from upstream.",
+    "kind": "text",
+    "panels": [
+      [
+        "Follow the route",
+        "Precipitation can run over land, infiltrate soil, enter groundwater, or return to the atmosphere through evaporation and transpiration. A watershed is the land area draining to an outlet. Surface and groundwater pathways connect activities far from the shoreline to coastal water."
+      ],
+      [
+        "Sources and timing",
+        "A pipe is a relatively identifiable point source; runoff from many streets or fields is diffuse. Impervious surfaces speed runoff, while exposed soil supplies sediment. Dissolved nutrients may travel differently from particles. Groundwater transport can delay the response to a land-management change."
+      ],
+      [
+        "Choose a mechanism to interrupt",
+        "Vegetated buffers, erosion control, better fertilizer timing, sewage treatment and restored wetlands address different pathways. Choose an intervention based on the source and transport process. Measure downstream response over enough time to detect delayed effects rather than expecting immediate recovery."
+      ]
+    ],
+    "question": "A downstream nutrient concentration stays high a month after fertilizer use declines. Does that prove the intervention failed?",
+    "answer": "No. Stored nutrients, groundwater delays and other sources can maintain the concentration. Evaluate transport time, flow and repeated measurements before concluding that source control failed.",
+    "sources": [
+      "R01",
+      "E02"
+    ],
+    "source_urls": [
+      "https://www.epa.gov/nutrientpollution"
+    ],
+    "figure": {
+      "file": "assets/illustrations/watershed-pathways.jxl",
+      "width_pt": 440,
+      "caption": "Trace runoff from fields and streets, the point-source outfall, and the vegetated riverbank. A sediment plume reveals transport, not the identity or concentration of dissolved pollutants.",
+      "alt": "Oblique coastal watershed with farms, town, wetland, outfall and sediment plume",
+      "after_panel": 0
+    }
+  },
+  {
+    "id": "wq-stratification",
+    "chapter": "Read a changing environment",
+    "title": "Layers control oxygen supply",
+    "deck": "Density differences can separate surface and bottom water.",
+    "kind": "text",
+    "panels": [
+      [
+        "How layers form",
+        "At otherwise similar conditions, saltier water is denser than fresher water. Temperature also affects density. Fresh surface water can overlie saltier bottom water; warm surface water can strengthen layering. Wind and tides may mix these layers, while sheltered conditions may let them persist."
+      ],
+      [
+        "The bottom-water trap",
+        "Microbes and animals consume oxygen below the surface. If a density boundary limits exchange, atmospheric oxygen and oxygen produced near the surface do not readily replace it. Bottom water can therefore lose oxygen even when surface water looks healthy."
+      ],
+      [
+        "Read a profile",
+        "Imagine surface salinity 12 and bottom salinity 28, with dissolved oxygen of 8 and 2 mg/L respectively. The observations support stratification and bottom oxygen depletion. They do not prove the cause of oxygen consumption; organic-matter supply and temperature are useful additional evidence."
+      ]
+    ],
+    "question": "Would a single surface oxygen measurement reliably characterize a strongly stratified estuary?",
+    "answer": "No. It can miss depleted bottom water. Measure a depth profile and record tide, temperature and salinity alongside oxygen.",
+    "sources": [
+      "E01",
+      "W01"
+    ],
+    "source_urls": [
+      "https://oceanservice.noaa.gov/education/tutorial_estuaries/",
+      "https://www.usgs.gov/water-science-school/science/dissolved-oxygen-and-water"
+    ]
+  },
+  {
+    "id": "wq-food-web",
+    "chapter": "Ecosystems and human pressure",
+    "title": "Follow energy and matter separately",
+    "deck": "Energy flows through food webs; nutrients are recycled.",
+    "kind": "text",
+    "panels": [
+      [
+        "Build the arrows correctly",
+        "Primary producers convert available energy into organic material. Consumers obtain food from other organisms; decomposers and detritivores process dead material and wastes. In a food web, draw an arrow from food to eater when the arrow represents energy transfer. A coral can receive photosynthetic products from symbionts and also capture food."
+      ],
+      [
+        "Not every organism fits one label",
+        "A food web is richer than a single chain. A fish may change diet with age. Omnivores connect several pathways; suspension feeders capture material carried in water. Energy is used in metabolism and leaves as heat, so it is not recycled like nitrogen or phosphorus atoms."
+      ],
+      [
+        "A grazing comparison",
+        "If herbivores decline, algae may face less grazing. More algae can compete with corals for space, but nutrient supply and disturbance also matter. Predict the direction of several linked changes instead of assuming every reef follows a single simple chain."
+      ]
+    ],
+    "question": "Why is “decomposers recycle energy back to producers” misleading?",
+    "answer": "Decomposers recycle nutrients and matter. Energy is transferred and eventually dissipated as heat; producers require a continuing energy input.",
+    "sources": [
+      "R01",
+      "E03"
+    ],
+    "source_urls": [
+      "https://www.noaa.gov/education/resource-collections/marine-life/coral-reef-ecosystems"
+    ]
+  },
+  {
+    "id": "wq-populations",
+    "chapter": "Ecosystems and human pressure",
+    "title": "Population changes need a mechanism",
+    "deck": "Births, deaths and movement all change local counts.",
+    "kind": "text",
+    "panels": [
+      [
+        "Count what changed",
+        "Population size changes through reproduction, mortality, immigration and emigration. A survey counts organisms detected in a sampled place, not necessarily the whole population. Tide, shelter, behavior and visibility can alter detection. Use the same search area, duration and method for comparisons."
+      ],
+      [
+        "Interactions",
+        "Competition is a shared demand for a limiting resource. Predation consumes another organism; parasitism benefits one partner at the other’s expense. Mutualism benefits both partners. These interactions depend on context: reef-building corals and their photosynthetic symbionts exchange resources, but heat stress can destabilize the relationship."
+      ],
+      [
+        "Density and disturbance",
+        "Food or space can limit population growth. A storm, heatwave or disease outbreak can abruptly change survival. A native predator can be important at ordinary abundance and damaging during an outbreak; “harmful species” is a contextual role, not proof that every individual should be removed."
+      ]
+    ],
+    "question": "A survey finds twice as many shrimp after divers search for twice as long. What comparison is fairer?",
+    "answer": "Compare detections per standardized effort and comparable habitat, while recognizing that detection may not increase perfectly linearly with search time.",
+    "sources": [
+      "R01",
+      "E03"
+    ],
+    "source_urls": [
+      "https://www.noaa.gov/education/resource-collections/marine-life/coral-reef-ecosystems"
+    ]
+  },
+  {
+    "id": "wq-nutrients",
+    "chapter": "Ecosystems and human pressure",
+    "title": "Nutrients can become an oxygen problem",
+    "deck": "The harmful effect may appear after the bloom.",
+    "kind": "text",
+    "panels": [
+      [
+        "A useful resource in excess",
+        "Nitrogen and phosphorus support growth, but excessive supply can stimulate blooms. Which nutrient limits growth varies with place, season and community. High nutrient concentration does not guarantee a bloom if light, temperature or another resource limits growth."
+      ],
+      [
+        "Follow the atoms",
+        "Producers incorporate dissolved nutrients into biomass; feeding moves those atoms through the food web, and decomposition releases them again. Nitrogen fixation converts nitrogen gas into biologically usable forms. Ammonification releases ammonium from organic matter; nitrification converts ammonium through nitrite to nitrate. Denitrification returns nitrate nitrogen to gas. Phosphorus moves from weathered rock and runoff into water, organisms and sediments. Carbon enters biomass through photosynthesis and returns as carbon dioxide through respiration and decomposition. A nutrient can change chemical form without leaving the ecosystem."
+      ],
+      [
+        "Follow the sequence",
+        "An enrichment pulse may increase algae. Algae and animals respire, and microbes decompose organic material when cells die. This oxygen demand can deplete the water, especially where mixing is weak. A daytime surface oxygen peak does not rule out low oxygen before dawn or at depth."
+      ],
+      [
+        "Harmful algal blooms",
+        "Some blooms produce toxins; others cause harm through shading, oxygen depletion or physical effects. Water color alone cannot identify a toxin or establish safety. Never taste a sample or use appearance to decide whether water is safe to drink or swim in."
+      ]
+    ],
+    "question": "A bloom has high afternoon oxygen but fish die overnight. Give a plausible mechanism and one useful test.",
+    "answer": "Photosynthesis can raise daytime oxygen, while respiration continues after dark and lowers it. A time series that includes predawn oxygen, plus depth measurements, can test this explanation.",
+    "sources": [
+      "E02",
+      "W01",
+      "W02",
+      "E10"
+    ],
+    "source_urls": [
+      "https://www.epa.gov/nutrientpollution",
+      "https://www.usgs.gov/water-science-school/science/dissolved-oxygen-and-water",
+      "https://www.usgs.gov/water-science-school/science/biochemical-oxygen-demand-bod-and-water",
+      "https://openstax.org/books/biology-2e/pages/46-3-biogeochemical-cycles"
+    ]
+  },
+  {
+    "id": "wq-reef-health",
+    "chapter": "Ecosystems and human pressure",
+    "title": "Bleaching is not the same as death",
+    "deck": "Look for living tissue and environmental context.",
+    "kind": "text",
+    "panels": [
+      [
+        "A living animal and a skeleton",
+        "Stony corals are animals that build calcium-carbonate skeletons. Many shallow reef-building corals host photosynthetic symbionts. Bleaching means a loss of symbionts or their pigments, so the pale skeleton becomes more visible through living tissue. A bleached colony can recover if stress subsides."
+      ],
+      [
+        "Recently killed coral",
+        "Dead coral has lost living tissue. A freshly exposed skeleton can initially look pale and later become colonized by algae and other organisms. Color alone is not a reliable tissue assessment. Learn to distinguish live polyps/tissue, exposed skeleton and overgrowth using suitable photographs and context."
+      ],
+      [
+        "Multiple pressures",
+        "Heat stress, sediment, destructive fishing, disease, nutrient enrichment and altered chemistry can interact. Sediment can shade or bury tissue; excess algae can compete for space. Healthy reefs still contain predators and dead patches. Evaluate patterns and change through time, not an unrealistic “perfect” reef."
+      ]
+    ],
+    "question": "Why would labeling every white coral as dead distort a reef survey?",
+    "answer": "It combines living but bleached colonies with dead skeletons. These states have different recovery possibilities and require different evidence.",
+    "sources": [
+      "E04",
+      "E03"
+    ],
+    "source_urls": [
+      "https://www.noaa.gov/education/resource-collections/marine-life/coral-reef-ecosystems",
+      "https://oceanservice.noaa.gov/facts/coral_bleach.html"
+    ],
+    "figure": {
+      "file": "assets/illustrations/coral-health-comparison.jxl",
+      "width_pt": 440,
+      "caption": "Conceptual comparison. Left: healthy coral. Center: bleached coral with living tissue. Right: dead skeleton colonized by algae. These are contrasting states, not an inevitable sequence: bleached coral can recover. Actual surveys require tissue evidence and context, not color alone.",
+      "alt": "Three coral states compared: healthy, bleached, and algae-colonized skeleton",
+      "after_panel": 0
+    }
+  },
+  {
+    "id": "wq-acidification",
+    "chapter": "Ecosystems and human pressure",
+    "title": "pH and aragonite describe different things",
+    "deck": "A lower pH can occur while seawater remains basic.",
+    "kind": "text",
+    "panels": [
+      [
+        "Read the pH scale",
+        "pH describes hydrogen-ion activity on a logarithmic scale. A decrease of one pH unit corresponds to about ten times the hydrogen-ion activity. “Acidification” means decreasing pH; it does not require the water to fall below pH 7. Do not average pH values as though they were linear concentrations."
+      ],
+      [
+        "Carbonate availability",
+        "Dissolved carbon dioxide participates in reactions that increase hydrogen ions and reduce available carbonate ions. Corals and many shell-forming organisms use calcium and carbonate to form calcium carbonate. The chemistry depends on temperature, salinity, pressure and alkalinity as well as pH."
+      ],
+      [
+        "Aragonite saturation",
+        "Aragonite is a calcium-carbonate mineral. Its saturation state compares the relevant ion supply with the equilibrium requirement. Values below 1 favor dissolution thermodynamically; values above 1 are supersaturated. Supersaturation does not guarantee healthy coral growth, because physiology, food, temperature and other stressors still matter."
+      ],
+      [
+        "Know how pH is measured",
+        "A pH electrode compares an electrical response with reference buffers. Calibrate with suitable known buffers, record temperature and allow the reading to settle. Dirty electrodes, old buffers and delayed sampling can bias a result. A color comparator is less precise than a well-maintained laboratory meter. At this event you interpret such procedures and results, not perform the laboratory test."
+      ]
+    ],
+    "question": "An estuary shifts from pH 8.1 to 7.9. Is it acidifying even though both measurements exceed 7?",
+    "answer": "Yes. Its pH decreased. That direction matters for carbonate chemistry even though the water remains on the basic side of neutral under ordinary conditions.",
+    "sources": [
+      "W03",
+      "E05",
+      "M-PH"
+    ],
+    "source_urls": [
+      "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-acidification",
+      "https://www.usgs.gov/water-science-school/science/ph-and-water",
+      "https://archive.epa.gov/water/archive/web/html/vms54.html"
+    ]
+  },
+  {
+    "id": "wq-treatment",
+    "chapter": "Ecosystems and human pressure",
+    "title": "Drinking-water and wastewater treatment have different jobs",
+    "deck": "A clear sample is not necessarily safe.",
+    "kind": "text",
+    "panels": [
+      [
+        "Make source water potable",
+        "A conventional surface-water treatment train may destabilize particles by coagulation, form larger flocs, settle them, filter remaining particles and disinfect. Actual plants vary with source water. Removing suspended particles does not automatically remove every dissolved salt, medicine or persistent chemical. Desalination requires an appropriate separation process."
+      ],
+      [
+        "Treat used water",
+        "Wastewater treatment commonly separates large solids, settles material and uses microorganisms to consume degradable organic matter. Clarification separates biomass; disinfection reduces pathogens. Additional processes can remove nutrients. Sludge needs separate handling. Treatment is an engineered sequence, not simply “add chlorine.”"
+      ],
+      [
+        "Choose what to monitor",
+        "Compare influent and effluent using relevant measurements: suspended solids, oxygen demand, microbes and nutrients. Good removal of one contaminant does not establish complete removal of another. Preventing a contaminant from entering a waterway can be more effective than relying only on downstream treatment."
+      ]
+    ],
+    "question": "Why might a plant produce low-turbidity water that still needs additional treatment?",
+    "answer": "Dissolved substances and microorganisms may remain even when particles have been removed. Clarity is only one property, not a complete safety test.",
+    "sources": [
+      "R01",
+      "E06",
+      "E09"
+    ],
+    "source_urls": [
+      "https://www.cdc.gov/drinking-water/about/how-water-treatment-works.html",
+      "https://www.usgs.gov/water-science-school/science/wastewater-treatment-water-use"
+    ]
+  },
+  {
+    "id": "wq-contaminants",
+    "chapter": "Ecosystems and human pressure",
+    "title": "Pollution is more than visible litter",
+    "deck": "Different contaminants need different evidence.",
+    "kind": "text",
+    "panels": [
+      [
+        "Sediment and emerging chemicals",
+        "Sediment can bury habitat and reduce light. Medicines, industrial chemicals and PFAS can enter water through different pathways. Many PFAS persist for long periods, but the group includes many compounds with different behavior. A clear-water photograph cannot tell you whether such chemicals are present."
+      ],
+      [
+        "Marine debris",
+        "Floating debris can accumulate in the North and South Pacific, North and South Atlantic, and Indian Ocean subtropical gyres. These are shifting concentrations, not five solid islands. Plastic fragments occur through the water column as well as at the surface. Animals may ingest debris or become entangled."
+      ],
+      [
+        "Source control and scale",
+        "A beach cleanup removes accessible debris but cannot by itself prevent continuing inputs or remove every microplastic. Compare prevention, improved waste handling, fishing-gear management and cleanup as complementary approaches. State the scale of a claim: a local litter decrease is not proof of ocean-wide recovery."
+      ]
+    ],
+    "question": "Why does sailing through a garbage-patch region without seeing a floating island not disprove debris accumulation?",
+    "answer": "The debris is dispersed, much of it small or below the surface. Its concentrations and boundaries shift with circulation rather than forming a continuous island.",
+    "sources": [
+      "E07",
+      "E08",
+      "R01"
+    ],
+    "source_urls": [
+      "https://www.epa.gov/pfas/pfas-explained",
+      "https://oceanservice.noaa.gov/facts/garbagepatch.html"
+    ]
+  },
+  {
+    "id": "wq-identification",
+    "chapter": "Recognize and interpret reef life",
+    "title": "Identify a combination of features",
+    "deck": "Use the atlas to compare, not just memorize a photograph.",
+    "kind": "text",
+    "panels": [
+      [
+        "Start broad, then refine",
+        "First decide whether the organism is a fish, crustacean, mollusk, echinoderm, coral, sponge or alga. Then compare body outline, fins or limbs, mouth, spines, shell form, texture and habitat. Color is useful but varies with age, lighting and behavior. A common name is the event answer, but scientific scope helps avoid mismatched examples."
+      ],
+      [
+        "Use the corrected list",
+        "The November 6 correction includes spiny lobsters rather than clawed lobsters, corrected pencil-urchin spelling, revised parrotfish classification, and alternative names for humpback grouper and sea fans. The atlas follows that corrected list. The “around the globe” group is a study grouping; it does not mean each listed species occurs in every ocean."
+      ],
+      [
+        "Practice transfer",
+        "Hide labels, identify a new image, name two diagnostic features and explain one look-alike difference. Then state feeding role, life-cycle pattern and ecological relevance. For grouper and parrotfish targets with size thresholds, an unscaled photograph cannot establish body length."
+      ]
+    ],
+    "question": "An unfamiliar reef animal has a robust segmented body, long antennae and no large front claws. Why should “lobster” alone not end your reasoning?",
+    "answer": "The corrected target is spiny lobster. The combination of long antennae and lack of enlarged claws supports it; compare the full body and other features rather than assuming all lobsters match the required family.",
+    "sources": [
+      "R01",
+      "R03"
+    ],
+    "source_urls": [
+      "https://www.soinc.org/events/rules-corrections"
+    ]
+  },
+  {
+    "id": "wq-indicators",
+    "chapter": "Recognize and interpret reef life",
+    "title": "An indicator is a clue, not a verdict",
+    "deck": "Interpret organisms in a community and through time.",
+    "kind": "text",
+    "panels": [
+      [
+        "Several routes to change",
+        "Large predator fish can decline through fishing or habitat loss. Grazers influence algal cover. Some organisms depend strongly on live coral; others can persist on disturbed reefs. The same count can have different meaning in different habitats. Species abundance is not a direct chemical instrument."
+      ],
+      [
+        "Life cycles link places",
+        "Many reef animals have drifting larval stages and more localized adults. Recruitment depends on spawning, larval survival, currents and settlement habitat. Adult abundance can change long after a water-quality event. Not all species share the same reproductive strategy, so use each atlas entry’s qualifications."
+      ],
+      [
+        "Compare equivalent observations",
+        "Record location, depth, habitat, transect area, survey effort and visibility. Repeat across time and include reference sites. Pair organism counts with coral condition, algae, nutrients and other water measurements. More independent lines of evidence can narrow competing explanations."
+      ]
+    ],
+    "question": "Two reefs have equal coral cover, but one has much lower grazing-fish abundance. What should you monitor next?",
+    "answer": "Follow algal cover and coral recruitment through time, and check fishing, habitat and survey differences. Low grazers may increase future algal competition, but the observation alone does not prove the outcome.",
+    "sources": [
+      "R01",
+      "E03"
+    ],
+    "source_urls": [
+      "https://www.noaa.gov/education/resource-collections/marine-life/coral-reef-ecosystems"
+    ]
+  },
+  {
+    "id": "wq-sampling",
+    "chapter": "Water measurements as evidence",
+    "title": "A number needs a sampling story",
+    "deck": "Record where, when, how and in what units.",
+    "kind": "text",
+    "panels": [
+      [
+        "Compare like with like",
+        "A useful record includes station, date, time, tide, depth, weather, method, calibration and units. Sampling surface water at noon and bottom water before dawn confounds depth and time. Replicates estimate variability; reference samples and instrument checks help identify systematic errors."
+      ],
+      [
+        "Do not confuse quantities",
+        "Concentration describes amount per volume or mass. Load describes amount transported per time. A diluted river can have a lower concentration but carry more total pollutant because its flow is much larger. Percent change is a relative comparison; an absolute difference retains the original units."
+      ],
+      [
+        "Worked example",
+        "A stream carries 2 mg/L of nitrate at 100 L/s: its transported rate is 200 mg/s. After rain it carries 1.5 mg/L at 300 L/s: 450 mg/s. Concentration fell, but the nitrate transport rate rose. Check that the substance and sampling period are comparable before interpreting the result."
+      ]
+    ],
+    "question": "Why can repeated measurements that are nearly identical still be wrong?",
+    "answer": "They may be precise but biased by a miscalibrated instrument, contaminated sample or consistent procedural error. Check against an independent standard, not only against repeated readings.",
+    "sources": [
+      "R01"
+    ],
+    "source_urls": []
+  },
+  {
+    "id": "wq-salinity",
+    "chapter": "Water measurements as evidence",
+    "title": "Salinity numbers need units",
+    "deck": "Oceanographic salinity and the device’s concentration are not interchangeable.",
+    "kind": "text",
+    "panels": [
+      [
+        "What is being measured?",
+        "Dissolved salts influence density, conductivity and organisms’ water balance. Practical salinity is inferred from a defined conductivity relationship; it is not simply a mass percentage. Natural seawater contains a mixture of ions. The competition device measures a supplied salt solution over a specified mass/volume range."
+      ],
+      [
+        "The event concentration",
+        "Here, 1% mass/volume means 1 g of solute per 100 mL of final solution. A 5% solution therefore contains 50 g/L. Do not call that exactly 50 parts per thousand by mass: the mass of a liter of solution is not necessarily 1 kg."
+      ],
+      [
+        "A changing estuary",
+        "Rain and river flow tend to dilute coastal water; evaporation tends to concentrate dissolved salts. Mixing changes both concentration and habitat. A sudden shift may stress organisms adapted to a narrower range. Compare temperature and depth because both affect measurement and ecological interpretation."
+      ]
+    ],
+    "question": "How much salt is required to prepare 500 mL of 4% mass/volume solution, and is that 500 mL of starting water?",
+    "answer": "20 g of salt, diluted to a final solution volume of 500 mL. It is not 20 g added to exactly 500 mL of starting water.",
+    "sources": [
+      "R01",
+      "E01"
+    ],
+    "source_urls": [
+      "https://oceanservice.noaa.gov/education/tutorial_estuaries/"
+    ]
+  },
+  {
+    "id": "wq-oxygen",
+    "chapter": "Water measurements as evidence",
+    "title": "Oxygen supply and demand must balance",
+    "deck": "Dissolved oxygen is available oxygen; BOD measures consumption under a test protocol.",
+    "kind": "text",
+    "panels": [
+      [
+        "Read dissolved oxygen",
+        "DO is molecular oxygen dissolved in water, often reported in mg/L or percent saturation. It is not the oxygen chemically bound in water molecules. Temperature, salinity and pressure affect saturation; warmer or saltier water generally holds less oxygen at equilibrium with air. Photosynthesis, respiration and mixing also change actual DO."
+      ],
+      [
+        "Read biochemical oxygen demand",
+        "BOD estimates oxygen consumed by microorganisms under specified test conditions and duration. A higher result indicates greater oxygen demand in that test; it is not the oxygen left in the water. In a simple undiluted teaching example, a fall from 8 to 3 mg/L over the test gives 5 mg/L consumption. Real procedures may require dilution, blanks and other corrections."
+      ],
+      [
+        "Combine the evidence",
+        "High BOD and low DO support an organic-loading explanation, especially with weak mixing. Low DO alone can also result from warm water or stratification. Record when the sample was collected: photosynthesis and respiration can create strong daily cycles."
+      ],
+      [
+        "Protect the sample from artificial oxygen changes",
+        "DO may be measured with a calibrated probe or a chemical titration method. Avoid adding air by splashing or trapping bubbles; record depth, time and temperature. A stored sample can keep respiring after collection, so a late result may not represent the original water. BOD instead deliberately measures oxygen loss over a specified incubation."
+      ]
+    ],
+    "question": "Which observation means less oxygen remains: DO of 2 mg/L or BOD of 2 mg/L?",
+    "answer": "DO of 2 mg/L directly reports the remaining dissolved oxygen concentration. BOD of 2 mg/L reports oxygen consumed under the test conditions; it does not specify the current DO.",
+    "sources": [
+      "W01",
+      "W02",
+      "M-DO"
+    ],
+    "source_urls": [
+      "https://www.usgs.gov/water-science-school/science/dissolved-oxygen-and-water",
+      "https://www.usgs.gov/water-science-school/science/biochemical-oxygen-demand-bod-and-water",
+      "https://archive.epa.gov/water/archive/web/html/vms52.html"
+    ]
+  },
+  {
+    "id": "wq-solids",
+    "chapter": "Water measurements as evidence",
+    "title": "Turbidity and solids are related, not identical",
+    "deck": "An optical reading is not a mass measurement.",
+    "kind": "text",
+    "panels": [
+      [
+        "See the distinction",
+        "Turbidity measures light scattering or related optical behavior under a defined method, commonly reported in NTU. Total solids includes dissolved and suspended material remaining under the stated analytical procedure. Salt can raise dissolved solids while leaving a solution visually clear; fine clay can strongly increase turbidity."
+      ],
+      [
+        "Effects on organisms",
+        "Suspended particles can reduce light for photosynthesis, carry attached contaminants, interfere with feeding and settle onto habitat. Larger mineral grains may settle rapidly while fine particles remain suspended. The same solids concentration can produce different turbidity for different particle sizes and compositions."
+      ],
+      [
+        "Choose the next test",
+        "If water becomes cloudy after rain, compare turbidity with suspended solids, nutrients and biological observations. If water is clear but conductivity rises, dissolved ions are a candidate explanation. Neither observation alone identifies a particular pollutant."
+      ],
+      [
+        "Match the instrument to the question",
+        "A turbidity meter compares scattered light with standards; dirty sample cells, bubbles and settling particles can distort readings. A solids test dries a measured sample volume and weighs the residue after subtracting the empty container mass. Divide residue mass by sample volume to obtain concentration. The drying and filtration protocol determines which material is counted; do not substitute an optical turbidity reading for that mass."
+      ]
+    ],
+    "question": "Can you convert every NTU reading to mg/L of solids using one universal factor?",
+    "answer": "No. Particle size, shape, composition and the measurement method affect the optical response. A local calibration may be useful for a particular sediment, but it is not universal.",
+    "sources": [
+      "W04",
+      "R01",
+      "M-SOLIDS",
+      "M-TURBIDITY"
+    ],
+    "source_urls": [
+      "https://www.usgs.gov/water-science-school/science/turbidity-and-water",
+      "https://archive.epa.gov/water/archive/web/html/vms58.html",
+      "https://archive.epa.gov/water/archive/web/html/vms55.html"
+    ]
+  },
+  {
+    "id": "wq-microbes-nutrients",
+    "chapter": "Water measurements as evidence",
+    "title": "Read nutrients and microbial indicators cautiously",
+    "deck": "Detection, risk and cause are different claims.",
+    "kind": "text",
+    "panels": [
+      [
+        "Nitrate and phosphate",
+        "These are nutrient measurements, not a complete inventory of nitrogen or phosphorus. Check whether a result is reported as the element or as the full ion before comparing numbers. Dissolved and total measurements also differ. A time series and nearby source information are more useful than a single unexplained value."
+      ],
+      [
+        "Fecal coliform",
+        "Fecal-coliform counts are indicators used to assess possible fecal contamination. They do not directly count every pathogen or uniquely identify a human source. Wildlife, livestock, sewage and sampling conditions can matter. Units may be counts per 100 mL under a particular method; compare methods as well as numbers."
+      ],
+      [
+        "Safety and inference",
+        "Do not culture unknown environmental microbes at home for this event or taste water. Part III is data interpretation, not a requirement to run these tests. A test result supports a bounded statement about the measured indicator, not a guarantee that water is safe or unsafe in every use."
+      ],
+      [
+        "Interpret a nutrient test",
+        "Many nitrate and phosphate methods use a reagent that creates color, then compare its intensity with standards. A blank checks background color or contamination. Filtration or digestion changes the nutrient fraction measured, so reactive phosphate and total phosphorus are not interchangeable. Check that the method works for the sample matrix and concentration range; a freshwater kit is not automatically suitable for seawater."
+      ]
+    ],
+    "question": "A downstream sample has more fecal-coliform colonies than an upstream sample. Can you conclude that a particular sewer is leaking?",
+    "answer": "Not from those two counts alone. The evidence supports investigating fecal contamination, but source tracking, repeated samples, flow information and other possible sources are needed.",
+    "sources": [
+      "R01",
+      "E02",
+      "M-NITRATE",
+      "M-PHOSPHATE"
+    ],
+    "source_urls": [
+      "https://www.epa.gov/nutrientpollution",
+      "https://archive.epa.gov/water/archive/web/html/vms57.html",
+      "https://archive.epa.gov/water/archive/web/html/vms56.html"
+    ]
+  },
+  {
+    "id": "wq-case-storm",
+    "chapter": "Put the evidence together",
+    "title": "Case study: after the storm",
+    "deck": "Separate observations, explanations and tests.",
+    "kind": "text",
+    "panels": [
+      [
+        "The supplied observations",
+        "This original practice dataset compares one station at the same tidal stage; the measurements are shown below. Salinity is practical salinity, not device % mass/volume. Nitrate is reported as nitrogen."
+      ],
+      [
+        "Build an explanation",
+        "The freshening and turbidity increase are consistent with runoff. The delayed oxygen decrease could reflect biological consumption following an organic or nutrient input, but temperature and stratification are alternatives or contributing factors. Notice that the largest oxygen change is not on the cloudiest day."
+      ],
+      [
+        "Test competing ideas",
+        "Request depth profiles, temperature, BOD, chlorophyll or algal observations, and repeated DO through the daily cycle. Compare a reference station and river discharge. A causal argument improves when it predicts observations beyond the ones used to invent it."
+      ]
+    ],
+    "question": "Name one conclusion supported directly by the dataset and one conclusion that remains a hypothesis.",
+    "answer": "Direct observation: DO fell from 7 to 3 mg/L over the sampled interval. Hypothesis: decomposition after runoff caused that fall. The mechanism needs additional evidence; the timing alone does not prove it.",
+    "sources": [
+      "R01"
+    ],
+    "source_urls": [],
+    "table": {
+      "compact": true,
+      "headers": [
+        "Measurement",
+        "Before rain",
+        "1 day after",
+        "4 days after"
+      ],
+      "rows": [
+        [
+          "Practical salinity",
+          "25",
+          "15",
+          "22"
+        ],
+        [
+          "Turbidity (NTU)",
+          "4",
+          "35",
+          "8"
+        ],
+        [
+          "Nitrate (mg/L as N)",
+          "0.3",
+          "1.2",
+          "0.8"
+        ],
+        [
+          "DO (mg/L)",
+          "7",
+          "6",
+          "3"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "wq-mixed-review",
+    "chapter": "Put the evidence together",
+    "title": "Practice a complete explanation",
+    "deck": "Use more than one type of evidence.",
+    "kind": "text",
+    "panels": [
+      [
+        "Scenario",
+        "An estuary receives a nutrient pulse. A shallow reef nearby has fewer grazers, increasing fleshy algae and some pale corals. Afternoon surface DO remains high, but bottom DO is low. The observations are deliberately incomplete."
+      ],
+      [
+        "Questions",
+        [
+          "Explain how high surface DO can coexist with low bottom DO.",
+          "Give two reasons pale corals cannot simply be counted as recently killed coral.",
+          "Describe one way reduced grazing and nutrient enrichment could interact.",
+          "Propose a sampling plan that distinguishes daily cycles from depth differences.",
+          "Name one datum that would help distinguish fishing pressure from poor water quality as the cause of fewer grazers."
+        ]
+      ],
+      [
+        "Answers",
+        [
+          "Surface photosynthesis and air exchange can maintain high DO while bottom respiration depletes oxygen beneath a mixing barrier.",
+          "Living bleached tissue can expose the white skeleton, and color varies with lighting and tissue condition; assess tissue and follow change through time.",
+          "More nutrient supply may promote algae while fewer grazers reduce removal; both can increase competition with corals.",
+          "Sample matched surface and bottom stations repeatedly through day and night while recording salinity, temperature and tide.",
+          "Fishing effort or catch records, matched protected sites, size distributions and standardized surveys could help; no one datum guarantees a unique answer."
+        ]
+      ]
+    ],
+    "question": "What makes a strong answer more than a list of facts?",
+    "answer": "It links observations to a plausible mechanism, states assumptions and alternatives, and proposes evidence that could distinguish them.",
+    "sources": [
+      "R01",
+      "E02",
+      "E03"
+    ],
+    "source_urls": [
+      "https://www.epa.gov/nutrientpollution",
+      "https://www.noaa.gov/education/resource-collections/marine-life/coral-reef-ecosystems"
+    ]
+  }
+]

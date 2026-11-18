@@ -1,0 +1,35 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Reef identification practice | Water Quality B 2027</title><link rel="stylesheet" href="practice.css"></head><body><header><a href="../index.html">Water Quality B</a></header><main><h1>Reef identification practice</h1><p>Describe two diagnostic features before revealing the name. These examples teach recognition; the pool includes different species, views and life stages, but is not exhaustive. Give the event group rather than guessing an exact species when the evidence is insufficient. Image captions appear after reveal so they do not give away the target.</p><label for="practice-mode">Practice set</label> <select id="practice-mode"><option value="all">All reef targets</option><option value="fish">Snappers and sweetlips comparison</option></select><label for="exercise-mode">Exercise format</label> <select id="exercise-mode"><option value="photo">Identify from photograph</option><option value="described">Described-image study</option></select><p>For a text-based alternative, choose described-image study. The description may name the organism; use it to explain which features support its identification rather than guessing its name.</p><p id="image-description" hidden></p><p id="progress" aria-live="polite"></p><article><figure><img id="photo" alt="Unlabeled reef organism; describe visible diagnostic features before revealing its name."><figcaption id="credit" hidden></figcaption><p id="credit-links" hidden><a id="image-source">Photo source</a> · <a id="image-license">Photo license</a></p></figure><label for="guess">Your identification and evidence</label><br><input id="guess" style="max-width:90%;width:90%" autocomplete="off"><button id="reveal">Reveal and compare</button><section id="answer" tabindex="-1" aria-live="polite" aria-atomic="true" hidden><h2 id="name"></h2><p id="diagnostic"></p><p id="ecology"></p></section></article><button id="next">Next photograph</button><button id="reset">Restart</button><noscript>JavaScript is needed for this exercise. The complete labeled atlas and questions are available in the study guide.</noscript></main><footer>Independent SOSO learning material. Not affiliated with or endorsed by Science Olympiad.</footer><script>
+const organisms=@@ORGANISMS@@;
+let index=0, examples=organisms;
+const byId=id=>document.getElementById(id);
+function show(){
+ const r=examples[index];
+ byId('progress').textContent=`Example ${index+1} of ${examples.length}`;
+ byId('photo').src=r.image;
+ const described=byId('exercise-mode').value==='described';
+ byId('photo').alt=described ? (r.alt||r.diagnostic) : 'Unlabeled reef-organism photograph. For a text-based alternative choose described-image study.';
+ byId('image-description').hidden=!described;
+ byId('image-description').textContent=described ? (r.alt||r.diagnostic) : '';
+ byId('photo').hidden=!r.image;
+ for(const id of ['answer','credit','credit-links'])byId(id).hidden=true;
+ byId('image-source').href=r.image_source;byId('image-license').href=r.image_license_url;
+ byId('guess').value='';
+ byId('name').textContent=r.name+' — '+r.scientific_name;
+ byId('diagnostic').textContent=r.diagnostic;
+ byId('ecology').textContent=r.ecology;
+ byId('credit').textContent=r.caption;
+}
+byId('reveal').onclick=()=>{
+ for(const id of ['answer','credit','credit-links'])byId(id).hidden=false;
+ byId('photo').alt=examples[index].alt||examples[index].diagnostic;
+ byId('answer').focus();
+};
+byId('next').onclick=()=>{index=(index+1)%examples.length;show();};
+byId('reset').onclick=()=>{index=0;show();};
+byId('exercise-mode').onchange=show;
+byId('practice-mode').onchange=()=>{
+ examples=byId('practice-mode').value==='fish' ? organisms.filter(r=>['snapper','sweetlips'].includes(r.organism_id)) : organisms;
+ index=0;show();
+};
+show();
+</script></body></html>

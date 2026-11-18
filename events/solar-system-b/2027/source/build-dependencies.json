@@ -1,0 +1,25 @@
+{
+  "current_study_guide": {
+    "pdf_entry": "source/build_study.py",
+    "web_entry": "source/build_web.py",
+    "inputs": [
+      "source/lessons.json",
+      "source/source-registry.json",
+      "assets/illustrations",
+      "source/legacy_diagrams.py",
+      "source/diagrams_light.py",
+      "source/diagrams",
+      "../../../shared/guide-style.tex",
+      "../../../shared/fonts"
+    ]
+  },
+  "unchanged_exam_reference": {
+    "entry": "source/exam-reference/build.py",
+    "inputs": [
+      "source/exam-reference/content.json",
+      "source/exam-reference/export_tex.py",
+      "source/exam-reference/validate.py",
+      "source/exam-reference/status-sources.html"
+    ]
+  }
+}

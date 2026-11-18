@@ -1,0 +1,274 @@
+{
+  "photos": [
+    {
+      "id": "flamingo-tongue-shell",
+      "organism_id": "flamingo-tongue",
+      "lesson_id": "wq-identification",
+      "title": "The pattern is on the mantle",
+      "path": "assets/supplemental/flamingo-tongue-shell.jxl",
+      "caption": "A bare flamingo tongue shell lacks the living snail’s spotted mantle. Compare shell shape and the long narrow aperture with the living example; the conspicuous pattern belongs to tissue that can cover the shell.",
+      "alt": "Smooth pale flamingo tongue shell seen from below, with a long narrow aperture and no spotted mantle.",
+      "source_id": "wq-photo-flamingo-tongue-shell"
+    },
+    {
+      "id": "staghorn-coral",
+      "organism_id": "stony-coral",
+      "lesson_id": "wq-identification",
+      "title": "One category, different branching forms",
+      "path": "assets/supplemental/staghorn-coral.jxl",
+      "caption": "Staghorn coral (Acropora cervicornis) has long, open branches. Compare it with the shorter, closely packed branches in the atlas’s stony-coral example. Colony shape varies within hard corals; learn more than one silhouette.",
+      "alt": "Golden staghorn coral with long open branches rising above a reef, against blue water.",
+      "source_id": "wq-photo-staghorn-coral"
+    },
+    {
+      "id": "snapper-night",
+      "organism_id": "snapper",
+      "lesson_id": "wq-identification",
+      "title": "Same species, different appearance",
+      "path": "assets/supplemental/snapper-night.jxl",
+      "caption": "Another bluestripe snapper (Lutjanus kasmira), photographed at night, shows pale bars across its blue stripes. Lighting and coloration can change; compare structural features with the other bluestripe example.",
+      "alt": "Bluestripe snapper at night, with pale vertical bars crossing its blue stripes.",
+      "source_id": "wq-photo-snapper-night"
+    },
+    {
+      "id": "snapper-schoolmaster",
+      "organism_id": "snapper",
+      "lesson_id": "wq-identification",
+      "title": "Compare another snapper species",
+      "path": "assets/supplemental/snapper-schoolmaster.jxl",
+      "caption": "Schoolmaster snapper (Lutjanus apodus), shown in a head-and-body detail. Compare its snout and mouth with the bluestripe snapper. The cropped tail cannot be used as evidence here.",
+      "alt": "Close view of a schoolmaster snapper angled downward, showing scales, pointed snout, mouth and eye; tail outside frame.",
+      "source_id": "wq-photo-snapper-schoolmaster"
+    },
+    {
+      "id": "sweetlips-juvenile",
+      "organism_id": "sweetlips",
+      "lesson_id": "wq-identification",
+      "title": "Young fish can look very different",
+      "path": "assets/supplemental/sweetlips-juvenile.jxl",
+      "caption": "Juvenile harlequin sweetlips (Plectorhinchus chaetodonoides). Its large pale spots on a dark brown body contrast with the adult example. Juvenile patterns can differ markedly from adult patterns; these images are not a documented before-and-after pair. Compare head and mouth structure as well as markings.",
+      "alt": "Juvenile harlequin sweetlips with large white spots, rounded fins and a brown body above coral.",
+      "source_id": "wq-photo-sweetlips-juvenile"
+    },
+    {
+      "id": "butterflyfish-variation",
+      "organism_id": "butterflyfish",
+      "lesson_id": "wq-identification",
+      "title": "A different butterflyfish pattern",
+      "path": "assets/supplemental/butterflyfish-variation.jxl",
+      "caption": "Threadfin butterflyfish (Chaetodon auriga). Compare its deep, flattened outline, small projecting mouth and eye band with the atlas example. The trailing dorsal filament is a feature of this example, not every butterflyfish.",
+      "alt": "Side view of a threadfin butterflyfish with white body, diagonal dark stripes, black eye band and yellow rear.",
+      "source_id": "wq-photo-butterflyfish-variation"
+    },
+    {
+      "id": "moray-variation",
+      "organism_id": "moray",
+      "lesson_id": "wq-identification",
+      "title": "Recognize the head in a crevice",
+      "path": "assets/supplemental/moray-variation.jxl",
+      "caption": "Whitemouth moray (Gymnothorax meleagris) peering from shelter. Compare its head and jaw with the coiled moray, rather than expecting every moray to share the same color. The hidden body cannot be evaluated from this view.",
+      "alt": "Spotted dark moray head beneath coral, showing its eye, nostrils and partly open toothed jaws.",
+      "source_id": "wq-photo-moray-variation"
+    },
+    {
+      "id": "parrotfish-variation",
+      "organism_id": "parrotfish",
+      "lesson_id": "wq-identification",
+      "title": "Do not memorize one color phase",
+      "path": "assets/supplemental/parrotfish-variation.jxl",
+      "caption": "Initial-phase stoplight parrotfish (Sparisoma viride). The scale pattern and reddish underside differ from the atlas parrotfish. Compare the head and beaklike mouth; this is a different species and color phase, not a before-and-after photograph of the atlas fish.",
+      "alt": "Several initial-phase stoplight parrotfish feeding over reef rubble, with dark-edged pale scales and reddish undersides.",
+      "source_id": "wq-photo-parrotfish-variation"
+    },
+    {
+      "id": "demosponge-variation",
+      "organism_id": "demosponge",
+      "lesson_id": "wq-identification",
+      "title": "A barrel instead of tubes",
+      "path": "assets/supplemental/demosponge-variation.jxl",
+      "caption": "Giant barrel sponge (Xestospongia muta). Compare the broad open cavity and textured wall with the tubular sponge in the atlas. Sponges do not all share one branching shape.",
+      "alt": "Large pink-brown barrel sponge with a broad open top and textured outer wall on a reef.",
+      "source_id": "wq-photo-demosponge-variation"
+    },
+    {
+      "id": "sea-cucumber-variation",
+      "organism_id": "sea-cucumber",
+      "lesson_id": "wq-identification",
+      "title": "Body surface can vary greatly",
+      "path": "assets/supplemental/sea-cucumber-variation.jxl",
+      "caption": "Pineapple sea cucumber (Thelenota ananas). Its conspicuous projections contrast with the smoother atlas example. Find the elongated body first rather than relying on a particular color or surface texture.",
+      "alt": "Elongated pale sea cucumber covered in large pointed fleshy projections, lying on sand.",
+      "source_id": "wq-photo-sea-cucumber-variation"
+    },
+    {
+      "id": "giant-clam-variation",
+      "organism_id": "giant-clam",
+      "lesson_id": "wq-identification",
+      "title": "Look past the mantle colors",
+      "path": "assets/supplemental/giant-clam-variation.jxl",
+      "caption": "Fluted giant clam (Tridacna squamosa), viewed from above. Trace the folded mantle around the opening. Mantle colors and patterns vary; this close view hides much of the shell and supplies no reliable length scale.",
+      "alt": "Top view of a giant clam with brown and blue patterned mantle folded around its central opening.",
+      "source_id": "wq-photo-giant-clam-variation"
+    },
+    {
+      "id": "spiny-lobster-variation",
+      "title": "Trace the long antennae",
+      "caption": "European spiny lobster (Palinurus elephas) in a rocky crevice. Follow both long antennae from their thick bases to their thin tips. The body is partly hidden: compare this habitat view with the clearer body photograph, not just its color.",
+      "alt": "Small orange spiny lobster in a dark rock crevice with two long antennae extending upward and outward, both tips within the frame.",
+      "organism_id": "spiny-lobster",
+      "lesson_id": "wq-identification",
+      "path": "assets/supplemental/spiny-lobster-variation.jxl",
+      "source_id": "wq-photo-spiny-lobster-variation"
+    },
+    {
+      "id": "fleshy-algae-variation",
+      "organism_id": "fleshy-algae",
+      "lesson_id": "wq-identification",
+      "title": "Fleshy algae are not all brown blades",
+      "path": "assets/supplemental/fleshy-algae-variation.jxl",
+      "caption": "Green Caulerpa algae, identified by the source as Caulerpa racemosa. Compare the fleshy upright branches with the brown blades in the atlas. Focus on the foreground alga, not the pale animal behind it.",
+      "alt": "Green fleshy alga with upright stalks bearing round flattened tips along a horizontal runner.",
+      "source_id": "wq-photo-fleshy-algae-variation"
+    },
+    {
+      "id": "triton-variation",
+      "organism_id": "triton",
+      "lesson_id": "wq-identification",
+      "title": "Compare both sides of a shell",
+      "caption": "Two views of an empty giant-triton shell (Charonia tritonis). Compare the tall spire, broad opening, striped inner lip and short canal at the base. The living example shows the animal extending from this opening.",
+      "alt": "Two complete views of a giant-triton shell on black: the broad orange opening and striped lip on the left, and patterned spiral whorls on the right.",
+      "path": "assets/supplemental/triton-variation.jxl",
+      "source_id": "wq-photo-triton-variation"
+    },
+    {
+      "id": "banded-coral-shrimp-variation",
+      "organism_id": "banded-coral-shrimp",
+      "lesson_id": "wq-identification",
+      "title": "Find the animal against reef texture",
+      "path": "assets/supplemental/banded-coral-shrimp-variation.jxl",
+      "caption": "Banded coral shrimp (Stenopus hispidus) against a busy reef background. Look for the long pale antennae and banded claw-bearing arms. This is a harder context view, to use after learning the clearer atlas example.",
+      "alt": "Banded coral shrimp among reef crevices, with long white antennae and red-and-white banded arms.",
+      "source_id": "wq-photo-banded-coral-shrimp-variation"
+    },
+    {
+      "id": "pencil-urchin-variation",
+      "organism_id": "pencil-urchin",
+      "lesson_id": "wq-identification",
+      "title": "Compare stout spines from above",
+      "path": "assets/supplemental/pencil-urchin-variation.jxl",
+      "caption": "A slate-pencil urchin (Eucidaris tribuloides) shows stout, blunt spines and their bases from above. Compare its compact outline with the underside view and with the long, fine spines of Diadema.",
+      "alt": "A slate-pencil urchin on coral with thick blunt radiating spines and a visible central body.",
+      "source_id": "wq-photo-pencil-urchin-variation"
+    },
+    {
+      "id": "humpback-grouper-variation",
+      "organism_id": "humpback-grouper",
+      "lesson_id": "wq-identification",
+      "title": "Recognize a juvenile outline",
+      "path": "assets/supplemental/humpback-grouper-variation.jxl",
+      "caption": "Juvenile humpback grouper (Cromileptes altivelis). Compare the small head, high back and dark spots with the atlas example. The head-down posture changes the silhouette; mentally rotate the fish before comparing.",
+      "alt": "White juvenile humpback grouper angled head-down, with large dark spots, small head and high back.",
+      "source_id": "wq-photo-humpback-grouper-variation"
+    },
+    {
+      "id": "bumphead-parrotfish-variation",
+      "organism_id": "bumphead-parrotfish",
+      "lesson_id": "wq-identification",
+      "title": "Compare the forehead and mouth together",
+      "path": "assets/supplemental/bumphead-parrotfish-variation.jxl",
+      "caption": "Bumphead parrotfish (Bolbometopon muricatum), seen close to the reef. Look at both the forehead profile and beaklike mouth. Compare with the fleshy-lipped humphead wrasse rather than using a forehead bump alone.",
+      "alt": "Large green bumphead parrotfish viewed from the side, showing its steep forehead and pale beaklike mouth.",
+      "source_id": "wq-photo-bumphead-parrotfish-variation"
+    },
+    {
+      "id": "humphead-wrasse-variation",
+      "organism_id": "humphead-wrasse",
+      "lesson_id": "wq-identification",
+      "title": "A juvenile without the adult hump",
+      "path": "assets/supplemental/humphead-wrasse-variation.jxl",
+      "caption": "Juvenile humphead wrasse (Cheilinus undulatus). Compare the small fish and facial markings with the adult atlas example. The prominent adult forehead hump is not a reliable expectation for juveniles.",
+      "alt": "Small pale juvenile humphead wrasse with dark body markings and dark lines near the eye, swimming above coral.",
+      "source_id": "wq-photo-humphead-wrasse-variation"
+    },
+    {
+      "id": "nassau-grouper-variation",
+      "organism_id": "nassau-grouper",
+      "lesson_id": "wq-identification",
+      "title": "Use several markings together",
+      "path": "assets/supplemental/nassau-grouper-variation.jxl",
+      "caption": "Nassau grouper (Epinephelus striatus) in a natural reef setting. Look for the dark vertical body bars and dark saddle at the tail base, then compare the head with the atlas example. Underwater lighting changes how strongly markings stand out.",
+      "alt": "Pale Nassau grouper swimming over reef rubble, with dark vertical bars and a dark tail-base saddle.",
+      "source_id": "wq-photo-nassau-grouper-variation"
+    },
+    {
+      "id": "sea-fan-mesh",
+      "organism_id": "sea-fan",
+      "title": "Look for a branching mesh",
+      "caption": "A second common sea fan (Gorgonia ventalina) shows the connected branching mesh against open water. Compare the fine network and larger supporting branches with the purple colony in the atlas; lighting and color are not the defining features.",
+      "alt": "Close view of a dark sea fan with a fine interconnected mesh and thicker radiating branches against pale water.",
+      "lesson_id": "wq-identification",
+      "path": "assets/supplemental/sea-fan-mesh.jxl",
+      "source_id": "wq-photo-sea-fan-mesh"
+    },
+    {
+      "id": "brain-coral-detail",
+      "organism_id": "stony-coral",
+      "title": "Hard corals need not branch",
+      "caption": "This brain-coral close-up shows winding ridges and valleys rather than branches. Compare its repeated surface structure with the branching stony corals. The close-up teaches surface form but does not show the whole colony or establish an exact species.",
+      "alt": "Close-up of brain coral with golden winding ridges separated by green valleys.",
+      "lesson_id": "wq-identification",
+      "path": "assets/supplemental/brain-coral-detail.jxl",
+      "source_id": "wq-photo-brain-coral-detail"
+    },
+    {
+      "id": "red-fleshy-algae",
+      "organism_id": "fleshy-algae",
+      "title": "Compare red fleshy branches",
+      "caption": "The source identifies this red tuft as Gracilaria sp., photographed on an Indonesian reef. Its fleshy branching fronds contrast with the brown Dictyota blades and green Caulerpa example. Use growth form as well as color; underwater light can change apparent color.",
+      "alt": "Red branching fleshy alga growing as a tuft on a reef rock, with smaller corals in the background.",
+      "lesson_id": "wq-identification",
+      "path": "assets/supplemental/red-fleshy-algae.jxl",
+      "source_id": "wq-photo-red-fleshy-algae"
+    },
+    {
+      "id": "snapper-school",
+      "path": "assets/organisms/snapper.jxl",
+      "title": "Find evidence in a school",
+      "organism_id": "snapper",
+      "lesson_id": "wq-identification",
+      "caption": "Bigeye snappers (Lutjanus lutjanus) in a school provide a less isolated view. Choose one fish and trace its body, mouth and dorsal fin; overlapping fish can hide useful features. Do not identify the family from the yellow stripe alone.",
+      "alt": "A school of yellow-striped bigeye snappers with overlapping bodies.",
+      "source_id": "wq-photo-snapper-school"
+    },
+    {
+      "id": "dusky-grouper-habitat",
+      "path": "assets/organisms/large-grouper.jxl",
+      "title": "Recognize a fish beside cover",
+      "organism_id": "large-grouper",
+      "lesson_id": "wq-identification",
+      "caption": "A dusky grouper (Epinephelus marginatus) rests beside reef cover. Compare the large mouth and robust body with the clearer aquarium view. Obscured fins limit this view, and neither photo supplies a reliable length scale.",
+      "alt": "A dusky grouper resting near reef cover with part of its outline obscured.",
+      "source_id": "wq-photo-dusky-grouper-habitat"
+    },
+    {
+      "id": "long-spined-urchin-variation",
+      "path": "assets/organisms/long-spined-urchin.jxl",
+      "title": "Recognize a group of urchins",
+      "organism_id": "long-spined-urchin",
+      "lesson_id": "wq-identification",
+      "caption": "The source identifies a mixed group of Diadema species. Find an individual central body and trace its long, fine spines; overlapping animals make counting and outlines unreliable.",
+      "alt": "Thin needle-like spines radiate from several dark urchins.",
+      "source_id": "wq-photo-long-spined-urchin-variation"
+    },
+    {
+      "id": "crown-of-thorns-variation",
+      "path": "assets/organisms/crown-of-thorns.jxl",
+      "title": "Recognize an animal on the reef",
+      "organism_id": "crown-of-thorns",
+      "lesson_id": "wq-identification",
+      "caption": "A crown-of-thorns sea star on the reef provides a less isolated view. Look for many radiating arms and dense pointed spines rather than color alone. Historical Acanthaster planci labels may refer to a species complex.",
+      "alt": "Two many-armed, densely spined crown-of-thorns starfish lie on reef coral.",
+      "source_id": "wq-photo-crown-of-thorns-variation"
+    }
+  ]
+}

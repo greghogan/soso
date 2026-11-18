@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-30",
+  "method": "Built-in image_gen.imagegen raster edits",
+  "status": "Independent rendered-PNG scientific inspection passed conditionally on the caption requirements in caption-guidance.md, 2026-10-30",
+  "rights": "AI-generated edits of project-owned AI-generated illustration masters; not spacecraft photographs or observed interiors. Earlier generations are recorded in manifest.json; only active masters are retained.",
+  "assets": [
+    {
+      "name": "small-bodies-v2.webp",
+      "source": "assets/original/small-bodies.webp",
+      "prompt": "Use case: precise-object-edit, scientific-educational. Edit target is the provided three-panel Solar System illustration. Preserve the portrait layout, panel borders, dark star background, large blank right-hand areas, top Pluto-like world, and bottom two-lobed comet. Change ONLY the middle asteroid (Bennu): replace the block/cuboid-like shape with a scientifically recognizable Bennu-like spinning-top rubble-pile asteroid, a broadly rounded oblate body with a raised equatorial ridge encircling its middle, gently sloping hemispheres, uneven rounded poles, and abundant irregular boulders. View it obliquely from slightly above its equatorial plane, with the equatorial bulge clearly recognizable as a continuous circumference, not four cube edges. Keep its dark charcoal gray rocky texture and attractive dramatic side lighting. No rectangular planar faces, no cube silhouette, no perfect symmetric crystal. This is a conceptual illustration, not spacecraft imagery. Preserve all other elements and proportions as closely as possible. No text or labels. Return a high-resolution portrait image.",
+      "notes": "Middle asteroid revised to spinning-top form; other two panels preserved. Conceptual shapes, not to scale.",
+      "master": "assets/illustrations/small-bodies.jxl",
+      "source_is_historical": true
+    },
+    {
+      "name": "overview-v2.webp",
+      "source": "assets/original/overview.webp",
+      "prompt": "Use case: precise-object-edit, scientific-educational. Edit the provided portrait conceptual cutaway of an icy moon, preserving its engaging blue-gold painted 3D style, general composition, Jupiter at upper right, curved icy shell, dark stellar background, and quiet areas at top and bottom for typeset title/caption. Correct the science: ALL space between the bottom of the ice shell and the dark rocky seafloor must be filled continuously with deep blue liquid water. NO air-filled cavern, NO hanging icicle cave, NO exposed water surface or waterline anywhere beneath the ice. Depict the ocean as a clear volumetric continuous blue layer in a clean cutaway, flush against the overlying ice, with a subtle schematic transparent slice so viewers see the dark rocky seafloor through water. Use gentle blue depth shading, not shafts of sunlight through a cave. Remove ALL surface geysers/jets and ALL dramatic seafloor hydrothermal chimneys/steam columns, including the lower-left circular inset, because those are not confirmed features of Europa. Instead use a quiet irregular rocky seabed beneath the water. The external ice shell retains branching brown fractures but no open waterfall holes. Keep original portrait layout and rich visual appeal without implying a photograph or a directly observed interior. Do not add text, arrows, labels, fish, organisms, submarines, bubbles, or fire. Layer thicknesses conceptual, not to scale.",
+      "notes": "Removed unconfirmed plumes and vent inset; illustrated ocean continuously water-filled. Background planets and stars are decorative montage, not an actual sky view; dimensions not to scale.",
+      "master": "assets/illustrations/overview.jxl",
+      "source_is_historical": true
+    },
+    {
+      "name": "titan-v2.webp",
+      "source": "assets/original/titan.webp",
+      "prompt": "Use case: precise-object-edit, scientific-educational. Edit the provided Titan conceptual illustration. Keep the beautiful amber methane-lake shoreline landscape, subdued orange haze, rain at left, dark navy framing and two separate spherical interior-model cutaways below. Correct only these issues: remove the entire orange globe floating in the upper-right SKY and replace that region with continuous dark amber atmospheric haze/clouds so no planet or moon is shown hanging above Titan's own surface. For both lower model cutaways, preserve the ice outer shell and rock-rich central interior. Left model: the blue layer is completely liquid-filled between ice and rock, without any air gap. Right model: preserve the thick icy/slushy mantle and small isolated blue melt pockets as an alternative interior model. Keep the two models separate and equally visual, not a temporal sequence. Surface lakes represent liquid hydrocarbons, not blue liquid water: retain dark amber/black lake appearance. No organisms, no text, no arrows, no labels. This is a clearly illustrative conceptual montage, not observed interior photography. Preserve portrait aspect, panel arrangement, and original visual richness.",
+      "notes": "Removed globe from surface sky. Lower diagrams are alternative inferred models, not observed interiors or a before/after sequence; layer thicknesses uncertain and not to scale.",
+      "master": "assets/illustrations/titan.jxl",
+      "source_is_historical": true
+    }
+  ],
+  "storage": "Active revisions are stored as lossless JPEG XL masters; names and hashes of earlier formats are historical."
+}

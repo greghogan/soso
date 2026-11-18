@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.DS_Store
+/.venv/
+/build/
+
+# Local inputs and working state, not publication sources.
+/assets/
+/private-resources/
+
+# Local environment variables.
+.env
+/.env.*
+!.env.example

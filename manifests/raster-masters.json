@@ -1,0 +1,772 @@
+{
+  "encoder": "libjxl 0.12.0",
+  "assets": [
+    {
+      "path": "events/solar-system-b/2027/assets/illustrations/rocky-worlds.jxl",
+      "original_path": "events/solar-system-b/2027/assets/original/rocky-worlds.webp",
+      "original_sha256": "ca7f3b13a859c206c7bf363966529693145eb265f2ae5c66b553fd06fca4d10a",
+      "sha256": "e757b8309aaa80ac63b7abf1c2eac95394988fd01b00b269cddb4fbe3e47bd10",
+      "decoded_rgb_sha256": "675c1d50a0f6e56460123dff80690b6c9dbda97d86e1767d496e76a23fd7a455",
+      "dimensions": [
+        1102,
+        1427
+      ],
+      "reversible_jpeg": false,
+      "effort": 8
+    },
+    {
+      "path": "events/solar-system-b/2027/assets/illustrations/worlds.jxl",
+      "original_path": "events/solar-system-b/2027/assets/original/worlds.webp",
+      "original_sha256": "9504576e42665783dcf9e09b5ba94ac615f04905ec0f998165b9c1772d7e2a7a",
+      "sha256": "ee37e9eecf3f2953721fd87163184f9f918adbe141657f9895dbf55940b8ff04",
+      "decoded_rgb_sha256": "d5180abf7c0d6a09cca251d5c926405c581ef7fbd627fe65b932839dec6a4e71",
+      "dimensions": [
+        1102,
+        1427
+      ],
+      "reversible_jpeg": false,
+      "effort": 8
+    },
+    {
+      "path": "events/solar-system-b/2027/assets/illustrations/overview.jxl",
+      "original_path": "events/solar-system-b/2027/assets/revised/overview-v2.webp",
+      "original_sha256": "31030ad1f9e8d94acfba951e36563feb5e9b21ada3c8f0fac89c4787bb81a1b1",
+      "sha256": "ec580d2a687abb7758f5ecd477f60e6c216d5678493cdc14f058aa0047ce26da",
+      "decoded_rgb_sha256": "9b346083d8a98b308bc813ea1d88f4fbbd3ee90643095db928e6d4ed174fbf4a",
+      "dimensions": [
+        1102,
+        1427
+      ],
+      "reversible_jpeg": false,
+      "effort": 8
+    },
+    {
+      "path": "events/solar-system-b/2027/assets/illustrations/small-bodies.jxl",
+      "original_path": "events/solar-system-b/2027/assets/revised/small-bodies-v2.webp",
+      "original_sha256": "e477517d4f71ceb9738258f7d29e6097d4885c3dc668b98d1f76821d72090e96",
+      "sha256": "77d058b86758eb617b8bbc27aa7540bd18851f9c91ea25ea08ddc7045f79a776",
+      "decoded_rgb_sha256": "81cfa0c0b713756af2599dcb2bf3293835bebc335f89d78d62deeddfb2f1ebaa",
+      "dimensions": [
+        1103,
+        1426
+      ],
+      "reversible_jpeg": false,
+      "effort": 8
+    },
+    {
+      "path": "events/solar-system-b/2027/assets/illustrations/titan.jxl",
+      "original_path": "events/solar-system-b/2027/assets/revised/titan-v2.webp",
+      "original_sha256": "f028123d135b9abd8402c2f5cfab0b4d9869e67feb1385f68582f5006fa6b5ce",
+      "sha256": "d5e889476c62886e456d997890bb9c7bba36f51b5ca907f3f20630ad4abcb3d5",
+      "decoded_rgb_sha256": "138a8409c992a67c61afc41cb83608893ed8ceca835757509ab9d530f6e528c9",
+      "dimensions": [
+        1102,
+        1427
+      ],
+      "reversible_jpeg": false,
+      "effort": 8
+    },
+    {
+      "path": "events/thermodynamics-b/2027/assets/illustrations/calorimetry-cover.jxl",
+      "original_path": "events/thermodynamics-b/2027/assets/illustrations/calorimetry-cover.webp",
+      "original_sha256": "ce73126b5e471823571207688fca42cbc92e0db53c0622fb0da84851bf8f4ed9",
+      "sha256": "4b6ae3e8ef4aa864cd70aace213915d5495440085b4b21e986fd7a0586321ade",
+      "decoded_rgb_sha256": "af3e95ecdcf4a0f01b33b81a63a3c0c246e3e1cabed4763ebad65d719ae62889",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "reversible_jpeg": false,
+      "effort": 8
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/illustrations/coral-health-comparison.jxl",
+      "original_path": "events/water-quality-b/2027/assets/illustrations/coral-health-comparison.webp",
+      "original_sha256": "13088b04a0f403ad19af07f4e3e7da8f8d1a8bab4878e9cf9f445bd01dc551c6",
+      "sha256": "9c17dfc01acd2d49b00238b23c270afacb76cd7e9ea622c9c4e986b3a1c97654",
+      "decoded_rgb_sha256": "2a177038a9af806c51ea1db5e969e95284641170d91553cb7bd27b75e2e2fada",
+      "dimensions": [
+        2149,
+        732
+      ],
+      "reversible_jpeg": false,
+      "effort": 8
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/illustrations/watershed-pathways.jxl",
+      "original_path": "events/water-quality-b/2027/assets/illustrations/watershed-pathways.webp",
+      "original_sha256": "d6f6e0009f2fd50f99e8367f6362290062aa575b468c25c838d6f9fc2d556396",
+      "sha256": "66b19ffcbac5c4a15a6b3bbce003f9f760358bdb9a9345f5ee739973ecd8c7c5",
+      "decoded_rgb_sha256": "2b7cb8aaf86597059b41fc74572c57ca3cb30b1620d0349ec5de2ee76ce6ccf3",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reversible_jpeg": false,
+      "effort": 8
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/illustrations/watershed-to-reef-cover.jxl",
+      "original_path": "events/water-quality-b/2027/assets/illustrations/watershed-to-reef-cover.webp",
+      "original_sha256": "ef18a5453f7f5f019540f0c7762d1f71dcf25b9ac0561ee41ac9333883a47487",
+      "sha256": "fffe96552ea9197b459e8b37e9933d4794750ac2a1ddd019d257629cf09d39c5",
+      "decoded_rgb_sha256": "362a17c0de1fd6fa27d324f364b7e4559a9850dba6e2d2cb50fdb312c6e311c6",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "reversible_jpeg": false,
+      "effort": 8
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/organisms/banded-coral-shrimp.jxl",
+      "original_path": "events/water-quality-b/2027/assets/organisms/banded-coral-shrimp.jpg",
+      "original_sha256": "d8b9d08ea4b9920fafbf6436d7633a82c640afc6f695e4ac426c4a22ef3f7852",
+      "sha256": "43bc42bc65d2f8683cd5ce0434482f5169356b35fc93c818169d2131c10144a0",
+      "decoded_rgb_sha256": "88140d21726eb2f7c831f52f308577196ace2a3e89995b209d74cd79ae148710",
+      "dimensions": [
+        960,
+        640
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/organisms/bumphead-parrotfish.jxl",
+      "original_path": "events/water-quality-b/2027/assets/organisms/bumphead-parrotfish.jpg",
+      "original_sha256": "6a79465402973381e3b0d85f7dacf66e94a8916b96dc73c1fc1b5d759fdf6920",
+      "sha256": "5c0dd5732746631181c896a63ffdf1abce3c1dab12c1360b333fcd2158c27ba5",
+      "decoded_rgb_sha256": "bbb276f9f89b2b1de1b0d37c85e05e96083d2dc7599836f5b357d94639d70c77",
+      "dimensions": [
+        960,
+        720
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/organisms/butterflyfish.jxl",
+      "original_path": "events/water-quality-b/2027/assets/organisms/butterflyfish.jpg",
+      "original_sha256": "2798bd63d86a35a78094eb851dc5f8bddd8cf226592abcc9892f9ffae55e11e7",
+      "sha256": "2c605e9042852c4aee73aa9e50aec3f6852959ed980da0e1820de13001715fc4",
+      "decoded_rgb_sha256": "4df1f26fac4717981d7f1c38022ecf64bcd3dae070386127a9c707bc7df9d409",
+      "dimensions": [
+        960,
+        732
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/organisms/crown-of-thorns.jxl",
+      "original_path": "events/water-quality-b/2027/assets/organisms/crown-of-thorns.jpg",
+      "original_sha256": "8e6132dd923d07d219f6194a3d3b77681940b53223120e38282b10b9b288e1da",
+      "sha256": "3aeec20d16952a4c195e22c46d662f36633c66da7fc36864efded9033edfdb48",
+      "decoded_rgb_sha256": "e14ad1b0b237b78ab9cec456c9d4ac1a2c3f58f671fe00b495e5f77566076028",
+      "dimensions": [
+        960,
+        720
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/organisms/demosponge.jxl",
+      "original_path": "events/water-quality-b/2027/assets/organisms/demosponge.jpg",
+      "original_sha256": "19794415305330d13532056bbe77c545d529949ab5d5dd58783c0c3b73641fb4",
+      "sha256": "7eb587e0bffa4fc7019f916f3ab98dff06da8abe63fc8da093fa50c66dac8da3",
+      "decoded_rgb_sha256": "e35ee9390160c32451dd5eb5cde3ca591205f35366916638c985f05e79373327",
+      "dimensions": [
+        960,
+        1283
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/organisms/flamingo-tongue.jxl",
+      "original_path": "events/water-quality-b/2027/assets/organisms/flamingo-tongue.jpg",
+      "original_sha256": "c6a82ea29435d323251ba2d9d2836e09e5ca2f8ae681e83a606eee64a48cc893",
+      "sha256": "8114e3264a128723e2362001816b4f6a70acfc8ac76ed62e5b08990b78220d4a",
+      "decoded_rgb_sha256": "d2c685c528d2634a5b515f838348797007ab4ad2e095756f21980c57d1719cc4",
+      "dimensions": [
+        960,
+        720
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/organisms/fleshy-algae.jxl",
+      "original_path": "events/water-quality-b/2027/assets/organisms/fleshy-algae.jpg",
+      "original_sha256": "fd7c0543c8bc1e271b7bbf46d4deee356d7bdb3e846e7fe2c54c22b4214a397e",
+      "sha256": "c3e424ca3f34f8897681b63ebccbca642f5beac86063dcef91142691ab41b972",
+      "decoded_rgb_sha256": "1d90b2103c8838f558f2c42ad8492bd8eebf6cb49269e92620b5a6b5929e3f9c",
+      "dimensions": [
+        960,
+        1440
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/organisms/giant-clam.jxl",
+      "original_path": "events/water-quality-b/2027/assets/organisms/giant-clam.jpg",
+      "original_sha256": "ab89fa914c5a8d673736723d8e0ee1b6015d23230f12dcd3b2d13f893fc2074e",
+      "sha256": "fc096eb3da786834f4d1ca315576c0aba095ccddeb3a4a9f0be6a7c4d32b126b",
+      "decoded_rgb_sha256": "f1589d4d5dbabf7a837f00cf292a2d0fe9bf8debf465b9a5a62390bfbb53876d",
+      "dimensions": [
+        3648,
+        2736
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/organisms/humpback-grouper.jxl",
+      "original_path": "events/water-quality-b/2027/assets/organisms/humpback-grouper.jpg",
+      "original_sha256": "0f921043a35d312a9f527f0c4b623f7b55816fea90daf649b01451b7378fa76a",
+      "sha256": "b3f19291add2b7469429117b6423dd2f1b8ebdf01f06df86e45bfd1a87e96cca",
+      "decoded_rgb_sha256": "465807efac0f4608ddff57c42b27974165a4417782c5e8af79e13fe3cbc5e912",
+      "dimensions": [
+        960,
+        560
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/organisms/humphead-wrasse.jxl",
+      "original_path": "events/water-quality-b/2027/assets/organisms/humphead-wrasse.jpg",
+      "original_sha256": "ae92b6436b5cd58f80010844d597741af2d3df52355bcd13e212701331910d06",
+      "sha256": "6e964bf8ad24546129afb566e342b12b61ff301a3aa8c07cd4c13e867dac886b",
+      "decoded_rgb_sha256": "25bb8b6cac88e1fb5f581ec19043e267ff66bf2cac53fe67f11bf2b755a46285",
+      "dimensions": [
+        960,
+        720
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/organisms/large-grouper.jxl",
+      "original_path": "events/water-quality-b/2027/assets/organisms/large-grouper.jpg",
+      "original_sha256": "f064a148daeb9111bc287e4a8c46933185cdd4a11a13ed6d0d4138635762f24d",
+      "sha256": "45c4673890ed69ee832c27fdda0fe230e144f1482068378d8ae8d3a59e191639",
+      "decoded_rgb_sha256": "44c36377e3b5a4a931c7645867a19c7c0d1a47b742fda983b009b8c8ed673396",
+      "dimensions": [
+        960,
+        640
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/organisms/long-spined-urchin.jxl",
+      "original_path": "events/water-quality-b/2027/assets/organisms/long-spined-urchin.jpg",
+      "original_sha256": "f1f4c80cc32196d4d1e26daf89dcd6a4269d24e0fec5d472b09f2ce8162eecb7",
+      "sha256": "a3d74e18e224cab1c921b345c218933f55a008cfe80bf582fecf4bbfd8acd6cf",
+      "decoded_rgb_sha256": "298e5ff1699a27f181bb9e4644a999625d5a4d6a521f0a0872462863064d127e",
+      "dimensions": [
+        960,
+        640
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/organisms/nassau-grouper.jxl",
+      "original_path": "events/water-quality-b/2027/assets/organisms/nassau-grouper.jpg",
+      "original_sha256": "121e3c847d669fed115fd476787b1e136f17e29cbb9f7d57c70c6f3ac57dd007",
+      "sha256": "94483d0999a39640173bfc7b8876948b3cd21591ee00756b76338bb236088b48",
+      "decoded_rgb_sha256": "e989c77287b74728a0b82646e255bca7c5448b6dbf9aa319e90cf2d4c3b64a9a",
+      "dimensions": [
+        960,
+        720
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/organisms/parrotfish.jxl",
+      "original_path": "events/water-quality-b/2027/assets/organisms/parrotfish.jpg",
+      "original_sha256": "fcf1d140665f35f3cbcbd60bacc74a043756fa1bcec71f57b66595addd6f98bc",
+      "sha256": "87f506c0d0f1bfad8c7f11304047ef74919a13cae66f73ced343934d4de3d7d5",
+      "decoded_rgb_sha256": "75b2293caa125bacf858e438955c993ded8f24bcf7b5715474c631794b8f52e5",
+      "dimensions": [
+        960,
+        640
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/organisms/pencil-urchin.jxl",
+      "original_path": "events/water-quality-b/2027/assets/organisms/pencil-urchin.jpg",
+      "original_sha256": "45c910bb6d065b11800a41590690485237053a36f7e2ae207f26e442bd811480",
+      "sha256": "92f543e989932357d084f34640fde7277aed930ed1409722c861d5fa0aa69ae4",
+      "decoded_rgb_sha256": "9c161598bd7e8ed0544bdd61dfada55565a12d5d7ffb9636ca9819377f38dcf9",
+      "dimensions": [
+        960,
+        720
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/organisms/sea-cucumber.jxl",
+      "original_path": "events/water-quality-b/2027/assets/organisms/sea-cucumber.jpg",
+      "original_sha256": "b1d8395886f126b8059fc50677c8bb888c696356bcab7ae41d8ea7078440db98",
+      "sha256": "d1c67fcd075188ed8296ea12e7eabad31c6fd959ed6f71aa49be7fba3f00144c",
+      "decoded_rgb_sha256": "c2ea6ac4d4121c7f769b467864edf51ebc4e111b899d9d6d10290cab5e99ab96",
+      "dimensions": [
+        960,
+        640
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/organisms/sea-fan.jxl",
+      "original_path": "events/water-quality-b/2027/assets/organisms/sea-fan.jpg",
+      "original_sha256": "c3835caa547662b3151ec15c30db6bf165f06cdb5cae0eb21996d1aee23d8582",
+      "sha256": "d157e75fc32d5d79ddf776a5fb3abccebf3fda668daa25d6da91b14ae3c76c41",
+      "decoded_rgb_sha256": "9959a53a2a2fd5ead13d88399d0bbd62ca5638940440bcf1b64753deb952abe6",
+      "dimensions": [
+        960,
+        807
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/organisms/snapper.jxl",
+      "original_path": "events/water-quality-b/2027/assets/organisms/snapper.jpg",
+      "original_sha256": "61f01f019bab03227590a300545a31194ee25a574a601325bbc1197c49c1ad4a",
+      "sha256": "23da180d5854b7778bcacf6643200e77f3628fb39c10d639e0bd624a68670ba9",
+      "decoded_rgb_sha256": "c634fe99b86bbd82e3de3d637e6db86f45f55c69db864a7b99a0c3f3cc6e23ea",
+      "dimensions": [
+        960,
+        640
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/organisms/stony-coral.jxl",
+      "original_path": "events/water-quality-b/2027/assets/organisms/stony-coral.jpg",
+      "original_sha256": "581b3ea8e15409a3b4a7897d019241bcbbf9c4b4f993c976b4d34b3a9f3da918",
+      "sha256": "e6280df2d60c3c2419ac0197049c6ccc8fc8ee65562a541d39328822d6e21228",
+      "decoded_rgb_sha256": "45b6b4756c6bbd7ecb765e59593503a7b117ad671c4f5c7f199d025158f3d546",
+      "dimensions": [
+        960,
+        960
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/organisms/triton.jxl",
+      "original_path": "events/water-quality-b/2027/assets/organisms/triton.jpeg",
+      "original_sha256": "ac8b19a43966f7c8ae20de912d645afdff53ebb1903a42da06b613c6416ac31e",
+      "sha256": "e6b693df191dbca693a9e18e82643f3504173a8f9503c271c768226d80b26c0f",
+      "decoded_rgb_sha256": "d409b1a21ea150d99ff29037cd44b60524510f5d8746cef0cfbdb05b30ccfe26",
+      "dimensions": [
+        960,
+        685
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/supplemental/banded-coral-shrimp-variation.jxl",
+      "original_path": "events/water-quality-b/2027/assets/supplemental/banded-coral-shrimp-variation.jpg",
+      "original_sha256": "8ed64885f9f8643e006332145531e857fd05e7489887f2b4f69107bc2572dc95",
+      "sha256": "a1d90879a441661b62a1ba1b8ae218e7888543144e5c78b0ae366070c99aea8a",
+      "decoded_rgb_sha256": "d8df2e88074e7abf2ed74fde1275188e0987b3fe54435f47bd338c36f2a5fa97",
+      "dimensions": [
+        960,
+        640
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/supplemental/bumphead-parrotfish-variation.jxl",
+      "original_path": "events/water-quality-b/2027/assets/supplemental/bumphead-parrotfish-variation.jpg",
+      "original_sha256": "d32263fba13bf7c364bb0a0161f931cccf5847b8bd77fe740c930c7b940d7807",
+      "sha256": "fa20d6f8d83926472faffe98bb3241f6a5c129ac251c7002760b0a312de902da",
+      "decoded_rgb_sha256": "66ef46268cd413ccf6dd0e98a3c1c4e6cc61883ab65ed82807298499a5e361dc",
+      "dimensions": [
+        960,
+        640
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/supplemental/butterflyfish-variation.jxl",
+      "original_path": "events/water-quality-b/2027/assets/supplemental/butterflyfish-variation.jpg",
+      "original_sha256": "539bb57f139ef4fea7029d4bc9310047e0f72e690f2794160ae2159bd8f61986",
+      "sha256": "03f2de0cdd9a6630e437511e79547741ca2a4fd7fd3379ac6e8ceef1c88f8205",
+      "decoded_rgb_sha256": "30aa1271210ccca325eb8b6e2111ce185b357c66ff5500efb675ae8ccc949c5c",
+      "dimensions": [
+        960,
+        640
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/supplemental/crown-of-thorns-variation.jxl",
+      "original_path": "events/water-quality-b/2027/assets/supplemental/crown-of-thorns-variation.jpg",
+      "original_sha256": "4759ded12382f8cf395e1388431c91206d167ecf77eb6eafe7c2d0f3c1b1662a",
+      "sha256": "e3994f7878285a07b0491bb3989d84ee9eee8ab6ae39e7e9916ea27290b97e17",
+      "decoded_rgb_sha256": "9ef40dd85c678885943ba81395614dca80b151f77b71c3c2bc64309f3680d911",
+      "dimensions": [
+        960,
+        720
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/supplemental/demosponge-variation.jxl",
+      "original_path": "events/water-quality-b/2027/assets/supplemental/demosponge-variation.jpg",
+      "original_sha256": "0d19eb6f66c1673ccf322c4db143c2752440bbcfc6b6a96b2770e3e238aa76da",
+      "sha256": "2a9cf30fe502b28946620382ffd42f9054c1423833cb28f2bb79c825aa7f38c9",
+      "decoded_rgb_sha256": "e654201c9591b3ae6e4b080555393c51676db142f4b72d2614ddc2cb132e62d9",
+      "dimensions": [
+        960,
+        720
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/supplemental/flamingo-tongue-shell.jxl",
+      "original_path": "events/water-quality-b/2027/assets/supplemental/flamingo-tongue-shell.jpg",
+      "original_sha256": "c9fdbc5c8d5c2846b41d4f6538f045b959cf5e88aac015fddb8a2f4b7085ea77",
+      "sha256": "1af385468c0ab7e949b3d85bcf0eb16632db159a931361e3f4d68e2da80e52e6",
+      "decoded_rgb_sha256": "9c7f81fac0aeb4b48315139c63394c425bf280495c2cd8d9fd2e8a0589ec75c5",
+      "dimensions": [
+        960,
+        718
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/supplemental/fleshy-algae-variation.jxl",
+      "original_path": "events/water-quality-b/2027/assets/supplemental/fleshy-algae-variation.jpg",
+      "original_sha256": "1ad828eee7e0811499bbca0f971bcc6614cc5c2b773774676142f9ca325ee1c1",
+      "sha256": "cc90f99bfdef7dbef349f4539fcef08b919a5a7703049815dd27508f05436dcd",
+      "decoded_rgb_sha256": "ff52e4a1b7abf7547282ad0ddd5ae90b9df951f02294cddedf3ed24852d69a0e",
+      "dimensions": [
+        960,
+        720
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/supplemental/giant-clam-variation.jxl",
+      "original_path": "events/water-quality-b/2027/assets/supplemental/giant-clam-variation.jpg",
+      "original_sha256": "aa5afd30818de58c04ea32cb9152e54dbb9db4cd5d490eebf3c53783db1b5a6f",
+      "sha256": "e218fc7bef138553f3ca3fea56c1cf9b320e99bf1d55bec1fd32c3d0ffb79009",
+      "decoded_rgb_sha256": "847f4002e84afc853ee4d2041f5c7d692bd7a326c76a4a214662bdc44513f687",
+      "dimensions": [
+        960,
+        1280
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/supplemental/humpback-grouper-variation.jxl",
+      "original_path": "events/water-quality-b/2027/assets/supplemental/humpback-grouper-variation.jpg",
+      "original_sha256": "8d5727ae23c5c9facff580cf7a46e601dd55656c941b8ef57b9ec1ff52d0ca11",
+      "sha256": "757ae704bd8c04eb0c73121e4aed2a47c77733dfeba721e2b9da1f316364707b",
+      "decoded_rgb_sha256": "bcdfcc7eb367a00f196ae5b84401f45c2993418d9c432e7219f5bbdf1894a7a0",
+      "dimensions": [
+        960,
+        720
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/supplemental/humphead-wrasse-variation.jxl",
+      "original_path": "events/water-quality-b/2027/assets/supplemental/humphead-wrasse-variation.jpg",
+      "original_sha256": "7972a77f0a99018661b0efaa976e6289e778ffcf0d403b24a768eebf573e8b39",
+      "sha256": "33964f809c9654355fe39c3c822df4a4b5c7230642709ae211b2625a8245a76f",
+      "decoded_rgb_sha256": "53fb587f5e66077990397433dabfaac0921dd967632f49bc59e1d1b2fc6c4aad",
+      "dimensions": [
+        960,
+        686
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/supplemental/large-grouper-variation.jxl",
+      "original_path": "events/water-quality-b/2027/assets/supplemental/large-grouper-variation.jpg",
+      "original_sha256": "f0479462b572e727093a9d13639abc54bff7f5d79e18ce5d69704a93782ebbe9",
+      "sha256": "e8bafc6bdbff1483ca0a1776f5f6d6ba0ba5153ee7550d5ad4d4224c1750ee4c",
+      "decoded_rgb_sha256": "dbb672fb00b9f1acac999042a606d43f1ee0ae6b4189e2fb38d0c8e0fc550ab7",
+      "dimensions": [
+        960,
+        519
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/supplemental/long-spined-urchin-variation.jxl",
+      "original_path": "events/water-quality-b/2027/assets/supplemental/long-spined-urchin-variation.jpg",
+      "original_sha256": "49ba06fdf3c8d467fc53e37139094d43dd9fc883e10237718ff9f67b425fb79d",
+      "sha256": "7bb6623f0560bd7b74e2dd2c3c52ae968a67e1d547d9ad9f7e5d97eb4e892e17",
+      "decoded_rgb_sha256": "d3e57ef30343c7ea033f9d50313c2a8b17e98c7f67454f88397da539270f0bee",
+      "dimensions": [
+        960,
+        720
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/supplemental/moray-variation.jxl",
+      "original_path": "events/water-quality-b/2027/assets/supplemental/moray-variation.jpg",
+      "original_sha256": "905e47333e8ab7e95c524fe0f82ce5685ecb0fb0aa9223c6b8ef51ca32da3487",
+      "sha256": "fee8596781bef940d02a49ac0b382d53f22635c14ff1355f6f08df1a212e6e25",
+      "decoded_rgb_sha256": "13c09a12ad0e4a69ad40412145fc09bb3529468efe2a73b9a83551f2fb58456f",
+      "dimensions": [
+        960,
+        960
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/supplemental/nassau-grouper-variation.jxl",
+      "original_path": "events/water-quality-b/2027/assets/supplemental/nassau-grouper-variation.jpg",
+      "original_sha256": "766879e992d6a065ae8f84deeac3848f1d4a12eb3c2f754847870dfad9e3b52d",
+      "sha256": "3e7b879ed6d8ff92dfcd1467e4fe607601f2d481a75617cdd5e649f962ac1638",
+      "decoded_rgb_sha256": "580347546aa505f95208112b66922e27d49d4bf5d49dffbe69ab91279bf26a4a",
+      "dimensions": [
+        960,
+        636
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/supplemental/parrotfish-variation.jxl",
+      "original_path": "events/water-quality-b/2027/assets/supplemental/parrotfish-variation.jpg",
+      "original_sha256": "35635c5d7f0b84c4affe8e2411e732bcda1cb78762a98beb178df53d6fb92ce1",
+      "sha256": "c5ba785aef21bda23ad45158084c33f5b56544d416124a169ce46eab3c56f283",
+      "decoded_rgb_sha256": "b4ee718a675f06a01863affcf8bf88d8807c5bdfa8e8c86c87fce28308f0b9fe",
+      "dimensions": [
+        960,
+        640
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/supplemental/sea-cucumber-variation.jxl",
+      "original_path": "events/water-quality-b/2027/assets/supplemental/sea-cucumber-variation.jpg",
+      "original_sha256": "ae54d66154b14664eab3c7ffe4d35d5006120839e92ab88bb732a109567aacfd",
+      "sha256": "060a869277030c571f51eb3f707780d6b830c57e2a97de9a10faf053aebd1832",
+      "decoded_rgb_sha256": "31cb877b85675868d2bb980d517d02bf67bb9af2408bbc481c11cf516b30dee8",
+      "dimensions": [
+        960,
+        640
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/supplemental/snapper-bluestripe.jxl",
+      "original_path": "events/water-quality-b/2027/assets/supplemental/snapper-bluestripe.jpg",
+      "original_sha256": "f14f2f7b92ddafbcc3663ca0d524af782a83f496d91cfa90d9eb37922de91d37",
+      "sha256": "7f07586c549da4eaca0f77789e2236cef3a5a5368b95741d5ef522ed40bd8613",
+      "decoded_rgb_sha256": "10d56c9669cd24961fd0a1961dda198cccc79c46b1334de8a9167302cd815c6e",
+      "dimensions": [
+        960,
+        720
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/supplemental/snapper-night.jxl",
+      "original_path": "events/water-quality-b/2027/assets/supplemental/snapper-night.jpg",
+      "original_sha256": "960368297358800fd374d8469c6458faf6880bf2fcccb6d531d639d22480c7a1",
+      "sha256": "8a5792044bd1a5486a899276b0a9565d36b156e65d4f5483004e9b68fba83e83",
+      "decoded_rgb_sha256": "9b552dd9da3bca30e4fa48185b9f051c09484680cfc14da1b42401f003482d97",
+      "dimensions": [
+        960,
+        720
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/supplemental/snapper-schoolmaster.jxl",
+      "original_path": "events/water-quality-b/2027/assets/supplemental/snapper-schoolmaster.jpg",
+      "original_sha256": "964c2302351f7b496946b27c2877f2f819101fc961db6919649b7ec0ee0ec54f",
+      "sha256": "44541478c1ce4b8e02020611cfc33afcdb73bb75a3f53e08ac703aa625b9bc7f",
+      "decoded_rgb_sha256": "daf8b0d4703ec4e33ef8eb72d09938088c7b25f29d7232d68710b842c4bd4920",
+      "dimensions": [
+        960,
+        640
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/supplemental/staghorn-coral.jxl",
+      "original_path": "events/water-quality-b/2027/assets/supplemental/staghorn-coral.jpg",
+      "original_sha256": "b05c8e53cc0f506c69caa2d0d901ae93466b7257ca7bdf7d3dac6814b06fd2a0",
+      "sha256": "87ce7ce52b37df46e580324e169e7451500aae4418ff4c2816d8ad11fba45e56",
+      "decoded_rgb_sha256": "da70c7cf66891b76aa68393e421007aaee6b375545adc50fd75f1883f58363f8",
+      "dimensions": [
+        960,
+        629
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/supplemental/sweetlips-juvenile.jxl",
+      "original_path": "events/water-quality-b/2027/assets/supplemental/sweetlips-juvenile.jpg",
+      "original_sha256": "f94674371b9162660d740cf3f8959098ecd9386d8798831eecabdc4f820640e1",
+      "sha256": "fb66f5ecf692eb286a4b863df78a2679d72189264cb6006c7a27f8c1265fc1f1",
+      "decoded_rgb_sha256": "a966808d6cbc1f0b3c8081444808fc772d484acf863a78515c384b6a5b8d4c44",
+      "dimensions": [
+        960,
+        720
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/supplemental/sea-fan-mesh.jxl",
+      "original_path": "events/water-quality-b/2027/assets/supplemental/sea-fan-mesh.jpg",
+      "original_sha256": "43d96826d562d18680412995b31bea1a9f38f1e4ed9eeecc2e5a6dfbba8660e7",
+      "sha256": "93ab9b3f3f3525d66acd449b9530428533ee3b76b61d6de907a52421eb0cf357",
+      "decoded_rgb_sha256": "1ef3e02c9828800da63c52a674fef8dec10b1b5f88e642f4855f0b4db46473dc",
+      "dimensions": [
+        1600,
+        1200
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/supplemental/brain-coral-detail.jxl",
+      "original_path": "events/water-quality-b/2027/assets/supplemental/brain-coral-detail.jpg",
+      "original_sha256": "81d11eec41834398891b400a2df51cd5d64bfcd7e502a81b6c0a076725b3df0b",
+      "sha256": "3137d0733416cf46016d5f3bcaf818473d2eaa6150282b09a56ce51811df2f4d",
+      "decoded_rgb_sha256": "83d994c289d7cecb82c9ba61cd498ecf8ac62e674bd7011765b25813e6f4a48c",
+      "dimensions": [
+        3072,
+        2304
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/supplemental/red-fleshy-algae.jxl",
+      "original_path": "events/water-quality-b/2027/assets/supplemental/red-fleshy-algae.jpg",
+      "original_sha256": "b3fa54934b35a7af4b07bc5d59255d7c0f17b1c24175cc43c9495ad3d6e71598",
+      "sha256": "002033b973a050efd3f62397d735132db26eb806ab9daecb331efb341e0fbcb0",
+      "decoded_rgb_sha256": "ca2fd16078f8bc21df4382cb177cf63bb23a0d6eb9fa7dcac3244e548b366eee",
+      "dimensions": [
+        5184,
+        3888
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/organisms/sweetlips.jxl",
+      "original_path": "events/water-quality-b/2027/assets/organisms/sweetlips.jpg",
+      "original_sha256": "38b5f488524832bca932e4014a01aaf21222ad2e7d272108323b2d3058df6c82",
+      "sha256": "44e2a47229b03201022252611e80b4c79e4a71d73f7e2db0f6326b33d7a632d4",
+      "decoded_rgb_sha256": "743d3cb7217a1d96b78ac997323f05a6653f3497b729be85aa6cc3b6b6434394",
+      "dimensions": [
+        2548,
+        1494
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/supplemental/pencil-urchin-variation.jxl",
+      "original_path": "events/water-quality-b/2027/assets/supplemental/pencil-urchin-variation.jpg",
+      "original_sha256": "7aca50304f93ad4282197a68378ac3d6970824ba21be59cccbda54480b12a1e8",
+      "sha256": "067eff02023d5cc6dbc1adc18766635b1f35a2fd58243e3336886aeeda4a8fc6",
+      "decoded_rgb_sha256": "7ec3192a2e145f2216b110b3961c7a6917a81105006504a843bc2af9dea70cf5",
+      "dimensions": [
+        2434,
+        1828
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/supplemental/triton-variation.jxl",
+      "original_path": "events/water-quality-b/2027/assets/supplemental/triton-variation.jpg",
+      "original_sha256": "2fd58464df68e3e30b1ac924c2813d77f02156f3527e57d13396c59efcda2c6c",
+      "sha256": "ef5554318606751f9288c262964c177bf33c8b3204b8a0add03a8d09c04603a0",
+      "decoded_rgb_sha256": "91be3b990a1d0190bb5caef38c2600d7533c35ceea26f6d9862cfb7c2091d3d0",
+      "dimensions": [
+        3971,
+        3309
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/organisms/moray.jxl",
+      "original_path": "events/water-quality-b/2027/assets/organisms/moray.jpg",
+      "original_sha256": "5d2eb136b6f0136a9358c08e71940ea9ccc9efa8cdefdbd6fa257a5cee74999a",
+      "sha256": "c3294ed9f600084265e94af3e971e328221ffcf7c33453cd801aead6da7f30e9",
+      "decoded_rgb_sha256": "77daca2e50f044424cff3c8e0bb5d074bb2881f1b70588814f333df6a5d57cf2",
+      "dimensions": [
+        2450,
+        1633
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/organisms/spiny-lobster.jxl",
+      "original_path": "events/water-quality-b/2027/assets/organisms/spiny-lobster.jpg",
+      "original_sha256": "9185ed19d57d19bdfc90df2e95a5b74a6ab31d51b42fd0ea900ed9bb5f4852ba",
+      "sha256": "5a2ae1d8fb10716768600378ac922b0e5e86bddc5633292c623e5aa0f8d82be3",
+      "decoded_rgb_sha256": "46cedd59158ddf4d7bf2dd00895491c4dca7fa162c554d53f0455126afca411b",
+      "dimensions": [
+        2657,
+        1765
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    },
+    {
+      "path": "events/water-quality-b/2027/assets/supplemental/spiny-lobster-variation.jxl",
+      "original_path": "events/water-quality-b/2027/assets/supplemental/spiny-lobster-variation.jpg",
+      "original_sha256": "7f653cfd1ea2ba12c365d97a17681b63e7a7967142a01716be7393de9ef02f7c",
+      "sha256": "f0dd62f0b36a00649d697e39006a66522d5bfab583c77fd79c0f6aab9d39ca6c",
+      "decoded_rgb_sha256": "015d2c1c9d1f01b2c9541a9a7224a4c6a0d16f6b71f6fee56b2d88782b14bb68",
+      "dimensions": [
+        6208,
+        4139
+      ],
+      "reversible_jpeg": true,
+      "effort": 7
+    }
+  ]
+}

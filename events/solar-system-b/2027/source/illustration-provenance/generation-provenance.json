@@ -1,0 +1,41 @@
+[
+  {
+    "asset": "rocky-worlds.webp",
+    "dimensions": [
+      1102,
+      1427
+    ],
+    "mode": "RGB",
+    "format": "WebP (lossless)",
+    "bytes": 1760806,
+    "sha256": "ca7f3b13a859c206c7bf363966529693145eb265f2ae5c66b553fd06fca4d10a",
+    "source_sha256": "569b706f63573e0ef09eb27d43e6bb854aaf84c981cef7167221fd2eb0ce69fc",
+    "original_generation_filename": "exec-972c145c-b598-44ee-962b-a5a71401a441.png"
+  },
+  {
+    "asset": "small-bodies.webp",
+    "dimensions": [
+      1103,
+      1426
+    ],
+    "mode": "RGB",
+    "format": "WebP (lossless)",
+    "bytes": 1627386,
+    "sha256": "95095bfcd320a0410678dbec2f40f5655039c6125281a73ca310134f671c5348",
+    "source_sha256": "98b3a328a7f9a64c5c4b7c9539ecee3b0f301097c51ac222eec16b7c2f8d6120",
+    "original_generation_filename": "exec-7781cb31-3dad-4c7d-a5d6-90dc460ef141.png"
+  },
+  {
+    "asset": "titan.webp",
+    "dimensions": [
+      1102,
+      1427
+    ],
+    "mode": "RGB",
+    "format": "WebP (lossless)",
+    "bytes": 1669840,
+    "sha256": "e9b9eadd69c77d4d900a4963381b819eee40f2bc7818a33a3a81ec2bb98a192b",
+    "source_sha256": "b43ce5862f0674e7cff3778abb2a03a2bc3799f554f68b619afd3bc42df7aaf7",
+    "original_generation_filename": "exec-5e3b94ee-a441-43f7-9480-62a7a2758918.png"
+  }
+]
